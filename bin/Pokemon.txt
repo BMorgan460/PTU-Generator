@@ -1,0 +1,84 @@
+
+public class Pokemon {
+	//base stats
+	protected int bHP;
+	protected int bAtk;
+	protected int bDef;
+	protected int bSpAtk;
+	protected int bSpDef;
+	protected int bSpd;
+	
+	protected int level;
+	
+	protected String nature;
+	
+	//adjusted stats
+	protected int HP;
+	protected int atk;
+	protected int def;
+	protected int spAtk;
+	protected int spDef;
+	protected int spd;
+	
+	//types
+	protected String type1;
+	protected String type2;
+	
+	//abilities
+	protected String abilities1;
+	protected String abilities2;
+	protected String abilities3;
+	protected String abilities4;
+	protected String abilities5;
+	
+	//evolutions
+	protected String previous;
+	protected String next;
+	protected String prevReq;
+	protected String nextReq;
+	
+	//size
+	protected String height;
+	protected int weight;
+	protected String size;
+	protected int WC;
+	
+	//egg groups
+	protected String egg1;
+	protected String egg2;
+	
+	//capabilities
+	protected int overland;
+	protected int swim;
+	protected int lJump;
+	protected int hJump;
+	protected int power;
+	protected boolean underdog;
+	protected String[] natureWalk;
+	protected String[] others;
+	
+	//skill ranks
+	protected int athl;
+	protected int acro;
+	protected int combat;
+	protected int stealth;
+	protected int percep;
+	protected int focus;
+	
+	//skill bonus
+	protected int athlBonus;
+	protected int acroBonus;
+	protected int combBonus;
+	protected int stealthBonus;
+	protected int percepBonus;
+	protected int focusBonus;
+	
+	//Move list
+	protected String[] moves;
+	protected String[] eggMoves;
+	protected String[] tutorMoves;
+	protected String[] TMs;
+	protected int[] movesLevels;
+	
+	
+}
