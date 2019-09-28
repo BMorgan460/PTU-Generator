@@ -1,6 +1,6 @@
 /**
  * This is the overall Pokemon class all Pokemon  inherit from
- * Author : Mageman460/GrandMage460
+ * @Author : Mageman460/GrandMage460
  */
 public class Pokemon {
 	//base stats
