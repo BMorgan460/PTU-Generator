@@ -104,7 +104,18 @@ public class Pokemon {
 	 * 
 	 */
 	private void setNature() {
-	    
+	    String[][] natures = {
+	        {"Composed","Cuddly","Distracted","Proud","Decisive","Patient"},
+	        {"Desperate","Hardy","Lonely","Adamant","Naughty","Brave"},
+	        {"Stark","Bold","Docile","Impish","Lax","Relaxed"},
+	        {"Curious","Modest","Mild","Bashful","Rash","Quiet"},
+	        {"Dreamy","Calm","Gentle","Careful","Quirky","Sassy"},
+	        {"Skittish","Timid","Hasty","Jolly","Naive","Serious"}
+	        };
+	    int up = (int)Math.random()*6+1;
+	    int down = (int)Math.random()*6+1;
+	    this.nature = natures[up-1][down-1];
+	    setNature(up,down);
 	}
 	
 	/**
@@ -215,8 +226,7 @@ public class Pokemon {
 	 * @param : down : stat to go down, based on integer
 	 * @param : nature : the name of the nature
 	 */
-	private void setNature(int up, int down, String nature) {
-	    this.nature = nature;
+	private void setNature(int up, int down) {
 	    if(up == down) {
 	        
 	    }else {
