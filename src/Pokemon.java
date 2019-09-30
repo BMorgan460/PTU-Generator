@@ -34,6 +34,8 @@ public class Pokemon {
 	protected String abilities4;
 	protected String abilities5;
 	
+	protected String[] abilities;
+	
 	protected boolean singleBasic;
 	
 	//evolutions
@@ -87,6 +89,9 @@ public class Pokemon {
 	protected String[] tutorMoves;
 	protected String[] TMs;
 	protected int[] movesLevels;
+	protected String[] naturalMoves;
+	
+	protected String[] moveList;
 	
 	//constructor
 	public Pokemon() {
@@ -95,35 +100,113 @@ public class Pokemon {
 	
 	//methods
 	/**
+	 * Decides what nature a Pokemon is
+	 * 
+	 */
+	private void setNature() {
+	    
+	}
+	
+	/**
+	 * Distributes level up points according to BSR
+	 * 
+	 */
+	private void levelUp() {
+	   int levelPoints = level + 10;
+	   for(int i = 0; i < levelPoints; i++) {
+	       
+	   }
+	}
+	
+	/**
 	 * Checks what stats are addable to
 	 * 
 	 * @return : returns an array of addable stats
 	 */
-	public String[] getBSRAddable() {
+	private String[] getBSRAddable() {
         String done = "";
-        int count = 0;
         if(bsr(1)) {
             done += "HP ";
-            count++;
         }if(bsr(2)) {
             done += "Atk ";
-            count++;
         }if(bsr(3)) {
             done += "Def ";
-            count++;
         }if(bsr(4)) {
             done += "SpAtk ";
-            count++;
         }if(bsr(5)) {
             done += "SpDef ";
-            count++;
         }if(bsr(6)) {
             done += "Spd ";
-            count++;
         }
-        String[] result = done.split(" ")
-        return done;
+        String[] result = done.split(" ");
+        return result;
     }
+	
+	/**
+	 * Compares an array of integers to see if there are
+	 * two values that are equal
+	 * 
+	 * @param : ia : the array being compared
+	 * @return : true or false, false if every value is unique
+	 */
+	private boolean compareIA(int[] ia) {
+	    boolean flag = false;
+	    for(int i = 0; i < 5;i++) {
+            for(int j = i + 1; j < 6; j++) {
+                if(ia[i] == ia[j]) {
+                    flag = true;
+                }
+            }
+        }
+	    return flag;
+	}
+	/**
+	 * Generates a move list of length 6
+	 * 
+	 * @return : moveList : returns the moves list of the pokemon
+	 */
+	private String[] generateMoveList() {
+	    String levelMoves = "";
+	    for(int i = 0; i < moves.length; i++) {
+	        if(movesLevels[i] <= level) {
+	            levelMoves += moves[i].replace(' ', '_') + " ";
+	        }
+	    }
+	    
+	    int index1 = naturalMoves.length;
+	    String[] levelMovesA = levelMoves.split(" ");
+	    String[] availableMoves = new String[index1 + levelMovesA.length];
+	    for(int i = 0; i < naturalMoves.length;i++) {
+	        availableMoves[i] = naturalMoves[i];
+	    }
+	    for(int i = 0; i < moves.length;i++) {
+            availableMoves[i + index1] = moves[i];
+        }
+	    
+	    String[] moveList = new String[6];
+	    if(availableMoves.length > 6) {
+    	    int[] rng = new int[6];
+    	    for(int i = 0; i < 6; i++) {
+                rng[i] = (int)(Math.random()*availableMoves.length-1);
+            }
+    	    while(compareIA(rng)) {
+    	        for(int i = 0; i < 5;i++) {
+    	            for(int j = i + 1; j < 6; j++) {
+    	                if(rng[i] == rng[j]) {
+    	                    rng[j] = (int)(Math.random()*availableMoves.length-1);
+    	                }
+    	            }
+    	        }
+    	    }
+    	    for(int i = 0; i < 6; i++) {
+    	        moveList[i] = availableMoves[rng[i]];
+    	    }
+	    }else {
+	        moveList = availableMoves;
+	    }
+	    
+	    return moveList;
+	}
 	
 	/**
 	 * Sets the nature of the Pokemon, and changes the Base Stats accordingly
@@ -132,7 +215,7 @@ public class Pokemon {
 	 * @param : down : stat to go down, based on integer
 	 * @param : nature : the name of the nature
 	 */
-	public void setNature(int up, int down, String nature) {
+	private void setNature(int up, int down, String nature) {
 	    this.nature = nature;
 	    if(up == down) {
 	        
