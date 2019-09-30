@@ -50,7 +50,10 @@ public class Pokemon {
 	protected String size;
 	protected int WC;
 	
+	
 	//egg groups
+	protected int maleRatio;
+	protected int femaleRatio;
 	protected String egg1;
 	protected String egg2;
 	
@@ -95,7 +98,7 @@ public class Pokemon {
 	
 	//constructor
 	public Pokemon() {
-	    
+	    setNature();
 	}
 	
 	//methods
