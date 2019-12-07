@@ -8,11 +8,14 @@ public class Pikachu extends Pokemon{
 		bSpd = 9;
 		type1 = "Electric";
 		type2 = "";
-		abilities = new String[]{"Static", "Cute Charm", "Lightning Rod", "Sprint", "Sequence"};
-		abilityTypeCount = new int[] {2,2,1};
-		previous = new Pichu();
+		abilities1 = "Static";
+		abilities2 = "Cute Charm";
+		abilities3 = "Lightning Rod";
+		abilities4 = "Sprint";
+		abilities5 = "Sequence";
+		previous = Pichu;
 		prevReq = 10;
-		next = new Raichu();
+		next = Raichu;
 		nextReq = 20;
 		height = "1\'/4\"";
 		size = "Small";
@@ -22,7 +25,7 @@ public class Pikachu extends Pokemon{
 		femaleRatio = 50;
 		egg1 = "Field";
 		egg2 = "Fairy";
-		habitats = new String[]{"Forest", "Grassland", "Urban"};
+		habitats = {"Forest", "Grassland", "Urban"};
 		overland = 7;
 		swim = 2;
 		levitate = 0;
@@ -31,9 +34,9 @@ public class Pikachu extends Pokemon{
 		lJump = 2;
 		hJump = 2;
 		power = 2;
-		natureWalk = new String[]{"Forest", "Urban"};
-		underdog = true;
-		other = new String[]{"Zapper"};
+		natureWalk = {"Forest", "Urban"};
+		underdog = "true";
+		other = {"Zapper"};
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -46,12 +49,7 @@ public class Pikachu extends Pokemon{
 		stealthBonus = 1;
 		percepBouns = 1;
 		focusBonus = 2;
-		movesLevels = new int[]{5, 7, 10, 13, 18, 21, 23, 26, 29, 34, 37, 42, 45, 50, 53, 58};
-		moves = new String[]{"Growl", "Play Nice", "Quick Attack", "Electro Ball", "Thunder Wave", "Feint", "Double Team", "Spark", "Nuzzle", "Discharge", "Slam", "Thunderbolt", "Agility", "Wild Charge", "Light Screen", "Thunder"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Fling", "Charge Beam", "Volt Switch", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Covet", "Defense Curl", "Dynamic Punch", "Electroweb", "Focus Punch", "Helping Hand", "Hold Hands", "Iron Tail", "Knock Off", "Laser Focus", "Magnet Rise", "Mega Kick", "Mega Punch", "Rollout", "Seismic Toss", "Shock Wave", "Signal Beam", "Snore", "Swift", "Thunder Punch", "Uproar", "Volt Tackle", "Tackle"};
-		Pikachu(){
-
+	Pikachu(){
 		super();
-		}
+	}
 }

@@ -1,0 +1,1 @@
+Move: Swords Dance Type: Normal Frequency: EOT AC: None Class: Status Range: Self Effect: The user’s Attack is raised 2 Combat Stages. Contest Type: Beauty Contest Effect: Get Ready!
