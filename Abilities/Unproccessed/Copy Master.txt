@@ -1,0 +1,1 @@
+Ability: Copy Master Static Effect: Connection - Copycat. Whenever the user uses Copycat or Mimic, it gains +1 Combat Stage in a Stat of its choice after the Move is resolved. 

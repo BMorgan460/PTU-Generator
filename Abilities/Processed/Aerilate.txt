@@ -1,0 +1,1 @@
+"Name":"Aerilate","Freq":"At-Will – Free Action","Info":"The user uses a Normal-Type damaging MoveThe Move is changed to be Flying-Type."

@@ -1,0 +1,1 @@
+Ability: Friend Guard Scene – Free Action Trigger: An adjacent Ally takes Damage Effect: The damage is resisted one step further. Defensive. 

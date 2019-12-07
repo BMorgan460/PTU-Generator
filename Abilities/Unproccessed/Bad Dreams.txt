@@ -1,0 +1,1 @@
+Ability: Bad Dreams Static Effect: At the beginning of the user’s turn, all Sleeping Pokémon or Trainers in a Burst 5 lose a Tick of Hit Points. 

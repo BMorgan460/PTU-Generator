@@ -1,0 +1,1 @@
+Ability: Fur Coat Static Effect: The user resists all Physical Attacks one step further. Defensive. 

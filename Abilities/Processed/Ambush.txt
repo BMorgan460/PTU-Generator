@@ -1,0 +1,1 @@
+"Name":"Ambush","Freq":"Scene – Free Action","Info":"The user may use a Melee Move with a Damage Base of 6 (before applying STAB or other modifiers) or lower as if it had the Priority keyword. If it hits, the target is Flinched."

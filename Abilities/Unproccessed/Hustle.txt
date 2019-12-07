@@ -1,0 +1,1 @@
+Ability: Hustle Static Effect: The user receives a -2 penalty to all Accuracy Rolls with Physical Attacks, and gains a +10 Bonus to all Physical Damage Rolls.

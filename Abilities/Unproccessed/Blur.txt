@@ -1,0 +1,1 @@
+Ability: Blur Static Effect: Attacks and Moves targeting you that don’t require an Accuracy Check now require one, as though they had an Accuracy Check of 2. You may only apply half of your Evasion to these Attacks and Moves. Defensive. 

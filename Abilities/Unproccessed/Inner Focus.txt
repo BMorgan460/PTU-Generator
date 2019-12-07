@@ -1,0 +1,1 @@
+Ability: Inner Focus Static Effect: The user cannot be Flinched. If an effect would set the user’s Initiative to 0, their Initiative is not affected. Defensive. 

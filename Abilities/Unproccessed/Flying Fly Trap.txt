@@ -1,0 +1,1 @@
+Ability: Flying Fly Trap Static Effect: The Pokémon takes no damage from Ground Type Moves and Bug Type Moves. Defensive. 

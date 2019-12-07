@@ -1,0 +1,1 @@
+Ability: Gentle Vibe Scene – Standard Action Range: Burst 2 Effect: All targets in the burst, including the user, have their Combat Stages reset, and are cured of any Volatile Status ailments. 

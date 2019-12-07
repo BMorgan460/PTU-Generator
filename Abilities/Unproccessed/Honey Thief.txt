@@ -1,0 +1,1 @@
+Ability: Honey Thief Static Effect: Connection - Bug Bite. If the user uses Bug Bite to steal the effects of a Digestion Buff, they gain a Tick of Temporary Hit Points. 

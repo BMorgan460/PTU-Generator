@@ -1,0 +1,1 @@
+Ability: Flame Tongue Scene – Free Action Trigger: The user hits a foe with Lick. Effect: Connection – Lick. The foe hit with Lick gains an Injury and becomes Burned. 

@@ -1,0 +1,1 @@
+Ability: Analytic Static Effect: Whenever the user targets uses a damaging Move on a Pokémon or Trainer that has acted before it during Initiative this Round, that Move deals an additional +5 Damage.

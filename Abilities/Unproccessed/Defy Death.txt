@@ -1,0 +1,1 @@
+Ability: Defy Death Daily – Swift Action Effect: By activating this Ability, the user is instantly healed of up to 2 Injuries; these counts towards the total number of Injuries that can be healed each day. Additionally, to die, the user must reach -250% Hit Points instead of -200% Hit Points. 

@@ -1,0 +1,1 @@
+Ability: Cave Crasher Static Effect: The user resists Ground-Type and Rock-Type attacks one step further. Defensive. 

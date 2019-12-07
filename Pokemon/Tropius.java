@@ -18,8 +18,8 @@ public class Tropius extends Pokemon{
         abilities5 = "Windveiled";
         height = "6\'/7\"";
         size = "Large";
-        weight = "220.5";
-        WC = "5";
+        weight = 220.5;
+        WC = 5;
         maleRatio = 50;
         femaleRatio = 50;
         egg1 = "Monster";

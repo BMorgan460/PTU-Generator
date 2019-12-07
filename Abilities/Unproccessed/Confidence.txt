@@ -1,0 +1,1 @@
+Ability: Confidence Scene – Standard Action Effect: Choose a Combat Stat. All allies within 5 meters of the user gain +1 CS in the Chosen Stat. 

@@ -1,0 +1,1 @@
+Ability: Deep Sleep Static Effect: When asleep, this Pokémon restores a Tick of Hit Points at the end of each turn.

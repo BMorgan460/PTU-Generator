@@ -1,0 +1,1 @@
+Ability: Enduring Rage Static Effect: The user may not make rolls to cure themselves from the Enraged condition. However, while Enraged, the user gains 5 Damage Reduction.

@@ -1,0 +1,1 @@
+Ability: Frighten Scene – Swift Action Target: A Pokémon or Trainer within 5 meters Effect: Lower the target’s Speed 2 Combat Stages. 

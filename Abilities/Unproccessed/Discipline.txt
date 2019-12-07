@@ -1,0 +1,1 @@
+Ability: Discipline Scene – Free Action Effect: If the user gains initiative and is Confused, Enraged, Infatuated, or Flinched, they may activate Discipline to cure themselves of any of these conditions. 

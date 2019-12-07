@@ -1,0 +1,1 @@
+Ability: Dire Spore Static Effect: Connection - Spore. Whenever the user hits a target with Spore, that target is also Poisoned. 

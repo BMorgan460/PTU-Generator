@@ -1,0 +1,1 @@
+"Name":"Anger Point","Freq":"At-Will – Free Action","Info":"When the Pokémon receives a Critical Hit, they become Enraged and gain +6 Attack Combat Stages."

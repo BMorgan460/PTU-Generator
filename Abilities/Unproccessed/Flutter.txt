@@ -1,0 +1,1 @@
+Ability: Flutter At-Will – Shift Action Effect: The user gains +3 Evasion until the end of their next turn, and cannot be Flanked. 

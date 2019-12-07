@@ -1,0 +1,1 @@
+Ability: Heatproof Static Effect: The user resists Fire Type moves one step further (Super-Effective Becomes Neutral, Doubly-Super Effective becomes Super-Effective, Neutral becomes Resistant, Resistant becomes doubly Resistant). 

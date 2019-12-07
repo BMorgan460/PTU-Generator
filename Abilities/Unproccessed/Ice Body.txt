@@ -1,0 +1,1 @@
+Ability: Ice Body Static Effect: While Hailing, the user gains a Tick of Hit Points at the beginning of each of their turns. The user is not damaged by Hail. 

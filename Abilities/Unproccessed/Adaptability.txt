@@ -1,0 +1,1 @@
+Ability: Adaptability Static Effect: Increase the Damage of all Moves with which the user shares an Elemental Type by +1 Damage Base. 

@@ -1,0 +1,1 @@
+Ability: Justified At-Will - Free Action Trigger: The user is hit by a damaging Dark Type Move Effect: The user may raise its Attack 1 Combat Stage. The user always gains a +4 bonus to Skill Checks made to Intercept. 

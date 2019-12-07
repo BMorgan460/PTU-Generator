@@ -1,0 +1,1 @@
+Ability: Enfeebling Lips Static Effect: Connection - Lovely Kiss. Whenever the user uses the Move Lovely Kiss, they may choose a Stat. If the Move successfully hits, the Pokémon or Trainer being targeted loses 2 Combat Stages in that Stat. 

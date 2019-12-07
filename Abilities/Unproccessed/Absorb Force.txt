@@ -1,0 +1,1 @@
+Ability: Absorb Force Scene – Free Action Trigger: The user is damaged by a Physical Attack Effect: The user takes damage as if the attack was resisted one step further. 

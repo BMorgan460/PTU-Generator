@@ -1,0 +1,1 @@
+Ability: Blow Away Static Effect: Connection - Whirlwind. When the user uses Whirlwind, all targets hit lose a Tick of Hit Points. 

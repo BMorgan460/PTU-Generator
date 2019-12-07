@@ -1,0 +1,1 @@
+Ability: Gooey At-Will – Free Action Trigger: The user is hit by a Melee Attack Effect: The triggering attacker has their Speed lowered by 1 Combat Stage. 

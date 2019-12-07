@@ -1,0 +1,1 @@
+Ability: Dodge Daily – Free Action Trigger: The user is hit by a Damaging Move Effect: The triggering Move instead misses. Defensive. 

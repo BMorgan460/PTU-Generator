@@ -1,0 +1,1 @@
+Ability: Instinct Static Effect: The user’s default Evasion is increased by +2. Defensive. 

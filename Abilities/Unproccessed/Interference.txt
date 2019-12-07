@@ -1,0 +1,1 @@
+Ability: Interference At-Will - Standard Action Effect: The accuracy of all foes within 3 meters is reduced by -2 until the end of the user’s next turn. 

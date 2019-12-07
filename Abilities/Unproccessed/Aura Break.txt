@@ -1,0 +1,1 @@
+Ability: Aura Break Static Effect: Foes may not benefit from Abilities that increase the Combat Stages or the damage dealt by themselves or their allies.

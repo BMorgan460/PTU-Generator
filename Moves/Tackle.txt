@@ -1,0 +1,1 @@
+"Name":"Tackle","Type":"Normal","DType":"Physical","DB":5,"Freq":"At-Will","AC":2,"Range":"Melee","Effects":"The target is Pushed 2 meters."

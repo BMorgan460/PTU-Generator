@@ -1,0 +1,1 @@
+Ability: Forewarn Scene – Free Action Target: A Pokémon or Trainer Effect: The Move with the highest Damage Dice Roll known by the targeted foe is revealed. If there is a tie, all tied Moves are revealed. The Moves revealed gain a -2 Penalty during Accuracy Checks when used by the target for the rest of the encounter. 

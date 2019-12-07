@@ -1,0 +1,1 @@
+"Name":"Adaptability","Freq":"Static","Info":"Increase the Damage of all Moves with which the user shares an Elemental Type by +1 Damage Base."

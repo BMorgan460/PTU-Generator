@@ -1,0 +1,1 @@
+Ability: Kampfgeist Static Effect: The user gains STAB on Fighting-Type Moves. 

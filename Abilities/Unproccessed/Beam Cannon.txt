@@ -1,0 +1,1 @@
+Ability: Beam Cannon Static Effect: The Effect Range and Critical Hit Range of the user’s Ranged, 1-Target Moves are increased by 3. 

@@ -1,0 +1,1 @@
+Ability: Leaf Guard Static Effect: At the end of the user’s turn, if the weather is Sunny, the user is cured of one Status Condition. 

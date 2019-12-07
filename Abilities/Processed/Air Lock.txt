@@ -1,0 +1,1 @@
+"Name":"Air Lock","Freq":"Scene – Free Action","Info":"The weather is set to normal as long as the Pokémon with Air Lock wants it to remain that way. The user may continue to sustain this effect as a Swift Action each round."

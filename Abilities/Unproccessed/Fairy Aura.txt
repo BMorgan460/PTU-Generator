@@ -1,0 +1,1 @@
+Ability: Fairy Aura Static Effect: The user and all allies have the Damage Base of their damaging Fairy Type Attacks increased by +1. 

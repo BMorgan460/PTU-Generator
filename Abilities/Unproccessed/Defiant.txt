@@ -1,0 +1,1 @@
+Ability: Defiant Static Effect: Whenever the user has its Combat Stages lowered, by something other than its own Moves or Abilities, the user’s Attack is raised 2 Combat Stages. 

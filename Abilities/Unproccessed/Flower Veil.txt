@@ -1,0 +1,1 @@
+Ability: Flower Veil Static Effect: Allied Grass-Type Pokémon within 10 meters cannot have Combat Stages lowered. Defensive. 

@@ -1,0 +1,1 @@
+Ability: Deadly Poison Daily – Free Action Trigger: The user Poisons a target Effect: The target is Badly Poisoned instead. 

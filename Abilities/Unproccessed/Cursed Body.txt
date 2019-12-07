@@ -1,0 +1,1 @@
+Ability: Cursed Body Scene – Free Action Trigger: The user is hit by a Damaging Move. Effect: The Move becomes Disabled. 

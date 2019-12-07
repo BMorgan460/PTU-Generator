@@ -1,0 +1,1 @@
+Ability: Gardener Daily x3 – Extended Action Target: A yielding plant Effect: Increase the soil quality of the plant by +1, as if Mulch had been applied. This may target a specific Plant only once per day. 

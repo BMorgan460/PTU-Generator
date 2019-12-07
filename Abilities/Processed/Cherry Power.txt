@@ -1,0 +1,1 @@
+"Name":"Cherry Power","Freq":"Daily – Swift Action","Info":"The user gains 15 Temporary Hit Points, and is cured of all Persistent Status Afflictions"

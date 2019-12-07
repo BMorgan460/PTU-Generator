@@ -1,0 +1,1 @@
+"Name":"Aura Break","Freq":"Static","Info":"Foes may not benefit from Abilities that increase the Combat Stages or the damage dealt by themselves or their allies."

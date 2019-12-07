@@ -1,0 +1,1 @@
+Ability: Clear Body Static Effect: The user’s Combat Stages may not be lowered by the effect of foes’ Feautres, Abilities, or Moves. Status Affictions may still alter their Combat Stages. Defensive. 

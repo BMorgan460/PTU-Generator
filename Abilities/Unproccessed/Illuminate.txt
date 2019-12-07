@@ -1,0 +1,1 @@
+Ability: Illuminate Static Effect: Attacks that target the user have a -2 Accuracy Penalty against the user. Does not affect attackers with the Blindsense Capability. Defensive.

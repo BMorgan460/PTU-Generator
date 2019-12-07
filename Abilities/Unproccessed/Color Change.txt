@@ -1,0 +1,1 @@
+Ability: Color Change At-Will – Free Action Trigger: The user is hit by a Move Effect: The user’s Type changes to match the Type of the triggering Move.

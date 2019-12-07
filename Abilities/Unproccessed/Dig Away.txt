@@ -1,0 +1,1 @@
+Ability: Dig Away Daily – Free Action Effect: Connection - Dig. When hit by a Move, this Pokémon may activate this Feature to use Dig, frequency allowing, as an interrupt to avoid the attack and shift underground immediately. This consumes a command as normal. The terrain must allow for Dig to be used. 
