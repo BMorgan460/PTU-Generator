@@ -1,0 +1,1 @@
+"Name":"Sheer Force","Freq":"Static","Info":"Moves with an Effect Range gain a +10 Bonus to Damage, but Effect Ranges can never be triggered."

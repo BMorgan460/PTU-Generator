@@ -1,0 +1,1 @@
+Ability: Swift Swim Static Effect: While in Rainy Weather or under 50% Max Hit Points, the user’s Initiative is doubled. 

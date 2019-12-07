@@ -1,1 +1,1 @@
-Ability: Aura Break Static Effect: Foes may not benefit from Abilities that increase the Combat Stages or the damage dealt by themselves or their allies.
+Ability: Aura Break Scene - Swift Action Target: A foe within 6 meters Effect: The foe reveals its abilities. Pick one ability; any Damage Bonuses (either Damage Base increases or Damage Roll bonuses) granted by the ability instead become Damage Penalties of the same value. 

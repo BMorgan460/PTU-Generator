@@ -1,0 +1,1 @@
+"Name":"Receiver","Freq":"Scene – Free Action","Info":"An Allied Pokemon has fainted.Select one of the abilities the allied Pokemon has. The user replaces Reciever with the chosen ability for the remainder of the Scene."

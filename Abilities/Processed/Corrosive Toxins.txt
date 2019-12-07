@@ -1,0 +1,1 @@
+"Name":"Corrosive Toxins","Freq":"Scene – Free Action","Info":"Connection - Toxic. The user may activate this Ability when using Toxic to allow the Move to ignore Immunity to the Status Affliction, Blessings, and the effects of Abilities that may prevent Hit Point loss from being Badly Poisoned (such as Magic Guard or Poison Heal)."

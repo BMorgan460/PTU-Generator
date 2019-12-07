@@ -1,0 +1,1 @@
+"Name":"Deep Sleep","Freq":"Static","Info":"When asleep, this Pokémon restores a Tick of Hit Points at the end of each turn."

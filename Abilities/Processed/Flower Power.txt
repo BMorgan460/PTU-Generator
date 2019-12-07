@@ -1,0 +1,1 @@
+"Name":"Flower Power","Freq":"Static","Info":"The user may perform damaging Grass Type Moves as if they were their choice of either Physical or Special."

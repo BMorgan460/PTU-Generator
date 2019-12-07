@@ -1,0 +1,1 @@
+"Name":"Probability Control","Freq":"Scene – Free Action","Info":"Any roll made by yourself or an ally.The user may reroll any roll, or have any ally reroll any roll that has been made. This leaves discoverable Psychic residue."

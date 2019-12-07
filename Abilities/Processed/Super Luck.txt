@@ -1,0 +1,1 @@
+"Name":"Super Luck","Freq":"Static","Info":"The Pokémon’s Moves are Critical Hits on 18-20. If a Move already has an extended Critical Hit range, Super Luck extends that range by 2."

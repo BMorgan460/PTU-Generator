@@ -1,0 +1,1 @@
+"Name":"Tolerance","Freq":"Static","Info":"Any Types resisted by the user are resisted one step further. Defensive."

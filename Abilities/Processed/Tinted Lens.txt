@@ -1,0 +1,1 @@
+"Name":"Tinted Lens","Freq":"Static","Info":"The user’s Resisted Moves are instead Neutral. The user’s Doubly Resisted Moves are instead Resisted. The user’s Triply Resisted Moves are instead Double Resisted."

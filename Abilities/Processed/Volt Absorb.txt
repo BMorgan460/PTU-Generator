@@ -1,0 +1,1 @@
+"Name":"Volt Absorb","Freq":"Static","Info":"The user is immune to the damage and effects of Electric-Type attacks, and whenever they are hit with an Electric Type attack, they gain Hit Points equal to a Tick of Hit Points. Defensive."

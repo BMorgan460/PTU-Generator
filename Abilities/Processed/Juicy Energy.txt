@@ -1,0 +1,1 @@
+"Name":"Juicy Energy","Freq":"Daily – Free Action","Info":"The user trades in a Berry Juice Food BuffInstead of gaining 30 Hit Points, the user gains Hit Points equal to their Level"

@@ -1,0 +1,1 @@
+"Name":"Dreamspinner","Freq":"Scene x3 – Swift Action","Info":"All Sleeping Foes within 3 meters lose a Tick of Hit Points, and the user gains a Tick of Temporary Hit Points."

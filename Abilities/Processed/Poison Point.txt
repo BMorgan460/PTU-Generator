@@ -1,0 +1,1 @@
+"Name":"Poison Point","Freq":"Scene – Free Action","Info":"The user is hit by a Melee MoveThe attacking foe is Poisoned."

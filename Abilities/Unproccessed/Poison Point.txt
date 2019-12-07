@@ -1,0 +1,1 @@
+Ability: Poison Point Scene – Free Action Trigger: The user is hit by a Melee Move Effect: The attacking foe is Poisoned. 

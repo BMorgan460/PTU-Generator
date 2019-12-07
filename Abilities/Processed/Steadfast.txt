@@ -1,0 +1,1 @@
+"Name":"Steadfast","Freq":"At-Will – Free Action","Info":"The user would be FlinchedThe user’s Speed is raised by +1 Combat Stage. Bonus: The user’s Initiative is increased by +5."

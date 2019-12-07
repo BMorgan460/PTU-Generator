@@ -1,0 +1,1 @@
+"Name":"Dark Aura","Freq":"Static","Info":"The user and all allies have the Damage Base of their damaging Dark Type Attacks increased by +1."

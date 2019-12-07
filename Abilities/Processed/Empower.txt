@@ -1,0 +1,1 @@
+"Name":"Empower","Freq":"Scene - Swift Action","Info":"The user may use a self-targeting Status-Class Move as a Free Action."

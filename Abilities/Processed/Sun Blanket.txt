@@ -1,0 +1,1 @@
+"Name":"Sun Blanket","Freq":"Daily x5 - Swift Action","Info":"The user gains Initiative.The user gains a Tick of Hit Points. Sun Blanket may only be triggered while the user is under 50% Hit Points or in Sunny Weather."

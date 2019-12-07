@@ -1,0 +1,1 @@
+"Name":"Solid Rock","Freq":"Static","Info":"The user gains +5 Damage Reduction against SuperEffective damage. Defensive."

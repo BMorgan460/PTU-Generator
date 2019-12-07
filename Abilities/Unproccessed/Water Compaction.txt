@@ -1,0 +1,1 @@
+Ability: Water Compaction Frequency: Static Trigger: The user is hit by a Water-type attack. Effect: Raises Defense by 2 Combat Stages.

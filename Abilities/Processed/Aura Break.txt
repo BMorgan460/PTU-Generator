@@ -1,1 +1,1 @@
-"Name":"Aura Break","Freq":"Static","Info":"Foes may not benefit from Abilities that increase the Combat Stages or the damage dealt by themselves or their allies."
+"Name":"Aura Break","Freq":"Scene - Swift Action","Info":"A foe within 6 metersThe foe reveals its abilities. Pick one ability; any Damage Bonuses (either Damage Base increases or Damage Roll bonuses) granted by the ability instead become Damage Penalties of the same value."

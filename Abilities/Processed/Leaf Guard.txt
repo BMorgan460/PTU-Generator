@@ -1,0 +1,1 @@
+"Name":"Leaf Guard","Freq":"Scene - Swift Action","Info":"The user is cured of one Status Affliction. Leaf Guard’s Frequency is ignored if used during Sunny Weather."

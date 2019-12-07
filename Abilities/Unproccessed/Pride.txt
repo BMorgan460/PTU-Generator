@@ -1,0 +1,1 @@
+Ability: Pride Static Effect: While suffering from Burn, Poison, Paralysis, Freezing, or while Asleep, the user’s Special Attack is raised 2 Combat Stages. If suffering from none of these conditions, the user loses any Combat Stages gained this way. 

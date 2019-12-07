@@ -1,0 +1,1 @@
+Ability: Slush Rush Frequency: Static Effect: While in Hailing Weather or under 50% max Hit Points, the users Initiative is doubled. Bonus: The user is immune to Hit Point loss from Hail.

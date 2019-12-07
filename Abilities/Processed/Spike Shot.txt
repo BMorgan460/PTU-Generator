@@ -1,0 +1,1 @@
+"Name":"Spike Shot","Freq":"Static","Info":"The user may use Moves with a Range of “Melee, 1-Target” as if they had a Range of “8, 1-Target” instead."

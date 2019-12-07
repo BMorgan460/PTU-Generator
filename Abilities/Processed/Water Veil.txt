@@ -1,0 +1,1 @@
+"Name":"Water Veil","Freq":"Static Keywords: Immune","Info":"The user is immune to Burns. Defensive."

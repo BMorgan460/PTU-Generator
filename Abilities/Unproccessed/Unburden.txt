@@ -1,0 +1,1 @@
+Ability: Unburden Static Effect: The default state of the user’s Speed is +2 Combat Stages. While holding a Held Item, the user’s Speed is lowered by 2 Combat Stages. 

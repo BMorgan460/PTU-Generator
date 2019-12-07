@@ -1,0 +1,1 @@
+Ability: Vital Spirit Static Effect: The user is immune to the Sleep condition, and cannot use the move Rest. Defensive. 

@@ -1,1 +1,1 @@
-Ability: Drown Out Scene – Free Action Trigger: A foe uses a Move with the Sonic keyword Effect: The user makes a Focus Check with a DC equal to the Move’s Accuracy Roll. If the user succeeds, the triggering Move fails.
+Ability: Drown Out Scene x2 � Free Action Trigger: A foe uses a Move with the Sonic keyword Effect: The triggering Move fails and has no effect. 

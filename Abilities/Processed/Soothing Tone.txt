@@ -1,0 +1,1 @@
+"Name":"Soothing Tone","Freq":"Static","Info":"Connection - Heal Bell. Whenever the user uses a Move that targets allies, those allies gain temporary Hit Points equal to the user’s Special Attack. This may affect a specific ally only once per Scene."

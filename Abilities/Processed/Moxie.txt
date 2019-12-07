@@ -1,0 +1,1 @@
+"Name":"Moxie","Freq":"Static","Info":"Whenever the user’s Move causes a target to faint, it may raise its Attack Combat Stage by +1. You may only trigger Moxie once per Move, even if the Move causes multiple targets to faint."

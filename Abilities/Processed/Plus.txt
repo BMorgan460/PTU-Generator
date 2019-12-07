@@ -1,0 +1,1 @@
+"Name":"Plus","Freq":"Scene – Free Action","Info":"An ally with Minus within 10 MetersThe target’s Special Attack is raised by +2 Combat Stages."

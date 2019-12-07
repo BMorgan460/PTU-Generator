@@ -1,1 +1,1 @@
-Ability: Leaf Guard Static Effect: At the end of the userâ€™s turn, if the weather is Sunny, the user is cured of one Status Condition. 
+Ability: Leaf Guard Scene - Swift Action Effect: The user is cured of one Status Affliction. Leaf Guard’s Frequency is ignored if used during Sunny Weather.

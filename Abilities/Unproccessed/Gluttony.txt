@@ -1,1 +1,1 @@
-Ability: Gluttony Static Effect: The user may eat up to three Food Items per encounter, and up to two refreshments per half hour. 
+Ability: Gluttony Static Effect: The user may have up to three Food Buffs at once, use up to three Food Buffs per Scene, and may eat two refreshments per half hour. 

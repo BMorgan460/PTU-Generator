@@ -1,0 +1,1 @@
+"Name":"Imposter","Freq":"Static","Info":"If the user is not Transformed, they may use Transform as a Free-Action Interrupt."

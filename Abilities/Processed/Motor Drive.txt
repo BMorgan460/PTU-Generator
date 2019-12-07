@@ -1,0 +1,1 @@
+"Name":"Motor Drive","Freq":"Static","Info":"The user is immune to the damage and effects of Electric Type attacks. Whenever an Electric Type attack hits the Pokémon, raise their Speed by +1 Combat Stage. Defensive."

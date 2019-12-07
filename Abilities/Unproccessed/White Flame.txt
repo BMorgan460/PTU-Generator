@@ -1,0 +1,1 @@
+Ability: White Flame Static Effect: The user may not make rolls to cure themselves from the Enraged condition. However, while Enraged, the user gains a +5 Bonus to all Damage Rolls. 

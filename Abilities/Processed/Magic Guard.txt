@@ -1,0 +1,1 @@
+"Name":"Magic Guard","Freq":"Static","Info":"The user is immune to damage and Hit Point loss from Hazards, Weather, Status Afflictions, Vortexes, Recoil, Hay Fever, Iron Barbs, Rough Skin, and Leech Seed. Defensive."

@@ -1,1 +1,1 @@
-Ability: Brimstone Static Effect: Whenever the user causes a Burn with a damaging Fire-Type Attack, the target is also Poisoned. 
+Ability: Brimstone Static Effect: Whenever the user inflicts Burn or Poison with a damaging Fire-Type or Poison-Type Attack, the target becomes both Burned and Poisoned. 

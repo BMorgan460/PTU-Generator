@@ -1,0 +1,1 @@
+"Name":"Pumpkingrab","Freq":"Scene - Standard Action","Info":"The user automatically Grapples an adjacent foe and gains dominance."

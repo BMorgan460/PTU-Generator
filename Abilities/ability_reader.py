@@ -21,9 +21,11 @@ for subdir, dirs, files in os.walk("./"):  # Checks for each file in a folder th
                             for word in words:
                                 if word == "Ability:":
                                     curr_val = "A"
-                                elif word == "Static" or word == "At-Will" or word == "Scene" or word == "Daily" or "Special" and curr_val != "E":
+                                elif word == "Static" or word == "At-Will" or word == "Scene" or word == "Daily" or word == "Special" and curr_val != "E":
                                     curr_val = "F"
                                     freq.append(word)
+                                elif word == "Frequency:":
+                                    curr_val = "F"
                                 elif word == "Target:":
                                     curr_val = "Ta"
                                 elif word == "Trigger:":

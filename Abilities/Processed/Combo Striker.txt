@@ -1,0 +1,1 @@
+"Name":"Combo Striker","Freq":"At-Will - Free Action","Info":"The user rolls a natural 1, 10, or 11 on an attack roll with a damaging moveAfter the triggering attack is resolved, the user may use a Struggle Attack as a Free Action. Note: Yes, Struggle Attacks made due to Combo Striker may trigger Combo Striker."

@@ -1,0 +1,1 @@
+Ability: Omen Scene – Swift Action Effect: Choose a Pokémon or Trainer within 5 meters. The target’s Accuracy is lowered by 2. 

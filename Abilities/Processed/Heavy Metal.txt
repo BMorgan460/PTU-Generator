@@ -1,0 +1,1 @@
+"Name":"Heavy Metal","Freq":"Static","Info":"The user’s Weight Class is increased by +2. Their Defense Base Stat is increased by +2, but their Speed Base Stat is decreased by 2."

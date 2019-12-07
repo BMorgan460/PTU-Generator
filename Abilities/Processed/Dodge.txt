@@ -1,0 +1,1 @@
+"Name":"Dodge","Freq":"Daily – Free Action","Info":"The user is hit by a Damaging MoveThe triggering Move instead misses. Defensive."

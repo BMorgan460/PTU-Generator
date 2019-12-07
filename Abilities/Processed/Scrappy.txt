@@ -1,0 +1,1 @@
+"Name":"Scrappy","Freq":"Static","Info":"Ghost Types are not immune to the user’s Normal and Fighting-Type Moves."

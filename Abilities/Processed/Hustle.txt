@@ -1,0 +1,1 @@
+"Name":"Hustle","Freq":"Static","Info":"The user receives a -2 penalty to all Accuracy Rolls and gains a +10 Bonus to All Damage Rolls."

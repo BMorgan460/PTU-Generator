@@ -1,0 +1,1 @@
+Ability: Rocket Scene – Free Action Trigger: A Round Begins Effect: The user may take their turn at the top of the round. Priority, Interrupt, or Reaction Moves or Abilities cannot be declared in response to the user’s turn. Bonus: The user’s Sky capability is increased by +2 

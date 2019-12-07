@@ -1,0 +1,1 @@
+"Name":"Effect Spore","Freq":"Scene – Free Action","Info":"The user is hit by a Melee AttackRoll 1d6. On a result of 1 or 2, the attacker is Poisoned. On a result of 3 or 4, the attacker is Paralyzed. On a result of 5 or 6, the attacker falls Asleep."

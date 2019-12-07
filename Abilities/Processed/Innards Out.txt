@@ -1,0 +1,1 @@
+"Name":"Innards Out","Freq":"Static","Info":"The user takes massive damage.The user inflicts damage equal to half the damage taken to the source of the damage."

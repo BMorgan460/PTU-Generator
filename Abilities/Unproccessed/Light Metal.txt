@@ -1,1 +1,1 @@
-Ability: Light Metal Static Effect: When referring to Weight Classes, treat the Pok√©mon as if it is 2 Weight Classes lower. 
+Ability: Light Metal Static Effect: The userís Weight Class is decreased by 2. Their Speed Base Stat is increased by +2, but their Defense Base Stat is decreased by 2. 

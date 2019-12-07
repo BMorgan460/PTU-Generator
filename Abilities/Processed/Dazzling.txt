@@ -1,0 +1,1 @@
+"Name":"Dazzling","Freq":"Static","Info":"Priority and Interrupt moves cannot be used in a Burst 3 area around the user."

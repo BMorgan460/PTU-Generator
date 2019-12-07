@@ -1,0 +1,1 @@
+Ability: Slow Start Static Effect: For 3 rounds after joining an encounter, the user’s Speed and Attack Stats are halved and they have 10 Damage Reduction. 

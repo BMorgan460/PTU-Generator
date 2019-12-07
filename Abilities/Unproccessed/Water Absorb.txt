@@ -1,0 +1,1 @@
+Ability: Water Absorb Static Effect: The user is immune to the damage and effects of  Water-Type attacks, and whenever they are hit with a Water Type attack, they gain a Tick of Hit Points. Defensive. 

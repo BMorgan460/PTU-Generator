@@ -1,0 +1,1 @@
+"Name":"Dancer","Freq":"Scene x2 – Free Action","Info":"A Pokemon or Trainer uses a Dance move.The user copies the triggering Dance move immediately after the Pokemon or Trainer."

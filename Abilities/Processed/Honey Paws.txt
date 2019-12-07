@@ -1,0 +1,1 @@
+"Name":"Honey Paws","Freq":"Static","Info":"The user may consume Honey to gain a Food Buff as if they had consumed Leftovers. This Food Buff does not count against their normal limit."

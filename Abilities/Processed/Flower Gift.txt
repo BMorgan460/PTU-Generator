@@ -1,0 +1,1 @@
+"Name":"Flower Gift","Freq":"Scene – Swift Action","Info":"Flower Gift may only be used if the Weather is Sunny or if the user is under 50% Hit Points. When activated, the user may pick two Stats, gaining +2 Combat Stages in each Stat. All targets within 2 meters also gain +1 Combat Stage in each of the chosen Stats."

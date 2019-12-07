@@ -1,1 +1,1 @@
-Ability: Flower Gift Scene â€“ Free Action Effect: If it is Sunny, Flower Gift creates a 4-meter Burst. The user and all of their allies in the burst gain +2 Combat Stages, distributed among any Stat or Stats as they wish. 
+Ability: Flower Gift Scene – Swift Action Effect: Flower Gift may only be used if the Weather is Sunny or if the user is under 50% Hit Points. When activated, the user may pick two Stats, gaining +2 Combat Stages in each Stat. All targets within 2 meters also gain +1 Combat Stage in each of the chosen Stats. 

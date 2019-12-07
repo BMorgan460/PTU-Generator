@@ -1,0 +1,1 @@
+Ability: Scrappy Static Effect: Ghost Types are not immune to the user’s Normal and Fighting-Type Moves. 

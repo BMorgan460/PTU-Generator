@@ -1,0 +1,1 @@
+"Name":"Rattled","Freq":"At-Will – Free Action","Info":"The user is hit by a Bug, Dark, or Ghost Type MoveThe user’s Speed is raised by +1 Combat Stage, and may immediately Disengage as a Free Action."

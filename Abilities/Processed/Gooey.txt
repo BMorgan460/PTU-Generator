@@ -1,0 +1,1 @@
+"Name":"Gooey","Freq":"At-Will – Free Action","Info":"The user is hit by a Melee AttackThe triggering attacker has their Speed lowered by 1 Combat Stage."

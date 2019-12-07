@@ -1,0 +1,1 @@
+"Name":"Sound Lance","Freq":"Scene x2 - Swift Action","Info":"The user uses SupersonicConnection – Supersonic. The target of Supersonic loses Hit Points equal to the user’s Special Attack. This occurs even if Supersonic misses."

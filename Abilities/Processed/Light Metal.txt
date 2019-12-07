@@ -1,0 +1,1 @@
+"Name":"Light Metal","Freq":"Static","Info":"The user’s Weight Class is decreased by 2. Their Speed Base Stat is increased by +2, but their Defense Base Stat is decreased by 2."

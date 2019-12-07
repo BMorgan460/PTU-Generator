@@ -1,0 +1,1 @@
+Ability: Wash Away Daily – Free Action Trigger: The user hits with a Water Type Move Effect: Before the Move “hits”, all Combat Stages on targets hit by the Move are reset to their default (usually 0), and all coats on the targets, except ones placed by Water Sport, are destroyed. 

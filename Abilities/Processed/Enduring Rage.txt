@@ -1,0 +1,1 @@
+"Name":"Enduring Rage","Freq":"Static","Info":"The user may not make rolls to cure themselves from the Enraged condition. However, while Enraged, the user gains 5 Damage Reduction."

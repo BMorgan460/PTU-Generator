@@ -1,0 +1,1 @@
+Ability: Parry Scene – Free Action Trigger: The user is hit by a Melee Attack Effect: The attack instead misses. Defensive. 

@@ -1,0 +1,1 @@
+"Name":"Heliovolt","Freq":"At-Will - Swift Action","Info":"The user uses an Electric-Type MoveFor 1 full round, the user gains +1 Evasion and is considered to be in Sunny Weather."

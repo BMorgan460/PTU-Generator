@@ -1,0 +1,1 @@
+Ability: Shadow Shield Frequency: Static Effect: While at full Hit Points, all damage taken by the user is resisted one step further. Defensive

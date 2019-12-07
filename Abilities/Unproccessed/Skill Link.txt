@@ -1,0 +1,1 @@
+Ability: Skill Link Scene – Free Action Trigger: The user hits with a Move with the Five Strike keyword. Effect: The Triggering Move automatically hits 5 Times.

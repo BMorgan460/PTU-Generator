@@ -1,0 +1,1 @@
+Ability: Pickpocket Scene – Free Action Trigger: The user is hit by an opponent with a Melee Move Effect: If the opponent has a Held Item and the user does not, the user takes the Held Item the opponent is holding. 

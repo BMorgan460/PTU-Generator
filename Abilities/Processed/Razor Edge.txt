@@ -1,0 +1,1 @@
+"Name":"Razor Edge","Freq":"Static","Info":"Connection - Poison Tail. The user’s Critical Hit Range on all Moves is increased by +2; any Moves with “Tail” in their name have their Critical Hit Range increased by +3 instead."

@@ -1,0 +1,1 @@
+"Name":"Sonic Courtship","Freq":"Scene – Free Action","Info":"The user uses AttractConnection - Attract. The user may use Attract as if it had a range of “Burst 3, Sonic, Friendly”."

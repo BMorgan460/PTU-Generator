@@ -1,1 +1,1 @@
-"Name":"Abominable","Freq":"Static","Info":"The user ignores the Recoil Keyword when attacking, and does not gain injuries from Massive Damage."
+"Name":"Abominable","Freq":"Static","Info":"The user’s Base HP is increased by +5. Additionally, the user ignores the Recoil Keyword when attacking."

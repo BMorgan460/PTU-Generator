@@ -1,0 +1,1 @@
+Ability: Weeble At-Will – Standard Action, Reaction Trigger: The user is hit by a damaging attack Effect: The user may make an AC4 Physical Attack against an adjacent target. If the attack hits, the target loses Hit Points equal to 1/3rd of the damage taken by the user from the attack that triggered Weeble. 

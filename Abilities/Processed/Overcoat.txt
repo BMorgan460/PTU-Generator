@@ -1,0 +1,1 @@
+"Name":"Overcoat","Freq":"Static","Info":"The user is immune to Moves with the Powder Keyword, and does not take damage from any Weather that would normally cause it to take damage. Defensive."

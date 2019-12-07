@@ -1,0 +1,1 @@
+"Name":"Frisk","Freq":"At-Will – Swift Action","Info":"An Adjacent PokémonThe target reveals their Type, Ability, Nature, Level, and name of any Held Items they are currently holding, if any."

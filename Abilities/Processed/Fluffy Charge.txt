@@ -1,0 +1,1 @@
+"Name":"Fluffy Charge","Freq":"Static","Info":"Connection – Charge. Whenever the user uses Charge, they gain +1 CS to Defense."

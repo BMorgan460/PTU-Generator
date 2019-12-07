@@ -1,0 +1,1 @@
+Ability: Thermosensitive Static Effect: While Sunny, the user’s Attack and Special Attack are raised by +2 combat stages each. While Hailing, the user’s movement capabilities are reduced by half. 

@@ -1,1 +1,1 @@
-Ability: Hydration Static Effect: At the end of the userâ€™s turn, if the weather is Rainy, the user is cured of one Status Affliction. 
+Ability: Hydration Scene - Swift Action Effect: The user is cured of one Status Affliction. Hydration’s Frequency is ignored if used during Rainy Weather. 

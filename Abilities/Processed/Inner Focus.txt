@@ -1,0 +1,1 @@
+"Name":"Inner Focus","Freq":"Static","Info":"The user cannot be Flinched, and their Initiative cannot be unwillingly lowered by any effects."

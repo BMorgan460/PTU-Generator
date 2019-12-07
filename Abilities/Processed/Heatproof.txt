@@ -1,0 +1,1 @@
+"Name":"Heatproof","Freq":"Static","Info":"The user resists Fire Type movesf one step further, and does not lose Hit Points from the Burn Condition."

@@ -1,0 +1,1 @@
+"Name":"Crush Trap","Freq":"Scene – Free Action","Info":"The user successfully Grapples a targetConnection – Wrap. When you activate this ability, the user may immediately deal damage to the target as if the user had hit with a Struggle Attack. There is no Accuracy Roll and thus this damage cannot miss, be a Critical Hit, or trigger any Effect Ranges."

@@ -1,0 +1,1 @@
+"Name":"Full Guard","Freq":"Scene - Swift Action","Info":"You take Damage while having Temporary Hit PointsYou resist the triggering Damage one step further. Bonus: Whenever you take Super-Effective Damage and you have no Temporary Hit Points, you gain a tick of Temporary Hit Points. Defensive."

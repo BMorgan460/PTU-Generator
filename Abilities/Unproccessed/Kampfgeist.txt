@@ -1,1 +1,1 @@
-Ability: Kampfgeist Static Effect: The user gains STAB on Fighting-Type Moves. 
+Ability: Kampfgeist Scene - Free Action Trigger: The user takes Bug, Dark, or Rock-Type Damage Effect: The triggering damage is resisted one step further. Bonus: The user gains STAB on Fighting-Type Moves.

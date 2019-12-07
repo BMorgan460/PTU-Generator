@@ -1,1 +1,1 @@
-Ability: Dreamspinner Daily – Standard Action Effect: For each Sleeping Pokémon or Trainer within 10 meters, the user gains a Tick of Hit Points. 
+Ability: Dreamspinner Scene x3 � Swift Action Effect: All Sleeping Foes within 3 meters lose a Tick of Hit Points, and the user gains a Tick of Temporary Hit Points. 

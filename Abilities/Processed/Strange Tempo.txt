@@ -1,0 +1,1 @@
+"Name":"Strange Tempo","Freq":"At-Will - Special","Info":"While Confused, the user may choose either to 1) As a Free Action, not to roll for Confusion, instead acting normally or 2) As a Standard Action, cure themselves of Confusion and gain +2 Combat Stages to the Stat of their choice."

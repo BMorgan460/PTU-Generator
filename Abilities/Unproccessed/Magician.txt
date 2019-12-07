@@ -1,0 +1,1 @@
+Ability: Magician Scene – Free Action Trigger: The user hits a foe with a damaging SingleTarget attack Effect: The user takes the target’s Held Item. This Ability may not be triggered if the user is already holding a Held Item. 

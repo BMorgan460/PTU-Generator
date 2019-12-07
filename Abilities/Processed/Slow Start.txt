@@ -1,0 +1,1 @@
+"Name":"Slow Start","Freq":"Static","Info":"For 3 rounds after joining an encounter, the user’s Speed and Attack Stats are halved and they have 10 Damage Reduction."

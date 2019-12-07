@@ -1,0 +1,1 @@
+"Name":"Klutz","Freq":"Static At-Will as a Free Action during their turn, even if they have Status Afflictions that prevent them from taking actions.","Info":"The Pokémon ignores the effects of all held Items in its possession. The user may drop Held Items"

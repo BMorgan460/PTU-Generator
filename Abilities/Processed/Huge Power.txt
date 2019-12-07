@@ -1,0 +1,1 @@
+"Name":"Huge Power","Freq":"Static","Info":"The Pokémon’s Base Attack stat is doubled. This may double any bonuses from Nature or Vitamins, but not bonuses from Trainer Features."

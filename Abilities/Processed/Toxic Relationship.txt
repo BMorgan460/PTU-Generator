@@ -1,0 +1,1 @@
+"Name":"Toxic Relationship","Freq":"Static","Info":"Whenever the user poisons a target, the target also becomes infatuated."

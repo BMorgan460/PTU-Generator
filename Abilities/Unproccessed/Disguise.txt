@@ -1,0 +1,1 @@
+Ability: Disguise Frequency: Scene – Free Action Trigger: The user is hit by a damaging attack. Effect: The user takes no damage from the attack. This ability cannot be used again until healed at a Pokemon Center or taking an hour to rest. 

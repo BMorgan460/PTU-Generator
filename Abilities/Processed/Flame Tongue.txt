@@ -1,0 +1,1 @@
+"Name":"Flame Tongue","Freq":"Scene – Free Action","Info":"The user hits a foe with Lick.Connection – Lick. The foe hit with Lick gains an Injury and becomes Burned."

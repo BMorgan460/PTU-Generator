@@ -1,0 +1,1 @@
+"Name":"Electric Surge","Freq":"Scene – Swift Action","Info":"The field becomes Electric Terrain for 5 rounds."

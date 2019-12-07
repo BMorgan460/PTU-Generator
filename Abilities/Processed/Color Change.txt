@@ -1,0 +1,1 @@
+"Name":"Color Change","Freq":"At-Will – Free Action","Info":"The user is hit by a MoveThe user’s Type changes to match the Type of the triggering Move."

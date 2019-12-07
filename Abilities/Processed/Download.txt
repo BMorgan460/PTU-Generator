@@ -1,0 +1,1 @@
+"Name":"Download","Freq":"Scene – Swift Action","Info":"Trainer or PokémonThe target must reveal whether its Defense or Special Defense Stats are lower. If the Defense Stat is lower, the user gains a +1 Attack CS. If the Special Defense Stat is lower, the user instead gains +1 Special Attack CS. If both are tied, the user gains +1 CS to any Stat of their choice."

@@ -1,0 +1,1 @@
+"Name":"Mold Breaker","Freq":"Static","Info":"The user ignores the effect of enemies’ Defensive Abilities."

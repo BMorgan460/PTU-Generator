@@ -1,0 +1,1 @@
+"Name":"Friend Guard","Freq":"Scene – Free Action","Info":"An adjacent Ally takes DamageThe damage is resisted one step further. Defensive."

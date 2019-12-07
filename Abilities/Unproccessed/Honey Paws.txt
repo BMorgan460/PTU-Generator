@@ -1,1 +1,1 @@
-Ability: Honey Paws Static Effect: The user may consume Honey to gain a Digestion Buff as if they had consumed Leftovers. This Digestion Buff does not count against their normal limit. 
+Ability: Honey Paws Static Effect: The user may consume Honey to gain a Food Buff as if they had consumed Leftovers. This Food Buff does not count against their normal limit. 

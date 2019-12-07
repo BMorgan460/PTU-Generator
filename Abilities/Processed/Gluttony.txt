@@ -1,0 +1,1 @@
+"Name":"Gluttony","Freq":"Static","Info":"The user may have up to three Food Buffs at once, use up to three Food Buffs per Scene, and may eat two refreshments per half hour."

@@ -1,0 +1,1 @@
+"Name":"Big Swallow","Freq":"Static","Info":"Connection - Stockpile. Whenever the user uses Swallow or Spit Up, it may treat the Stockpile Count as if it was one higher. This Ability has no effect if the Stockpile Counter is already 3."

@@ -1,0 +1,1 @@
+Ability: Rain Dish Daily x5 - Swift Action Effect: The user gains a Tick of Hit Points. Rain Dish may only be used while the user is under 50% Hit Points or in Rainy Weather. 

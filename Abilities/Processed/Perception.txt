@@ -1,0 +1,1 @@
+"Name":"Perception","Freq":"At-Will – Shift Action, Interrupt","Info":"An ally uses an area-of-effect attack that would hit youYou may Shift to remove yourself from the areaof-effect."

@@ -1,0 +1,1 @@
+Ability: Stamina Frequency: At-Will – Free Action Trigger: The user is hit by a damaging attack. Effect: After damage has been calculated, the user gains +1 Defense Combat Stage. Defensive.

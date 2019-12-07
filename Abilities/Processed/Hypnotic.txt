@@ -1,0 +1,1 @@
+"Name":"Hypnotic","Freq":"Static","Info":"Connection - Hypnosis. When used by the user, Hypnosis cannot miss."

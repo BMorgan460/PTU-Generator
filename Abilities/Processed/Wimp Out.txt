@@ -1,0 +1,1 @@
+"Name":"Wimp Out","Freq":"Static","Info":"The user is brought to 50% Hit Points or lower.The user is immediately returned to it’s Pokeball. A new Pokemon can immediately be sent out."

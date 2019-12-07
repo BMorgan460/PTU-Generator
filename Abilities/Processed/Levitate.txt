@@ -1,0 +1,1 @@
+"Name":"Levitate","Freq":"Static","Info":"The Pokémon is immune to the damage and effects of Ground Type Moves, and gains a Levitate Speed of 4, or has existing Levitate Speeds increased by +2. Defensive."

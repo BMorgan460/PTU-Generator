@@ -1,0 +1,1 @@
+Ability: Steam Cloud Frequency: Static Effect: The user resists all Water-type attacks 1 step further. Each time a Water-type attack hits the user, raise the user’s Evasion by 1.

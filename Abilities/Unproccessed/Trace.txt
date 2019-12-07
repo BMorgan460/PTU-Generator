@@ -1,0 +1,1 @@
+Ability: Trace Scene – Free Action Target: A Trainer or Pokémon within 10 meters Effect: The Pokémon gains an Ability known by the Target for the remainder of the encounter, or until it is Fainted. 

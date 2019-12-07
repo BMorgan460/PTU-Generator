@@ -1,0 +1,1 @@
+Ability: Poison Touch Static Effect: The Pokémon’s Moves which deal damage Poison Legal Targets on 19+. If a move already has a chance of Poisoning foes, Poison Touch increases the effect range by +2. 

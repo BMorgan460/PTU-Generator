@@ -1,0 +1,1 @@
+Ability: Line Charge Static Effect: The user can only shift in cardinal directions on the grid. However,  they do not provoke attacks of opportunity from Shifting. 

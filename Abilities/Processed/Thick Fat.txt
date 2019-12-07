@@ -1,0 +1,1 @@
+"Name":"Thick Fat","Freq":"Static","Info":"The user resists Fire-Type and Ice-Type attacks one step further. Defensive."

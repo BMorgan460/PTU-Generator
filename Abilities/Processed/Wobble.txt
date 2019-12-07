@@ -1,0 +1,1 @@
+"Name":"Wobble","Freq":"Scene – Free Action","Info":"The user is hit by a damaging attackThe user may use either Counter or Mirror Coat as a Reaction, ignoring Frequency."

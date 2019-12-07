@@ -1,0 +1,1 @@
+"Name":"Unaware","Freq":"Static","Info":"When the Pokémon is attacking or being attacked, the foe must make all damage calculations as if their Combat Stages were at their default state."

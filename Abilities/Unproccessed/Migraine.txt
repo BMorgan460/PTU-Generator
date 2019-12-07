@@ -1,0 +1,1 @@
+Ability: Migraine Static Effect: While the user is at 50% Hit Points or less, it gains the Telekinetic Capability and may add STAB to Psychic-Type Moves. 

@@ -1,0 +1,1 @@
+Ability: Run Up Static Effect: If the user moves in a straight line to a target and uses a damaging Melee Attack, it may add the number of meters traveled in a direct line as Bonus Damage to a Damage Roll. 

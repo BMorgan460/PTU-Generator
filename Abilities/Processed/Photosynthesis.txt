@@ -1,0 +1,1 @@
+"Name":"Photosynthesis","Freq":"Daily – Extended Action","Info":"If the user is allowed to bask in normal sunlight for at least 10 minutes, they may heal up to 25% of their Max Hit Points, and remove one Injury"

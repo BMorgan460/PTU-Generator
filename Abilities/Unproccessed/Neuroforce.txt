@@ -1,0 +1,1 @@
+Ability: Neuroforce Frequency: Static Effect: If this Pokemon uses a supereffective attack, increase that attacks DB by 2 during damage calculation.

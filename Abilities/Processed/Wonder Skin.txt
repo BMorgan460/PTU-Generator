@@ -1,0 +1,1 @@
+"Name":"Wonder Skin","Freq":"Static","Info":"The user gains +6 Evasion against Status Moves. Defensive."

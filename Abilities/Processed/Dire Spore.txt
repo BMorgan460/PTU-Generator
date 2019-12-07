@@ -1,0 +1,1 @@
+"Name":"Dire Spore","Freq":"Static","Info":"Connection - Spore. Whenever the user hits a target with Spore, that target is also Poisoned."

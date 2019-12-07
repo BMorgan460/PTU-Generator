@@ -1,0 +1,1 @@
+"Name":"Snuggle","Freq":"Scene - Standard Action","Info":"An adjacent targetThe user and the target each gain two ticks of Temporary Hit Points."

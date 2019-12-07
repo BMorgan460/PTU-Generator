@@ -1,0 +1,1 @@
+Ability: Thunder Boost At-Will – Free Action Trigger: An adjacent Ally uses a damaging ElectricType Move Effect: The allied target gains a +5 Bonus to its damage roll with the triggering Move. A target may not benefit from more than one instance of Thunder Boost at a time. 

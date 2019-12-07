@@ -1,0 +1,1 @@
+Ability: Heliovolt At-Will - Swift Action Trigger: The user uses an Electric-Type Move Effect: For 1 full round, the user gains +1 Evasion and is considered to be in Sunny Weather. 

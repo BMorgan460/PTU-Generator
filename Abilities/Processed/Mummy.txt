@@ -1,0 +1,1 @@
+"Name":"Mummy","Freq":"Daily – Free Action","Info":"The user is hit by a Melee AttackReplace all of the Attacker’s Abilities with Mummy until the end of the encounter."

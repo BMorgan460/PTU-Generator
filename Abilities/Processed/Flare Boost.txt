@@ -1,0 +1,1 @@
+"Name":"Flare Boost","Freq":"Scene - Swift Action","Info":"The user gains +3Attack and Special Attack Combat Stages. Flare Boost may only be used while Burned."

@@ -1,0 +1,1 @@
+"Name":"Spinning Dance","Freq":"At-Will - Free Action","Info":"The user is targeted by an attack, but is missedIf not Fainted, Paralyzed, or Asleep, the user gains +1 Evasion and may immediately Shift 1 meter."

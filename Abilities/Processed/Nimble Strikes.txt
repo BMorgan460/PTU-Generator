@@ -1,0 +1,1 @@
+"Name":"Nimble Strikes","Freq":"Static","Info":"The user adds half their Speed Stat to the Damage Rolls of their physical Normal-Type Moves."

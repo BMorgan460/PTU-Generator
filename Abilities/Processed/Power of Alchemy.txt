@@ -1,0 +1,1 @@
+"Name":"Power of Alchemy","Freq":"Scene – Free Action","Info":"An Allied Pokemon has faintedSelect one of the abilities the allied Pokemon has. The user replaces Power of Alchemy with the chosen ability for the remainder of the Scene."

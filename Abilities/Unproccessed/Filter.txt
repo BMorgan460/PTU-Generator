@@ -1,1 +1,1 @@
-Ability: Filter Static Effect: When the user is hit by a Super-Effective attack, the attack deals x1.25 damage instead of x1.5 damage. If the user is hit by a Super-Super-Effective attack, the attack deals x1.5 damage instead of x2 damage. . If you have both Solid Rock and Filter, you gain 5 Damage Reduction against Super-Effective Damage. Defensive. 
+Ability: Filter Static Effect: The user gains +5 Damage Reduction against SuperEffective damage. Defensive.

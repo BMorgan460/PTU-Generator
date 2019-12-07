@@ -1,0 +1,1 @@
+"Name":"Sticky Smoke","Freq":"Scene – Free Action","Info":"Connection - Smokescreen. All targets that begin or end their turn in the target’s Smokescreen have their Accuracy lowered by -1. This penalty may occur multiple times. This stacks with the usual penalties from Smokescreen."

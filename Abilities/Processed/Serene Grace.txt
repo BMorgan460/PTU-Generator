@@ -1,0 +1,1 @@
+"Name":"Serene Grace","Freq":"Static","Info":"The user’s Effect Range is increased by +2."

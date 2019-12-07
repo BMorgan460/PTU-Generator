@@ -1,0 +1,1 @@
+"Name":"Normalize","Freq":"Static","Info":"All Moves performed by the Pokémon are considered Normal Type instead of whatever Type they normally are."

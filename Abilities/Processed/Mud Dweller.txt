@@ -1,0 +1,1 @@
+"Name":"Mud Dweller","Freq":"Static","Info":"The user resists Ground-Type and Water-Type attacks one step further."

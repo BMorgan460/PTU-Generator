@@ -1,0 +1,1 @@
+"Name":"Gale Wings","Freq":"Scene x2 - Free Action, Priority","Info":"The user may activate Gale Wings to use a FlyingType Move with Priority. If the Move is a Damaging Move, the user adds half their Speed Stat to the Damage Roll."

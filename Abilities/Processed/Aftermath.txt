@@ -1,1 +1,1 @@
-"Name":"Aftermath","Freq":"Scene – Free Action","Info":"When the user is reduced to 0 Hit Points or less, they create a Burst 1. Everything in the Burst loses ¼ of its Max Hit Points."
+"Name":"Aftermath","Freq":"Scene � Free Action","Info":"The user becomes FaintedThe user creates a Burst 1. Everything in the Burst loses three Ticks of Hit Points."

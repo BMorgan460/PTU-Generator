@@ -1,0 +1,1 @@
+Ability: Windveiled Static Effect: The user is immune to the damage and effects of Flying-Type attacks. If the user is hit by a Flying-Type attack, the user gains +1 Speed CS. Defensive.

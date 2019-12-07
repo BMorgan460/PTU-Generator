@@ -1,0 +1,1 @@
+"Name":"Infiltrator","Freq":"Static","Info":"The user gains a +2 Bonus to Stealth Checks, does not trigger Hazards, Blessings cannot be activated in response to its actions, and the user may bypass the effects of the move Substitute."

@@ -1,0 +1,1 @@
+Ability: Multiscale Static Effect: When at full Hit Points, when taking damage from a Move, half the total damage before applying weakness and resistance, after applying your Defenses. Defensive. 

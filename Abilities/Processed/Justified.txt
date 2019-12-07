@@ -1,0 +1,1 @@
+"Name":"Justified","Freq":"At-Will - Free Action","Info":"The user is hit by a damaging Dark Type Move or Attack of OpportunityThe user may raise its Attack by +1 Combat Stage. Bonus: The user always gains a +4 bonus to Skill Checks made to Intercept."

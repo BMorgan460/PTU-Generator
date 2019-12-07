@@ -1,0 +1,1 @@
+Ability: Spray Down Scene x2 – Free Action Trigger: The user hits an airborne target with a ranged 1-target attack Effect: The triggering attack’s target is knocked down to ground level, and loses all Sky or Levitate Speeds for 3 turns. During this time, they may be hit by Ground-Type Moves even if normally immune. 

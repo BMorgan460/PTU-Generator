@@ -1,0 +1,1 @@
+"Name":"Root Down","Freq":"At-Will – Shift Action","Info":"Connection - Ingrain. While the user has the Ingrain Coat, they may activate this Ability to gain 5 Damage Reduction."

@@ -1,0 +1,1 @@
+"Name":"Sand Stream","Freq":"Scene x3 – Swift Action","Info":"The Weather changes to a Sandstorm for 1 full round. Bonus: The user is immune to Hit Point loss from Sandstorms."

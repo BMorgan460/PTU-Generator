@@ -1,0 +1,1 @@
+Ability: Reckless Static Effect: Increases the Damage Base of Moves with the Exhaust, Recoil, or Reckless Keywords by +3.

@@ -1,1 +1,1 @@
-"Name":"Adaptability","Freq":"Static","Info":"Increase the Damage of all Moves with which the user shares an Elemental Type by +1 Damage Base."
+"Name":"Adaptability","Freq":"Static","Info":"The user gains a +1d10 Bonus to Damage Rolls with Moves with which they apply STAB."

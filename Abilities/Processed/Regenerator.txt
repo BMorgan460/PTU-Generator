@@ -1,0 +1,1 @@
+"Name":"Regenerator","Freq":"Daily x2 – Free Action","Info":"The user is recalled into a Poké Ball, or Takes a BreatherThe user gains Hit Points equal to 1/3rd of its maximum Hit Points. Regenerator may be activated only once per Scene."

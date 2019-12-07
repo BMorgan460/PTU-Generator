@@ -1,0 +1,1 @@
+Ability: Nimble Strikes Static Effect: The user adds half their Speed Stat to the Damage Rolls of their physical Normal-Type Moves. 

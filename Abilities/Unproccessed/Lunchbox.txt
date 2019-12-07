@@ -1,0 +1,1 @@
+Ability: Lunchbox Scene – Free Action Trigger: The user trades in a Food Buff Effect: The user gains a Tick of Temporary Hit Points. These Temporary Hit Points stack with any Temporary Hit Points granted by the triggering Food Buff.

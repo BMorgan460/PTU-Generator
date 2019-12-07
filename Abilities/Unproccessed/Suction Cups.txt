@@ -1,0 +1,1 @@
+Ability: Suction Cups At-Will - Shift Action Effect: The user gains +5 Damage Reduction for 1 full round. Bonus: The user is immune to Push effects. Defensive. 
