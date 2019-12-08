@@ -17,7 +17,7 @@ abilityList = ["Abominable","Absorb Force","Adaptability","Aerilate","Aftermath"
 list = [] #Array used to store all the words in the file 
 id = -1 #id for the array
 num = 0 #Var used for ablities 
-unwanted = [':', '/', '-', '"', "'", '%', ".", "!"] #certain chars to remove to keep consitance
+unwanted = [':', '/', '"', "'", '%', ".", "!"] #certain chars to remove to keep consitance
 currentEVO = 'previous' #Sets all evolutions to previous till current evo is find
 currentReq = 'prevReq'	#same as above except for level requirments
 moves = []
@@ -26,6 +26,7 @@ basic = -1
 adv = 0
 high = 0
 base = False
+eff = False
 
 for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that this program is in
 	for file in files: #checks each file
@@ -51,7 +52,7 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 			n.write('public class ' + name  +" extends Move{\n")
 			n.write("\t\t{\n")
 			while id < (len(list) - 1): #Goes through each word in the array
-				print(list)#Debug
+				#print(list)#Debug
 				id = id + 1 # goes through each id on the array
 				if list[id] == "Move": 
 					n.write('\t\tname = "' + name.replace("_", ' ') + '";\n')
@@ -69,25 +70,22 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 				if list[id] == "Range":
 					range = []
 					id += 1
-					while list[id] != "Effect":
-						print(list[id])
+					while list[id] != "Effect" and list[id] != "end":
+						#print(list[id])
 						range.append(list[id])
 						id += 1
 					n.write('\t\trange = "')
 					setnum = 0
 					while setnum < len(range) - 1:
-						if check_if_int(range[setnum]) == 1:
-							n.write(range[setnum] + ' ')
-						else:
-							n.write(range[setnum] + ', ')
+						n.write(range[setnum] + ' ')
 						setnum += 1
 					n.write(range[setnum] + '";\n')
 					range = []
 				if list[id] == "Effect":
+					eff = True
 					effects = []
 					id += 1
 					while list[id] != "end":
-						print(list[id])
 						effects.append(list[id])
 						id += 1
 					n.write('\t\teffects = "')
@@ -101,11 +99,15 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 					n.write('\t\tdamageBase = ' + list[id +1] + ';\n')
 					n.write('\t\tmDamageBase = ' + list[id +1] + ';\n')
 					base = True
+			if eff == False:
+				n.write('\t\teffects = "";')
 			if base == False:
-					n.write('\t\tdamageBase = 0; \n')
-					n.write('\t\tMDamageBase = 0;\n')
+				n.write('\t\tdamageBase = 0; \n')
+				n.write('\t\tmDamageBase = 0;\n')
 			n.write("\t\t}\n")
 			n.write("}")
+			base = False
+			eff = False
 			f.close()
 			n.close()
 			print("Finished " + file)
