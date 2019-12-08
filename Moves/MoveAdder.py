@@ -52,11 +52,8 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 			n.write('public class ' + name  +" extends Move{\n")
 			n.write("\t\t{\n")
 			while id < (len(list) - 1): #Goes through each word in the array
-<<<<<<< HEAD
 				# print(list)#Debug
-=======
 				#print(list)#Debug
->>>>>>> 05e164f0882fb00b7ba3847223f17811f5b68fcc
 				id = id + 1 # goes through each id on the array
 				if list[id] == "Move":
 					n.write('\t\tname = "' + name.replace("_", ' ') + '";\n')
@@ -75,10 +72,7 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 					range = []
 					id += 1
 					while list[id] != "Effect" and list[id] != "end":
-<<<<<<< HEAD
-=======
 						#print(list[id])
->>>>>>> 05e164f0882fb00b7ba3847223f17811f5b68fcc
 						range.append(list[id])
 						id += 1
 					n.write('\t\trange = "')
