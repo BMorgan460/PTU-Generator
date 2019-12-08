@@ -1,0 +1,1 @@
+"Name":"Brimstone","Freq":"Static","Info":"Whenever the user inflicts Burn or Poison with a damaging Fire-Type or Poison-Type Attack, the target becomes both Burned and Poisoned."

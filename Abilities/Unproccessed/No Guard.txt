@@ -1,0 +1,1 @@
+Ability: No Guard Static Effect: The user may not apply any form of Evasion to avoiding Melee attacks; however, the user ignores all forms of evasion when making Melee attack rolls. 

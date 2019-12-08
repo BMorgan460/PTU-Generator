@@ -1,0 +1,1 @@
+Ability: Berserk Frequency: Static Effect: While Enraged, the user’s Special Attack is raised 3 Combat Stages. If the user stops suffering from Enraged, the user loses and Combat Stages from this ability.

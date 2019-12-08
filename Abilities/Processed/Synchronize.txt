@@ -1,0 +1,1 @@
+"Name":"Synchronize","Freq":"Scene – Free Action","Info":"The user is Paralyzed, Frozen, Burned, Poisoned, or put to Sleep.The foe which caused the Status Condition is given the same Status they inflicted."

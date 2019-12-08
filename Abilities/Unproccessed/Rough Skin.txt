@@ -1,0 +1,1 @@
+Ability: Rough Skin At-Will - Free Action, Reaction Trigger: The user is hit by a damaging Melee Attack Effect: The attacker loses a tick of Hit Points. 

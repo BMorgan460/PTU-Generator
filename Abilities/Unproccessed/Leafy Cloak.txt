@@ -1,0 +1,1 @@
+Ability: Leafy Cloak Static Effect: Whenever the user activates Designer, theychoose two of Chlorophyll, Leaf Guard, or Overcoat. Until the user activates Designer again, they gain the chosen Abilities. 

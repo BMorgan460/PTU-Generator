@@ -1,0 +1,1 @@
+"Name":"Speed Boost","Freq":"Static","Info":"The Pokémon’s Speed is raised 1 Combat Stage at the end of each of its turns. Speed Boost has no effect while out of combat."

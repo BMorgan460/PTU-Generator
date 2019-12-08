@@ -1,0 +1,1 @@
+Ability: Sound Lance Scene x2 - Swift Action Trigger: The user uses Supersonic Effect: Connection – Supersonic. The target of Supersonic loses Hit Points equal to the user’s Special Attack. This occurs even if Supersonic misses. 

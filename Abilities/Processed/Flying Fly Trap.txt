@@ -1,0 +1,1 @@
+"Name":"Flying Fly Trap","Freq":"Static","Info":"The Pokémon takes no damage from Ground Type Moves and Bug Type Moves. Defensive."

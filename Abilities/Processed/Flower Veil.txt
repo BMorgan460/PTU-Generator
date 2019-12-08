@@ -1,0 +1,1 @@
+"Name":"Flower Veil","Freq":"Static","Info":"Grass-Type Pokemon within 5 meters cannot have their Combat Stages lowered."

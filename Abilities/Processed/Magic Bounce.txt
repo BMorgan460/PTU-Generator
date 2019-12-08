@@ -1,0 +1,1 @@
+"Name":"Magic Bounce","Freq":"Scene – Free Action","Info":"The user is hit by a Status MoveThe user may reflect the Move back to the attacker. This Ability may be used to change the placement and affiliation of any Hazards being set within 10 meters of the user as well. Defensive."

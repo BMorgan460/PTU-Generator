@@ -1,0 +1,1 @@
+"Name":"Mojo","Freq":"Static","Info":"Normal Types are not immune to the user’s Ghost-Type Moves."

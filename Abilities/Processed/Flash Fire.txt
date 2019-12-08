@@ -1,0 +1,1 @@
+"Name":"Flash Fire","Freq":"Static","Info":"The user is immune to the damage and effects of Fire-Type attacks. If the user is hit by a Fire-Type attack, they gain +1 CS in their choice of Attack or Special Attack. Defensive."

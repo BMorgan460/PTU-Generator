@@ -1,0 +1,1 @@
+Ability: Weak Armor At-Will – Free Action Trigger: The user takes Physical damage. Effect: The user may lower its Defense by 1 Combat Stage, and gain +1 Speed Combat Stage. This is done after the triggering damage is resolved. 

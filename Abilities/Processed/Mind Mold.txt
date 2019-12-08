@@ -1,0 +1,1 @@
+"Name":"Mind Mold","Freq":"Static","Info":"The user gains Last Chance with Psychic."

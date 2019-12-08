@@ -1,0 +1,1 @@
+"Name":"Weird power","Freq":"Static","Info":"If the user’s Attack is higher than its Special Attack, the user may add its Attack Stat to its Special Damage Rolls. If their Special Attack is higher, they user may add its Special Attack Stat to its Physical Damage Rolls. This does not stack with Mixed Power."

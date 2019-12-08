@@ -1,0 +1,1 @@
+"Name":"Line Charge","Freq":"Static","Info":"The user can only shift in cardinal directions on the grid. However, they do not provoke attacks of opportunity from Shifting."

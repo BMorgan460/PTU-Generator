@@ -1,1 +1,1 @@
-Ability: Ice Body Static Effect: While Hailing, the user gains a Tick of Hit Points at the beginning of each of their turns. The user is not damaged by Hail. 
+Ability: Ice Body Daily x5 - Swift Action Effect: The user gains a Tick of Hit Points. Ice Body may only be used while the user is under 50% Hit Points or in Hailing Weather. Bonus: The user is immune to Hit Point loss from Hail 

@@ -1,0 +1,1 @@
+Ability: Seasonal Static Effect: The user gains an Ability based on the season. - Spring: Run Away - Summer: Grass Pelt - Autumn: Rivalry - Winter: Thick Fat

@@ -1,0 +1,1 @@
+"Name":"Shell Armor","Freq":"Static","Info":"The user is immune to Critical Hits; they are instead normal hits. Defensive."

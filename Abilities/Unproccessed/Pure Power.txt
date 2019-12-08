@@ -1,0 +1,1 @@
+Ability: Pure Power Static Effect: The Pokémon’s base attack stat is doubled. This may double any bonuses from Nature or Vitamins, but not bonuses from Features. 

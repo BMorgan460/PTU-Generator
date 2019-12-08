@@ -1,0 +1,1 @@
+"Name":"Soundproof","Freq":"Static","Info":"The Pokémon is immune to Moves with the Sonic Keyword. Defensive."

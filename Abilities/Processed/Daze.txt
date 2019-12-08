@@ -1,0 +1,1 @@
+"Name":"Daze","Freq":"Scene – Standard Action","Info":"Make an AC4 Status Attack against a target within 6 meters. If you hit, the target falls asleep."

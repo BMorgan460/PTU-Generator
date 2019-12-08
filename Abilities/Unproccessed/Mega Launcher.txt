@@ -1,0 +1,1 @@
+Ability: Mega Launcher Static Effect: The user increases the Damage Base of Aura Sphere, Dark Pulse, Dragon Pulse, and Water Pulse by +2. 

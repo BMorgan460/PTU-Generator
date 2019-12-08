@@ -1,1 +1,1 @@
-"Name":"Aroma Veil","Freq":"Static","Info":"The user and all PokÃ©mon and Trainers within 3 meters cannot be Confused, Enraged, or Suppressed. Defensive."
+"Name":"Aroma Veil","Freq":"Static","Info":"The user and all adjacent Pokémon and Trainers cannot become Confused, Enraged, or Suppressed. Defensive."

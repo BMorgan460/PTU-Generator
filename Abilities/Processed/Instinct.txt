@@ -1,0 +1,1 @@
+"Name":"Instinct","Freq":"Static","Info":"The user’s default Evasion is increased by +2. Defensive."

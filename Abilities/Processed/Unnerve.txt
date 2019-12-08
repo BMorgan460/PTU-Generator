@@ -1,0 +1,1 @@
+"Name":"Unnerve","Freq":"At-Will - Swift Action","Info":"A foe within 6 metersThe target cannot gain positive Combat Stages or trade in Digestion Buffs for 1 full round."

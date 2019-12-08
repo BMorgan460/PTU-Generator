@@ -1,0 +1,1 @@
+Ability: Triage Frequency: Static Effect: The users moves with the Healing keyword gain the Priority keyword.

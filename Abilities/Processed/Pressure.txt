@@ -1,0 +1,1 @@
+"Name":"Pressure","Freq":"Scene - Swift Action","Info":"All foes within 3 meters are Suppressed for 1 full round."

@@ -1,0 +1,1 @@
+"Name":"Limber","Freq":"Static","Info":"The user is immune to Paralysis. Defensive."

@@ -1,0 +1,1 @@
+"Name":"Surge Surfer","Freq":"Static","Info":"While on Electric Terrain, the users Initiative is doubled."

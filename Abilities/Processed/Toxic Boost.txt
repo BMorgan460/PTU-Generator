@@ -1,0 +1,1 @@
+"Name":"Toxic Boost","Freq":"Scene - Swift Action","Info":"The user gains +3 Attack and Special Attack Combat Stages. Toxic Boost may only be used while Poisoned or Badly Poisoned. Special: If the user has the Immunity Ability, they can still become Poisoned and Badly Poisoned but do not lose Hit Points from these conditions."

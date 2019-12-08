@@ -1,0 +1,1 @@
+"Name":"Immunity","Freq":"Static","Info":"The user cannot be Poisoned or Badly Poisoned. Defensive."

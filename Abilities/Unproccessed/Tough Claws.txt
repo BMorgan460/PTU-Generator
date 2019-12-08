@@ -1,0 +1,1 @@
+Ability: Tough Claws Static Effect: The user increases the Damage Base of all Melee Moves by +2. 

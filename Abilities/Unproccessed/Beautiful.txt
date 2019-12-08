@@ -1,1 +1,1 @@
-Ability: Beautiful Scene â€“ Swift Action Effect: The user may activate Beautiful to either gain +2 Beauty Dice in a Contest, or to cure any adjacent targets of the Enraged Condition. 
+Ability: Beautiful Scene – Standard Action Effect: The user may activate Beautiful to either gain +2 Beauty Dice in a Contest, or to gain +1 Special Attack Combat Stage and cure all allies within 5 meters of the Enraged Condition. 

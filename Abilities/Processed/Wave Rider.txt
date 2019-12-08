@@ -1,0 +1,1 @@
+"Name":"Wave Rider","Freq":"Static","Info":"While in water, the user’s Speed Stat gains +4 Combat Stages. Remove these Combat Stages if the user exits the water."

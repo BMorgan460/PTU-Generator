@@ -1,1 +1,1 @@
-Ability: Celebrate At-Will â€“ Free Action Trigger: The user causes a foe to Faint by using a damaging attack Effect: The user increases their Speed by 1 Combat Stage and may immediately take an additional Shift Action to move as if they were Slowed. This Ability may only be activated if the user is not prevented from shifting. 
+Ability: Celebrate At-Will – Swift Action Trigger: The user hits a foe with a damaging attack Effect: The user may immediately Disengage as a Free Action. Bonus: Whenever the user Disengages for any reason, they may Shift 2 meters instead of 1. 

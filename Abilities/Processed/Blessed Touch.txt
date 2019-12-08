@@ -1,0 +1,1 @@
+"Name":"Blessed Touch","Freq":"Daily x2 – Standard Action","Info":"An adjacent Pokémon or Trainer gains Hit Points equal to 1/4th of its maximum Hit Points."

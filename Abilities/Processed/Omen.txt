@@ -1,0 +1,1 @@
+"Name":"Omen","Freq":"Scene – Swift Action","Info":"Choose a Pokémon or Trainer within 5 meters. The target’s Accuracy is lowered by 2."

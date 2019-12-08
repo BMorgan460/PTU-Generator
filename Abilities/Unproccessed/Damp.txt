@@ -1,1 +1,1 @@
-Ability: Damp Static Effect: The Moves Self-Destruct and Explosion may not be used when a Pokémon with Damp is within 10-meters of Self-Destruct or Explosion’s user. The Ability Aftermath may not be activated when a Pokémon with Damp is within 10-meters of the Pokémon attempting to activate Aftermath. 
+Ability: Damp Static Effect: Whenever anyone within 10 meters would use the Moves Self-Destruct or Explosion or activate the Aftermath Ability, those effects fail and instead do nothing. Bonus: The user gains a +1d10 Bonus to Damage Rolls with Water-Typed Moves.

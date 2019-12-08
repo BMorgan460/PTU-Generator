@@ -1,0 +1,1 @@
+"Name":"Chlorophyll","Freq":"Static","Info":"While in Sunny Weather or under 50% Max Hit Points, the user’s Initiative is doubled."

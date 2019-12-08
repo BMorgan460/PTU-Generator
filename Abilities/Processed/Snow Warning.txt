@@ -1,0 +1,1 @@
+"Name":"Snow Warning","Freq":"Scene – Free Action","Info":"The Weather changes to Hail for 5 rounds. As a static effect the user is not damaged by Hail."

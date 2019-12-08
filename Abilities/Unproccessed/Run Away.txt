@@ -1,0 +1,1 @@
+Ability: Run Away Static Effect: The user does not provoke Attacks of Opportunity by Shifting.  The user cannot be Trapped. 

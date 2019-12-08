@@ -1,0 +1,1 @@
+Ability: Conflagrate Frequency: At-Will – Free Action Trigger: The user uses a Normal-type damaging move. Effect: The move is changed to Fire-type.

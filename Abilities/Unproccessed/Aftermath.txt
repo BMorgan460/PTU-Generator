@@ -1,1 +1,1 @@
-Ability: Aftermath Scene – Free Action Effect: When the user is reduced to 0 Hit Points or less, they create a Burst 1. Everything in the Burst loses ¼ of its Max Hit Points. 
+Ability: Aftermath Scene � Free Action Trigger: The user becomes Fainted Effect: The user creates a Burst 1. Everything in the Burst loses three Ticks of Hit Points. 

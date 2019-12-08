@@ -1,0 +1,1 @@
+"Name":"Swift Swim","Freq":"Static","Info":"While in Rainy Weather or under 50% Max Hit Points, the user’s Initiative is doubled."

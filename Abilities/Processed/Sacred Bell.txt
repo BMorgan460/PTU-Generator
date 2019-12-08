@@ -1,0 +1,1 @@
+"Name":"Sacred Bell","Freq":"Static","Info":"The user resists Dark and Ghost-Type Damage one step further."

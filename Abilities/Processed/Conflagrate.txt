@@ -1,0 +1,1 @@
+"Name":"Conflagrate","Freq":"At-Will – Free Action","Info":"The user uses a Normal-type damaging move.The move is changed to Fire-type."

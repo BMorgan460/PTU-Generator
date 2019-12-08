@@ -1,0 +1,1 @@
+"Name":"Contrary","Freq":"Static","Info":"If something would raise the user’s Combat Stages, it instead lowers the user’s Combat Stages by the same amount. If something would lower the user’s Combat Stages, it instead raises the user’s Combat Stages by the same amount."

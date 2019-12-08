@@ -1,0 +1,1 @@
+Ability: Snuggle Scene - Standard Action Target: An adjacent target Effect: The user and the target each gain two ticks of Temporary Hit Points.

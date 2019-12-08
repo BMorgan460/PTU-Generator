@@ -1,0 +1,1 @@
+Ability: Water Bubble Frequency: Static Effect: The user is immune to the Burn condition, and resists Fire attacks one step further. Bonus: Water moves used by the user have their Damage Base increased by 2.

@@ -1,0 +1,1 @@
+Ability: Sumo Stance At-Will - Shift Action Trigger: The user hits a foe with a Melee Attack Effect: The triggering foe is Pushed 1 meter away from the user and the user is immune to Push Effects for 1 full round. Bonus: The user’s Weight Class is increased by +1. 

@@ -1,0 +1,1 @@
+Ability: Sprint Scene – Swift Action Trigger: The user uses the Sprint Action during Combat Effect: The user gains +2 Speed Combat Stages. Bonus: The user’s Overland Speed is increased by +2. 

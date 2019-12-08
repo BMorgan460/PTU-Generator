@@ -1,0 +1,1 @@
+"Name":"Fluffy","Freq":"Static","Info":"The user resists damage from melee range physical attacks one stage further, but is now one stage weaker to Fire attacks."

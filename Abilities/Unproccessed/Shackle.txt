@@ -1,0 +1,1 @@
+Ability: Shackle Scene – Swift Action Effect: Shackle creates a Burst 3. All foes in the burst have their movement capabilities halved until the end of their next turn. 

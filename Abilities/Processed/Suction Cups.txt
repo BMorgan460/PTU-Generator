@@ -1,0 +1,1 @@
+"Name":"Suction Cups","Freq":"At-Will - Shift Action","Info":"The user gains +5 Damage Reduction for 1 full round. Bonus: The user is immune to Push effects. Defensive."

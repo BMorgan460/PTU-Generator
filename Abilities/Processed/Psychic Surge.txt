@@ -1,0 +1,1 @@
+"Name":"Psychic Surge","Freq":"Scene – Swift Action","Info":"The field becomes Psychic Terrain for 5 rounds."

@@ -1,0 +1,1 @@
+"Name":"Hyper Cutter","Freq":"Static","Info":"The user’s Attack Stat may not be lowered, and its Attack Combat Stages may not be lowered. Defensive."

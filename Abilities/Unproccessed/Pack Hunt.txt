@@ -1,0 +1,1 @@
+Ability: Pack Hunt At-Will – Free Action Trigger: An adjacent foe is damaged by an ally’s Melee Attack Effect: The user may make a Physical Attack with an AC of 5 against the triggering foe. If the attack hits, the foe loses a Tick of Hit Points. 

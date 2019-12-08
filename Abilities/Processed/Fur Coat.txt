@@ -1,0 +1,1 @@
+"Name":"Fur Coat","Freq":"Static","Info":"The user resists all Physical Attacks one step further. Defensive."

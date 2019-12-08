@@ -1,0 +1,1 @@
+"Name":"Cluster Mind","Freq":"Static","Info":"The user’s Move Pool limit is increased by +2."

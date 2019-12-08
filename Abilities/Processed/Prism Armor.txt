@@ -1,0 +1,1 @@
+"Name":"Prism Armor","Freq":"Static","Info":"The user gains +10 Damage Reduction against Super-Effective damage. Defensive."

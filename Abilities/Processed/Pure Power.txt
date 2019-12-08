@@ -1,0 +1,1 @@
+"Name":"Pure Power","Freq":"Static","Info":"The Pokémon’s base attack stat is doubled. This may double any bonuses from Nature or Vitamins, but not bonuses from Features."

@@ -1,0 +1,1 @@
+"Name":"Grass Pelt","Freq":"Scene - Swift Action","Info":"The user gains two ticks worth of Temporary Hit Points. Bonus: When standing on any grassy or leafy terrain that is either Slow or Rough Terrain, the user gains +5 Damage Reduction. Defensive."

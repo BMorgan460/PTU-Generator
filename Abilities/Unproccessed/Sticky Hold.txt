@@ -1,0 +1,1 @@
+Ability: Sticky Hold Static Effect: The Pokémon’s held items cannot be stolen, switched, destroyed or dropped. 

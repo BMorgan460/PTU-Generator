@@ -1,0 +1,1 @@
+"Name":"Gore","Freq":"Scene x2 - Swift Action","Info":"The user uses Horn AttackConnection - Horn Attack. Horn Attack gains the Double Strike keyword, and pushes its target 2 meters."

@@ -1,0 +1,1 @@
+Ability: Tolerance Static Effect: Any Types resisted by the user are resisted one step further. Defensive. 

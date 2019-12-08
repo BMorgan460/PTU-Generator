@@ -1,0 +1,1 @@
+"Name":"Turboblaze","Freq":"Static","Info":"The user’s Fire-Type Attacks ignore the effect of enemies’ Defensive Abilities, and if they would be resisted they deal neutral damage instead."

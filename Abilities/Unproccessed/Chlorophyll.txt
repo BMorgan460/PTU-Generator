@@ -1,1 +1,1 @@
-Ability: Chlorophyll Static Effect: While in Sunny Weather, the user gains +4 Speed Combat Stages. 
+Ability: Chlorophyll Static Effect: While in Sunny Weather or under 50% Max Hit Points, the user’s Initiative is doubled. 

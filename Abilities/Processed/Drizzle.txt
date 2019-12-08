@@ -1,0 +1,1 @@
+"Name":"Drizzle","Freq":"Scene x3 – Swift Action","Info":"The Weather changes to be Rainy for 1 full round."

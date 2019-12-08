@@ -1,0 +1,1 @@
+Ability: Sheer Force Static Effect: Moves with an Effect Range gain a +10 Bonus to Damage, but Effect Ranges can never be triggered.

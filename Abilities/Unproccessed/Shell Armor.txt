@@ -1,0 +1,1 @@
+Ability: Shell Armor Static Effect: The user is immune to Critical Hits; they are instead normal hits. Defensive. 

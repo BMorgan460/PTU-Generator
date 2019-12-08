@@ -1,0 +1,1 @@
+Ability: Synchronize Scene – Free Action Trigger: The user is Paralyzed, Frozen, Burned, Poisoned, or put to Sleep. Effect: The foe which caused the Status Condition is given the same Status they inflicted. 

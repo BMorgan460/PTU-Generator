@@ -1,0 +1,1 @@
+"Name":"Drown Out","Freq":"Scene x2 – Free Action","Info":"A foe uses a Move with the Sonic keywordThe triggering Move fails and has no effect."

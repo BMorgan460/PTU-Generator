@@ -1,0 +1,1 @@
+"Name":"Pickpocket","Freq":"Scene – Free Action","Info":"The user is hit by an opponent with a Melee MoveIf the opponent has a Held Item and the user does not, the user takes the Held Item the opponent is holding."

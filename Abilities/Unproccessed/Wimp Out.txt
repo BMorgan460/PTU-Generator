@@ -1,0 +1,1 @@
+Ability: Wimp Out Frequency: Static Trigger: The user is brought to 50% Hit Points or lower. Effect: The user is immediately returned to it’s Pokeball. A new Pokemon can immediately be sent out.

@@ -1,1 +1,1 @@
-Ability: Insomnia Static Effect: The user is immune to the Sleep condition, and cannot use the move Rest. Defensive.
+Ability: Static Scene – Free Action Trigger: The user is hit by a Melee Attack Effect: The attacking foe becomes Paralyzed. 

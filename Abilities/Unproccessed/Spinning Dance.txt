@@ -1,0 +1,1 @@
+Ability: Spinning Dance At-Will - Free Action Trigger: The user is targeted by an attack, but is missed Effect: If not Fainted, Paralyzed, or Asleep, the user gains +1 Evasion and may immediately Shift 1 meter. 

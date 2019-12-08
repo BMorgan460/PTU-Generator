@@ -1,0 +1,1 @@
+"Name":"Iron Barbs","Freq":"At-Will - Free Action, Reaction","Info":"The user is hit by a damaging Melee AttackThe attacker loses Hit Points equal to Tick of Hit Points."

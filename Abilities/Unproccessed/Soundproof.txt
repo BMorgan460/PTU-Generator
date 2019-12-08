@@ -1,0 +1,1 @@
+Ability: Soundproof Static Effect: The Pokémon is immune to Moves with the Sonic Keyword. Defensive. 

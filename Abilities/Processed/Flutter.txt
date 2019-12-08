@@ -1,0 +1,1 @@
+"Name":"Flutter","Freq":"At-Will – Shift Action","Info":"The user gains +3 Evasion until the end of their next turn, and cannot be Flanked."

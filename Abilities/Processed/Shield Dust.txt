@@ -1,0 +1,1 @@
+"Name":"Shield Dust","Freq":"Static","Info":"The user ignores the secondary effects that trigger during Accuracy Roll of damaging Moves that target the user. For example, Flamethrower can never inflict the Burn Condition. Defensive."

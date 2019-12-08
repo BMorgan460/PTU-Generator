@@ -1,0 +1,1 @@
+"Name":"Life Force","Freq":"Daily x5 – Swift Action","Info":"The user gains a Tick of Hit Points."

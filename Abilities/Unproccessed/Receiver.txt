@@ -1,0 +1,1 @@
+Ability: Receiver Frequency: Scene – Free Action Trigger: An Allied Pokemon has fainted. Effect: Select one of the abilities the allied Pokemon has. The user replaces Reciever with the chosen ability for the remainder of the Scene.

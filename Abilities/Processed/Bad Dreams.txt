@@ -1,0 +1,1 @@
+"Name":"Bad Dreams","Freq":"At-Will - Swift Action","Info":"All Sleeping targets within 5 meters lose a Tick of Hit Points. If at least one target lost Hit Points this way, the user gains a tick of Temporary Hit Points."

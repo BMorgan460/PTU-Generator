@@ -1,1 +1,1 @@
-Ability: Abominable Static Effect: The user ignores the Recoil Keyword when attacking, and does not gain injuries from Massive Damage. 
+Ability: Abominable Static Effect: The user’s Base HP is increased by +5. Additionally, the user ignores the Recoil Keyword when attacking. 

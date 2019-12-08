@@ -1,0 +1,1 @@
+Ability: Tangling Hair Frequency: At-Will – Free Action Trigger: The user is hit by a melee ranged attack. Effect: The triggering opponent’s Speed is lowered by 1 Combat Stage

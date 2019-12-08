@@ -1,0 +1,1 @@
+"Name":"Prankster","Freq":"Static","Info":"The user may use Status Moves as Priority (Advanced)."

@@ -1,0 +1,1 @@
+"Name":"Winter’s Kiss","Freq":"Static","Info":"The user does not take damage from Ice-Type Moves. Whenever the user uses or is hit by an IceType Move, the user is healed by a Tick of Hit Points. Defensive."

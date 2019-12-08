@@ -1,0 +1,1 @@
+"Name":"Celebrate","Freq":"At-Will – Swift Action","Info":"The user hits a foe with a damaging attackThe user may immediately Disengage as a Free Action. Bonus: Whenever the user Disengages for any reason, they may Shift 2 meters instead of 1."

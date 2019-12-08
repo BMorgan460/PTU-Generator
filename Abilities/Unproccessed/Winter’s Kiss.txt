@@ -1,0 +1,1 @@
+Ability: Winter’s Kiss Static Effect: The user does not take damage from Ice-Type Moves. Whenever the user uses or is hit by an IceType Move, the user is healed by a Tick of Hit Points. Defensive. 

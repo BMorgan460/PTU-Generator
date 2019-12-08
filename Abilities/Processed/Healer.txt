@@ -1,0 +1,1 @@
+"Name":"Healer","Freq":"Scene – Free Action","Info":"An Adjacent Pokémon or TrainerThe target is cured of all Status conditions."

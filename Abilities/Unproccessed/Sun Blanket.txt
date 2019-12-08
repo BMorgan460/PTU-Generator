@@ -1,0 +1,1 @@
+Ability: Sun Blanket Daily x5 - Swift Action Trigger: The user gains Initiative. Effect: The user gains a Tick of Hit Points. Sun Blanket may only be triggered while the user is under 50% Hit Points or in Sunny Weather. 

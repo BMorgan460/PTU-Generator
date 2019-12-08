@@ -1,1 +1,1 @@
-Ability: Grass Pelt Static Effect: When standing on any grassy or leafy terrain that is either Slow or Rough Terrain, the user gains +5 Damage Reduction. Defensive. 
+Ability: Grass Pelt Scene - Swift Action Effect: The user gains two ticks worth of Temporary Hit Points.  Bonus: When standing on any grassy or leafy terrain that is either Slow or Rough Terrain, the user gains +5 Damage Reduction. Defensive. 

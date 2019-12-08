@@ -1,0 +1,1 @@
+"Name":"Skill Link","Freq":"Scene – Free Action","Info":"The user hits with a Move with the Five Strike keyword.The Triggering Move automatically hits 5 Times."

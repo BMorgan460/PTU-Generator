@@ -1,0 +1,1 @@
+"Name":"Simple","Freq":"Static","Info":"When the Pokémon’s Combat Stages are altered, double the amount of Combat Stages they are raised or lowered."

@@ -1,0 +1,1 @@
+"Name":"Sprint","Freq":"Scene – Swift Action","Info":"The user uses the Sprint Action during CombatThe user gains +2 Speed Combat Stages. Bonus: The user’s Overland Speed is increased by +2."

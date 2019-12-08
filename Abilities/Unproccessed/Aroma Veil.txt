@@ -1,1 +1,1 @@
-Ability: Aroma Veil Static Effect: The user and all PokÃ©mon and Trainers within 3 meters cannot be Confused, Enraged, or Suppressed. Defensive. 
+Ability: Aroma Veil Static Effect: The user and all adjacent Pokémon and Trainers cannot become Confused, Enraged, or Suppressed. Defensive. 

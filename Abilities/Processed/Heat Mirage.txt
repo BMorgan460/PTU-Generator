@@ -1,0 +1,1 @@
+"Name":"Heat Mirage","Freq":"At-Will – Free Action","Info":"The user uses a Fire-Type MoveThe user’s Evasion is increased by +3 until the beginning of their next turn."

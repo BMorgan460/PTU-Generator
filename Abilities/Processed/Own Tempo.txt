@@ -1,0 +1,1 @@
+"Name":"Own Tempo","Freq":"Static","Info":"The user is immune to Confusion. Defensive."

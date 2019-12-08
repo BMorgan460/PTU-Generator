@@ -1,0 +1,1 @@
+"Name":"Frighten","Freq":"Scene – Swift Action","Info":"A Pokémon or Trainer within 5 metersLower the target’s Speed 2 Combat Stages."

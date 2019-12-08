@@ -1,0 +1,1 @@
+Ability: RKS System Frequency: Static Effect: The user changes its Primary type to the type of the Plate, Bracer, or Drive being held.

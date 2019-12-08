@@ -1,0 +1,1 @@
+"Name":"Ignition Boost","Freq":"At-Will – Free Action","Info":"An adjacent Ally uses a damaging Fire-Type MoveThe allied target gains a +5 Bonus to its damage roll with the triggering Move. A target may not benefit from more than one instance of Ignition Boost at a time."

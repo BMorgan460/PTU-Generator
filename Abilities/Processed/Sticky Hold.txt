@@ -1,0 +1,1 @@
+"Name":"Sticky Hold","Freq":"Static","Info":"The Pokémon’s held items cannot be stolen, switched, destroyed or dropped."

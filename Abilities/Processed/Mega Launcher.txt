@@ -1,0 +1,1 @@
+"Name":"Mega Launcher","Freq":"Static","Info":"The user increases the Damage Base of Aura Sphere, Dark Pulse, Dragon Pulse, and Water Pulse by +2."

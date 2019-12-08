@@ -1,0 +1,1 @@
+Ability: Steelworker Frequency: Static Effect: Steel-type moves used by the user have their Damage Base increased by 2.

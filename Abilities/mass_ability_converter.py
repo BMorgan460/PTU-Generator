@@ -3,6 +3,7 @@ import os
 file = os.path.join(os.getcwd(), "mass_abilities.txt")
 f = open(file, "r")
 for line in f:
+    line.replace("“", '"')
     abilities = line.split("Ability: ")
     print(abilities)
     for ability in abilities[1:]:
@@ -10,6 +11,8 @@ for line in f:
         words = ability.split()
         for word in words:
             if word == "Static" or word == "At-Will" or word == "Scene" or word == "Daily" or word == "Special":
+                break
+            elif word == "Frequency:":
                 break
             else:
                 name.append(word)

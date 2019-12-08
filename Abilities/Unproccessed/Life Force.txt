@@ -1,1 +1,1 @@
-Ability: Life Force Daily â€“ Swift Action Effect: The user gains a Tick of Hit Points immediately upon activating this Ability, and gains the same amount at the beginning of each of their turns for the following 4 rounds. 
+Ability: Life Force Daily x5 – Swift Action Effect: The user gains a Tick of Hit Points. 

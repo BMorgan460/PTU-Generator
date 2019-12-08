@@ -1,1 +1,1 @@
-Ability: Flare Boost Static Effect: While Burned, the user’s Special Attack is raised by 2 Combat Stages. If the user is cured of its Burn, its Special Attack is lowered by 2 Combat Stages. 
+Ability: Flare Boost Scene - Swift Action Effect: The user gains +3Attack and Special Attack Combat Stages. Flare Boost may only be used while Burned. 

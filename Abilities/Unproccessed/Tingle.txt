@@ -1,0 +1,1 @@
+Ability: Tingle At-Will - Free Action Trigger: The user hits an adjacent target foe with a 1-Target attack Effect: The target loses a Tick of Hit Points and takes a -5 penalty to Damage Rolls for 1 full round. 

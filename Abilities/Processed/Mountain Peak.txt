@@ -1,0 +1,1 @@
+"Name":"Mountain Peak","Freq":"Static","Info":"The user gains Last Chance with Rock."

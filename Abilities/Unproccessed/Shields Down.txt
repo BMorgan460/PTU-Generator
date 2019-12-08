@@ -1,0 +1,1 @@
+Ability: Shields Down Frequency: Scene – Free Action Trigger: The user falls below 50% Hit Points. Effect: Keep 2 character sheets for the user, one for Meteor form, and one for Core form. The user is normally in Meteor form. When this ability triggers, the user switches to Core form.

@@ -1,0 +1,1 @@
+"Name":"Rivalry","Freq":"Static","Info":"Whenever the user deals direct damage to a target of the same gender, increase the Damage dealt by +5."

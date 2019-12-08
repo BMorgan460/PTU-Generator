@@ -1,0 +1,1 @@
+"Name":"Prime Fury","Freq":"Scene – Swift Action","Info":"The user becomes Enraged, and gains +1 Combat Stage in each of Attack and Special Attack."

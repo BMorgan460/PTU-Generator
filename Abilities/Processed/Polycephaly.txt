@@ -1,0 +1,1 @@
+"Name":"Polycephaly","Freq":"Static","Info":"The user may make Struggle Attacks as a Swift Action. Struggle Attacks made this way are resisted one step further than they normally would be."

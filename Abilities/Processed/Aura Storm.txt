@@ -1,0 +1,1 @@
+"Name":"Aura Storm","Freq":"Static","Info":"For each injury the user has, they gain a +3 Bonus to Damage Rolls."

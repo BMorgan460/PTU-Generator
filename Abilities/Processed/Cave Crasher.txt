@@ -1,0 +1,1 @@
+"Name":"Cave Crasher","Freq":"Static","Info":"The user resists Ground-Type and Rock-Type attacks one step further. Defensive."

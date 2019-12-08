@@ -1,0 +1,1 @@
+"Name":"Parry","Freq":"Scene – Free Action","Info":"The user is hit by a Melee AttackThe attack instead misses. Defensive."

@@ -1,0 +1,1 @@
+Ability: Unnerve At-Will - Swift Action Target: A foe within 6 meters Effect: The target cannot gain positive Combat Stages or trade in Digestion Buffs for 1 full round.

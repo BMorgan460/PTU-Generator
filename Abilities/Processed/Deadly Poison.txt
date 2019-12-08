@@ -1,0 +1,1 @@
+"Name":"Deadly Poison","Freq":"Daily – Free Action","Info":"The user Poisons a targetThe target is Badly Poisoned instead."

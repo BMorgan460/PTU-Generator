@@ -1,0 +1,1 @@
+"Name":"Weak Armor","Freq":"At-Will – Free Action","Info":"The user takes Physical damage.The user may lower its Defense by 1 Combat Stage, and gain +1 Speed Combat Stage. This is done after the triggering damage is resolved."

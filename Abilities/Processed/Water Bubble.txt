@@ -1,0 +1,1 @@
+"Name":"Water Bubble","Freq":"Static","Info":"The user is immune to the Burn condition, and resists Fire attacks one step further. Bonus: Water moves used by the user have their Damage Base increased by 2."

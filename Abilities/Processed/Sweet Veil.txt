@@ -1,0 +1,1 @@
+"Name":"Sweet Veil","Freq":"Static","Info":"The user and allies within 3 meters are immune to Sleep. Defensive."

@@ -1,0 +1,1 @@
+"Name":"Shed Skin","Freq":"Scene – Swift Action","Info":"The user is cured of one of Paralysis, Freezing, Burns, Poison, or Sleep."

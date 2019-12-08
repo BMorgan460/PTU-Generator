@@ -1,0 +1,1 @@
+Ability: Wobble Scene – Free Action Trigger: The user is hit by a damaging attack Effect: The user may use either Counter or Mirror Coat as a Reaction, ignoring Frequency. 
