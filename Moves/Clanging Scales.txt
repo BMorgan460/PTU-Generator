@@ -1,0 +1,1 @@
+Move: Clanging Scales Type: Dragon Frequency: Scene x2 AC: 4 DB: 11 Class: Special Range: Close Blast 3, Sonic, Smite Effect: Clanging Scales lowers the users Defense by 1 Combat Stage.

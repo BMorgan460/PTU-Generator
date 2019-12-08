@@ -1,0 +1,1 @@
+Move: Water Spout Type: Water Frequency: Daily AC: 4 Damage Base 15: 4d10+20 / 45 Class: Special Range: Burst 1* Effect: For each 10% of HP the user is missing, Water Spout’s Damage Base is reduced by 1. Water Spout creates a 1 meter burst, but also affects an area 10 meters tall straight up. Contest Type: Beauty Contest Effect: Seen Nothing Yet 

@@ -1,0 +1,1 @@
+Move: Charge Type: Electric Frequency: EOT AC: None Class: Status Range: Self Effect: If the user performs an Electric Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage. Raise the user’s Special Defense 1 Combat Stage. Contest Type: Smart Contest Effect: Get Ready! 

@@ -1,0 +1,1 @@
+Move: Megahorn Type: Bug Frequency: Scene x2 AC: 5 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, 1 Target, Push Effect: The target is pushed 1 Meter. Contest Type: Cool Contest Effect: Desperation 

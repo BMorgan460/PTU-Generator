@@ -1,0 +1,1 @@
+Move: Dragon Tail Type: Dragon Frequency: At-Will AC: 3 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target, Push Effect: The target is Pushed 6 meters minus their Weight Class. On a roll of 15+, the target is also Tripped. Contest Type: Smart Contest Effect: Big Show 

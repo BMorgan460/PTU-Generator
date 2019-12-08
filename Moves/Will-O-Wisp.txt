@@ -1,0 +1,1 @@
+Move: Will-O-Wisp Type: Fire Frequency:  EOT AC: 5 Class: Status Range: 6, 1 Target Effect: The target is Burned. Contest Type: Beauty Contest Effect: Exhausting Act

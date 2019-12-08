@@ -1,0 +1,1 @@
+Move: Twineedle Type: Bug Frequency: At-Will AC: 3 Damage Base 3: 1d6+5 / 9 Class: Physical Range: Melee, 1 Target, Double Strike Effect: Twineedle Poisons the target on an Accuracy Check of 18+ Contest Type: Cool Contest Effect: Reliable 

@@ -1,0 +1,1 @@
+Move: Struggle Bug Type: Bug Frequency: At-Will AC: 2 Damage Base 5: 1d8+8 / 13 Class: Special Range: Cone 2 Effect: On hit, lowers the target’s Special Attack by -1 CS. Contest Type: Smart Contest Effect: Excitement 

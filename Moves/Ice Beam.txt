@@ -1,0 +1,1 @@
+Move: Ice Beam Type: Ice Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: 4, 1 Target Effect: Ice Beam Freezes on 19+ during Accuracy Check. Contest Type: Beauty Contest Effect: Exhausting Act 

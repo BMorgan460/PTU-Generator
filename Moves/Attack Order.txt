@@ -1,0 +1,1 @@
+Move: Attack Order Type: Bug Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Physical Range: 6, 1 Target Effect: Attack Order is a Critical Hit on 18+. Contest Type: Smart Contest Effect: Incentives 

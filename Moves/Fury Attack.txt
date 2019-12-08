@@ -1,0 +1,1 @@
+Move: Fury Attack Type: Normal Frequency: At-Will AC: 4 Damage Base 2: 1d6+3 / 7 Class: Physical Range: Melee, 1 Target, Five Strike Effect: None Contest Type: Cool Contest Effect: Reliable 

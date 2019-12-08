@@ -1,0 +1,1 @@
+Move: Lovely Kiss Type: Normal Frequency: Scene x2 AC: 6 Class: Status Range: 6, 1 Target, Social Effect: The target falls Asleep. Contest Type: Beauty Contest Effect: Excitement

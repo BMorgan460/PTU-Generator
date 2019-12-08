@@ -1,0 +1,1 @@
+Move: Stored Power Type: Psychic Frequency: EOT AC: 2 Damage Base 2: 1d6+3 / 7 Class: Special Range: 10, 1 Target Effect: For every Combat Stage the user has above 0, add +2 to Stored Power’s Damage Base, up to a maximum of Damage Base 20. Contest Type: Tough Contest Effect: Incentives 

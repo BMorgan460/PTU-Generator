@@ -1,0 +1,1 @@
+Move: Sacred Sword Type: Fighting Frequency: EOT AC: None Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target Effect: Sacred Sword cannot miss. Contest Type: Cool Contest Effect: Steady Performance 

@@ -1,0 +1,1 @@
+Move: Play Nice Type: Normal Frequency: At-Will AC: 2 Class: Status Range: 6, 1 Target, Social Effect: Play Nice lowers the target’s Attack by 1 Combat Stage. Contest Type: Cute Contest Effect: Excitement 

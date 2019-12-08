@@ -1,0 +1,1 @@
+Move: Eruption Type: Fire Frequency: Daily AC: 4 Damage Base 15: 4d10+20 / 45 Class: Special Range: Burst 1* Effect: For each 10% of Hit Points the user is missing, Eruption’s Damage Base is reduced by 1. Eruption creates a 1 meter burst, but also affects an area 10 meters tall straight up. Contest Type: Beauty Contest Effect: Desperation 

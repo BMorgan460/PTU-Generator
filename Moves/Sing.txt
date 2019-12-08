@@ -1,0 +1,1 @@
+Move: Sing Type: Normal Frequency: Scene AC: 10 Class: Status Range: Burst 2, Friendly, Sonic Effect: All legal Targets fall Asleep. On a miss, Sing instead causes targets to become Slowed and suffer a -2 penalty to their Evasion until the end of the user’s next turn. Contest Type: Cute Contest Effect: Excitement 

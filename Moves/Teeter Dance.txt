@@ -1,0 +1,1 @@
+Move: Teeter Dance Type: Normal Frequency: Scene AC: 2 Class: Status Range: Burst 1 Effect: Teeter Dance Confuses all Legal Targets. Contest Type: Cute Contest Effect: Tease 

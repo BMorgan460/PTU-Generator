@@ -1,0 +1,1 @@
+Move: Gear Up Type: Steel Frequency: Scene x2 Class: Status Range: Closed Burst 3 Effect: Gear Up increases the Attack and Special Attack Combat Stages of all Pokemon within range with the Plus or Minus ability by 1.

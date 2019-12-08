@@ -1,0 +1,1 @@
+Move: Splash Type: Normal Frequency: At-Will AC: None Class: Status Range: Self Effect:  Shift Action - The user may make a single Jump, adding +1 to their Long Jump and High Jump values, and gains +2 Evasion until the end of their next turn. Contest Type: Cute Contest Effect: Inversed Appeal Special: Grants Long Jump +1

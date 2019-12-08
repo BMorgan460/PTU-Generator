@@ -1,0 +1,1 @@
+Move: Close Combat Type: Fighting Frequency: Scene x2 AC: 2 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, 1 Target, Dash Effect: The user’s Defense and Special Defense are each lowered by -1 Combat Stage. Contest Type: Smart Contest Effect: Seen Nothing Yet 

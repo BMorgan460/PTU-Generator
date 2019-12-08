@@ -1,0 +1,1 @@
+Move: Shadow Bone Type: Ghost Frequency: EOT AC: 3 DB: 9 Class: Physical Range: Melee, 1 Target Effect: Shadow Bone lowers the targets Defense by 1 Combat Stage on 19+.

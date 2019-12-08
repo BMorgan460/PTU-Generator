@@ -1,0 +1,1 @@
+Move: Roost Type: Flying Frequency: Daily x2 AC: None Class: Status Range: Self Effect: The user regains Hit Points equal to half of its full Hit Points. If the user is a Flying Type, it loses the Flying Type until the start of their next turn. Contest Type: Cool Contest Effect: Safe Option 

@@ -1,0 +1,1 @@
+Move: Psychic Type: Psychic Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: 5, 1 Target, Push Effect: The target is Pushed 1 meter in any direction. Psychic lowers the target’s Special Defense 1 Combat Stage on 17+. Contest Type: Smart Contest Effect: Exhausting Act Special: Grants Telekinetic 

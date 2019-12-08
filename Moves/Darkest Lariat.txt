@@ -1,0 +1,1 @@
+Move: Darkest Lariat Type: Dark Frequency: EOT AC: 2 DB: 9 Class: Physical Range: Melee, 1 Target Effect: Ignore any Armor, Damage Reduction, or changes in the target’s Defense or Special Defense when calculating damage.

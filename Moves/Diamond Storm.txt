@@ -1,0 +1,1 @@
+Move: Diamond Storm Type: Rock Frequency: Scene AC: 3 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Close Blast 3, Friendly, Smite Effect: On Even-Numbered Rolls, Diamond Storm raises the User’s Defense by 1 Combat Stage. Contest Type: Beauty Contest Effect: Seen Nothing Yet 

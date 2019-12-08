@@ -1,0 +1,1 @@
+Move: Hyper Voice Type: Normal Frequency: Scene x2 AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: Close Blast 3, Sonic, Smite Effect: All Legal Targets are pushed back to the squares immediately outside the blast, away from the user. Contest Type: Cool Contest Effect: Steady Performance 

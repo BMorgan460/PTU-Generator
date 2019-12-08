@@ -1,0 +1,1 @@
+Move: Acid Spray Type: Poison Frequency: EOT AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: 4, 1 Target Effect: Acid Spray lowers the target’s Special Defense 2 Combat Stages. Contest Type: Smart Contest Effect: Unsettling

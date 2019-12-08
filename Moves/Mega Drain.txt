@@ -1,0 +1,1 @@
+Move: Mega Drain Type: Grass Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: 6, 1 Target Effect: After the target takes damage, the user gains Hit Points equal to half of the damage they dealt to the target. Contest Type: Smart Contest Effect: Good Show! 

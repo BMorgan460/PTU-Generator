@@ -1,0 +1,1 @@
+Move: Crush Grip Type: Normal Frequency: Scene AC: 2 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, 1 Target Effect: For every 10% the target is below their full Hit Points, Crush Grip’s Damage Base is reduced by 1. Contest Type: Tough Contest Effect: Double Time 

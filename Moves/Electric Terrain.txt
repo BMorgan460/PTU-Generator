@@ -1,0 +1,1 @@
+Move: Electric Terrain Type: Electric Frequency: Daily x2 AC: None Class: Status Range: Field Effect: The field becomes Electrified for 5 rounds. While Electrified, Pokémon and Trainers touching the ground are immune to Sleep, and Electric-Type attacks used by Pokémon and Trainers touching the ground gain a +10 Bonus to Damage Rolls. Contest Type: Cool Contest Effect: Sabotage 

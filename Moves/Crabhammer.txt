@@ -1,0 +1,1 @@
+Move: Crabhammer Type: Water Frequency: EOT AC: 4 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Melee, 1 Target Effect: Crabhammer is a Critical Hit on 18+. Contest Type: Tough Contest Effect: Exhausting Act

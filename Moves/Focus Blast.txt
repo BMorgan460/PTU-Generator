@@ -1,0 +1,1 @@
+Move: Focus Blast Type: Fighting Frequency: Scene x2 AC: 7 Damage Base 12: 3d12+10 / 30 Class: Special Range: 6, 1 Target, Smite, Aura Effect: Focus Blast lowers the target’s Special Defense 1 Combat Stage on 18+. Contest Type: Cool Contest Effect: Exhausting Act 

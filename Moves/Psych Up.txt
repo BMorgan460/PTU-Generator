@@ -1,0 +1,1 @@
+Move: Psych Up Type: Normal Frequency: Scene AC: None Class: Status Range: 6, 1 Target Effect: The user’s Combat Stages are changed to match the target’s Combat Stages. Psych Up cannot miss. Contest Type: Smart Contest Effect: Get Ready! 

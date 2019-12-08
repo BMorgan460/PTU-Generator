@@ -1,0 +1,1 @@
+Move: Mud-Slap Type: Ground Frequency: At-Will AC: 2 Damage Base 2: 1d6+3 / 7 Class: Special Range: 3, 1 Target Effect: The target’s Accuracy is lowered by -1. Contest Type: Cute Contest Effect: Steady Performance

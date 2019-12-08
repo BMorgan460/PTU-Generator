@@ -1,0 +1,1 @@
+Move: Leech Life Type: Bug Frequency: At-Will AC: 2 Damage Base 2: 1d6+3 / 7 Class: Physical Range: Melee, 1 Target Effect: After the target takes damage, the user gains Hit Points equal to half of the damage they dealt to the target. Contest Type: Smart Contest Effect: Good Show! 

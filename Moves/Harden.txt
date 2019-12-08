@@ -1,0 +1,1 @@
+Move: Harden Type: Normal Frequency: At-Will AC: None Class: Status Range: Self Effect: Raise the user’s Defense 1 Combat Stage. Contest Type: Tough Contest Effect: Sabotage 

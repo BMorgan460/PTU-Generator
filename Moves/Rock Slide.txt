@@ -1,0 +1,1 @@
+Move: Rock Slide Type: Rock Frequency: Scene x2 AC: 4 Damage Base 8: 2d8+10 / 19 Class: Physical Range: 6, Ranged Blast 3 Effect: Rock Slide Flinches all Legal Targets on 17+. Contest Type: Tough Contest Effect: Steady Performance 

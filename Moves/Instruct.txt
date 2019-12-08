@@ -1,0 +1,1 @@
+Move: Instruct Type: Normal Frequency: Daily x2 Class: Status Range: 6, 1 Target Effect: The target of this attack may attack once during the user’s turn as an interrupt action, using the last move they used as if it had the Interrupt keyword. Using a move this way disregards Frequency.

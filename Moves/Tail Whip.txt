@@ -1,0 +1,1 @@
+Move: Tail Whip Type: Normal Frequency: At-Will AC: 2 Class: Status Range: Burst 1, Friendly Effect: All legal targets have their Defense lowered by 1 Combat Stage. Contest Type: Cute Contest Effect: Excitement

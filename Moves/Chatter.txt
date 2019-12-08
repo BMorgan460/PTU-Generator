@@ -1,0 +1,1 @@
+Move: Chatter Type: Flying Frequency: At-Will AC: 2 Damage Base 7: 2d6+10 / 17 Class: Special Range: 4, 1 Target, Sonic Effect: Chatter confuses all targets on 16+. Contest Type: Smart Contest Effect: Catching Up

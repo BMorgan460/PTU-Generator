@@ -1,0 +1,1 @@
+Move: Searing Shot Type: Fire Frequency: EOT AC: 2 Damage Base 10: 3d8+10 / 24 Class: Special Range: Burst 1 Effect: Searing Shot Burns all targets on 15+. Contest Type: Beauty Contest Effect: Exhausting Act 

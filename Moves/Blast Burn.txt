@@ -1,0 +1,1 @@
+Move: Blast Burn Type: Fire Frequency: Daily x2 AC: 4 Damage Base 15: 4d10+20 / 45 Class: Special Range: Close Blast 3, Smite, Exhaust Effect: None Contest Type: Beauty Contest Effect: Seen Nothing Yet 

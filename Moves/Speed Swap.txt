@@ -1,0 +1,1 @@
+Move: Speed Swap Type: Psychic Frequency: Scene Class: Status Range: Melee, 1 Target Effect: The user and the target trade Combat Stage values for their Speed Stat.

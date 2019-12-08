@@ -1,0 +1,1 @@
+Move: Techno Blast Type: Normal Frequency: Scene AC: 2 Damage Base 12: 3d12+10 / 30 Class: Special Range: 6, Ranged Blast 2 Effect: Techno Blast’s Type can be any Type while holding the appropriate Drive item or Plate item. Contest Type: Smart Contest Effect: Seen Nothing Yet 

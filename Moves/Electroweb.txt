@@ -1,0 +1,1 @@
+Move: Electroweb Type: Electric Frequency: EOT AC: 3 Damage Base 6: 2d6+8 / 15 Class: Special Range: 4, Ranged Blast 2 Effect: All Legal Targets are lowered 1 Speed Combat Stage. Contest Type: Smart Contest Effect: Sabotage 

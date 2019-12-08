@@ -1,0 +1,1 @@
+Move: Photon Geyser Type: Psychic Frequency: Scene AC: 3 DB: 10 Class: Special Range: Line 6 Effect: If the user’s Attack is higher than its Special Attack, it may use this move as a Physical attack instead.

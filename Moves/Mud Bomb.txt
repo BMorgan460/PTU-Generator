@@ -1,0 +1,1 @@
+Move: Mud Bomb Type: Ground Frequency: At-Will AC: 4 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target Effect: The target’s Accuracy is lowered by -1 on 16+. Contest Type: Smart Contest Effect: Desperation 

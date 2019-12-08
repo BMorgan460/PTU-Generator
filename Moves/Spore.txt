@@ -1,0 +1,1 @@
+Move: Spore Type: Grass Frequency: Scene AC: None Class: Status Range: 4, 1 Target, Powder Effect: The target falls Asleep. Contest Type: Beauty Contest Effect: Get Ready! 

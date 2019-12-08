@@ -1,0 +1,1 @@
+Move: Strength Sap Type: Grass Frequency: Daily x2 Class: Status Range: 3, 1 Target Effect: The user regains Hit Points equal to the targets Attack state (including Combat Stages), then reduces the targets Attack Combat Stage by 1.

@@ -1,0 +1,1 @@
+Move: Sludge Bomb Type: Poison Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: 8, 1 Target Effect: Sludge Bomb Poisons the target on 15+. Contest Type: Tough Contest Effect: Desperation 

@@ -1,0 +1,1 @@
+Move: Nightmare Type: Ghost Frequency: Scene x2 AC: 2 Class: Status Range: Melee, 1 Target Effect: Nightmare can only hit Legal Targets that are Asleep. The target gains Bad Sleep. Contest Type: Smart Contest Effect: Excitement 

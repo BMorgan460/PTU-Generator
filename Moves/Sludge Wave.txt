@@ -1,0 +1,1 @@
+Move: Sludge Wave Type: Poison Frequency: Scene x2 AC: 2 Damage Base 10: 3d8+10 / 24 Class: Special Range: Burst 1 or Close Blast 2 Effect: Sludge Wave Poisons targets on 19+. Contest Type: Cool Contest Effect: Steady Performance 

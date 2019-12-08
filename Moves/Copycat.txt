@@ -1,0 +1,1 @@
+Move: Copycat Type: Normal Frequency: Scene x2 AC: None Class: Status Range: 4, 1 Target Effect: Use the Move the target has used on their last turn. You may choose new targets for the Move. Copycat cannot miss. Contest Type: Cool Contest Effect: Attention Grabber

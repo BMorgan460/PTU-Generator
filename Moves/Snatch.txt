@@ -1,0 +1,1 @@
+Move: Snatch Type: Dark Frequency: Scene x2 AC: None Class: Status Range: 6, 1 Target, Interrupt Effect: If the target uses a Self-Targeting Move, you may use Snatch. You gain the benefits of the Self-Targeting Move instead of the target. Contest Type: Smart Contest Effect: Attention Grabber 

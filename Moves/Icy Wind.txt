@@ -1,0 +1,1 @@
+Move: Icy Wind Type: Ice Frequency: EOT AC: 3 Damage Base 6: 2d6+8 / 15 Class: Special Range: Cone 2 Effect: All Legal Targets have their Speed lowered 1 Combat Stage. Contest Type: Beauty Contest Effect: Desperation

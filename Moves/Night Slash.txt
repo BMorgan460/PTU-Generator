@@ -1,0 +1,1 @@
+Move: Night Slash Type: Dark Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, Pass Effect: Night Slash is a Critical Hit on 18+ Contest Type: Beauty Contest Effect: Steady Performance 

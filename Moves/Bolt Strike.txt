@@ -1,0 +1,1 @@
+Move: Bolt Strike Type: Electric Frequency: Scene x2 AC: 5 Damage Base 13: 4d10+10 / 35 Class: Physical Range: 10, 1 Target, Smite Effect: Bolt Strike Paralyzes the target on 17+. Contest Type: Cool Contest Effect: Exhausting Act 

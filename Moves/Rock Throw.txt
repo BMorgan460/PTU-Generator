@@ -1,0 +1,1 @@
+Move: Rock Throw Type: Rock Frequency: At-Will AC: 4 Damage Base 5: 1d8+8 / 13 Class: Physical Range: 6, 1 Target Effect: None Contest Type: Tough Contest Effect: Steady Performance

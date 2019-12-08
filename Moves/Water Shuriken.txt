@@ -1,0 +1,1 @@
+Move: Water Shuriken Type: Water Frequency: EOT AC: 2 Damage Base 2: 1d6+3 / 7 Class: Physical Range: 6, 1 Target, Five Strike, Priority Effect: None Contest Type: Cool Contest Effect: Reliable 

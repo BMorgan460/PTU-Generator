@@ -1,0 +1,1 @@
+Move: Rapid Spin Type: Normal Frequency: At-Will AC: 2 Damage Base 2: 1d6+3 / 7 Class: Physical Range: Melee, 1 Target, Spirit Surge Effect: Rapid Spin destroys all Hazards within 5 meters, removes Leech Seeds, and removes the user’s Trapped or Stuck status. Contest Type: Cool Contest Effect: Exhausting Act 

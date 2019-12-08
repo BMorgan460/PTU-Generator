@@ -1,0 +1,1 @@
+Move: Core Enforcer Type: Dragon Frequency: Daily AC: 4 DB: 10 Class: Special Range: 6, Ranged Blast 3, Smite Effect: Core Enforcer disables the abilities of any targets hit that have already acted this round. If they are hit by Smite damage, the targets abilities are not disabled.

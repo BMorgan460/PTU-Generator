@@ -1,0 +1,1 @@
+Move: Endeavor Type: Normal Frequency: Scene AC: 2 Damage Base: See Effect Class: Physical Range: Melee, 1 Target, Dash Effect: The target loses a Tick of Hit Points for each Injury the user has. Contest Type: Tough Contest Effect: Double Time

@@ -1,0 +1,1 @@
+Move: Razor Shell Type: Water Frequency: EOT AC: 3 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target, Dash Effect: Razor Shell lowers the Target’s Defense 1 Combat Stage on an Even-Numbered Roll. Contest Type: Cool Contest Effect: Steady Performance 

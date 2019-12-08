@@ -1,0 +1,1 @@
+Move: Switcheroo Type: Dark Frequency: At-Will AC: 2 Class: Status Range: Melee, 1 Target Effect: The user and the target exchange Held Items or Accessory Slot Items. Contest Type: Cool Contest Effect: Attention Grabber

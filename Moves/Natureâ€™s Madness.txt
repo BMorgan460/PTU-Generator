@@ -1,0 +1,1 @@
+Move: Nature’s Madness Type: Fairy Frequency: Daily AC: 4 Class: Special Range: 6, Ranged Blast 2 Effect: The target loses 1/2 of their current Hit Point. Any target this attack misses instead takes Smite damage equal to 1 Tick of Hit Points.

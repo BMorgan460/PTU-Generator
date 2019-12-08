@@ -1,0 +1,1 @@
+Move: Punishment Type: Dark Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target Effect: Punishment’s Damage Base is raised by +1 for each positive Combat Stage the target has, to a maximum of DB 12. Contest Type: Smart Contest Effect: Catching Up 

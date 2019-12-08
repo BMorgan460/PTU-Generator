@@ -1,0 +1,1 @@
+Move: Flash Cannon Type: Steel Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: 6, 1 Target Effect: Flash Cannon lowers the target’s Special Defense by 1 Combat Stage on 17+. Contest Type: Smart Contest Effect: Exhausting Act

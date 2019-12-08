@@ -1,0 +1,1 @@
+Move: Psychic Terrain Type: Psychic Frequency: Scene x2 Class: Status Range: Field Effect: The area becomes Weird for 5 rounds. While Weird, all Pokemon and Trainers standing on the ground are unable to use moves with the Priority keyword and Psychic-type attacks used by Pokemon and Trainers touching the ground gain a +10 bonus to Damage Rolls.

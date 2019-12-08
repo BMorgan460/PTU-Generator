@@ -1,0 +1,1 @@
+Move: Hydro Cannon Type: Water Frequency: Daily x2 AC: 4 Damage Base 15: 4d10+20 / 45 Class: Special Range: Line 9, Smite, Exhaust Effect: None Contest Type: Beauty Contest Effect: Seen Nothing Yet 

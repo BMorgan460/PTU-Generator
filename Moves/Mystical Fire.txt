@@ -1,0 +1,1 @@
+Move: Mystical Fire Type: Fire Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target Effect: Mystical Fire lowers the target’s Special Attack by 1 Combat Stage. Contest Type: Beauty Contest Effect: Special Attention 

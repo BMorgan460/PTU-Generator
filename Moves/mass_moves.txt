@@ -1,0 +1,1 @@
+Move: Stomping Tantrum Type: Ground Frequency: EOT AC: 2 DB: 8 Class: Physical Range: Melee, Burst 1 Effect: If the user’s last attack missed, Stomping Tantrum’s Damage Base is 14.

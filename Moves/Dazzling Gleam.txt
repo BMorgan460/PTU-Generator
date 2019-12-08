@@ -1,0 +1,1 @@
+Move: Dazzling Gleam Type: Fairy Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: Cone 2 Effect: None Contest Type: Cute Contest Effect: Exhausting Act 

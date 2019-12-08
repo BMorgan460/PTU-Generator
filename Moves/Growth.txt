@@ -1,0 +1,1 @@
+Move: Growth Type: Normal Frequency: EOT AC: None Class: Status Range: Self Effect: Raise the user’s Attack 1 Combat Stage and raise the user’s Special Attack 1 Combat Stage. If it is Sunny, double the amount of Combat Stages gained. Contest Type: Beauty Contest Effect: Get Ready! Special: Grants Inflatable

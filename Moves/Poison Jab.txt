@@ -1,0 +1,1 @@
+Move: Poison Jab Type: Poison Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target Effect: Poison Jab Poisons the target on 15+. Contest Type: Smart Contest Effect: Incentives 

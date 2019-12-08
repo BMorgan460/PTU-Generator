@@ -1,0 +1,1 @@
+Move: Knock Off Type: Dark Frequency: Scene AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: Choose one of the target’s Held Items or Accessory Slot Items. It is knocked to the ground. Contest Type: Smart Contest Effect: Steady Performance 

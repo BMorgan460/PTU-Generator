@@ -1,0 +1,1 @@
+Move: Oblivion Wing Type: Flying Frequency: Daily AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: Melee, 1 Target Effect: The user gains Hit Points equal to Oblivion Wing’s Damage Roll. Contest Type: Cool Contest Effect: Catching Up 

@@ -1,0 +1,1 @@
+Move: Ice Hammer Type: Ice Frequency: EOT AC: 3 DB: 10 Class: Physical Range: Melee, 1 Target Effect: The user lowers their Speed 1 Combat Stage.

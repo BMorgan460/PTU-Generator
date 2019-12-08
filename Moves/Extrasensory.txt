@@ -1,0 +1,1 @@
+Move: Extrasensory Type: Psychic Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: 5, 1 Target Effect: Extrasensory Flinches the target on 19+. Contest Type: Cool Contest Effect: Exhausting Act 

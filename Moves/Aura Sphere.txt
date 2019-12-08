@@ -1,0 +1,1 @@
+Move: Aura Sphere Type: Fighting Frequency: EOT AC: None Damage Base 8: 2d8+10 / 19 Class: Special Range: 8, 1 Target, Aura Effect: Aura Sphere cannot miss. Contest Type: Beauty Contest Effect: Exhausting Act 

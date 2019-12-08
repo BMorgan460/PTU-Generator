@@ -1,0 +1,1 @@
+Move: Aromatic Mist Type: Fairy Frequency: EOT AC: None Class: Status Range: Burst 1 Effect: All allies in Aromatic Mist’s area of effect have their Special Defense raised 1 Combat Stage. Contest Type: Cute Contest Effect: Get Ready! 

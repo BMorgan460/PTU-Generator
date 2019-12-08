@@ -1,0 +1,1 @@
+Move: Dragon Hammer Type: Dragon Frequency: EOT AC: 2 DB: 9 Class: Physical Range: Melee, 1 Target or Line 3

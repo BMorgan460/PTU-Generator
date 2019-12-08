@@ -1,0 +1,1 @@
+Move: Origin Pulse Type: Water Frequency: Scene x2 AC: 5 Damage Base 12: 3d12+10 / 30 Class: Special Range: Close Blast 3, Smite Effect: None Contest Type: Beauty Contest Effect: Desperation 

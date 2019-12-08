@@ -1,0 +1,1 @@
+Move: Fleur Cannon Type: Fairy Frequency: Scene AC: 4 DB: 13 Class: Special Range: 8, Ranged Blast 3, Smite Effect: Fleur Cannon lower’s the users Special Attack 2 Combat Stages.

@@ -1,0 +1,1 @@
+Move: Bestow Type: Normal Frequency: At-Will AC: -Class: Status Range: Melee, 1 Target Effect: The user gives its held item to the target, unless the target is already holding an item. Using Bestow is a Swift Action. Contest Type: Cute Contest Effect: Attention Grabber 

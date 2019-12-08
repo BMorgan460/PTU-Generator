@@ -1,0 +1,1 @@
+Move: Belch Type: Poison Frequency: Scene x2 AC: 4 Damage Base 12: 3d12+10 / 30 Class: Special Range: Cone 2 Effect: Belch cannot be used if the user has not traded in a Digestion Buff during this Scene. Contest Type: Tough Contest Effect: Desperation 

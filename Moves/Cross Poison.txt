@@ -1,0 +1,1 @@
+Move: Cross Poison Type: Poison Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, Pass Effect: Cross Poison is a Critical Hit on 18+, and Poisons the target on 19+. Contest Type: Cool Contest Effect: Steady Performance

@@ -1,0 +1,1 @@
+Move: Bulldoze Type: Ground Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Burst 1 Effect: All Legal Targets are lowered 1 Speed Combat Stage. Contest Type: Cool Contest Effect: Steady Performance

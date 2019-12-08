@@ -1,0 +1,1 @@
+Move: Eerie Impulse Type: Electric Frequency: EOT AC: 2 Class: Status Range: 6, 1 Target Effect: The target’s Special Attack is lowered 2 Combat Stages. Contest Type: Cool Contest Effect: Excitement Special: Grants Glow 

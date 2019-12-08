@@ -1,0 +1,1 @@
+Move: Sweet Scent Type: Normal Frequency: Scene AC: 2 Class: Status Range: Burst 2, Friendly Effect: Targets hit by Sweet Scent gain a -2 Penalty to Evasion. (Total Evasion may not be lowered to a negative value. ) Contest Type: Cute Contest Effect: Excitement Special: Grants Alluring 

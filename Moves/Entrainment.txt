@@ -1,0 +1,1 @@
+Move: Entrainment Type: Normal Frequency: Scene AC: 2 Class: Status Range: 4, 1 Target Effect: The target gains one of the user’s Abilities for 3 turns. Contest Type: Cute Contest Effect: Catching Up 

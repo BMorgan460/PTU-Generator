@@ -1,0 +1,1 @@
+Move: Powder Snow Type: Ice Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: Line 4 Effect: Powder Snow Freezes all Legal Targets on 19+. Contest Type: Beauty Contest Effect: Steady Performance Special: Grants Freezer 

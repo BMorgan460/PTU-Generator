@@ -1201,7 +1201,7 @@ public class Pokemon {
                     genned.increaseDB(2);
                 }
                 String json = genned.toString();
-                if (json.contains("strike")) {
+                if (!json.contains("strike")) {
                     result +=
                         String.format("\"Move%d\":{%s},", normalMoves, json);
                     normalMoves++;
@@ -1211,20 +1211,21 @@ public class Pokemon {
                         String.format("\"Move%d\":{%s},", extraMoves, json);
                     extraMoves++;
                 }
+                
             }
             catch (Exception e) {
-
+                System.out.println("Not a move");
             }
-
         }
         for (int i = 1; i <= 6; i++) {
-            if (!result.contains(String.format("Move %d", i))) {
+            if (!result.contains(String.format("Move%d", i))) {
                 result += String.format(
                     "\"Move%d\":{\"Name\":\"\",\"Type\":\"\",\"DType\":\"\",\"DB\":\"\",\"Freq\":\"\",\"AC\":\"\",\"Range\":\"\",\"Effects\":\"\"},",
                     i);
             }
         }
         result += extraResult;
+        result.replace("’","\'");
         return result;
     }
 
@@ -1234,14 +1235,18 @@ public class Pokemon {
         path += "\\Abilities\\Processed";
         for(int i = 0; i < abilityList.length; i++) {
             if(!abilityList[i].equals("")) {
-                File file = new File(path + abilityList[i]);
+                File file = new File(path + "\\" + abilityList[i] + ".txt");
                 try {
                     Scanner scan = new Scanner(file);
-                    result += "\"Ability" + (i + 1) + "\":{" + scan.nextLine() + "},";
+                    String temp = "";
+                    while(scan.hasNextLine()) {
+                        temp += scan.nextLine();
+                    }
+                    result += "\"Ability" + (i + 1) + "\":{" + temp + "},";
                     scan.close();
                 }
                 catch (FileNotFoundException e) {
-                    
+                    System.out.println("Not an ability");
                 }
             }
         }
@@ -1281,8 +1286,9 @@ public class Pokemon {
         }if(contains(abilityList,"Courage")) {
             result += "\"courage\":1,";
         }else {
-            result += "\"courage\":0,";
+            result += "\"courage\":0";
         }
+        result.replace("’","\'");
         return result;
     }
     
@@ -1303,7 +1309,7 @@ public class Pokemon {
         String moves = movesJSON();
         String abilities = abilityJSON();
         String result = String.format(
-            "{\"CharType\":0,\"nickname\":\"\",\"species\":\"%s\",\"type1\":\"%s\",\"type2\":\"%s\",\"Level\":%d,\"EXP_max\":%d,\"HeldItem\":\"\",\"Gender\":\"%s\",\"Nature\":\"%s\",\"Height\":\"%s\",\"WeightClass\":%s,\"base_HP\":%d,\"base_ATK\":%d,\"base_DEF\":%d,\"base_SPATK\":%d,\"base_SPDEF\":%d,\"base_SPEED\":%d,\"HP\":%d,\"ATK\":%d,\"DEF\":%d,\"SPATK\":%d,\"SPDEF\":%d,\"SPEED\":%d,\"Capabilities\":%s,\"Acrobatics\":%d,\"Athletics\":%d,\"Combat\":%d,\"Intimidate\":2,\"Stealth\":%d,\"Survival\":2,\"GeneralEducation\":1,\"MedicineEducation\":1,\"OccultEducation\":1,\"PokemonEducation\":1,\"TechnologyEducation\":1,\"Guile\":2,\"Perception\":%d,\"Charm\":2,\"Command\":2,\"Focus\":%d,\"Intuition\":2,\"Acrobatics_bonus\":%d,\"Athletics_bonus\":%d,\"Combat_bonus\":%d,\"Intimidate_bonus\":0,\"Stealth_bonus\":%d,\"Survival_bonus\":0,\"GeneralEducation_bonus\":0,\"MedicineEducation_bonus\":0,\"OccultEducation_bonus\":0,\"PokemonEducation_bonus\":0,\"TechnologyEducation_bonus\":0,\"Guile_bonus\":0,\"Perception_bonus\":%d,\"Charm_bonus\":0,\"Command_bonus\":0,\"Focus_bonus\":%d,\"Intuition_bonus\":0,\"TutorPoints\":%d,\"TutorPoints_max\":%d",
+            "{\"CharType\":0,\"nickname\":\"\",\"species\":\"%s\",\"type1\":\"%s\",\"type2\":\"%s\",\"Level\":%d,\"EXP_max\":%d,\"HeldItem\":\"\",\"Gender\":\"%s\",\"Nature\":\"%s\",\"Height\":\"%s\",\"WeightClass\":%s,\"base_HP\":%d,\"base_ATK\":%d,\"base_DEF\":%d,\"base_SPATK\":%d,\"base_SPDEF\":%d,\"base_SPEED\":%d,\"HP\":%d,\"ATK\":%d,\"DEF\":%d,\"SPATK\":%d,\"SPDEF\":%d,\"SPEED\":%d,\"Capabilities\":%s,\"Acrobatics\":%d,\"Athletics\":%d,\"Combat\":%d,\"Intimidate\":2,\"Stealth\":%d,\"Survival\":2,\"GeneralEducation\":1,\"MedicineEducation\":1,\"OccultEducation\":1,\"PokemonEducation\":1,\"TechnologyEducation\":1,\"Guile\":2,\"Perception\":%d,\"Charm\":2,\"Command\":2,\"Focus\":%d,\"Intuition\":2,\"Acrobatics_bonus\":%d,\"Athletics_bonus\":%d,\"Combat_bonus\":%d,\"Intimidate_bonus\":0,\"Stealth_bonus\":%d,\"Survival_bonus\":0,\"GeneralEducation_bonus\":0,\"MedicineEducation_bonus\":0,\"OccultEducation_bonus\":0,\"PokemonEducation_bonus\":0,\"TechnologyEducation_bonus\":0,\"Guile_bonus\":0,\"Perception_bonus\":%d,\"Charm_bonus\":0,\"Command_bonus\":0,\"Focus_bonus\":%d,\"Intuition_bonus\":0,\"TutorPoints\":%d,\"TutorPoints_max\":%d,",
             name,
             type1,
             type2,
@@ -1342,6 +1348,7 @@ public class Pokemon {
             tutorPoints);
         result += moves;
         result += abilities;
+        result += "}";
         return result;
     }
 }

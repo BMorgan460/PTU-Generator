@@ -1,0 +1,1 @@
+Move: Signal Beam Type: Bug Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: 6, 1 Target Effect: Signal Beam confuses the target on 19+. Contest Type: Beauty Contest Effect: Incentives 

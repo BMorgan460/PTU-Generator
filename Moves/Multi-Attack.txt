@@ -1,0 +1,1 @@
+Move: Multi-Attack Type: Normal Frequency: Scene AC: 2 DB: 9 Class: Physical Range: Melee, Cone 2, Smite Effect: This attack’s type matches the Primary type of the the user.

@@ -1,0 +1,1 @@
+Move: Magma Storm Type: Fire Frequency: Scene AC: 6 Damage Base 10: 3d8+10 / 24 Class: Special Range: 6, 1 Target Effect: The target is put in a Vortex; this effect occurs even if Magma Storm misses its target. Contest Type: Tough Contest Effect: Reliable 

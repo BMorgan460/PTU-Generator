@@ -1,0 +1,1 @@
+Move: Surf Type: Water Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: Line 6 Effect: As a Shift Action, the user may Move to any open square in Surf’s area of effect without provoking any Attacks of Opportunity. Contest Type: Beauty Contest Effect: Exhausting Act

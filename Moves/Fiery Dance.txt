@@ -1,0 +1,1 @@
+Move: Fiery Dance Type: Fire Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: 4, 1 Target Effect: If Fiery Dance successfully hits a foe, it raises the user’s Special Attack by 1 Combat Stage on EvenNumbered Rolls. Contest Type: Cool Contest Effect: Desperation 

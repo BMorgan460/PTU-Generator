@@ -1,0 +1,1 @@
+Move: Metal Burst Type: Steel Frequency: Scene AC: None Damage Base: See Effect Class: Physical Range: Burst 1 Effect: Metal Burst causes all targets in the burst to lose Hit Points equal to the total amount of direct Damage the user has taken since the beginning of this Round. Metal Burst cannot miss. Contest Type: Beauty Contest Effect: Double Time 

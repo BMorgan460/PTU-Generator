@@ -1,0 +1,1 @@
+Move: Horn Attack Type: Normal Frequency: At-Will AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target, Dash Effect: None Contest Type: Cool Contest Effect: Steady Performance 

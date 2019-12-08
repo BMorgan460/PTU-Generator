@@ -1,0 +1,1 @@
+Move: Psybeam Type: Psychic Frequency: At-Will AC: 2 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target Effect: Psybeam Confuses the target on 19+. Contest Type: Beauty Contest Effect: Exhausting Act

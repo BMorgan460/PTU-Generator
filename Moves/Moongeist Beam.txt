@@ -1,0 +1,1 @@
+Move: Moongeist Beam Type: Ghost Frequency: Scene AC: 2 DB: 10 Class: Special Range: 6, Ranged Blast 3, Smite Effect: Moongeist Beam can be used on any target regardless of their abilities.

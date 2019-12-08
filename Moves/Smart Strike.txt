@@ -1,0 +1,1 @@
+Move: Smart Strike Type: Steel Frequency: EOT AC: None DB: 6 Class: Physical Range: Melee, 1 Target Effect: Smart Strike cannot miss.

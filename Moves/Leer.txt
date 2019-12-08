@@ -1,0 +1,1 @@
+Move: Leer Type: Normal Frequency: At-Will AC: 2 Class: Status Range: Cone 2, Friendly, Social Effect: All legal targets have their Defense lowered by 1 Combat Stage. Contest Type: Cool Contest Effect: Excitement 
