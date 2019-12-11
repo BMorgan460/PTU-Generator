@@ -48,13 +48,15 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 					break
 				if word != '':
 					list.append(word)#adds each word into the array
-			list.append("end")		
+			list.append("the program has ended")		
 			n.write('public class ' + name  +" extends Move{\n")
 			n.write("\t\t{\n")
 			while id < (len(list) - 1): #Goes through each word in the array
 				#print(list)#Debug
 				id = id + 1 # goes through each id on the array
 				if list[id] == "Move": 
+					if name == "trick"
+						name = "trick_"
 					n.write('\t\tname = "' + name.replace("_", ' ') + '";\n')
 				if list[id] == "Type":
 					n.write('\t\ttype = "' + list[id +1] + '";\n')
@@ -70,7 +72,7 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 				if list[id] == "Range":
 					range = []
 					id += 1
-					while list[id] != "Effect" and list[id] != "end":
+					while list[id] != "Effect" and list[id] != "the program has ended":
 						#print(list[id])
 						range.append(list[id])
 						id += 1
@@ -85,7 +87,7 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 					eff = True
 					effects = []
 					id += 1
-					while list[id] != "end":
+					while list[id] != "the program has ended":
 						effects.append(list[id])
 						id += 1
 					n.write('\t\teffects = "')
