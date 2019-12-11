@@ -484,7 +484,7 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 							setnum += 1
 						#print(setnum)
 						n.write('"' + naturalMoves[setnum] + '"};\n')
-					naturalMoves = []
+						naturalMoves = []
 					else:
 						n.write( "\t\tnaturalMoves = new String[]{};\n")
 						naturalMoves = []
