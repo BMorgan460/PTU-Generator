@@ -6,6 +6,8 @@ public class Frustration extends Move{
 		AC = 2;
 		damageBase = 0;
 		mDamageBase = 0;
-		effects = "Class Physical Range Melee, 1 Target Effect Frustration’s Damage Base is equal to 9 minus the user’s Loyalty Value Using Frustration may make your Pokémon dislike you";
+		category = "Physical";
+		range = "Melee, 1 Target";
+		effects = "Frustration's Damage Base is equal to 9 minus the user's Loyalty Value Using Frustration may make your Pokemon dislike you";
 		}
 }

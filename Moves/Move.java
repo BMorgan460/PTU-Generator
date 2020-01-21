@@ -51,8 +51,8 @@ public class Move {
                 , mDamageBase*2, name, type, category, mDamageBase, frequency, AC, range, effects);
         }else {
             result = String.format("\"Name\":\"%s\",\"Type\":\"%s\",\"DType\":\"%s\",\"DB\":%d,\"Freq\":\"%s\",\"AC\":%d,\"Range\":\"%s\",\"Effects\":\"%s\""
-                , name, type, category, mDamageBase, frequency, AC, range, effects);
+                , name, type, category, mDamageBase, frequency, AC, range, effects.replace('\"', '\''));
         }
-        return result;
+        return result.replace("’", "\'");
     }
 }

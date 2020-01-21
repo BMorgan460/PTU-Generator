@@ -1,5 +1,4 @@
 import java.lang.Class;
-import java.lang.reflect.*;
 /**
  * Creates the actual Pokemon that is used
  * 
@@ -15,17 +14,23 @@ public class Generator {
     private Pokemon genned;
     
     public Generator(String name, int minLevel, int maxLevel) {
-        
+        if(minLevel > maxLevel) {
+            int temp = minLevel;
+            minLevel = maxLevel;
+            maxLevel = temp;
+        }
         try {
             @SuppressWarnings("unchecked")
             Class<Pokemon> p1 = (Class<Pokemon>) Class.forName(name);
             genned = (Pokemon) p1.newInstance();
             try {
                genned.setNature();
-               int levels = (int)(Math.random() * minLevel + maxLevel + 1) + minLevel;
+               int levels = (int)(Math.random() * maxLevel - minLevel + 1) + minLevel;
+               genned.normalize();
                genned.levelUp(levels);
                this.moves = genned.generateMoveList();
                this.abilities = genned.generateAbilities();
+               genned.update();
             }catch(Exception e) {
     
             }
@@ -39,16 +44,14 @@ public class Generator {
     }
     
     public String toJSON() {
-        String result = genned.toJSON();
-        result += "}";
-        return result;
+        return genned.toJSON();
     }
     
 	public static void main(String[] args) {
 	    Pokemon t = new Pikachu();
 	    t.setNature();
 	    t.normalize();
-	    t.levelUp(20);
+	    t.levelUp(10);
 	    String[] moves = t.generateMoveList();
 	    String[] abilities = t.generateAbilities();
 	    System.out.print(t);
@@ -58,6 +61,6 @@ public class Generator {
 	    for(int i = 0; i < abilities.length; i++) {
             System.out.println(abilities[i]);
         }
-	    System.out.println(t.toJSON());
+	    System.out.print(t.toJSON());
 	}
 }

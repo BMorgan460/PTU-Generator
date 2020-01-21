@@ -1,0 +1,168 @@
+MEOWSTIC-M
+ 
+   Base Stats:  HP:   7  Attack:  5  Defense:  8  Special Attack: 8  Special Defense: 8  Speed:   10
+  Basic Information   Type : Psychic  Basic Ability 1: Keen Eye  Basic Ability 2: Infiltrator  Adv Ability 1: Prankster  Adv Ability 2: Own Tempo  High Ability: Telepath
+  Evolution:  1 - Espurr  2 - Meowstic Minimum 25
+ 
+  Size Information   Height : 2’ 00” / 0.6m (Small)  Weight : 18.7 lbs. / 8.5 kg (1)
+ 
+  Breeding Information   Gender Ratio  : 50% M / 50% F  Egg Group : Field
+  Diet : Herbivore  Habitat  : Grassland, Urban
+  Capability List Overland 7, Swim 4, Jump 1/2, Power 2,  Telekinesis, Telepath, Naturewalk (Grassland)
+  Skill List Athl 3d6, Acro 3d6+1, Combat 3d6, Stealth 4d6, Percep 5d6, Focus 4d6+2
+ Move List Level Up Move List  1  Scratch - Normal 1  Leer - Normal 5  Covet - Normal 9  Confusion - Psychic 13  Light Screen - Psychic 17  Psybeam - Psychic 19  Fake Out - Normal 25  Psyshock - Psychic  28  Charm - Fairy 31  Miracle Eye - Psychic 35  Reflect - Fairy 40  Psychic - Psychic 43  Role Play - Psychic 45  Imprison - Psychic 48  Sucker Punch - Dark 50  Misty Terrain - Fairy 55  Quick Guard - Fighting
+TM/HM Move List A1 Cut, 03 Psyshock, 04 Calm Mind, 06 Toxic, 10 Hidden Power, 11 Sunny Day, 15 Hyper Beam, 16 Light Screen, 17 Protect, 18 Rain Dance, 20 Safeguard, 21 Frustration, 24 Thunderbolt, 27 Return, 29 Psychic, 32 Double Team, 33 Reflect, 41 Torment, 42 Facade, 44 Rest, 45 Attract, 48 Round, 49 Echoed Voice, 53 Energy Ball, 57 Charge Beam, 66 Payback, 68 Giga Impact, 70 Flash, 73 Thunder Wave, 77 Psych Up, 85 Dream Eater, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 97 Dark Pulse, 100 Confide
+Tutor Move List Covet, Gravity, Heal Bell, Helping Hand, Iron Tail, Magic Coat, Magic Room, Recycle, Role Play, Shock Wave, Signal Beam, Snatch, Snore, Trick, Wonder Room, Zen Headbutt, Helping Hand (N), Mean Look (N), Quick Guard (N)
+1
+MEOWSTIC 
+ 
+   Base Stats:  HP:   7  Attack:  5  Defense:  8  Special Attack: 8  Special Defense: 8  Speed:   10
+  Basic Information   Type : Psychic  Basic Ability 1: Keen Eye  Basic Ability 2: Infiltrator  Adv Ability 1: Competitive  Adv Ability 2: Own Tempo  High Ability: Telepath
+  Evolution:  1 - Espurr  2 - Meowstic Minimum 25
+ 
+  Size Information   Height : 2’ 00” / 0.6m (Small)  Weight : 18.7 lbs. / 8.5 kg (1)
+ 
+  Breeding Information   Gender Ratio  : 50% M / 50% F  Egg Group : Field
+  Diet : Herbivore  Habitat  : Grassland, Urban
+  Capability List Overland 7, Swim 4, Jump 1/2, Power 2,  Telekinesis, Telepath, Naturewalk (Grassland)
+  Skill List Athl 3d6, Acro 3d6+1, Combat 3d6, Stealth 4d6, Percep 5d6, Focus 4d6+2
+ Move List Level Up Move List  1  Scratch - Normal 1  Leer - Normal 5  Covet - Normal 9  Confusion - Psychic 13  Light Screen - Psychic 17  Psybeam - Psychic 19  Fake Out - Normal 25  Psyshock - Psychic 28  Charge Beam - Electric 31  Shadow Ball - Ghost 35  Extrasensory - Psychic 40  Psychic - Psychic 43  Role Play - Psychic 45  Signal Beam - Bug 48  Sucker Punch - Dark 50  Future Sight - Psychic 55  Stored Power - Psychic
+TM/HM Move List A1 Cut, 03 Psyshock, 04 Calm Mind, 06 Toxic, 10 Hidden Power, 11 Sunny Day, 15 Hyper Beam, 16 Light Screen, 17 Protect, 18 Rain Dance, 20 Safeguard, 21 Frustration, 24 Thunderbolt, 27 Return, 29 Psychic, 32 Double Team, 33 Reflect, 41 Torment, 42 Facade, 44 Rest, 45 Attract, 48 Round, 49 Echoed Voice, 53 Energy Ball, 57 Charge Beam, 66 Payback, 68 Giga Impact, 70 Flash, 73 Thunder Wave, 77 Psych Up, 85 Dream Eater, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 97 Dark Pulse, 100 Confide
+Tutor Move List Covet, Gravity, Heal Bell, Helping Hand, Iron Tail, Magic Coat, Magic Room, Recycle, Role Play, Shock Wave, Signal Beam, Snatch, Snore, Trick, Wonder Room, Zen Headbutt, Magical Leaf (N), Me First (N), Stored Power (N)
+2
+PUMPKABOO-Small
+ 
+   Base Stats:   HP:   4  Attack:  7  Defense:  7  Special Attack: 4  Special Defense: 6  Speed:   6
+  Basic Information   Type : Ghost / Grass  Basic Ability 1: Pickup  Basic Ability 2: Frisk  Adv Ability 1: Insomnia  Adv Ability 2: Life Force  High Ability: Flash Fire
+  Evolution:  1 - Pumpkaboo  2 - Gourgeist Minimum 25
+ 
+  Size Information   Height : 1’ 00’’ / 0.3m (Small)  Weight : 7.7 lbs. / 3.5 kg (1)
+  Breeding Information   Gender Ratio  : 50% M / 50% F  Egg Group : Amorphous  Average Hatch Rate: 13 Days
+  Diet : Nullivore  Habitat  : Forest, Grassland
+  Capability List Overland 2, Swim 2, Levitate 5, Jump 0/1, Power 1,  Naturewalk (Grassland, Forest), Phasing, Invisibility, Dead Silent, Underdog
+  Skill List Athl 2d6, Acro 2d6, Combat 2d6, Stealth 3d6+1, Percep 3d6+2, Focus 3d6
+ Move List Level Up Move List  1  Astonish - Ghost 1  Trick - Psychic 1  Confuse Ray - Ghost 4  Scary Face - Normal 6  Trick-or-Treat - Ghost 11  Worry Seed - Grass 16  Razor Leaf - Grass 20  Leech Seed - Grass 23  Trick-or-Treat - Ghost 26  Bullet Seed - Grass 30  Shadow Sneak - Ghost 36  Shadow Ball - Ghost 40  Trick-or-Treat - Ghost 42  Pain Split - Normal 48  Seed Bomb - Grass
+ 
+TM/HM Move List 06 Toxic, 10 Hidden Power, 11 Sunny Day, 16 Light Screen, 17 Protect, 20 Safeguard, 21 Frustration, 22 Solar Beam, 27 Return, 29 Psychic, 30 Shadow Ball, 32 Double Team, 35 Flamethrower, 36 Sludge Bomb, 38 Fire Blast, 42 Facade, 43 Flame charge, 44 Rest, 45 Attract, 46 Thief, 48 Round, 53 Energy Ball, 57 Charge Beam, 59 Incinerate, 61 Will-o-Wisp, 64 Explosion, 70 Flash, 74 Gyro Ball, 80 Rock Slide, 85 Dream Eater, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 94 Rock Smash, 96 Nature Power, 97 Dark Pulse, 100 Confide
+Egg Move List Bestow, Destiny Bond, Disable
+Tutor Move List Foul Play, Giga Drain, Magic Coat, Pain Split, Role Play, Seed Bomb, Skill Swap, Spite, Synthesis, Trick, Worry Seed
+3
+PUMPKABOO-Average
+ 
+   Base Stats:   HP:   5  Attack:  7  Defense:  7  Special Attack: 4  Special Defense: 5  Speed:   5
+  Basic Information   Type : Ghost / Grass  Basic Ability 1: Pickup  Basic Ability 2: Frisk  Adv Ability 1: Insomnia  Adv Ability 2: Life Force  High Ability: Flash Fire
+  Evolution:  1 - Pumpkaboo  2 - Gourgeist Minimum 25
+ 
+  Size Information   Height : 1’ 04’’ / 0.4m (Small)  Weight : 11.0 lbs. / 5.0 kg (1)
+  Breeding Information   Gender Ratio  : 50% M / 50% F  Egg Group : Amorphous  Average Hatch Rate: 13 Days
+  Diet : Nullivore  Habitat  : Forest, Grassland
+  Capability List Overland 2, Swim 2, Levitate 5, Jump 0/1, Power 1,  Naturewalk (Grassland, Forest), Phasing, Invisibility, Dead Silent, Underdog
+  Skill List Athl 2d6, Acro 2d6, Combat 2d6, Stealth 3d6+1, Percep 3d6+2, Focus 3d6
+ Move List Level Up Move List  1  Astonish - Ghost 1  Trick - Psychic 1  Confuse Ray - Ghost 4  Scary Face - Normal 6  Trick-or-Treat - Ghost 11  Worry Seed - Grass 16  Razor Leaf - Grass 20  Leech Seed - Grass 23  Trick-or-Treat - Ghost 26  Bullet Seed - Grass 30  Shadow Sneak - Ghost 36  Shadow Ball - Ghost 40  Trick-or-Treat - Ghost 42  Pain Split - Normal 48  Seed Bomb - Grass
+ 
+TM/HM Move List 06 Toxic, 10 Hidden Power, 11 Sunny Day, 16 Light Screen, 17 Protect, 20 Safeguard, 21 Frustration, 22 Solar Beam, 27 Return, 29 Psychic, 30 Shadow Ball, 32 Double Team, 35 Flamethrower, 36 Sludge Bomb, 38 Fire Blast, 42 Facade, 43 Flame charge, 44 Rest, 45 Attract, 46 Thief, 48 Round, 53 Energy Ball, 57 Charge Beam, 59 Incinerate, 61 Will-o-Wisp, 64 Explosion, 70 Flash, 74 Gyro Ball, 80 Rock Slide, 85 Dream Eater, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 94 Rock Smash, 96 Nature Power, 97 Dark Pulse, 100 Confide
+Egg Move List Bestow, Destiny Bond, Disable
+Tutor Move List Foul Play, Giga Drain, Magic Coat, Pain Split, Role Play, Seed Bomb, Skill Swap, Spite, Synthesis, Trick, Worry Seed
+4
+PUMPKABOO-Large
+ 
+   Base Stats:   HP:   5  Attack:  7  Defense:  7  Special Attack: 4  Special Defense: 6  Speed:   5
+  Basic Information   Type : Ghost / Grass  Basic Ability 1: Pickup  Basic Ability 2: Frisk  Adv Ability 1: Insomnia  Adv Ability 2: Life Force  High Ability: Flash Fire
+  Evolution:  1 - Pumpkaboo  2 - Gourgeist Minimum 25
+ 
+  Size Information   Height : 1’ 08’’ / 0.5m (Small)  Weight : 16.5 lbs. / 7.5 kg (1)
+  Breeding Information   Gender Ratio  : 50% M / 50% F  Egg Group : Amorphous  Average Hatch Rate: 13 Days
+  Diet : Nullivore  Habitat  : Forest, Grassland
+  Capability List Overland 2, Swim 2, Levitate 5, Jump 0/1, Power 1,  Naturewalk (Grassland, Forest), Phasing, Invisibility, Dead Silent, Underdog
+  Skill List Athl 2d6, Acro 2d6, Combat 2d6, Stealth 3d6+1, Percep 3d6+2, Focus 3d6
+ Move List Level Up Move List  1  Astonish - Ghost 1  Trick - Psychic 1  Confuse Ray - Ghost 4  Scary Face - Normal 6  Trick-or-Treat - Ghost 11  Worry Seed - Grass 16  Razor Leaf - Grass 20  Leech Seed - Grass 23  Trick-or-Treat - Ghost 26  Bullet Seed - Grass 30  Shadow Sneak - Ghost 36  Shadow Ball - Ghost 40  Trick-or-Treat - Ghost 42  Pain Split - Normal 48  Seed Bomb - Grass
+ 
+TM/HM Move List 06 Toxic, 10 Hidden Power, 11 Sunny Day, 16 Light Screen, 17 Protect, 20 Safeguard, 21 Frustration, 22 Solar Beam, 27 Return, 29 Psychic, 30 Shadow Ball, 32 Double Team, 35 Flamethrower, 36 Sludge Bomb, 38 Fire Blast, 42 Facade, 43 Flame charge, 44 Rest, 45 Attract, 46 Thief, 48 Round, 53 Energy Ball, 57 Charge Beam, 59 Incinerate, 61 Will-o-Wisp, 64 Explosion, 70 Flash, 74 Gyro Ball, 80 Rock Slide, 85 Dream Eater, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 94 Rock Smash, 96 Nature Power, 97 Dark Pulse, 100 Confide
+Egg Move List Bestow, Destiny Bond, Disable
+Tutor Move List Foul Play, Giga Drain, Magic Coat, Pain Split, Role Play, Seed Bomb, Skill Swap, Spite, Synthesis, Trick, Worry Seed
+5
+PUMPKABOO-Super
+ 
+   Base Stats:   HP:   6  Attack:  7  Defense:  7  Special Attack: 4  Special Defense: 6  Speed:   4
+  Basic Information   Type : Ghost / Grass  Basic Ability 1: Pickup  Basic Ability 2: Frisk  Adv Ability 1: Insomnia  Adv Ability 2: Life Force  High Ability: Flash Fire
+  Evolution:  1 - Pumpkaboo  2 - Gourgeist Minimum 25
+ 
+  Size Information   Height : 2’ 07’’ / 0.8m (Small)  Weight : 33.1 lbs. / 15.0 kg (2)
+  Breeding Information   Gender Ratio  : 50% M / 50% F  Egg Group : Amorphous  Average Hatch Rate: 13 Days
+  Diet : Nullivore  Habitat  : Forest, Grassland
+  Capability List Overland 2, Swim 2, Levitate 5, Jump 0/1, Power 1,  Naturewalk (Grassland, Forest), Phasing, Invisibility, Dead Silent, Underdog
+  Skill List Athl 2d6, Acro 2d6, Combat 2d6, Stealth 3d6+1, Percep 3d6+2, Focus 3d6
+ Move List Level Up Move List  1  Astonish - Ghost 1  Trick - Psychic 1  Confuse Ray - Ghost 4  Scary Face - Normal 6  Trick-or-Treat - Ghost 11  Worry Seed - Grass 16  Razor Leaf - Grass 20  Leech Seed - Grass 23  Trick-or-Treat - Ghost 26  Bullet Seed - Grass 30  Shadow Sneak - Ghost 36  Shadow Ball - Ghost 40  Trick-or-Treat - Ghost 42  Pain Split - Normal 48  Seed Bomb - Grass
+ 
+TM/HM Move List 06 Toxic, 10 Hidden Power, 11 Sunny Day, 16 Light Screen, 17 Protect, 20 Safeguard, 21 Frustration, 22 Solar Beam, 27 Return, 29 Psychic, 30 Shadow Ball, 32 Double Team, 35 Flamethrower, 36 Sludge Bomb, 38 Fire Blast, 42 Facade, 43 Flame charge, 44 Rest, 45 Attract, 46 Thief, 48 Round, 53 Energy Ball, 57 Charge Beam, 59 Incinerate, 61 Will-o-Wisp, 64 Explosion, 70 Flash, 74 Gyro Ball, 80 Rock Slide, 85 Dream Eater, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 94 Rock Smash, 96 Nature Power, 97 Dark Pulse, 100 Confide
+Egg Move List Bestow, Destiny Bond, Disable
+Tutor Move List Foul Play, Giga Drain, Magic Coat, Pain Split, Role Play, Seed Bomb, Skill Swap, Spite, Synthesis, Trick, Worry Seed
+6
+GOURGEIST-Small
+ 
+   Base Stats:  HP:   6  Attack:  9  Defense:  12  Special Attack: 6  Special Defense: 8  Speed:   10
+  Basic Information   Type : Ghost / Grass  Basic Ability 1: Pickup  Basic Ability 2: Frisk  Adv Ability 1: Insomnia  Adb Ability 2: Pumpkingrab  High Ability: Flash Fire
+  Evolution:  1 - Pumpkaboo  2 - Gourgeist Minimum 25
+ 
+  Size Information   Height : 2’ 04’’/ 0.7m (S)  Weight : 20.9 lbs. / 9.5 kg (1)
+  Breeding Information 
+  Gender Ratio  : 50% M / 50% F  Egg Group : Amorphous
+  Diet : Nullivore  Habitat  : Forest, Grassland
+  Capability List Overland 3, Swim 3, Levitate 6, Jump 2/2, Power 3,  Naturewalk (Grassland, Forest), Phasing, Invisibility, Dead Silent
+  Skill List Athl 4d6, Acro 2d6, Combat 3d6, Stealth 2d6, Percep 5d6+2, Focus 3d6
+ Move List Level Up Move List  1  Astonish - Ghost 1  Trick - Psychic 1  Confuse Ray - Ghost 4  Scary Face - Normal 6  Trick-or-Treat - Ghost 11  Worry Seed - Grass 16  Razor Leaf - Grass 20  Leech Seed - Grass 23  Trick-or-Treat - Ghost 26  Bullet Seed - Grass 30  Shadow Sneak - Ghost 36  Shadow Ball - Ghost 40  Trick-or-Treat - Ghost 42  Pain Split - Normal 48  Seed Bomb - Grass 57  Phantom Force - Ghost 63  Trick-or-Treat - Ghost 70  Shadow Ball - Ghost 75  Explosion - Normal
+ 
+TM/HM Move List 06 Toxic, 10 Hidden Power, 11 Sunny Day, 15 Hyper Beam, 16 Light Screen, 17 Protect, 20 Safeguard, 21 Frustration, 22 Solar Beam, 27 Return, 29 Psychic, 30 Shadow Ball, 32 Double Team, 35 Flamethrower, 36 Sludge Bomb, 38 Fire Blast, 42 Facade, 43 Flame charge, 44 Rest, 45 Attract, 46 Thief, 48 Round, 53 Energy Ball, 57 Charge Beam, 59 Incinerate, 61 Will-o-Wisp, 64 Explosion, 68 Giga Impact, 70 Flash, 74 Gyro Ball, 80 Rock Slide, 85 Dream Eater, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 94 Rock Smash, 96 Nature Power, 97 Dark Pulse, 100 Confide
+Tutor Move List Explosion (N), Foul Play, Giga Drain, Magic Coat, Pain Split, Phantom Force (N), Role Play, Seed Bomb, Skill Swap, Spite, Synthesis, Trick, Worry Seed
+7
+GOURGEIST-Average
+ 
+   Base Stats:  HP:   7  Attack:  9  Defense:  12  Special Attack: 6  Special Defense: 8  Speed:   8
+  Basic Information   Type : Ghost / Grass  Basic Ability 1: Pickup  Basic Ability 2: Frisk  Adv Ability 1: Insomnia  Adb Ability 2: Pumpkingrab  High Ability: Flash Fire
+  Evolution:  1 - Pumpkaboo  2 - Gourgeist Minimum 25
+ 
+  Size Information   Height : 2’ 11’’/ 0.9m (S)  Weight : 27.6 lbs. / 12.5 kg (2)
+  Breeding Information 
+  Gender Ratio  : 50% M / 50% F  Egg Group : Amorphous
+  Diet : Nullivore  Habitat  : Forest, Grassland
+  Capability List Overland 3, Swim 3, Levitate 6, Jump 2/2, Power 3,  Naturewalk (Grassland, Forest), Phasing, Invisibility, Dead Silent
+  Skill List Athl 4d6, Acro 2d6, Combat 3d6, Stealth 2d6, Percep 5d6+2, Focus 3d6
+ Move List Level Up Move List  1  Astonish - Ghost 1  Trick - Psychic 1  Confuse Ray - Ghost 4  Scary Face - Normal 6  Trick-or-Treat - Ghost 11  Worry Seed - Grass 16  Razor Leaf - Grass 20  Leech Seed - Grass 23  Trick-or-Treat - Ghost 26  Bullet Seed - Grass 30  Shadow Sneak - Ghost 36  Shadow Ball - Ghost 40  Trick-or-Treat - Ghost 42  Pain Split - Normal 48  Seed Bomb - Grass 57  Phantom Force - Ghost 63  Trick-or-Treat - Ghost 70  Shadow Ball - Ghost 75  Explosion - Normal
+ 
+TM/HM Move List 06 Toxic, 10 Hidden Power, 11 Sunny Day, 15 Hyper Beam, 16 Light Screen, 17 Protect, 20 Safeguard, 21 Frustration, 22 Solar Beam, 27 Return, 29 Psychic, 30 Shadow Ball, 32 Double Team, 35 Flamethrower, 36 Sludge Bomb, 38 Fire Blast, 42 Facade, 43 Flame charge, 44 Rest, 45 Attract, 46 Thief, 48 Round, 53 Energy Ball, 57 Charge Beam, 59 Incinerate, 61 Will-o-Wisp, 64 Explosion, 68 Giga Impact, 70 Flash, 74 Gyro Ball, 80 Rock Slide, 85 Dream Eater, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 94 Rock Smash, 96 Nature Power, 97 Dark Pulse, 100 Confide
+Tutor Move List Explosion (N), Foul Play, Giga Drain, Magic Coat, Pain Split, Phantom Force (N), Role Play, Seed Bomb, Skill Swap, Spite, Synthesis, Trick, Worry Seed
+8
+GOURGEIST-Large
+ 
+   Base Stats:  HP:   8  Attack:  10  Defense:  12  Special Attack: 6  Special Defense: 8  Speed:   7
+  Basic Information   Type : Ghost / Grass  Basic Ability 1: Pickup  Basic Ability 2: Frisk  Adv Ability 1: Insomnia  Adb Ability 2: Pumpkingrab  High Ability: Flash Fire
+  Evolution:  1 - Pumpkaboo  2 - Gourgeist Minimum 25
+ 
+  Size Information   Height : 3’ 07’’/ 1.1m (S)  Weight : 30.9 lbs. / 14.0 kg (2)
+  Breeding Information 
+  Gender Ratio  : 50% M / 50% F  Egg Group : Amorphous
+  Diet : Nullivore  Habitat  : Forest, Grassland
+  Capability List Overland 3, Swim 3, Levitate 6, Jump 2/2, Power 3,  Naturewalk (Grassland, Forest), Phasing, Invisibility, Dead Silent
+  Skill List Athl 4d6, Acro 2d6, Combat 3d6, Stealth 2d6, Percep 5d6+2, Focus 3d6
+ Move List Level Up Move List  1  Astonish - Ghost 1  Trick - Psychic 1  Confuse Ray - Ghost 4  Scary Face - Normal 6  Trick-or-Treat - Ghost 11  Worry Seed - Grass 16  Razor Leaf - Grass 20  Leech Seed - Grass 23  Trick-or-Treat - Ghost 26  Bullet Seed - Grass 30  Shadow Sneak - Ghost 36  Shadow Ball - Ghost 40  Trick-or-Treat - Ghost 42  Pain Split - Normal 48  Seed Bomb - Grass 57  Phantom Force - Ghost 63  Trick-or-Treat - Ghost 70  Shadow Ball - Ghost 75  Explosion - Normal
+ 
+TM/HM Move List 06 Toxic, 10 Hidden Power, 11 Sunny Day, 15 Hyper Beam, 16 Light Screen, 17 Protect, 20 Safeguard, 21 Frustration, 22 Solar Beam, 27 Return, 29 Psychic, 30 Shadow Ball, 32 Double Team, 35 Flamethrower, 36 Sludge Bomb, 38 Fire Blast, 42 Facade, 43 Flame charge, 44 Rest, 45 Attract, 46 Thief, 48 Round, 53 Energy Ball, 57 Charge Beam, 59 Incinerate, 61 Will-o-Wisp, 64 Explosion, 68 Giga Impact, 70 Flash, 74 Gyro Ball, 80 Rock Slide, 85 Dream Eater, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 94 Rock Smash, 96 Nature Power, 97 Dark Pulse, 100 Confide
+Tutor Move List Explosion (N), Foul Play, Giga Drain, Magic Coat, Pain Split, Phantom Force (N), Role Play, Seed Bomb, Skill Swap, Spite, Synthesis, Trick, Worry Seed
+9
+GOURGEIST-Super
+ 
+   Base Stats:  HP:   9  Attack:  10  Defense:  12  Special Attack: 6  Special Defense: 8  Speed:   5
+  Basic Information   Type : Ghost / Grass  Basic Ability 1: Pickup  Basic Ability 2: Frisk  Adv Ability 1: Insomnia  Adb Ability 2: Pumpkingrab  High Ability: Flash Fire
+  Evolution:  1 - Pumpkaboo  2 - Gourgeist Minimum 25
+ 
+  Size Information   Height: 5’ 07” / 1.7m (L)  Weight : 86 lbs / 39 kg (3)
+  Breeding Information 
+  Gender Ratio  : 50% M / 50% F  Egg Group : Amorphous
+  Diet : Nullivore  Habitat  : Forest, Grassland
+  Capability List Overland 3, Swim 3, Levitate 6, Jump 2/2, Power 3,  Naturewalk (Grassland, Forest), Phasing, Invisibility, Dead Silent
+  Skill List Athl 4d6, Acro 2d6, Combat 3d6, Stealth 2d6, Percep 5d6+2, Focus 3d6
+ Move List Level Up Move List  1  Astonish - Ghost 1  Trick - Psychic 1  Confuse Ray - Ghost 4  Scary Face - Normal 6  Trick-or-Treat - Ghost 11  Worry Seed - Grass 16  Razor Leaf - Grass 20  Leech Seed - Grass 23  Trick-or-Treat - Ghost 26  Bullet Seed - Grass 30  Shadow Sneak - Ghost 36  Shadow Ball - Ghost 40  Trick-or-Treat - Ghost 42  Pain Split - Normal 48  Seed Bomb - Grass 57  Phantom Force - Ghost 63  Trick-or-Treat - Ghost 70  Shadow Ball - Ghost 75  Explosion - Normal
+ 
+TM/HM Move List 06 Toxic, 10 Hidden Power, 11 Sunny Day, 15 Hyper Beam, 16 Light Screen, 17 Protect, 20 Safeguard, 21 Frustration, 22 Solar Beam, 27 Return, 29 Psychic, 30 Shadow Ball, 32 Double Team, 35 Flamethrower, 36 Sludge Bomb, 38 Fire Blast, 42 Facade, 43 Flame charge, 44 Rest, 45 Attract, 46 Thief, 48 Round, 53 Energy Ball, 57 Charge Beam, 59 Incinerate, 61 Will-o-Wisp, 64 Explosion, 68 Giga Impact, 70 Flash, 74 Gyro Ball, 80 Rock Slide, 85 Dream Eater, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 90 Substitute, 92 Trick Room, 94 Rock Smash, 96 Nature Power, 97 Dark Pulse, 100 Confide
+Tutor Move List Explosion (N), Foul Play, Giga Drain, Magic Coat, Pain Split, Phantom Force (N), Role Play, Seed Bomb, Skill Swap, Spite, Synthesis, Trick, Worry Seed
+10

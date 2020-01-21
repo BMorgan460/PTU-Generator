@@ -1,7 +1,6 @@
-import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.Scanner;
-
+import java.io.IOException;
+import java.nio.file.*;
 
 /**
  * This is the overall Pokemon class all Pokemon inherit from
@@ -11,111 +10,103 @@ import java.util.Scanner;
 public class Pokemon {
 
     // base stats
-    protected String   name;
-    protected int      bHP;
-    protected int      bAtk;
-    protected int      bDef;
-    protected int      bSpAtk;
-    protected int      bSpDef;
-    protected int      bSpd;
+    protected String    name;
+    protected int       bHP;
+    protected int       bAtk;
+    protected int       bDef;
+    protected int       bSpAtk;
+    protected int       bSpDef;
+    protected int       bSpd;
 
     // nature changed base stats
-    private int        nHP;
-    private int        nAtk;
-    private int        nDef;
-    private int        nSpAtk;
-    private int        nSpDef;
-    private int        nSpd;
+    private int         nHP;
+    private int         nAtk;
+    private int         nDef;
+    private int         nSpAtk;
+    private int         nSpDef;
+    private int         nSpd;
 
-    protected int      level;
+    private int       level;
 
-    protected String   nature;
+    private String    nature;
 
     // adjusted stats
-    protected int      HP;
-    protected int      atk;
-    protected int      def;
-    protected int      spAtk;
-    protected int      spDef;
-    protected int      spd;
+    private int       HP;
+    private int       atk;
+    private int       def;
+    private int       spAtk;
+    private int       spDef;
+    private int       spd;
 
     // types
-    protected String   type1;
-    protected String   type2;
+    protected String    type1;
+    protected String    type2;
 
     // abilities
-    protected String   abilities1;
-    protected String   abilities2;
-    protected String   abilities3;
-    protected String   abilities4;
-    protected String   abilities5;
-
-    protected String[] abilities;
-    protected int[]    abilityTypeCount;
-
-    protected boolean  singleBasic;
+    protected String[]  abilities;
+    protected int[]     abilityTypeCount;
 
     // evolutions
-    protected Pokemon  previous;
-    protected Pokemon  next;
-    protected int      prevReq;
-    protected int      nextReq;
+    protected Pokemon   previous;
+    protected Pokemon[] next;
+    protected int       prevReq;
+    protected int[]     nextReq;
 
     // size
-    protected String   height;
-    protected double   weight;
-    protected String   size;
-    protected int      WC;
+    protected String    height;
+    protected double    weight;
+    protected String    size;
+    protected int       WC;
 
     // egg groups
-    protected int      maleRatio;
-    protected int      femaleRatio;
-    protected String   egg1;
-    protected String   egg2;
+    protected double    maleRatio;
+    protected double    femaleRatio;
+    protected String    egg1;
+    protected String    egg2;
 
     // habitats
-    protected String[] habitats;
+    protected String[]  habitats;
 
     // capabilities
-    protected int      overland;
-    protected int      swim;
-    protected int      levitate;
-    protected int      sky;
-    protected int      burrow;
-    protected int      lJump;
-    protected int      hJump;
-    protected int      power;
-    protected boolean  underdog;
-    protected String[] natureWalk;
-    protected String[] others;
-    private String[]   mOthers;
+    protected int       overland;
+    protected int       swim;
+    protected int       levitate;
+    protected int       sky;
+    protected int       burrow;
+    protected int       lJump;
+    protected int       hJump;
+    protected int       power;
+    protected boolean   underdog;
+    protected String[]  natureWalk;
+    protected String[]  others;
+    private String[]    mOthers;
 
     // skill ranks
-    protected int      athl;
-    protected int      acro;
-    protected int      combat;
-    protected int      stealth;
-    protected int      percep;
-    protected int      focus;
+    protected int       athl;
+    protected int       acro;
+    protected int       combat;
+    protected int       stealth;
+    protected int       percep;
+    protected int       focus;
 
     // skill bonus
-    protected int      athlBonus;
-    protected int      acroBonus;
-    protected int      combatBonus;
-    protected int      stealthBonus;
-    protected int      percepBonus;
-    protected int      focusBonus;
+    protected int       athlBonus;
+    protected int       acroBonus;
+    protected int       combatBonus;
+    protected int       stealthBonus;
+    protected int       percepBonus;
+    protected int       focusBonus;
 
     // Move list
-    protected String[] moves;
-    protected String[] eggMoves;
-    protected String[] tutorMoves;
-    protected String[] TMs;
-    protected int[]    movesLevels;
-    protected String[] naturalMoves;
+    protected String[]  moves;
+    protected String[]  eggMoves;
+    protected String[]  tutorMoves;
+    protected String[]  TMs;
+    protected int[]     movesLevels;
+    protected String[]  naturalMoves;
 
-    private String[]   moveList;
-    private String[]   abilityList;
+    private String[]    moveList;
+    private String[]    abilityList;
 
 
     // constructor
@@ -286,6 +277,9 @@ public class Pokemon {
                 levitate = 4;
             }
         }
+        if (contains(abilityList, "Sprint")) {
+            overland += 2;
+        }
     }
 
 
@@ -411,6 +405,16 @@ public class Pokemon {
     }
 
 
+    public String[] getMoves() {
+        return moves;
+    }
+
+
+    public String[] getEggMoves() {
+        return eggMoves;
+    }
+
+
     /**
      * Generates a move list of length 6
      * 
@@ -425,7 +429,18 @@ public class Pokemon {
                     .replace('\'', '_') + " ";
             }
         }
-
+        String[] prevMoves;
+        if (previous != null) {
+            prevMoves = previous.getMoves();
+            for (int i = 0; i < prevMoves.length; i++) {
+                if (movesLevels[i] <= level) {
+                    if (levelMoves.contains(prevMoves[i])) {
+                        levelMoves += prevMoves[i].replace(' ', '_')
+                            .replace('-', '_').replace('\'', '_') + " ";
+                    }
+                }
+            }
+        }
         int index1 = naturalMoves.length;
         String[] levelMovesA = levelMoves.split(" ");
         String[] availableMoves = new String[index1 + levelMovesA.length];
@@ -1211,10 +1226,11 @@ public class Pokemon {
                         String.format("\"Move%d\":{%s},", extraMoves, json);
                     extraMoves++;
                 }
-                
+
             }
             catch (Exception e) {
-                System.out.println("Not a move");
+                System.out.println("Not a move: " + moveList[i]);
+                System.out.println("number:" + i);
             }
         }
         for (int i = 1; i <= 6; i++) {
@@ -1225,73 +1241,90 @@ public class Pokemon {
             }
         }
         result += extraResult;
-        result.replace("’","\'");
+        result.replace("’", "\'");
         return result;
     }
+
 
     private String abilityJSON() {
         String result = "";
         String path = System.getProperty("user.dir");
-        path += "\\Abilities\\Processed";
-        for(int i = 0; i < abilityList.length; i++) {
-            if(!abilityList[i].equals("")) {
-                File file = new File(path + "\\" + abilityList[i] + ".txt");
+        path += "\\Abilities\\Processed\\";
+        for (int i = 0; i < abilityList.length; i++) {
+            if (!abilityList[i].equals("")) {
                 try {
-                    Scanner scan = new Scanner(file);
-                    String temp = "";
-                    while(scan.hasNextLine()) {
-                        temp += scan.nextLine();
-                    }
+                    String temp = new String(
+                        Files.readAllBytes(
+                            Paths.get(path + abilityList[i] + ".txt")));
                     result += "\"Ability" + (i + 1) + "\":{" + temp + "},";
-                    scan.close();
                 }
                 catch (FileNotFoundException e) {
                     System.out.println("Not an ability");
                 }
+                catch (IOException e) {
+
+                }
             }
         }
         result += "\"sniper\":0,";
-        if(contains(abilityList,"Sniper")) {
+        if (contains(abilityList, "Sniper")) {
             result += "\"snipern\":1,";
-        }else {
+        }
+        else {
             result += "\"snipern\":0,";
-        }if(contains(abilityList,"Twisted Power")) {
+        }
+        if (contains(abilityList, "Twisted Power")) {
             result += "\"twisted\":1,";
-        }else {
+        }
+        else {
             result += "\"twisted\":0,";
-        }if(contains(abilityList,"Flash Fire")) {
+        }
+        if (contains(abilityList, "Flash Fire")) {
             result += "\"flashfire\":1,";
-        }else {
+        }
+        else {
             result += "\"flashfire\":0,";
-        }if(contains(abilityList,"Weird Power")) {
+        }
+        if (contains(abilityList, "Weird Power")) {
             result += "\"weird\":1,";
-        }else {
+        }
+        else {
             result += "\"weird\":0,";
-        }if(contains(abilityList,"Damp")) {
+        }
+        if (contains(abilityList, "Damp")) {
             result += "\"damp\":1,";
-        }else {
+        }
+        else {
             result += "\"damp\":0,";
-        }if(contains(abilityList,"Aura Storm")) {
+        }
+        if (contains(abilityList, "Aura Storm")) {
             result += "\"aurastn\":1,";
-        }else {
+        }
+        else {
             result += "\"aurastn\":0,";
-        }if(contains(abilityList,"Defeatist")) {
+        }
+        if (contains(abilityList, "Defeatist")) {
             result += "\"defeat\":1,";
-        }else {
+        }
+        else {
             result += "\"defeat\":0,";
-        }if(contains(abilityList,"Hustle")) {
+        }
+        if (contains(abilityList, "Hustle")) {
             result += "\"hustle\":1,";
-        }else {
+        }
+        else {
             result += "\"hustle\":0,";
-        }if(contains(abilityList,"Courage")) {
+        }
+        if (contains(abilityList, "Courage")) {
             result += "\"courage\":1,";
-        }else {
+        }
+        else {
             result += "\"courage\":0";
         }
-        result.replace("’","\'");
         return result;
     }
-    
+
+
     public String toJSON() {
         int maxEXP = getMaxEXP();
         if (type2 == null) {
