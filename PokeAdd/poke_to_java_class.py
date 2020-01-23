@@ -23,6 +23,8 @@ num = 0 #Var used for ablities
 unwanted = [':', '/', '-', ',', '"', "'", '%'] #certain chars to remove to keep consitance
 currentEVO = 'previous' #Sets all evolutions to previous till current evo is find
 currentReq = 'prevReq'	#same as above except for level requirments
+nextarray = []
+nextRearray = []
 moves = []
 ablitiesList = []
 basic = -1
@@ -128,9 +130,14 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 					if list[Nid] == '2':
 						Nid = Nid + 1
 						if list[Nid] != name: #sees if this is the pokemon current evolution
-							n.write( "\t\t" + currentEVO + " = new " + str(list[Nid]) + '();\n') #sets up the previous Evolution
-							Nid = Nid + 2
-							n.write( "\t\t" + currentReq + " = " + str(list[Nid]) + ';\n') #sets up the previous Evolution level
+							if currentEVO == "next":
+								nextarray.append(str(list[Nid]))
+								Nid = Nid + 2 
+								nextRearray.append(str(list[Nid]))
+							else:			
+								n.write( "\t\t" + currentEVO + " = new " + str(list[Nid]) + '();\n') #sets up the previous Evolution
+								Nid = Nid + 2
+								n.write( "\t\t" + currentReq + " = " + str(list[Nid]) + ';\n') #sets up the previous Evolution level
 						if list[Nid] == name:
 							currentEVO = "next"
 							currentReq = "nextReq"
@@ -139,9 +146,27 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 					if list[Nid] == '3':
 						Nid = Nid + 1
 						if list[Nid] != name: #sees if this is the pokemon current evolution
-							n.write( "\t\t" + currentEVO + " = new " + str(list[Nid]) + '();\n') #sets up the previous Evolution
-							Nid = Nid + 2
-							n.write( "\t\t" + currentReq + " = " + str(list[Nid]) + ';\n') #sets up the previous Evolution level
+							if currentEVO == "next":
+								nextarray.append(str(list[Nid]))
+								Nid = Nid + 2 
+								nextRearray.append(str(list[Nid]))
+							else:			
+								n.write( "\t\t" + currentEVO + " = new " + str(list[Nid]) + '();\n') #sets up the previous Evolution
+								Nid = Nid + 2
+								n.write( "\t\t" + currentReq + " = " + str(list[Nid]) + ';\n') #sets up the previous Evolution level
+					if len(nextarray) > 0: 
+						n.write( "\t\tnext = new String[]{")
+						while setnum < len(nextarray) - 1:
+							n.write('"' + nextarray[setnum] + '", ')
+							setnum += 1
+						n.write('"' + nextarray[setnum] + '"};\n')
+						nextarray = []
+						n.write( "\t\tnextReq = new String[]{")
+						while setnum < len(nextRearray) - 1:
+							n.write('"' + nextRearray[setnum] + '", ')
+							setnum += 1
+						n.write('"' + nextRearray[setnum] + '"};\n')
+						nextRearray = []
 				if list[id] == "Height":
 					Nid = id + 1
 					foot = list[Nid]
@@ -496,6 +521,9 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 			basic = -1
 			adv = 0
 			high = 0
+			setnum = 0
+			currentEVO = 'previous' #Sets all evolutions to previous till current evo is find
+			currentReq = 'prevReq'
 			f.close()
 			n.write("\t\t" + name + "(){\n") #Begins the Constructor
 			n.write("\n\t\tsuper();\n")
