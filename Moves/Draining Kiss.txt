@@ -1,0 +1,1 @@
+Move: Draining Kiss Type: Fairy Frequency: EOT AC: 2 Damage Base 5: 1d8+8 / 13 Class: Special Range: Melee, 1 Target Effect: After the target takes damage, the user gains Hit Points equal to half of the damage they dealt to the target. Contest Type: Cute Contest Effect: Good Show! 

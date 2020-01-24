@@ -1,0 +1,1 @@
+Move: Trick-or-Treat Type: Ghost Frequency: Daily AC: 2 Class: Status Range: 6, 1 Target Effect: The target gains the Ghost Type in addition to its other Types for 5 turns. Contest Type: Cute Contest Effect: Good Show

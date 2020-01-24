@@ -1,0 +1,1 @@
+Move: Play Rough Type: Fairy Frequency: EOT AC: 4 Damage Base 9: 2d10+10 / 21 Class: Physical Range: Melee, 1 Target Effect: Play Rough lowers the target’s Attack 1 Combat Stage on 17-20 during Accuracy Check. Contest Type: Cute Contest Effect: Excitement

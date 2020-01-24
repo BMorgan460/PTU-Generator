@@ -1,0 +1,1 @@
+Move: Captivate Type: Normal Frequency: Scene AC: 2 Class: Status Range: Cone 2, Friendly, Social Effect: Captivate lowers the target’s Special Attack 2 Combat Stages. Captivate may not affect something that is the same gender as the user or something that is genderless. Contest Type: Beauty Contest Effect: Excitement 

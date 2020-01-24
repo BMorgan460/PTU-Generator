@@ -1,0 +1,1 @@
+Move: Power Whip Type: Grass Frequency: Scene x2 AC: 5 Damage Base 12: 3d12+10 / 30 Class: Physical Range: 8, 1 Target, Smite Effect: None Contest Type: Beauty Contest Effect: Steady Performance Special: Grants Threaded 

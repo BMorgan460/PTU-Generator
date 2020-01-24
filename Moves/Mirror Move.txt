@@ -1,0 +1,1 @@
+Move: Mirror Move Type: Flying Frequency: Scene x2 AC: None Class: Status Range: 6, 1 Target, Illusion Effect: Use the Move the target has used on their last turn. You may choose new targets for the Move. Mirror Move cannot miss. Contest Type: Smart Contest Effect: Double Time 

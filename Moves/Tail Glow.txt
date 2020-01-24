@@ -1,0 +1,1 @@
+Move: Tail Glow Type: Bug Frequency: Scene AC: None Class: Status Range: Self Effect: Raise the user’s Special Attack 3 Combat Stages. Contest Type: Beauty Contest Effect: Get Ready! Special: Grants Glow 

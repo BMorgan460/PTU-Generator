@@ -1,0 +1,1 @@
+Move: Fairy Lock Type: Fairy Frequency: Scene AC: None Class: Status Range: Burst 3, Friendly Effect: All legal targets become Trapped and Slowed while the user remains in the encounter. This effect ends if the user switches or is Fainted. Contest Type: Cute Contest Effect: Unsettling

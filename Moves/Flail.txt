@@ -1,0 +1,1 @@
+Move: Flail Type: Normal Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: For each Injury the user has, Flail’s Damage Base is increased by +1. Contest Type: Cute Contest Effect: Double Time 

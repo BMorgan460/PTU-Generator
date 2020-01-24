@@ -1,0 +1,1 @@
+Move: Bone Club Type: Ground Frequency: At-Will AC: 5 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: Bone Club Flinches the target on 18+. Contest Type: Tough Contest Effect: Steady Performance 

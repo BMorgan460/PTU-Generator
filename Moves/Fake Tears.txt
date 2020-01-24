@@ -1,0 +1,1 @@
+Move: Fake Tears Type: Dark Frequency: EOT AC: 2 Class: Status Range: 8, 1 Target, Social Effect: Lower the target’s Special Defense 2 Combat Stages. Contest Type: Smart Contest Effect: Excitement 

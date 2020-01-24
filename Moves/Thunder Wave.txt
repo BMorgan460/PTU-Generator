@@ -1,0 +1,1 @@
+Move: Thunder Wave Type: Electric Frequency: Scene x2 AC: None Class: Status Range: 6, 1 Target Effect: Thunder Wave cannot miss. Thunder Wave Paralyzes the target. Targets immune to Electric Attacks are immune to Thunder Wave’s effects. Contest Type: Cool Contest Effect: Excitement 

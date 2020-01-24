@@ -1,0 +1,1 @@
+Move: Dynamic Punch Type: Fighting Frequency: At-Will AC: 9 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Melee, 1 Target Effect: Dynamic Punch Confuses the target. Dynamic Punch ignores the target’s Evasion if they are Flanked. Contest Type: Cool Contest Effect: Desperation 

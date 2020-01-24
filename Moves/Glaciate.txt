@@ -1,0 +1,1 @@
+Move: Glaciate Type: Ice Frequency: EOT AC: 3 Damage Base 7: 2d6+10 / 17 Class: Special Range: Burst 2 Effect: All Legal Targets have their Speed lowered 1 Combat Stage. On an Even-Numbered Roll, all Legal Targets on the ground are Slowed. Contest Type: Beauty Contest Effect: Steady Performance 

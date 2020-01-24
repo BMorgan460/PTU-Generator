@@ -1,0 +1,1 @@
+Move: Feint Attack Type: Dark Frequency: EOT AC: None Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target Effect: Feint Attack cannot miss. Contest Type: Smart Contest Effect: Desperation 

@@ -1,0 +1,1 @@
+Move: Rock Polish Type: Rock Frequency: EOT AC: None Class: Status Range: Self Effect: Raise the user’s Speed 2 Combat Stages. Contest Type: Tough Contest Effect: Exhausting Act 

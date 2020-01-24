@@ -1,0 +1,1 @@
+Move: Milk Drink Type: Normal Frequency: Daily x2 AC: None Class: Status Range: Melee, 1 Target Effect: The target regains Hit Points equal to half of its full Hit Point value. The user may target themselves with Milk Drink. Contest Type: Cute Contest Effect: Reflective Appeal

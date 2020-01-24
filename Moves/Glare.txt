@@ -1,0 +1,1 @@
+Move: Glare Type: Normal Frequency: Scene x2 AC: 2 Class: Status Range: 4, 1 Target, Social Effect: Glare Paralyzes the target. Contest Type: Tough Contest Effect: Excitement 

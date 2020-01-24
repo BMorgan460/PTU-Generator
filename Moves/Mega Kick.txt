@@ -1,0 +1,1 @@
+Move: Mega Kick Type: Normal Frequency: Scene x2 AC: 6 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, 1 Target, Dash, Push, Smite Effect: The target is Pushed 2 meters. Contest Type: Cool Contest Effect: Desperation

@@ -1,0 +1,1 @@
+Move: Liquidation Type: Water Frequency: EOT AC: 2 DB: 9 Class: Physical Range: Melee, 1 Target, Dash, Push Effect: The target is pushed 1 meter. Liquidation lowers the targets Defense 1 Combat Stage on 17+

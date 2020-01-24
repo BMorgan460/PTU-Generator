@@ -1,0 +1,1 @@
+Move: Mega Punch Type: Normal Frequency: At-Will AC: 4 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target Effect: None Contest Type: Tough Contest Effect: Desperation 

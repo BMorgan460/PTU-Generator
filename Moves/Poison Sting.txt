@@ -1,0 +1,1 @@
+Move: Poison Sting Type: Poison Frequency: At-Will AC: 2 Damage Base 2: 1d6+3 / 7 Class: Physical Range: 6, 1 Target Effect: Poison Sting Poisons the target on 17+. Contest Type: Smart Contest Effect: Excitement 

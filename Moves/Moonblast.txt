@@ -1,0 +1,1 @@
+Move: Moonblast Type: Fairy Frequency: EOT AC: 2 Damage Base 10: 3d8+10 / 24 Class: Special Range: 6, 1 Target Effect: Moonblast lowers the target’s Special Attack by 1 Combat Stage on 15+. Contest Type: Beauty Contest Effect: Reflective Appeal 

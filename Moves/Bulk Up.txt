@@ -1,0 +1,1 @@
+Move: Bulk Up Type: Fighting Frequency: EOT AC: None Class: Status Range: Self Effect: Raise the user’s Attack 1 Combat Stage and raise the user’s Defense 1 Combat Stage. Contest Type: Beauty Contest Effect: Get Ready!

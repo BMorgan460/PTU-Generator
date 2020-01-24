@@ -1,0 +1,1 @@
+Move: Heal Bell Type: Normal Frequency: Scene AC: None Class: Status Range: Burst 3, Sonic Effect: All targets are cured of any Persistent Status ailments. Contest Type: Beauty Contest Effect: Reflective Appeal 

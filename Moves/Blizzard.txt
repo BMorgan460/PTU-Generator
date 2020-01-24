@@ -1,0 +1,1 @@
+Move: Blizzard Type: Ice Frequency: Scene x2 AC: 7 Damage Base 11: 3d10+10 / 27 Class: Special Range: 4, Ranged Blast 2, Smite Effect: Blizzard Freezes all legal target on 15+. If the target is in Hailing Weather, Blizzard cannot miss. Contest Type: Beauty Contest Effect: Exhausting Act

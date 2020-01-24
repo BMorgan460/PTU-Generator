@@ -1,0 +1,1 @@
+Move: Heat Wave Type: Fire Frequency: Scene x2 AC: 4 Damage Base 10: 3d8+10 / 24 Class: Special Range: Close Blast 3, Smite Effect: Heat Wave Burns all Legal Targets on 18+. Contest Type: Beauty Contest Effect: Exhausting Act 

@@ -1,0 +1,1 @@
+Move: Hone Claws Type: Dark Frequency: At-Will AC: None Class: Status Range: Self Effect: The user’s Accuracy is raised by +1, and the user gains +1 Attack Combat Stage. Contest Type: Cool Contest Effect: Get Ready! 

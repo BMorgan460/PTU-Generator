@@ -1,0 +1,1 @@
+Move: Iron Tail Type: Steel Frequency: Scene x2 AC: 6 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Melee, 1 Target, Smite Effect: Iron Tail lowers the target’s Defense 1 Combat Stage on 15+. Contest Type: Cool Contest Effect: Desperation 

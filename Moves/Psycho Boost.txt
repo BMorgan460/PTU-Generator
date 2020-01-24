@@ -1,0 +1,1 @@
+Move: Psycho Boost Type: Psychic Frequency: Scene AC: 4 Damage Base 14: 4d10+15 / 40 Class: Special Range: 8, Ranged Blast 3, Smite Effect: Lower the user’s Special Attack 2 Combat Stages after damage is resolved. Contest Type: Smart Contest Effect: Seen Nothing Yet 

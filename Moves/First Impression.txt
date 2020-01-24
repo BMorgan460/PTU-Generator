@@ -1,0 +1,1 @@
+Move: First Impression Type: Bug Frequency: At-Will AC: 2 DB: 9 Class: Physical Range: Melee, 1 Target, Priority Effect: You may only use First Impression with Priority upon joining an encounter. Switching out resets the requirements of joining the encounter.

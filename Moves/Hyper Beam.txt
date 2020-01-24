@@ -1,0 +1,1 @@
+Move: Hyper Beam Type: Normal Frequency: Daily x2 AC: 4 Damage Base 15: 4d10+20 / 45 Class: Special Range: 10, 1 Target, Exhaust, Smite Effect: None Contest Type: Cool Contest Effect: Seen Nothing Yet 

@@ -1,0 +1,1 @@
+Move: Spike Cannon Type: Normal Frequency: EOT AC: 4 Damage Base 3: 1d6+5 / 9 Class: Physical Range: 6, 1 Target, Five Strike Effect: None Contest Type: Cool Contest Effect: Reliable 

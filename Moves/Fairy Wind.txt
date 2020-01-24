@@ -1,0 +1,1 @@
+Move: Fairy Wind Type: Fairy Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: 6, 1 Target Effect: None Contest Type: Cute Contest Effect: Steady Performance 

@@ -1,0 +1,1 @@
+Move: Blue Flare Type: Fire Frequency: Scene x2 AC: 5 Damage Base 13: 4d10+10 / 35 Class: Special Range: 10, 1 Target, Smite Effect: Blue Flare Burns the target on 17+. Contest Type: Beauty Contest Effect: Steady Performance 

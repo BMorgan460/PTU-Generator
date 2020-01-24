@@ -1,0 +1,1 @@
+Move: Sweet Kiss Type: Fairy Frequency: Scene x2 AC: 6 Class: Status Range: 6, 1 Target, Social Effect: The target becomes Confused. On miss, the target suffers a -2 penalty to Accuracy Rolls for one full round. Contest Type: Cute Contest Effect: Excitement 

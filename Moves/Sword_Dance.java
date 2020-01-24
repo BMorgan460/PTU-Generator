@@ -7,7 +7,5 @@ public class Sword_Dance extends Move{
 		category = "Status";
 		range = "Self";
 		effects = "The user’s Attack is raised 2 Combat Stages";
-		damageBase = 0; 
-		MDamageBase = 0;
 		}
 }

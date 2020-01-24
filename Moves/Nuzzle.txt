@@ -1,0 +1,1 @@
+Move: Nuzzle Type: Electric Frequency: Scene AC: 2 Damage Base 2: 1d6+3 / 7 Class: Physical Range: Melee, 1 Target Effect: Nuzzle Paralyzes the target. Contest Type: Cute Contest Effect: Double Time

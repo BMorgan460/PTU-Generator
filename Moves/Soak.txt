@@ -1,0 +1,1 @@
+Move: Soak Type: Water Frequency: Daily AC: 2 Class: Status Range: 5, 1 Target Effect: The target gains the Water Type in addition to its other Types for 5 turns. Contest Type: Beauty Contest Effect: Safe Option 

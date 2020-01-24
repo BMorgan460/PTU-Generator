@@ -1,1 +1,1 @@
-Ability: Static Scene – Free Action Trigger: The user is hit by a Melee Attack Effect: The attacking foe becomes Paralyzed. 
+Ability: Static Scene – Free Action Trigger: The user is hit by a Melee Attack Effect: The attacking foe becomes Paralyzed.

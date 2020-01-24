@@ -1,0 +1,1 @@
+Move: Gear Grind Type: Steel Frequency: EOT AC: 3 Damage Base 5: 1d8+8 / 13 Class: Physical Range: Melee, 1 Target, Double Strike Effect: None Contest Type: Cool Contest Effect: Reliable 

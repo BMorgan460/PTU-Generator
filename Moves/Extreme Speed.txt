@@ -1,0 +1,1 @@
+Move: Extreme Speed Type: Normal Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target, Dash, Priority Effect: None Contest Type: Cool Contest Effect: Saving Grace

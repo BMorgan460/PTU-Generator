@@ -1,0 +1,1 @@
+Move: Hold Hands Type: Normal Frequency: Scene x2 AC: None Class: Status Range: Melee, 1 Target Effect: Both the user and the target become Cheered. They may give up the Cheered condition when making a Save Check to roll twice and take the best result. Contest Type: Contest Effect: 

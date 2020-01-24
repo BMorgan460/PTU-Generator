@@ -1,0 +1,1 @@
+Move: Smelling Salts Type: Normal Frequency: Scene x2 AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: If the target is Paralyzed, Smelling Salt’s Damage Base is doubled to 14 (4d10+15 / 40), and cures the target of Paralysis. Contest Type: Smart Contest Effect: Unsettling 

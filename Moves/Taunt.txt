@@ -1,0 +1,1 @@
+Move: Taunt Type: Dark Frequency: EOT AC: 3 Class: Status Range: 6, 1 Target, Social Effect: The target becomes Enraged. Contest Type: Smart Contest Effect: Inversed Appeal 

@@ -1,1 +1,0 @@
-"Name":"Swords Dance","Type":"Normal","DType":"Status","DB":"","Freq":"EOT","AC":"","Range":"Self","Effects":"Raise your attack by 2 CS"

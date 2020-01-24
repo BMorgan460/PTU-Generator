@@ -1,0 +1,1 @@
+Move: Disarming Voice Type: Fairy Frequency: At-Will AC: None Damage Base 4: 1d8+6 / 11 Class: Special Range: Burst 1 Effect: Disarming Voice cannot miss. Contest Type: Cute Contest Effect: Exhausting Act 

@@ -1,0 +1,1 @@
+Move: Rock Smash Type: Fighting Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: Melee, 1 Target Effect: Rock Smash lowers the target’s Defense 1 Combat Stage on 17+. Contest Type: Tough Contest Effect: Desperation 

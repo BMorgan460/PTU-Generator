@@ -1,0 +1,1 @@
+Move: Return Type: Normal Frequency: At-Will AC: 2 Damage Base X: See Effect Class: Physical Range: Melee, 1 Target Effect: Return’s Damage Base is equal to 3 plus the user’s Loyalty Value. Contest Type: Cute Contest Effect: Exhausting Act

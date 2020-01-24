@@ -1,0 +1,1 @@
+Move: Blaze Kick Type: Fire Frequency: EOT AC: 4 Damage Base 9: 2d10+10 / 21 Class: Physical Range: Melee, 1 Target Effect: Blaze Kick Burns the target on 19+, and is a Critical Hit on 18+. Contest Type: Beauty Contest Effect: Exhausting Act 

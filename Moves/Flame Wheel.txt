@@ -1,0 +1,1 @@
+Move: Flame Wheel Type: Fire Frequency: At-Will AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target, Dash Effect: Flame Wheel Burns the target on 19+. Contest Type: Beauty Contest Effect: Reliable

@@ -1,0 +1,1 @@
+Move: Boomburst Type: Normal Frequency: Scene AC: 2 Damage Base 14: 4d10+15 / 40 Class: Special Range: Burst 1, Sonic Effect: None Contest Type: Cool Contest Effect: Seen Nothing Yet 

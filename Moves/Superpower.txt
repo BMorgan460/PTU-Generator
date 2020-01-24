@@ -1,0 +1,1 @@
+Move: Superpower Type: Fighting Frequency: Scene x2 AC: 2 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, 1 Target, Dash Effect: Superpower lowers the user’s Attack and Defense by 1 Combat Stage each. Contest Type: Tough Contest Effect: Desperation 

@@ -1,0 +1,1 @@
+Move: Uproar Type: Normal Frequency: EOT AC: 2 Damage Base 5: 1d8+8 / 13 Class: Special Range: Burst 1, Spirit Surge, Sonic Effect: All Pokémon and Trainers within 5 meters of the user are cured of sleep. Contest Type: Cute Contest Effect: Unsettling 

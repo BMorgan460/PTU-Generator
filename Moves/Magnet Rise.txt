@@ -1,0 +1,1 @@
+Move: Magnet Rise Type: Electric Frequency: Daily x2 AC: 2 Class: Status Range: Self, Swift Action Effect: The user gains the Levitate Ability for 5 turns. Magnet Rise may be activated as a Swift Action if the user is otherwise given an action that consumes a Command. Contest Type: Cute Contest Effect: Sabotage Special: Grants Magnetic 

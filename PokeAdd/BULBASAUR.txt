@@ -1,4 +1,4 @@
-BULBASAUR
+Bulbasaur
   Base Stats:  HP:   5  Attack:  5  Defense:  5  Special Attack: 7  Special Defense: 7  Speed:   5
   Basic Information   Type : Grass / Poison  Basic Ability 1: Chlorophyll  Basic Ability 2: Overgrow  Adv Ability 1: Confidence  Adv Ability 2: Discipline  High Ability: Empower
   Evolution:  1 - Bulbasaur    2 - Ivysaur Minimum 15   3 - Venusaur Minimum 30 

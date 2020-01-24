@@ -1,0 +1,1 @@
+Move: Steam Eruption Type: Water Frequency: Scene x2 AC: 3 DB: 11 Class: Special Range: Line 6 Effect: All legal targets are pushed out of range, to squares immediately on either side of the line. Burns the target on 15+.

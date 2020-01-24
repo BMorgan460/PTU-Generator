@@ -1,0 +1,1 @@
+Move: Brick Break Type: Fighting Frequency: At-Will AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target Effect: Light Screen and Reflect may not be activated in response to Brick Break. Contest Type: Cool Contest Effect: Steady Performance 

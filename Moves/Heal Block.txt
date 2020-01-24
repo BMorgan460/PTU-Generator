@@ -1,0 +1,1 @@
+Move: Heal Block Type: Psychic Frequency: EOT AC: 2 Class: Status Range: 6, 1 Target Effect: Until the end of the encounter, the target may not gain Hit Points or Temporary Hit Points from any source. This effect ends if the target is switched out or Takes a Breather. Contest Type: Cute Contest Effect: Sabotage 

@@ -1,0 +1,1 @@
+Move: Tri Attack Type: Normal Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: 6, 1 target Effect: Tri Attack gives the target a Status ailment on 17+ during Accuracy Check. If this effect is triggered, roll 1d3; on 1 the target is Paralyzed; on 2 the target is Burned; on 3 the target is Frozen. Contest Type: Beauty Contest Effect: Steady Performance

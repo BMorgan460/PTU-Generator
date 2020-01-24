@@ -1,0 +1,1 @@
+Move: Aromatherapy Type: Grass Frequency: Scene AC: None Class: Status Range: Burst 1 Effect: All allies in the burst are cured of one status condition of their choice. Contest Type: Smart Contest Effect: Reflective Appeal 

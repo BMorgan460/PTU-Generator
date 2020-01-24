@@ -1,0 +1,1 @@
+Move: Clear Smog Type: Poison Frequency: Scene x2 AC: None Damage Base 5: 1d8+8 / 13 Class: Special Range: 6, 1 Target Effect: The target’s Combat Stages are reset to their default, and all Coats on the target are destroyed. Clear Smog cannot miss. Contest Type: Smart Contest Effect: Sabotage 

@@ -1,0 +1,1 @@
+Move: Leaf Storm Type: Grass Frequency: Scene AC: 4 Damage Base 13: 4d10+10 / 35 Class: Special Range: 8, Ranged Blast 3, Smite Effect: Lower the user’s Special Attack 2 Combat Stages after damage. Contest Type: Cute Contest Effect: Seen Nothing Yet 

@@ -1,0 +1,1 @@
+Move: Mud Shot Type: Ground Frequency: At-Will AC: 3 Damage Base 6: 2d6+8 / 15 Class: Special Range: 3, 1 Target Effect:  The target’s Speed is lowed by -1 Combat Stage. Contest Type: Tough Contest Effect: Desperation 

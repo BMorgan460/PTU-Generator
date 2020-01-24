@@ -1,0 +1,1 @@
+Move: Wring Out Type: Normal Frequency: Scene x2 AC: 2 Damage Base 12: 3d12+10 / 30 Class: Special Range: Melee, 1 Target Effect: For every 10% the target is below their full Hit Points, Wring Out’s Damage Base is reduced by 1. Contest Type: Smart Contest Effect: Seen Nothing Yet 

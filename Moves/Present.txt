@@ -1,0 +1,1 @@
+Move: Present Type: Normal Frequency: EOT AC: 3 Damage Base: See Effect Class: Physical Range: 4, 1 Target Effect: Roll 1d6; Present has a Damage Base equal to twice the result. On a result of 1, instead of taking damage, the target gains 20 Hit Points. Contest Type: Cute Contest Effect: Inversed Appeal 

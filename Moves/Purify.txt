@@ -1,0 +1,1 @@
+Move: Purify Type: Poison Frequency: Scene x2 Class: Status Range: 4, 1 Target Effect: The target is cured of a Volatile Status Ailment. The user regains 25% of their max Hit Points.

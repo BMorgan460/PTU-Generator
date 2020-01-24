@@ -1,0 +1,1 @@
+Move: Thief Type: Dark Frequency: At-Will AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target Effect: Thief takes the target’s Held Item or Accessory Slot Item and attaches it to Thief’s user, if the user is not holding anything. Contest Type: Tough Contest Effect: Attention Grabber 

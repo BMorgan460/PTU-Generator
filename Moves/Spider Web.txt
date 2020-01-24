@@ -1,0 +1,1 @@
+Move: Spider Web Type: Bug Frequency: Scene x2 AC: None Class: Status Range: 5 Effect: Spider Web cannot miss. The target is Stuck and Trapped. If the user is freed of the Stuck condition, they are freed of Trapped as well. Contest Type: Smart Contest Effect: Sabotage Special: Grants Threaded 

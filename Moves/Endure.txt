@@ -1,0 +1,1 @@
+Move: Endure Type: Normal Frequency: Daily AC: None Class: Status Range: Self, Reaction, Trigger Effect: If the user is hit by a damaging Move, you may use Endure as a Free Action. If the Move would bring Endure’s user down to 0 Hit Points or less, Endure’s user instead is set to 1 Hit Point. Contest Type: Tough Contest Effect: Sabotage 

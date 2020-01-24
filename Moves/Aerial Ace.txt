@@ -1,0 +1,1 @@
+Move: Aerial Ace Type: Flying Frequency: EOT AC: None Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target Effect: Aerial Ace cannot miss. Contest Type: Cool Contest Effect: Exhausting Act 

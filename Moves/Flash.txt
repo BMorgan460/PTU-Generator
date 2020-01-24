@@ -1,0 +1,1 @@
+Move: Flash Type: Normal Frequency: EOT AC: 2 Class: Status Range: Cone 2 Effect: The Accuracy of all Legal Targets is lowered by -1. Contest Type: Beauty Contest Effect: Unsettling Special: Grants Glow 

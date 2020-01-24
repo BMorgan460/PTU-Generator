@@ -1,0 +1,1 @@
+Move: Sucker Punch Type: Dark Frequency: At-Will AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target, Interrupt, Trigger Effect: If an adjacent foe targets the user with a Damaging Attack, Sucker Punch may be used as an Interrupt Move against the triggering foe. Contest Type: Smart Contest Effect: Saving Grace 

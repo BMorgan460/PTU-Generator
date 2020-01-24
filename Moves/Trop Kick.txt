@@ -1,0 +1,1 @@
+Move: Trop Kick Type: Grass Frequency: EOT AC: 3 DB: 9 Class: Physical Range: Melee, 1 Target Effect: Trop Kick reduces the targets Attack 1 Combat Stage.

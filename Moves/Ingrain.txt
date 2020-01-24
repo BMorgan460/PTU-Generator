@@ -1,0 +1,1 @@
+Move: Ingrain Type: Grass Frequency: Scene AC: None Class: Status Range: Self, Coat Effect: Ingrain applies a Coat to the user, which has the following effect; the user cannot be pushed or pulled, and cannot be switched out.  At the beginning of each of the user’s turn, the user gains a Tick of Hit Points. Contest Type: Smart Contest Effect: Safe Option

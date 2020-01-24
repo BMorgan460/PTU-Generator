@@ -1,0 +1,1 @@
+Move: Heal Order Type: Bug Frequency: Daily x2 AC: None Class: Status Range: Self Effect: The user regains Hit Points equal to half of its full Hit Point value. Contest Type: Smart Contest Effect: Reflective Appeal 

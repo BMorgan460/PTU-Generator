@@ -1,0 +1,1 @@
+Move: Earth Power Type: Ground Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: 6, 1 Target, Groundsource Effect: Earth Power lowers the Special Defense of all Legal Targets 1 Combat Stage on 16+. Contest Type: Smart Contest Effect: Desperation

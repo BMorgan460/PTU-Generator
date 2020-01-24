@@ -1,0 +1,1 @@
+Move: Rock Climb Type: Normal Frequency: At-Will AC: 5 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target, Dash Effect: Rock Climb Confuses the target on 17+. Contest Type: Cool Contest Effect: Desperation 

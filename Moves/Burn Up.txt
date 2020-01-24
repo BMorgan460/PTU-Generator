@@ -1,0 +1,1 @@
+Move: Burn Up Type: Fire Frequency: Daily AC: 4 DB: 13 Class: Special Range: Cone 2 Effect: After using Burn Up, the user loses its Fire-type. If this would leave it without a type, the user becomes ???-type, and takes neutral damage from all types.

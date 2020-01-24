@@ -1,0 +1,1 @@
+Move: Power Split Type: Psychic Frequency: Scene AC: None Class: Status Range: Melee, 1 Target Effect: The target has their Attack and Special Attack lowered by 5. If they do, the user gains a +5 bonus to Damage Rolls. These effects last until the end of the scene. Contest Type: Beauty Contest Effect: Inversed Appeal 

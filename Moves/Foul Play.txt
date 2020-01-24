@@ -1,0 +1,1 @@
+Move: Foul Play Type: Dark Frequency: Scene x2 AC: 2 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Melee, 1 Target Effect: The target reveals its Attack stat. When calculating damage, add the target’s Attack stat instead of the user’s Attack stat. Contest Type: Smart Contest Effect: Steady Performance 

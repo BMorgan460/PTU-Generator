@@ -1,0 +1,1 @@
+Move: Block Type: Normal Frequency: At-Will AC: 2 Class: Status Range: Melee, 1 Target Effect: The target is Stuck and Trapped until the beginning of your next turn. Contest Type: Cute Contest Effect: Sabotage

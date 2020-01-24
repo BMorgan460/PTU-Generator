@@ -1,0 +1,1 @@
+Move: Spacial Rend Type: Dragon Frequency: Daily x2 AC: 3 Damage Base 10: 3d8+10 / 24 Class: Special Range: 10, 1 Target Effect: Spacial Rend is a Critical Hit on Even-Numbered Rolls. Contest Type: Tough Contest Effect: Incentives

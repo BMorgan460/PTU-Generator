@@ -1,0 +1,1 @@
+Move: Tickle Type: Normal Frequency: EOT AC: 2 Class: Status Range: Melee, 1 Target Effect: Lower the target’s Attack 1 Combat Stage and lower the target’s Defense 1 Combat Stage. Contest Type: Cute Contest Effect: Excitement 

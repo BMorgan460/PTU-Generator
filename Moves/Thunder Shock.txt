@@ -1,0 +1,1 @@
+Move: Thunder Shock Type: Electric Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: 4, 1 Target Effect: Thunder Shock Paralyzes the target on 17+. Contest Type: Cool Contest Effect: Steady Performance Special: Grants Zapper

@@ -1,0 +1,1 @@
+Move: Belly Drum Type: Normal Frequency: Scene AC: None Class: Status Range: Self Effect: The user gains +6 Attack Combat Stages, and loses Hit Points equal to ½ of their Max Hit Points. Contest Type: Cute Contest Effect: Get Ready!

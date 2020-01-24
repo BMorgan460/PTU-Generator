@@ -1,0 +1,1 @@
+Move: Double Hit Type: Normal Frequency: EOT AC: 3 Damage Base 4: 1d8+6 / 11 Class: Physical Range: Melee, 1 Target, Double Strike Effect:  None Contest Type: Smart Contest Effect: Reliable 

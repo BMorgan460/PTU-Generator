@@ -1,0 +1,1 @@
+Move: Icicle Crash Type: Ice Frequency: EOT AC: 4 Damage Base 8: 2d8+10 / 19 Class: Physical Range: 6, 1 Target Effect: Icicle Crash Flinches the target on 15+. Contest Type: Tough Contest Effect: Steady Performance 

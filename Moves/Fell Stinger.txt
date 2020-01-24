@@ -1,0 +1,1 @@
+Move: Fell Stinger Type: Bug Frequency: At-Will AC: 2 Damage Base 3: 1d6+5 / 9 Class: Physical Range: Melee, 1 Target Effect: If the user successfully knocks out a target with Fell Stinger, raise their Attack by 2 Combat Stages. Contest Type: Smart Contest Effect: Desperation 

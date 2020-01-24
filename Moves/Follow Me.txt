@@ -1,0 +1,1 @@
+Move: Follow Me Type: Normal Frequency: Scene AC: None Class: Status Range: Burst 5, Social Effect: Until the end of the user’s next turn, all Foes must target the user when using a Move that targets their opponents. This effect ends if the user is Fainted or Switched out. Contest Type: Cute Contest Effect: Tease

@@ -1,0 +1,1 @@
+Move: Magnetic Flux Type: Electric Frequency: Scene AC: None Class: Status Range: Burst 4  Effect: All targets with the Minus or Plus Ability have their Defense and Special Defense raised by +1 Combat Stage. Contest Type: Smart Contest Effect: Incentives 

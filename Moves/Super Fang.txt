@@ -1,0 +1,1 @@
+Move: Super Fang Type: Normal Frequency: Scene AC: 4 Class: Physical Range: Melee, 1 Target Effect: The target loses 1/2 of their current Hit Points. Contest Type: Tough Contest Effect: Steady Performance 

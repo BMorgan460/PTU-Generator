@@ -1,0 +1,1 @@
+Move: Sand Tomb Type: Ground Frequency: Scene x2 AC: 4 Damage Base 4: 1d8+6 / 11 Class: Physical Range: 5, 1 Target Effect: The target is put in a Vortex. Contest Type: Smart Contest Effect: Safe Option 

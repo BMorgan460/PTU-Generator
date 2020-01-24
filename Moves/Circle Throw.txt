@@ -1,0 +1,1 @@
+Move: Circle Throw Type: Fighting Frequency: At-Will AC: 4 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target, Push Effect: The target is Pushed 6 meters minus their Weight Class. On 15+, the target is also Tripped. Contest Type: Tough Contest Effect: Big Show 

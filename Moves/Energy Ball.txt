@@ -1,0 +1,1 @@
+Move: Energy Ball Type: Grass Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: 8, 1 Target Effect: Energy Ball lowers the foe’s Special Defense 1 Combat Stage on 17+. Contest Type: Beauty Contest Effect: Exhausting Act 

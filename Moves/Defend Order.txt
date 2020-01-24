@@ -1,0 +1,1 @@
+Move: Defend Order Type: Bug Frequency: EOT AC: None Class: Status Range: Self Effect: Raise the user’s Defense and Special Defense 1 Combat Stage each. Contest Type: Smart Contest Effect: Get Ready! 

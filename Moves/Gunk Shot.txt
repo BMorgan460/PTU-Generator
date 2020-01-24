@@ -1,0 +1,1 @@
+Move: Gunk Shot Type: Poison Frequency: Daily x2 AC: 5 Damage Base 12: 3d12+10 / 30 Class: Physical Range: 6, 1 Target, Smite Effect: Gunk Shot Poisons the Target on 15+. Contest Type: Cool Contest Effect: Steady Performance 

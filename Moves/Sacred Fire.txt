@@ -1,0 +1,1 @@
+Move: Sacred Fire Type: Fire Frequency: EOT AC: 3 Damage Base 10: 3d8+10 / 24 Class: Physical Range: 6, 1 Target Effect: Sacred Fire Burns the target on Even-Numbered Rolls. Contest Type: Beauty Contest Effect: Seen Nothing Yet

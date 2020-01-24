@@ -1,0 +1,1 @@
+Move: Force Palm Type: Fighting Frequency: At-Will AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target, Aura Effect: Force Palm Paralyzes the target on 18+. Contest Type: Cool Contest Effect: Desperation 

@@ -1,0 +1,1 @@
+Move: Poison Fang Type: Poison Frequency: EOT AC: 2 Damage Base 5: 1d8+8 / 13 Class: Physical Range: Melee, 1 Target Effect: Poison Fang Badly Poisons the target on 17+. Contest Type: Smart Contest Effect: Incentives 

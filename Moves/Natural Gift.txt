@@ -1,0 +1,1 @@
+Move: Natural Gift Type: Normal Frequency: Scene AC: 2 Damage Base: See Effect Class: Physical Range: 6, 1 Target, Berry Effect: Refer to the Move Keywords Berry list. Natural Gift deals damage according to the Berry list and Natural Gift’s Type is also defined there. The Berry’s Digestion Buff is nullified and is not used. Contest Type: Cool Contest Effect: Desperation 

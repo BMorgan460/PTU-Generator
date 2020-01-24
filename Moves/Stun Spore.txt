@@ -1,0 +1,1 @@
+Move: Stun Spore Type: Grass Frequency: Scene x2 AC: 6 Class: Status Range: 6, 1 Target, Powder Effect: The target is Paralyzed. Contest Type: Smart Contest Effect: Excitement 

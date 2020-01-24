@@ -1,0 +1,1 @@
+Move: Silver Wind Type: Bug Frequency: At-Will AC: 2 Damage Base 6: 2d6+8 / 15 Class: Special Range: 6, 1 Target, Spirit Surge Effect: On 19+, the user has each of its stats raised by +1 Combat Stage. Contest Type: Beauty Contest Effect: Incentives 

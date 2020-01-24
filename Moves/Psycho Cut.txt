@@ -1,0 +1,1 @@
+Move: Psycho Cut Type: Psychic Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: 6, 1 Target Effect: Psycho Cut is a Critical Hit on 18+. Contest Type: Cool Contest Effect: Exhausting Act 

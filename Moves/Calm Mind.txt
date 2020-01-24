@@ -1,0 +1,1 @@
+Move: Calm Mind Type: Psychic Frequency: EOT AC: None Class: Status Range: Self Effect: Raise the user’s Special Attack 1 Combat Stage and raise the user’s Special Defense 1 Combat Stage. Contest Type: Smart Contest Effect: Get Ready! 

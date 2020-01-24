@@ -1,0 +1,1 @@
+Move: Magnet Bomb Type: Steel Frequency: EOT AC: None Damage Base 6: 2d6+8 / 15 Class: Physical Range: 8, 1 target Effect: Magnet Bomb cannot miss. Contest Type: Cool Contest Effect: Steady Performance Special: Grants Magnetic

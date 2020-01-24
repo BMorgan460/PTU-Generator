@@ -1,0 +1,1 @@
+Move: Flare Blitz Type: Fire Frequency: Scene x2 AC: 2 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, 1 Target, Dash, Recoil 1/3 Effect: Flare Blitz Burns the target on 19+. Contest Type: Smart Contest Effect: Seen Nothing Yet 

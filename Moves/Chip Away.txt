@@ -1,0 +1,1 @@
+Move: Chip Away Type: Normal Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: Ignore any Armor, Damage Reduction, or changes in the target’s Defense or Special Defense (such as from Combat Stages) when calculating damage. Contest Type: Tough Contest Effect: Reliable 

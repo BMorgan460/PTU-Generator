@@ -1,11 +1,12 @@
 
 public class Driver {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-	    String path = System.getProperty("user.dir");
-        
-        System.out.println("Working Directory = " + path + "\\Abilities\\Processed");
+    public static void main(String[] args) {
+		String name = args[0];
+		int minLevel = Integer.valueOf(args[1]);
+		int maxLevel = Integer.valueOf(args[2]);
+		Generator g = new Generator(name, minLevel, maxLevel);
+		System.out.println(g.toJSON());
 	}
 
 }

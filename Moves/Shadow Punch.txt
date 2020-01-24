@@ -1,0 +1,1 @@
+Move: Shadow Punch Type: Ghost Frequency: EOT AC: None Damage Base 6: 2d6+8 / 15 Class: Physical Range: 6, 1 Target Effect: Shadow Punch cannot miss. Contest Type: Smart Contest Effect: Exhausting Act 

@@ -1,0 +1,1 @@
+Move: Freeze-Dry Type: Ice Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target. Effect: When calculating Weakness and Resistance for Freeze-Dry, Water-Typed targets calculate damage as if Water was weak to Ice. Contest Type: Tough Contest Effect: Saving Grace 

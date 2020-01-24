@@ -1,0 +1,1 @@
+Move: False Swipe Type: Normal Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: Melee, Pass Effect: False Swipe’s damage cannot bring a target lower than 1 Hit Point. Contest Type: Cool Contest Effect: Inversed Appeal 

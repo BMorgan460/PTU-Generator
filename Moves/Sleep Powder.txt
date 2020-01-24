@@ -1,0 +1,1 @@
+Move: Sleep Powder Type: Grass Frequency: Scene x2 AC: 6 Class: Status Range: 4, 1 Target, Powder Effect: The target falls asleep. Contest Type: Smart Contest Effect: Inversed Appeal 
