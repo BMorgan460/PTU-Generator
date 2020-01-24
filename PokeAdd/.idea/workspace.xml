@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1507ddd3-8c46-4dba-a0fe-1c4cd7a14523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mass_poke_converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abilities/Processed/Static.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Abilities/Processed/Static.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Bestow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Bestow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Endeavor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Endeavor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Fling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Fling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Frustration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Frustration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Grass_Knot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Grass_Knot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Magnitude.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Magnitude.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Metal_Burst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Metal_Burst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Natural_Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Natural_Gift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Nature_Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Nature_Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Present.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Present.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Return.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Round.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Round.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Spit_Up.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Spit_Up.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Moves/Triple_Kick.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Triple_Kick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PokeAdd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PokeAdd.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pikachu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Pikachu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tropius.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tropius.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Driver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Generator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/Pikachu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Pikachu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Pokemon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/Tropius.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Tropius.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/EnviroDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/EnviroDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Generator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Pokemon.java" afterDir="false" />
     </list>

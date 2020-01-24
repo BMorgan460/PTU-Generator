@@ -26,17 +26,17 @@ public class Pokemon {
     private int         nSpDef;
     private int         nSpd;
 
-    private int       level;
+    private int         level;
 
-    private String    nature;
+    private String      nature;
 
     // adjusted stats
-    private int       HP;
-    private int       atk;
-    private int       def;
-    private int       spAtk;
-    private int       spDef;
-    private int       spd;
+    private int         HP;
+    private int         atk;
+    private int         def;
+    private int         spAtk;
+    private int         spDef;
+    private int         spd;
 
     // types
     protected String    type1;
@@ -48,7 +48,7 @@ public class Pokemon {
 
     // evolutions
     protected Pokemon   previous;
-    protected Pokemon[] next;
+    protected String[] next;
     protected int       prevReq;
     protected int[]     nextReq;
 
