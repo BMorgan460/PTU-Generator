@@ -49,7 +49,11 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 				if word != '':
 					list.append(word)#adds each word into the array
 <<<<<<< HEAD
+<<<<<<< HEAD
 			list.append("the program has ended")		
+=======
+			list.append("end")
+>>>>>>> 291be190963868b6eac60f2c90ae742bfcd694b6
 =======
 			list.append("end")
 >>>>>>> 291be190963868b6eac60f2c90ae742bfcd694b6
@@ -60,9 +64,13 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 				#print(list)#Debug
 				id = id + 1 # goes through each id on the array
 <<<<<<< HEAD
+<<<<<<< HEAD
 				if list[id] == "Move": 
 					if name == "trick"
 						name = "trick_"
+=======
+				if list[id] == "Move":
+>>>>>>> 291be190963868b6eac60f2c90ae742bfcd694b6
 =======
 				if list[id] == "Move":
 >>>>>>> 291be190963868b6eac60f2c90ae742bfcd694b6
