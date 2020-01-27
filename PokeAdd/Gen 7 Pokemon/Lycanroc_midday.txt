@@ -1,0 +1,22 @@
+Lycanroc midday 
+Base Stats:   
+ 
+HP:  8 Attack:  12 Defense: 7  Special Attack: 6 Special Defense: 7   Speed:   11 
+ 
+Type: Rock Basic Ability 1: Keen Eye Basic Ability 2: Sand Rush Adv Ability 1: Steadfast Adv Ability 2: Guts High Ability: Pack Hunt 
+ 
+1 – Rockruff 2 –Lycanroc Midday Sun Stone Minimum 25 
+ 
+  Size Information   Height: 2'07"/ 0.8 m (Medium)   Weight: 55.1 lbs./25.0 kg (3)     Breeding Information    Gender Ratio: 87.5% M / 12.5% F   Egg Group: Field 
+ 
+Diet: Carnivore   Habitat: Urban, Mountain, Grassland 
+ 
+Capability List Overland 8, Swim 4, Jump 2/3, Power 5, Naturewalk (Grassland, Mountain), Darkvision, Pack Mon, Tracker 
+ 
+Skill List Athl 4d6, Acro 5d6+2, Combat 4d6, Stealth 3d6, Percep 5d6, Focus 2d6+1 
+ 
+Move List  Level Up Move List  Evolve Accelerock – Rock  1 Quick Guard – Normal  1 Quick Attack – Normal  1 Tackle – Normal  1 Leer – Normal  4 Sand Attack – Normal  7 Bite – Dark  12 Howl – Normal  15 Rock Throw – Rock  18 Odor Sleuth – Normal  23 Rock Tomb – Rock  26 Roar – Normal  29 Stealth Rock – Rock  34 Rock Slide – Rock  37 Scary Face – Normal  40 Crunch – Dark  45 Rock Climb – Normal  48 Stone Edge – Rock  
+ 
+TM/HM Move List   Roar, Toxic, Bulk Up, Hidden Power, Taunt, Protect, Frustration, Return, Brick Break, Double Team, Rock Tomb, Façade, Rest, Attract, Round, Echoed Voice, Rock Polish, Stone Edge, Swords Dance, Rock Slide, Swagger, Sleep Talk, Substitute, Snarl, Confide 
+ 
+Tutor Moves Covet, Iron Head, Drill Run, Earth Power, Iron Defense, Last Resort, Zen Headbutt, Hyper Voice, Iron Tail, Snore, Endeavor, Stealth Rock, Stomping Tantrum

@@ -1,0 +1,23 @@
+Sandygast  Base Stats:   
+ 
+HP:  6 Attack:  6 Defense: 8 Special Attack: 7 Special Defense: 5  Speed:   2 
+ 
+Type: Ghost/Ground Basic Ability 1:  Water Compaction Basic Ability 2: Sand Veil Adv Ability 1: Arena Trap Adv Ability 2: Dry Skin High Ability: Soulstealer 
+ 
+1 – Sandygast  2 – Pallosand Minimum 40 
+ 
+  Size Information    Height: 1'08"/0.5 m(Small) Weight: 154.3 lbs./70.0 kg (3)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Amorphous Average Hatch Rate: 10 Days 
+ 
+Diet: Carnivore Habitat: Beach, Desert 
+ 
+Capability List Overland 4, Swim 2, Jump 0/0, Power 2, Naturewalk (Beach, Desert), Dead Silent, Underdog 
+ 
+Skill List Athl 2d6, Acro 1d6, Combat 2d6, Stealth 4d6+1, Percep 3d6+2, Focus 2d6+1 
+ 
+Move List  Level Up Move List   1 Harden – Normal  1 Absorb – Grass  5 Astonish – Ghost  9 Sand Attack – Ground  14 Sand Tomb – Ground  18 Mega Drain – Grass  23 Bulldoze – Ground  27 Hypnosis – Psychic  32 Iron Defense – Steel  36 Giga Drain – Grass  41 Shadow Ball – Ghost  45 Earth Power – Ground  50 Shore Up – Ground  54 Sandstorm – Rock  
+ 
+TM/HM Move List   Toxic, Hidden Power, Protect, Frustration, Earthquake, Return, Psychic, Shadow Ball, Double Team, Sandstorm, Rock Tomb, Facade, Rest, 45 Attract, Round, Energy Ball, Rock Polish, Stone Edge, Bulldoze, Rock Slide, Infestation, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Egg Move List  Amnesia, Destiny Bond, Ancient Power, Stockpile, Spit Up, Swallow, Curse 
+ 
+Tutor Moves Block, Earth Power, Gravity, Iron Defense, Snore, Role Play, Pain Split, Giga Drain, Spite, After You, Trick, Recycle, Stealth Rock, Skill Swap 

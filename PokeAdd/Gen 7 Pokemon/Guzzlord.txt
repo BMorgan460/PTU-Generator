@@ -1,0 +1,22 @@
+Guzzlord    Base Stats:   
+ 
+HP:  22 Attack:  10 Defense:   5 Special Attack:  10 Special Defense:  5 Speed:   4 
+ 
+Type:  Dark/Dragon Basic Ability 1: Beast Boost Adv Ability 1: Abominable Adv Ability 2: Truant Adv Ability 3: Life Force High Ability 1: Gluttony 
+ 
+1 – Guzzlord  
+ 
+Size Information  Height:   18'01"/ 5.5 m (Huge) Weight: 1957.7 lbs./ 888.0 kg (6)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 4, Swim 2, Jump 0/1, Power 12, Darkvision 
+ 
+Skill List Athl 5d6+2, Acro 2d6-1, Combat 5d6, Stealth 3d6, Percep 5d6, Focus 5d6 
+ 
+Move List  
+Level Up Move List   1 Belch – Poison 1 Wide Guard – Rock 1 Swallow – Normal 1 Stockpile – Normal 1 Dragon Rage – Dragon 1 Bite – Dark 7 Stomp – Normal 13 Brutal Swing – Dark 19 Steamroller – Bug 23 Dragon Tail – Dragon 29 Iron Tail – Steel 31 Stomping Tantrum – Ground 37 Crunch – Dark  43 Hammer Arm – Fighting 47 Thrash – Normal 53 Gastro Acid – Poison 59 Heavy Slam – Steel 67 Wring Out – Grass 73 Dragon Rush – Dragon  
+ 
+TM/HM Move List   Dragon Claw, Toxic, Hidden Power, Hyper Beam, Protect, Frustration, Smack Down, Earthquake, Return, Brick Break, Double Team, Sludge Wave, Flamethrower, Sludge Bomb, Fire Blast, Rock Tomb, Façade, Rest, Thief, Round, Fling, Brutal Swing, Shadow Claw, Payback, Giga Impact, Stone Edge, Gyro Ball, Bulldoze, Rock Slide, Dragon Tail, Poison Jab, Sleep Talk, Substitute, Snarl, Dark Pulse 
+ 
+Move Tutor List Draco Meteor, Dual Chop, Iron Head, Magnet Rise, Iron Defense, Last Resort, Dragon Pulse, Iron Tail, Snore, Knock Off, Heat Wave, Drain Punch, Shock Wave, Gastro Acid, Outrage, Stomping Tantrum 

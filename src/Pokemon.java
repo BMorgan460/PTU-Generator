@@ -50,7 +50,7 @@ public class Pokemon {
     protected Pokemon   previous;
     protected String[] next;
     protected int       prevReq;
-    protected int[]     nextReq;
+    protected String[]     nextReq;
 
     // size
     protected String    height;
@@ -78,7 +78,7 @@ public class Pokemon {
     protected int       power;
     protected boolean   underdog;
     protected String[]  natureWalk;
-    protected String[]  others;
+    protected String[]  other;
     private String[]    mOthers;
 
     // skill ranks
@@ -113,8 +113,25 @@ public class Pokemon {
     public Pokemon() {
 
     }
-
-
+    
+    /**
+     * Getter method for previous requirement
+     * 
+     * @return prevReq
+     */
+    public int getPrevReq() {
+        return prevReq;
+    }
+    
+    /**
+     * Getter method for previous Pokemon
+     * 
+     * @return previous Pokemon
+     */
+    public Pokemon getPrev() {
+        return previous;
+    }
+    
     // methods
     /**
      * Decides what nature a Pokemon is
@@ -1132,12 +1149,12 @@ public class Pokemon {
                 result += ",\"Naturewalk(" + natureWalk[i] + ")\":true";
             }
         }
-        for (int i = 0; i < others.length; i++) {
-            if (!(others[i].equals("Teleporter"))) {
-                result += String.format(",\"%s\":true", others[i]);
+        for (int i = 0; i < other.length; i++) {
+            if (!(other[i].equals("Teleporter"))) {
+                result += String.format(",\"%s\":true", other[i]);
             }
             else {
-                result += String.format(",\"%s\":4", others[i]);
+                result += String.format(",\"%s\":4", other[i]);
             }
         }
         if (mOthers != null) {

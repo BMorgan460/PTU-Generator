@@ -1,0 +1,22 @@
+Gumshoos    
+Base Stats:   
+ 
+HP:  9 Attack:  11 Defense: 6  Special Attack: 6  Special Defense: 6 Speed:   5 
+ 
+Type: Normal  Basic Ability 1: Stake Out Basic Ability 2: Perception Adv Ability 1: Strong Jaw Adv Ability 2: Ambush High Ability: Adaptability 
+ 
+1 – Yungoos  2 –Gumshoos Minimum 20 
+ 
+  Size Information    Height: 2'04"/0.7 m (Small)   Weight: 31.3 lbs./14.2 kg (2)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Field 
+ 
+Diet: Omnivore   Habitat: Urban, Grassland, Taiga 
+ 
+Capability List Overland 7, Swim 6, Jump 2/2, Power 5, Tracker, Stealth, Darkvision,  Naturewalk (Grassland, Urban), Underdog 
+ 
+Skill List Athl 3d6, Acro 4d6+2, Combat 3d6+1, Stealth 4d6+2, Percep 5d6, Focus 5d6+1 
+ 
+Move List  Level Up Move List   1 Tackle – Normal  1 Leer – Normal  1 Pursuit – Dark  1 Sand Attack – Normal 13 Odor Sleuth – Normal 16 Bide – Normal  19 Bite – Dark  23 Mud-Slap – Ground  27 Super Fang – Normal  31 Take Down – Normal  35 Scary Face – Normal  39 Crunch – Dark  37 Hyper Fang – Normal  43 Yawn – Normal  51 Thrash – Normal  55 Rest – Psychic  
+ 
+TM/HM Move List   Work Up, Roar, Toxic, Hidden Power, Taunt, Protect, Frustration, Earthquake, Return, Double Team, Sandstorm, Rock Tomb, Torment, Façade, Rest, Attract, Thief, Round, Echoed Voice, Fling, Payback, Bulldoze, Swagger, Sleep Talk, U-turn, Substitute, Confide 
+ 
+Tutor Moves Super Fang, Dual Chop, Iron Head, Uproar, Thunder Punch, Fire Punch, Ice Punch, Block, Last Resort, Zen Headbutt, Iron Tail, Snore, Shock Wave, Endeavor, Stomping Tantrum 

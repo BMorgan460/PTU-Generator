@@ -1,0 +1,22 @@
+Charjabug    
+Base Stats:   
+ 
+HP:  6 Attack:  8 Defense: 10 Special Attack: 6  Special Defense: 8 Speed:   4 
+ 
+Type: Bug Basic Ability 1: Volt Absorb Adv Ability 1:  Battle Armor High Ability 1: Sequence High Ability 2: Dig Away High Ability 3: Analytic 
+ 
+1 – Grubbin  2 –Charjabug Minimum 20 3 –Vikavolt Thunderstone Minimum 40 
+ 
+  Size Information    Height: 1'08"/0.5 m (Small)   Weight: 23.1 lbs./10.5 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Bug 
+ 
+Diet: Ergovore Habitat: Urban, Forest, Grassland, Mountain 
+ 
+Capability List Overland 2, Swim 2, Burrow 4, Jump 1/1, Power 3, Naturewalk (Forest, Mountain),Zapper, Threaded, Wallclimber, Battery, Underdog 
+ 
+Skill List Athl 2d6, Acro 1d6+4, Combat 2d6, Stealth 2d6+2, Percep 2d6, Focus 4d6 
+ 
+Move List  Level Up Move List  1 Helping Hand – Normal  1 Charge – Electric  1 Vice Grip – Normal  4 String Shot – Bug  7 Mud-Slap – Ground  10 Bite – Dark  13 Bug Bite – Bug  16 Spark – Electric  19 Acrobatics – Flying  25 Crunch – Dark  31 X-Scissor – Bug  37 Dig – Ground  43 Discharge – Electric  49 Iron Defense – Steel  
+ 
+TM/HM Move List   Toxic, Hidden Power, Light Screen, Protect, Rain Dance, Frustration, Thunderbolt, Return, Double Team, Façade, Rest, Attract, Round, Charge Beam, Acrobatics, Volt Switch, Thunder Wave, X-Scissor, Poison Jab, Swagger, Sleep Talk, Substitute, Wild Charge, Confide 
+ 
+Tutor Moves Bug Bite, Magnet Rise, Iron Defense, Electroweb, Snore, Shock Wave 

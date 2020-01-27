@@ -1,0 +1,26 @@
+Litten  
+Base Stats:   
+ 
+HP:  5 Attack:  7 Defense: 4   Special Attack: 6  Special Defense: 4   Speed:   7 
+ 
+Type: Fire Basic Ability 1: Flame Tongue Basic Ability 2: Blaze Adv Ability 1: Intimidate Adv Ability 2: Guts High Ability: Bully 
+ 
+1 – Litten    2 –Torracat Minimum 15 2 –Incineroar Minimum 30 
+ 
+ 
+  Size Information   Height: 1'04"/0.4 m (Small)   Weight: 9.5 lbs./4.3 kg (1)     Breeding Information    Gender Ratio: 87.5% M / 12.5% F   Egg Group: Field Average Hatch Rate: 10 Days 
+ 
+Diet: Carnivore   Habitat: Urban, Forest, Grassland 
+ 
+Capability List 
+Overland 5, Swim 1, Jump 1/2, Power 2, Naturewalk (Urban, Grassland), Firestarter, Heater, Darkvision, Underdog 
+ 
+Skill List Athl 2d6+2, Acro 3d6, Combat 2d6, Stealth 3d6, Percep 2d6, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Scratch – Normal  1 Ember – Fire  4 Growl – Normal  8 Lick – Ghost   11 Leer – Normal  15 Fire Fang – Fire  18 Roar – Normal  22 Bite – Dark  25 Swagger – Normal  29 Fury Swipes – Normal  32 Thrash – Normal  36 Flamethrower – Fire  39 Scary Face – Normal  43 Flare Blitz – Fire  46 Outrage – Dragon  
+ 
+TM/HM Move List   Work Up, Roar, Toxic, Bulk Up, Hidden Power, Sunny Day, Taunt, Protect, Frustration, Return, Leech Life, Double Team, Flamethrower, Fire Blast, Torment, Façade, Flame Charge, Rest, Attract, Round, Overheat, Will-O-Wisp, Acrobatics, Shadow Claw, Swords Dance, Swagger, Sleep Talk, U-turn, Substitute, Confide 
+ 
+Egg Move List  Nasty Plot, Body Slam, Crunch, Fake Out, Revenge, Heat Wave, Power Trip 
+ 
+Tutor Move List   Fire Pledge, Covet, Snore, Heat Wave, Endeavor, Outrage

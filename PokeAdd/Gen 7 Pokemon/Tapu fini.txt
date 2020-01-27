@@ -1,0 +1,22 @@
+Tapu fini    Base Stats:   
+ 
+HP:  7 Attack:  8 Defense:   12 Special Attack:  10 Special Defense:  13 Speed:   9 
+ 
+Type:  Water/Fairy Basic Ability 1: Misty Surge Adv Ability 1: Telepathy Adv Ability 2: Pressure  Adv Ability 3: Celebrate High Ability 1: Type Aura 
+ 
+1 – Tapu Fini 
+ 
+Size Information  Height:   4'03"/ 1.3 m (Medium) Weight: 46.7 lbs./ 21.2 kg (2)     Breeding Information    Gender Ratio: Genderless Egg Group: No Eggs 
+ 
+Diet: Omnivore Habitat: Ocean 
+ 
+Capability List Overland 4, Sky 5, Swim 5, Jump 1/1, Power 4, Aura Reader, Aura Pulse, Fountain, Gilled 
+ 
+Skill List 
+Athl 3d6+1, Acro 5d6, Combat 3d6, Stealth 3d6+2, Percep 4d6, Focus 6d6+2 
+ 
+Move List  Level Up Move List   1 Misty Terrain – Fairy 1 Moonblast – Fairy 1 Heal Pulse – Psychic 1 Mean Look – Normal 1 Haze – Ice 1 Mist – Ice 1 Withdraw – Water 1 Water Gun – Water 8 Water Pulse – Water 14 Whirlpool – Water 20 Soak – Water 26 Refresh – Normal 32 Brine – Water 38 Defog – Flying 43 Nature’s Madness – Fairy 48 Muddy Water – Water 53 Aqua Ring – Water 58 Hydro Pump – Water 
+ 
+TM/HM Move List   Calm Mind, Toxic, Hidden Power, Taunt, Ice Beam, Blizzard, Hyper Beam, Light Screen, Protect, Rain Dance, Safeguard, Frustration, Return, Shadow Ball, Double Team, Reflect, Torment, Façade, Round, Echoed Voice, Scald, Fling, Smart Strike, Giga Impact, Psych Up, Grass Knot, Swagger, Sleep Talk, Substitute, Surf, Nature Power, Waterfall, Dazzling Gleam, Confide 
+ 
+Tutor Moves Ice Punch, Magic Coat, Gravity, Iron Defense, Icy Wind, Snore, Knock Off, Water Pulse, Trick, Magic Room, Wonder Room, Telekinesis, Defog 

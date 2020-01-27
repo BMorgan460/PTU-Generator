@@ -1,0 +1,23 @@
+Turtonator  Base Stats:   
+ 
+HP:  6 Attack:  8 Defense: 14 Special Attack: 9 Special Defense: 9 Speed: 4 
+ 
+Type: Fire/Dragon Basic Ability 1:  Shell Armor Adv Ability 1: Type Aura Adv Ability 2: Sturdy Adv Ability 3: Conflagrate High Ability: Aftermath 
+ 
+1 – Turtonator 
+ 
+  Size Information    Height: 6'07"/2.0 m (Large) Weight: 467.4 lbs./212.0 kg (5)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group:   Monster/Dragon Average Hatch Rate: 16 Days 
+ 
+Diet: Omnivore Habitat: Cave, Grassland, Mountain 
+ 
+Capability List Overland 5, Swim 2, Jump 0/1, Power 6, Naturewalk (Cave, Mountain), Firestarter, Heater, Glow 
+ 
+ Skill List Athl 3d6+2, Acro 2d6, Combat 4d6, Stealth 2d6, Percep 2d6+1, Focus 4d6+1 
+ 
+Move List  Level Up Move List   1 Ember – Fire  1 Tackle – Tackle  5 Smog – Poison  9 Protect – Normal  13 Incinerate – Fire  17 Flail – Normal  21 Endure – Normal  25 Iron Defense – Steel  29 Flamethrower – Fire  33 Body Slam – Normal  37 Shell Smash – Normal  41 Dragon Pulse – Dragon  45 Shell Trap – Fire  49 Overheat – Fire  53 Explosion – Dark  
+ 
+TM/HM Move List   Work Up, Dragon Claw, Roar, Toxic, Bulk Up, Venoshock, Hidden Power, Sunny Day, Taunt, Hyper Beam, Protect, Frustration, Solar Beam, Smack Down, Earthquake, Return, Double Team, Flamethrower, Fire Blast, Rock Tomb, Facade, Flame Charge, Rest, Attract, Round, Overheat, Focus Blast, Fling, Charge Beam, Brutal Swing, Will-O-Wisp, Explosion, Payback, Giga Impact, Stone Edge, Bulldoze, Dragon Tail, Swagger, Sleep Talk, Substitute, Confide 
+ 
+TM/HM Move List   Wide Guard, Revenge, Head Smash, Fire Spin 
+ 
+Tutor List  Draco Meteor, Iron Head, Uproar, Block, Iron Defense, Dragon Pulse, Hyper Voice, Iron Tail, Snore, Heat Wave, Shock Wave, Endeavor, Outrage, Stomping Tantrum 

@@ -1,0 +1,22 @@
+Shiinotic  Base Stats:   
+ 
+HP:  6 Attack:  5 Defense: 8 Special Attack: 9 Special Defense: 10  Speed:   3 
+ 
+Type: Grass/Fairy Basic Ability 1:  Illuminate Basic Ability 2: Effect Spore Adv Ability 1: Rain Dish Adv Ability 2: Daze High Ability: Root Down 
+ 
+1 – Morelull  2 – Shiinotic Minimum 25 
+ 
+  Size Information    Height: 3'03"/1.0 m (Medium) Weight: 25.4 lbs./11.5 kg (2)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Grass 
+ 
+Diet: Phototroph Habitat: Grassland, Forest, Rainforest 
+ 
+Capability List Overland 4, Swim 2, Jump 0/1, Power 3, Glow, Mushroom Harvest, Underdog 
+ 
+Skill List 
+Athl 2d6, Acro 2d6-1, Combat 2d6, Stealth 5d6+1, Percep 4d6, Focus 4d6+1 
+ 
+Move List  Level Up Move List   1 Absorb – Grass  4 Astonish – Ghost  8 Flash – Normsl  11 Moonlight – Fairy  15 Mega Drain – Grass  18 Sleep Powder – Grass  22 Ingrain – Grass  26 Confuse Ray – Ghost  31 Giga Drain – Grass  35 Strength Sap – Grass  40 Spore – Grass  44 Moonblast – Fairy  49 Dream Eater – Psychic  53 Spotlight – Normal  
+ 
+TM/HM Move List   Toxic, Hidden Power, Sunny Day, Light Screen, Protect, Safeguard, Frustration, Solar Beam, Return, Double Team, Sludge Bomb, Rest, Attract, Round, Energy Ball, Thunder Wave, Dream Eater, Grass Knot, Swagger, Sleep Talk, Substitute, Nature Power, Dazzling Gleam, Confide 
+ 
+Tutor Moves Signal Beam, Seed Bomb, Magic Coat, Snore, Synthesis, Giga Drain, Worry Seed, After You, Magic Room, Wonder Room, Recycle 

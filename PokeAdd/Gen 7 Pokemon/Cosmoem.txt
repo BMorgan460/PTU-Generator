@@ -1,0 +1,17 @@
+Cosmoem    Base Stats:   
+ 
+HP:  4 Attack:  3 Defense:   13 Special Attack:  3 Special Defense:  13 Speed:   4 
+ 
+Type:  Psychic Basic Ability 1: Sturdy Adv Ability 1: Telepathy Adv Ability 2: Forewarn Adv Ability 3: Deep Sleep High Ability 1: Battle Armor 
+ 
+1 – Cosmog 2 – Cosmoem Minimum 45 3 – Solgaleo Sun Stone Minimum 55 3 – Lunala Moon Stone Minimum 55 
+ 
+Size Information  Height:   0'04"/ 0.1 m (1) Weight: 2204.4 lbs./ 999.9 kg (6)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 3, Levitate 4, Swim 1, Jump 0/1, Power 1, Dead Silent 
+ 
+Skill List Athl 1d6, Acro 2d6-1, Combat 1d6, Stealth 3d6, Percep 2d6, Focus 3d6 
+ 
+Move List  Level Up Move List   Evolve Cosmic Power – Psychic 1 Teleport – Psychic 

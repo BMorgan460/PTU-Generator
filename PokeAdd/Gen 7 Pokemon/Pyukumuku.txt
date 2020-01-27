@@ -1,0 +1,23 @@
+Pyukumuku  Base Stats:   
+ 
+HP:  6 Attack:  6 Defense: 13 Special Attack: 3 Special Defense: 13 Speed:   1 
+ 
+Type: Water Basic Ability 1:  Innards Out Adv Ability 1: Unaware Adv Ability 2: Oblivious Adv Ability 3: Filter High Ability: Aftermath 
+ 
+1 - Pyukumuku 
+ 
+  Size Information    Height: 1'08"/0.5 m(Small) Weight: 2.6 lbs./1.2 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Water 1 Average Hatch Rate: 7 Days 
+ 
+Diet: Herbivore Habitat: Beach, Ocean 
+ 
+Capability List Overland 2, Swim 5, Jump 0/0, Power 1, Naturewalk (Beach, Ocean), Amorphous, Fountain, Underdog 
+ 
+Skill List Athl 1d6, Acro 2d6-1, Combat 1d6, Stealth 4d6+1, Percep 3d6+2, Focus 4d6 
+ 
+Move List  Level Up Move List   1 Baton Pass – Normal  1 Water Sport – Water  1 Mud Sport – Ground  1 Harden – Normal  1 Bide – Normal  5 Helping Hand – Normal  9 Taunt – Dark  13 Safeguard – Normal  17 Counter – Ground  21 Purify – Poison  25 Curse – Ghost  29 Gastro Acid – Poison  33 Pain Split – Normal  37 Recover – Normal  41 Soak – Water  45 Toxic – Poison  49 Memento – Dark  
+ 
+TM/HM Move List   Toxic, Hail, Taunt, Light Screen, Protect, Rain Dance, Safeguard, Double Team, Reflect, Rest, Attract, Quash, Psych Up, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Egg Move List  Endure, Venom Drench, Bestow, Tickle, Spite 
+ 
+Tutor Moves Block, Pain Split, Gastro Acid, Spite, Helping Hand, Recycle 

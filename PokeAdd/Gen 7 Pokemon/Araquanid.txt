@@ -1,0 +1,20 @@
+Araquanid  Base Stats:   
+ 
+HP:  7 Attack:  7 Defense: 9 Special Attack: 5 Special Defense: 13   Speed:   4 
+ 
+Type: Water/Bug Basic Ability 1: Water Bubble Basic Ability 2: Water Absorb Adv Ability 1: Refreshing Veil Adv Ability 2: Suction Cups High Ability: Technician 
+ 
+1 – Dewpider  2 – Araquanid Minimum 20 
+ 
+  Size Information    Height: 5’11” / 1.8m (Large) Weight: 180.8 lbs. / 82.0 kg (4)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Water 1/Bug 
+ 
+Diet: Carnivore Habitat: Marsh 
+ 
+Capability List Overland 5, Swim 6, Jump 1/2, Power 4, Naturewalk (Marsh), Fountain, Gilled, Threaded, Wallclimber   
+Skill List Athl 2d6, Acro 4d6, Combat 2d6, Stealth 4d6+1, Percep 4d6+2, Focus 4d6 
+ 
+Move List  Level Up Move List   1 Wide Guard – Rock  1 Soak – Water  1 Water Sport – Water  1 Bubble – Water  5 Infestation – Bug  8 Spider Web – Bug  13 Bug Bite – Bug  16 Bubble Beam – Water  21 Bite – Dark  26 Aqua Ring – Water   29 Leech Life – Bug  33 Crunch – Dark  38 Lunge – Bug  45 Mirror Coat – Psychic  57 Liquidation – Water  62 Entrainment – Normal  
+ 
+TM/HM Move List   Toxic, Hidden Power, Ice Beam, Blizzard, Protect, Rain Dance, Frustration, Return, Leech Life, Double Team, Facade, Rest, Attract, Round, Scald, Frost Breath, X-Scissor, Infestation, Poison Jab, Swagger, Sleep Talk, Substitute, Surf, Waterfall 
+ 
+Tutor Moves Bug Bite, Signal Beam, Magic Coat, Iron Defense, Icy Wind, Snore, Giga Drain, Water Pulse, Magic Room, Wonder Room, Liquidation, Laser Focus 

@@ -1,0 +1,12 @@
+import os
+
+file = os.path.join(os.getcwd(), "mass_pokemon.txt")
+f = open(file, "r", encoding="utf8")
+
+result = ""
+
+for line in f:
+    words = line.strip().split(" ")
+    for word in words:
+        result += "\"" + word + "\", "
+print(result)

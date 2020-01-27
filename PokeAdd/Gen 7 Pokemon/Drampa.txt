@@ -1,0 +1,24 @@
+Drampa    Base Stats:   
+ 
+HP:  8 Attack:  6 Defense:  9  Special Attack:  14 Special Defense:  9 Speed:   4 
+ 
+Type:  Normal/Dragon Basic Ability 1: Berserk Adv Ability 1: Sap Sipper Adv Ability 2: Cloud Nine High Ability 1: Enduring Rage High Ability 2: Prime Fury 
+ 
+1 – Drampa  
+ 
+Size Information  Height:   9'10"/ 3.0 m (Large) Weight: 407.8 lbs./ 185.0 kg (5)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Monster / Dragon Average Hatch Rate:  16 Days 
+ 
+Diet: Herbivore Habitat: Mountain, Cave, Forest 
+ 
+Capability List Overland 7, Sky 5, Swim 3, Jump 1/1, Power 11, Naturewalk (Mountain), Mountable 1 
+ 
+Skill List 
+Athl 4d6+1, Acro 4d6, Combat 4d6+1, Stealth 2d6, Percep 5d6+1, Focus 4d6+2 
+ 
+Move List  Level Up Move List   1 Play Nice – Normal  1 Echoed Voice – Normal   5 Twister – Dragon   9 Protect – Normal   13 Glare – Normal   17 Light Screen – Psychic   21 Dragon Rage – Dragon   25 Natural Gift – Normal   29 Dragon Breath – Dragon   33 Safeguard – Normal   37 Extrasensory – Psychic   41 Dragon Pulse – Dragon   45 Fly – Flying   49 Hyper Voice – Normal   53 Outrage – Dragon  
+ 
+TM/HM Move List   Work Up, Dragon Claw, Calm Mind, Roar, Toxic, Hidden Power, Sunny Day, Ice Beam, Blizzard, Hyper Beam, Light Screen, Protect, Rain Dance, Roost, Safeguard, Frustration, Solar Beam, Thunderbolt, Thunder, Earthquake, Return, Shadow Ball, Double Team, Flamethrower, Fire Blast, Façade, Rest, Attract, Round, Echoed Voice, Steel Wing, Focus Blast, Energy Ball, Fling, Shadow Claw, Giga Impact, Thunder Wave, Fly, Psych Up, Bulldoze, Rock Slide, Dragon Tail, Grass Knot, Sleep Talk, Substitute, Surf, Snarl, Nature Power, Confide 
+ 
+Egg Move List  Hurricane, Dragon Rush, Razor Wind, Mist, Play Rough 
+ 
+Move Tutor List Draco Meteor, Signal Beam, Uproar, Block, Superpower, Icy Wind, Dragon Pulse, Hyper Voice, Snore, Heat Wave, Tailwind, Shock Wave, Water Pulse, Helping Hand, Endeavor, Outrage, Defog, Stomping Tantrum 

@@ -1,0 +1,21 @@
+Necrozma    Base Stats:   
+ 
+HP:  10 Attack:  11 Defense:   10 Special Attack:  13 Special Defense:  9 Speed:   8 
+ 
+Type:  Psychic Basic Ability 1: Prism Armor Adv Ability1: Weird Power Adv Ability 2: Tinted Lens Adv Ability 3: Perception High Ability 1: Cluster Mind 
+ 
+1 – Necrozma  
+ 
+Size Information  Height:   7'10"/ 2.4 m (Large) Weight: 507.1 lbs./  230.0 kg (6)     Breeding Information    Gender Ratio: Genderless Egg Group:  No Eggs 
+ 
+Diet: Unknown Habitat: Unknown 
+ 
+Capability List Overland 5, Levitate 8, Swim 2, Jump 1 /2, Power 7, Light Absorbtion, Ultra Evolution, Blindsense, Dead Silent, Forme Change, Telekinetic 
+ 
+Skill List Athl 4d6+1, Acro 4d6+1, Combat 4d6, Stealth 5d6+2, Percep 5d6+2, Focus 6d6+2 
+ 
+Move List  Level Up Move List   1 Moonlight – Fairy 1 Morning Sun – Normal 1 Charge Beam – Electric 1 Mirror Shot – Steel 1 Metal Claw – Steel 1 Confusion – Psychic 7 Slash – Normal 13 Stored Power – Psychic 19 Rock Blast – Rock 23 Night Slash – Dark 31 Gravity – Psychic 37 Psycho Cut – Psychic 43 Power Gem – Rock 47 Autotomize – Steel 53 Stealth Rock – Rock 59 Iron Defense – Steel 67 Wring Out – Normal 73 Prismatic Laser – Psychic   
+ 
+TM/HM Move List   Psyshock, Calm Mind, Toxic, Hidden Power, Hyper Beam, Light Screen, Protect, Frustration, Solar Beam, Earthquake, Return, Psychic, Brick Break, Double Team, Reflect, Rock Tomb, Aerial Ace, Façade, Rest, Thief, Round, Fling, Charge Beam, Brutal Swing, Embargo, Shadow Claws, Smart Strike, Giga Impact, Rock Polish, Stone Edge, Thunder Wave, Gyro Ball, Swords Dance, Bulldoze, Rock Slide, X-Scissor, Swagger, Sleep Talk, Substitute, Flash Cannon, Trick Room, Dark Pulse, Confide 
+ 
+Tutor Moves Signal Beam, Iron Head, Earth Power, Gravity, Magnet Rise, Iron Defense, Dragon Pulse, Hyper Voice, Snore, Knock Off, Heat Wave, Shock Wave, Outrage, Recycle, Stealth Rock, Telekinesis, Ally Switch 

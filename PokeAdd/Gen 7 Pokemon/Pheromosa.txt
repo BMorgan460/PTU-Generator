@@ -1,0 +1,22 @@
+Pheromosa    Base Stats:   
+ 
+HP:  7 Attack:  14 Defense:   4 Special Attack:  14 Special Defense:  4 Speed:   15 
+ 
+Type:  Bug/Fighting Basic Ability 1: Beast Boost Adv Ability 1: Beautiful Adv Ability 2: Inner Focus Adv Ability 3: Quick Feet High Ability 1: Reckless 
+ 
+1 – Pheromosa  
+ 
+Size Information  Height:   5'11"/ 1.8 m (Large) Weight: 55.1 lbs./ 25.0 kg (3)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 8, Swim 3, Jump 3/3, Power 10 
+ 
+Skill List Athl 4d6+1, Acro 6d6+2, Combat 5d6, Stealth 3d6, Percep 3d6+1, Focus 4d6+1 
+ 
+Move List  Level Up Move List   
+1 Quiver Dance – Bug  1 Quick Guard – Fighting 1 Low Kick – Fighting  1 Rapid Spin – Normal  1 Leer – Normal 1 Double Kick – Fighting  7 Swift – Normal  13 Stomp – Normal 19 Feint – Normal 23 Silver Wind – Bug 29 Bounce – Flying  31 Jump Kick – Fighting  37 Agility – Psychic 43 Triple Kick – Fighting  47 Lunge – Bug 53 Bug Buzz – Bug  59 Me First – Normal 67 High Jump Kick – Fighting  73 Speed Swap – Psychic  
+ 
+TM/HM Move List   Toxic, Hidden Power, Taunt, Ice Beam, Blizzard, Hyper Beam, Protect, Roost, Frustration, Return, Brick Break, Double Team, Torment, Façade, Rest, Low Sweep, Round, Echoed Voice, Focus Blast, False Swipe, Fling, Giga Impact, Poison Jab, Swagger, Sleep Talk, U-turn, Substitute, Confide 
+ 
+Tutor Moves Bug Bite, Signal Beam, Drill Run, Bounce, Low Kick, Block, Foul Play, Electroweb, Icy Wind, Snore, Shock Wave, Outrage, Snatch, Throat Chop, Laser Focus 

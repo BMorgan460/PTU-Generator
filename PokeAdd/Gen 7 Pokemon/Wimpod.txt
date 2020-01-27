@@ -1,0 +1,23 @@
+Wimpod   Base Stats:   
+ 
+HP:  3 Attack:  4 Defense: 4 Special Attack: 2 Special Defense: 3 Speed:   8 
+ 
+Type: Bug/Water Basic Ability 1:  Wimp Out Adv Ability 1: Shell Armor Adv Ability 2: Rattled Adv Ability 3: Defeatist High Ability: Speed Boost 
+ 
+1 – Wimpod  2 – Golisopod Minimum 30 
+ 
+  Size Information    Height: 1'08"/0.5 m (Small) Weight: 26.5 lbs./12.0 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Bug/Water 3 Average Hatch Rate: 10 Days 
+ 
+Diet: Herbivore Habitat: Marsh, Ocean, Freshwater 
+ 
+Capability List Overland 5, Swim 4, Jump 0/1, Power 2, Naturewalk (Ocean, Freshwater), Underdog 
+ 
+Skill List Athl 1d6, Acro 4d6+1, Combat 1d6, Stealth 4d6, Percep 3d6, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Struggle Bug – Bug  1 Sand Attack – Ground  
+ 
+TM/HM Move List   Toxic, Hail, Hidden Power, Taunt, Protect, Rain Dance, Frustration, Return, Leech Life, Double Team, Facade, Rest, Attract, Round, Scald, Swagger, Sleep Talk, Substitute, Surf, Waterfall, Confide 
+ 
+Egg Move List  Spikes, Metal Claw, Wide Guard, Harden, Aqua Jet 
+ 
+Tutor Moves Snore 

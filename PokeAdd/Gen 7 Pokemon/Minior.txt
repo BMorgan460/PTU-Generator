@@ -1,0 +1,21 @@
+Minior  Base Stats:   
+ 
+HP:  6 Attack:  6 Defense: 10 Special Attack: 6 Special Defense: 10 Speed: 6 
+ 
+Type: Rock/Flying Basic Ability 1:  Shields Down Adv Ability 1: Battle Armor  Adv Ability 2: Starlight Adv Ability 3: Rock Head High Ability: Aftermath 
+ 
+1 – Minior 
+ 
+  Size Information    Height: 1'00"/0.3 m (Small) Weight: 88.2 lbs./40.0 kg (3)     Breeding Information    Gender Ratio: No Gender Egg Group: Undiscovered Average Hatch Rate: 10 Days 
+ 
+Diet: Phototroph Habitat: Mountain 
+ 
+Capability List Overland 1, Swim 1, Levitate 7, Jump 1/1, Power 4, Dead Silent, Materializer, Volatile Bomb 
+ 
+ Skill List Athl 2d6, Acro 4d6+2, Combat 2d6, Stealth 3d6, Percep 2d6+1, Focus 3d6 
+ 
+Move List  Level Up Move List   1 Tackle – Normal  3 Defense Curl – Normal  8 Rollout – Rock  10 Confuse Ray – Ghost  15 Swift – Normal  17 Ancient Power – Rock  22 Self-Destruct – Normal  24 Stealth Rock – Rock  29 Take Down – Normal  31 Autotomize – Steel  36 Cosmic Power – Psychic  38 Power Gem – Rock  43 Double-Edge – Normal 45 Shell Smash – Normal  50 Explosion – Normal  
+ 
+TM/HM Move List   Calm Mind, Toxic, Hidden Power, Hyper Beam, Light Screen, Protect, Safeguard, Frustration, Solar Beam, Earthquake, Return, Psychic, Double Team, Reflect, Sandstorm, Rock Tomb, Facade, Rest, Attract, Round, Charge Beam, Acrobatics, Explosion, Giga Impact, Rock Polish, Stone Edge, Gyro Ball, Psych Up, Bulldoze, Rock Slide, Swagger, Sleep Talk, Uturn, Substitute, Dazzling Gleam, Confide 
+ 
+Tutor Moves Iron Head, Gravity, Magnet Rise, Last Resort, Zen Headbutt, Snore, Endeavor, Stealth Rock, Telekinesis 

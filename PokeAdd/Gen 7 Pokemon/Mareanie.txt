@@ -1,0 +1,24 @@
+Mareanie  
+Base Stats:   
+ 
+HP:  5 Attack:  5 Defense: 6  Special Attack: 4 Special Defense: 5   Speed:   5 
+ 
+Type: Poison/Water Basic Ability 1: Merciless Basic Ability 2: Limber  Adv Ability 1: Regenerator  Adv Ability 2: Cruelty High Ability: Poison Touch 
+ 
+1 – Mareanie 2 – Toxapex Minimum 40 
+ 
+  Size Information    Height: 1'04"/0.4 m (Small) Weight: 17.6 lbs./8.0 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Water 2 Average Hatch Rate: 10 Days 
+ 
+Diet: Carnivore  Habitat: Ocean 
+ 
+Capability List Overland 3, Swim 2, Jump 0/1, Power 2, Gilled, Naturewalk (Ocean), Fountain, Wallclimber, Underdog 
+ 
+Skill List Athl 2d6, Acro 2d6-1, Combat 2d6+1, Stealth 3d6, Percep 2d6+2, Focus 3d6 
+ 
+Move List  Level Up Move List   1 Poison Sting – Poison  5 Peck – Flying  9 Bite – Dark  13 Toxic Spikes – Poison  17 Wide Guard – Normal  21 Toxic – Poison   25 Venoshock – Poison  29 Spike Cannon – Normal  33 Recover – Normal  37 Poison Jab – Poison  41 Venom Drench – Poison  45 Pin Missile – Bug  49 Liquidation – Water  
+ 
+TM/HM Move List   Toxic, Hail, Venoshock, Hidden Power, Ice Beam, Blizzard, Protect, Rain Dance, Safeguard, Frustration, Return, Double Team, Sludge Wave, Sludge Bomb, Façade, Rest, Attract, Round, Scald, Payback, Frost Breath, Infestation, Poison Jab, Swagger, Sleep Talk, Substitute, Surf, Confide 
+ 
+Egg Move List  Stockpile, Spit Up, Swallow, Haze 
+ 
+Tutor Moves Covet, Gunk Shot, Magic Coat, Iron Defense, Icy Wind, Snore, Knock Off, Pain Split, Water Pulse, Gastro Acid, Spite, After You, Snatch, Liquidation 

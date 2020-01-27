@@ -1,0 +1,22 @@
+Poipole    Base Stats:   
+ 
+HP:  7 Attack:  7 Defense:   7 Special Attack:  7 Special Defense:  7 Speed:   7 
+ 
+Type:  Poison Basic Ability 1: Beast Boost Adv Ability 1: Deadly Poison Adv Ability 2: Sniper Adv Ability 3: Poison Touch High Ability 1: Corrosive Toxins 
+ 
+1 – Poipole 2 – Naganadel Minumum 35 Knows Dragon Pulse 
+ 
+Size Information  Height:   2'00"/ 0.6 m (Small) Weight: 4.0 lbs./ 1.8 kg (1)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List 
+Overland 4, Swim 3, Levitate 6, Jump 1/1, Power 4 
+ 
+Skill List Athl 3d6+1, Acro 4d6+1, Combat 3d6, Stealth 4d6, Percep 5d6, Focus 3d6 
+ 
+Move List  Level Up Move List   1 Dragon Pulse – Dragon 1 Peck – Flying 1 Growl – Normal 1 Helping Hand – Normal 1 Acid – Normal 7 Fury Attack – Normal 13 Venoshock – Poison 19 Charm – Fairy 23 Venom Drench – Poison 31 Nasty Plot – Dark 37 Poison Jab – Poison 41 Toxic – Poison 47 Fell Stinger – Bug 
+ 
+TM/HM Move List   Toxic, Venoshock, Hidden Power, Protect, Frustration, Return, Sludge Wave, Sludge Bomb, Façade, Rest, Round, Echoed Voice, Poison Jab, Sleep Talk, Substitute, Confide 
+ 
+Move Tutor List Covet, Signal Beam, Gunk Shot, Uproar, Dragon Pulse, Iron Tail, Snore, Gastro Acid, Helping Hand, Snatch 

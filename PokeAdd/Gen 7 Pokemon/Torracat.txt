@@ -1,0 +1,24 @@
+Torracat  
+Base Stats:   
+ 
+HP:   7   Attack:  9  Defense: 5   Special Attack: 8  Special Defense: 5   Speed:   9 
+ 
+Type: Fire Basic Ability 1: Flame Tongue Basic Ability 2: Blaze Adv Ability 1: Intimidate Adv Ability 2: Guts High Ability: Bully 
+ 
+1 – Litten    2 –Torracat Minimum 15 2 –Incineroar Minimum 30 
+ 
+ 
+Size Information   Height: 2'04"/0.7 m (Small)   Weight: 55.1 lbs./25.0 kg (3)   Breeding Information    Gender Ratio: 87.5% M / 12.5% F   Egg Group: Field 
+ 
+Diet: Carnivore   Habitat: Urban, Grassland, Forest 
+ 
+Capability List 
+Overland 6, Swim 2, Jump 1/2, Power 4, Naturewalk (Urban, Grassland), Firestarter, Heater, Darkvision, Underdog 
+ 
+Skill List  Athl 3d6, Acro 4d6, Combat 3d6, Stealth 4d6+2, Percep 2d6, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Scratch – Normal   1 Ember – Fire  4 Growl – Normal 8 Lick – Ghost  11 Leer – Normal  15 Fire Fang – Fire  19 Roar – Normal  24 Bite – Dark  28 Swagger – Normal  33 Fury Swipes – Normal  37 Thrash – Normal  42 Flamethrower – Fire  46 Scary Face – Normal  51 Flare Blitz – Fire  55 Outrage – Dragon  
+ 
+TM/HM Move List   Work Up, Roar, Toxic, Bulk Up, Hidden Power, Sunny Day, Taunt, Protect, Frustration, Return, Leech Life, Double Team, Flamethrower, Fire Blast, Torment, Façade, Flame Charge, Rest, Attract, Round, Overheat, Will-O-Wisp, Acrobatics, Shadow Claw, Swords Dance, Swagger, Sleep Talk, U-turn, Substitute, Confide 
+ 
+Tutor Move List   Fire Pledge, Covet, Dual Chop, Snore, Heat Wave, Endeavor, Outrage

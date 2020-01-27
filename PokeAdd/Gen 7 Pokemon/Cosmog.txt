@@ -1,0 +1,17 @@
+Cosmog    Base Stats:   
+ 
+HP:  4 Attack:  3 Defense:   3 Special Attack:  3 Special Defense:  3 Speed:   4 
+ 
+Type:  Psychic Basic Ability 1: Transporter Adv Ability 1: Telepathy Adv Ability 2: Forewarn Adv Ability 3: Run Away High Ability 1: Dodge 
+ 
+1 – Cosmog 2 – Cosmoem Minimum 45 3 – Solgaleo Sun Stone Minimum 55 3 – Lunala Moon Stone Minimum 55 
+ 
+Size Information  Height:   0'08"/ 0.2 m (Small) Weight: 0.2 lbs./ 0.1 kg (1)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 3, Levitate 4, Swim 1, Jump 0/1, Power 1, Amorphous 
+ 
+Skill List Athl 1d6, Acro 2d6+2, Combat 1d6, Stealth 3d6+1, Percep 2d6, Focus 2d6 
+ 
+Move List  Level Up Move List    1 Splash – Normal 23 Teleport - Psychic 

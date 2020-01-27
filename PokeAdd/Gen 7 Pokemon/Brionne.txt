@@ -1,0 +1,22 @@
+Brionne  
+Base Stats:   
+ 
+HP:   6   Attack:  7  Defense: 7   Special Attack: 9 Special Defense: 8   Speed:   5 
+ 
+Type: Water Basic Ability 1: Refreshing Veil Basic Ability 2:  Torrent Adv Ability 1: Liquid Voice Adv Ability 2: Pixilate High Ability: Beautiful 
+ 
+1 –Popplio   2 –Brionne Minimum 15 2 –Primarina Minimum 30 
+ 
+  Size Information    Height: 2'00"/0.6 m (Small)   Weight: 38.6 lbs./17.5 kg (2)     Breeding Information    Gender Ratio: 87.5% M / 12.5% F   Egg Group: Water 1/Field 
+ 
+Diet: Omnivore   Habitat: Ocean, Artic, Beach, Freshwater 
+ 
+Capability List Overland 4, Swim 6, Jump 1/1, Power 4, Naturewalk (Freshwater, Ocean), Fountain, Underdog 
+ 
+Skill List Athl 3d6+2, Acro 4d6+2, Combat 2d6, Stealth 2d6, Percep 3d6, Focus 3d6 
+ 
+Move List  Level Up Move List   1 Pound – Normal  1 Water Gun – Water  4 Growl – Normal  8 Disarming Voice – Fairy  11 Baby-Doll Eyes – Fairy  15 Aqua Jet – Water   19 Encore – Normal  24 Bubble Beam – Water  28 Sing – Normal  33 Double Slap – Normal  37 Hyper Voice – Normal  42 Moonblast – Fairy  46 Captivate – Normal  51 Hydro Pump – Water 56 Misty Terrain – Fairy  
+ 
+TM/HM Move List   Work Up, Toxic, Hail, Hidden Power, Ice Beam, Blizzard, Protect, Rain Dance, Frustration, Return, Double Team, Façade, Rest, Attract, Round, Echoed Voice, Scald, Acrobatics, Swagger, Sleep Talk, Substitute, Surf, Waterfall Confide 
+ 
+Tutor Move List   Water Pledge, Covet, Uproar, Icy Wind, Aqua Tail, Hyper Voice, Iron Tail, Snore, Water Pulse, Helping Hand, Wonder Room 

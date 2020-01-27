@@ -15,5 +15,5 @@ Rufflet
  Move List Level Up Move List  1  Leer - Normal  1  Peck - Flying   5  Fury Attack - Normal 10  Wing Attack - Flying  14  Hone Claws - Dark  19  Scary Face - Normal 23  Aerial Ace - Flying 28  Slash - Normal 32  Defog - Flying 37  Tailwind - Flying  41  Air Slash - Flying 46  Crush Claw - Normal   50  Sky Drop - Flying  55  Whirlwind - Normal  59  Brave Bird - Flying  64  Thrash - Normal 
  
 TM/HM Move List A1 Cut, A2  A4 Strength, 01 Hone Claws, 06 Toxic, 08 Bulk Up, 10 Hidden Power, 11 Sunny Day, 17 Protect, 18 Rain Dance, 19 Roost, 21 Frustration, 27 Return, 32 Double Team, 39 Rock Tomb, 40 Aerial Ace, 42 Facade, 44 Rest, 45 Attract, 48 Round, 51 Steel Wing, 58 Sky Drop, 65 Shadow Claw, 67 Retaliate, 80 Rock Slide, 87 Swagger, 88 Sleep Talk, 89 U-Turn, 90 Substitute, 94 Rock Smash  
-Egg Move List
+
 Tutor Move List  Heat Wave, Pluck, Roost, Sleep Talk, Snore, Superpower, Tailwind, Work Up

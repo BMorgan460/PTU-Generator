@@ -1,0 +1,22 @@
+Lycanroc midnight 
+Base Stats:   
+ 
+HP:  9 Attack:  12 Defense: 8   Special Attack: 6  Special Defense: 8   Speed:   8 
+ 
+Type: Rock Basic Ability 1: Keen Eye Basic Ability 2: Vital Spirit Adv Ability 1: No Guard Adv Ability 2: Strong Jaw High Ability: Sheer Force  
+ 
+1 – Rockruff 2 –Lycanroc Midnight Moon Stone Minimum 25 
+ 
+  Size Information    Height: 3'07"/1.1 m (Medium)   Weight: 55.1 lbs./25.0 kg (3)     Breeding Information    Gender Ratio: 87.5% M / 12.5% F   Egg Group: Field 
+ 
+Diet: Carnivore   Habitat: Urban, Mountain, Grassland 
+ 
+Capability List Overland 6, Swim 3, Jump 2/3, Power 8, Naturewalk (Grassland, Mountain), Darkvision, Pack Mon, Tracker 
+ 
+Skill List Athl 4d6+3, Acro 4d6, Combat 5d6+2, Stealth 3d6, Percep 3d6+2, Focus 4d6 
+ 
+Move List  Level Up Move List   Evolve Counter – Fighting   1 Reversal – Fighting  1 Taunt – Dark  1 Quick Attack – Normal  1 Tackle – Normal  1 Leer – Normal  4 Sand Attack – Normal  7 Bite – Dark  12 Howl – Normal  15 Rock Throw – Rock  18 Odor Sleuth – Normal  23 Rock Tomb – Rock  26 Roar – Normal  29 Stealth Rock – Rock  34 Rock Slide – Rock  37 Scary Face – Normal  40 Crunch – Dark  45 Rock Climb – Normal  48 Stone Edge – Rock  
+ 
+TM/HM Move List   Roar, Toxic, Bulk Up, Hidden Power, Taunt, Protect, Frustration, Return, Brick Break, Double Team, Rock Tomb, Façade, Rest, Attract, Round, Echoed Voice, Rock Polish, Stone Edge, Swords Dance, Rock Slide, Swagger, Sleep Talk, Substitute, Snarl, Confide 
+ 
+Tutor Moves Covet, Iron Head, Earth Power, Iron Defense, Last Resort, Zen Headbutt, Hyper Voice, Iron Tail, Snore, Endeavor, Stealth Rock, Stomping Tantrum, Dual Chop, Uproar, Thunder Punch, Fire Punch, Foul Play, Focus Punch, Outrage, Throat Chop, Laser Focus 

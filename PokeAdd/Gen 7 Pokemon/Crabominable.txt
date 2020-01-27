@@ -1,0 +1,23 @@
+Crabominable 
+Base Stats:   
+ 
+HP:  10 Attack:  13 Defense: 8   Special Attack: 6  Special Defense: 7   Speed:   4 
+ 
+Type:  Fighting/Ice Basic Ability 1: Hyper Cutter Basic Ability 2: Iron Fist Adv Ability 1: Anger Point Adv Ability 2: Rivalry High Ability 1: Abominable 
+ 
+1 – Crabrawler  2 –Crabominable Ice Stone Minimum 25  
+ 
+Size Information  Height:   5'07"/ 1.7 m (Large) Weight: 396.8 lbs./180.0 kg (5)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Water 3 
+ 
+Diet: Carnivore Habitat: Beach, Tundra, Freshwater 
+ 
+Capability List 
+Overland 5, Swim 3, Jump 1/2, Power 8, Naturewalk (Tundra), Freezer 
+ 
+Skill List Athl 5d6+2, Acro 2d6, Combat 5d6+2, Stealth 3d6+1, Percep 3d6, Focus 4d6+2 
+ 
+Move List  Level Up Move List   Evolve Ice Punch – Ice  1 Bubble – Water  5 Rock Smash – Fighting  9 Leer – Normal  13 Pursuit – Dark  17 Bubble Beam – Water  22 Power-Up Punch – Fighting  26 Dizzy Punch – Fighting  29 Avalanche – Ice   33 Reversal – Fighting   37 Ice Hammer – Ice  42 Iron Defense – Steel  45 Dynamic Punch – Fighting  49 Close Combat – Fighting 
+ 
+TM/HM Move List   Work Up, Toxic, Hail, Bulk Up, Hidden Power, Sunny Day, Ice Beam, Blizzard, Protect, Rain Dance, Frustration, Earthquake, Return, Brick Break, Double Team, Rock Tomb, Façade, Rest, Attract, Thief, Round, Focus Blast, Scald, Fling, Brutal Swing, Payback, Giga Impact, Stone Edge, Bulldoze, Frost Breath, Rock Slide, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Tutor Moves Dual Chop, Iron Head, Thunder Punch, Ice Punch, Block, Iron Defense, Superpower, Icy Wind, Zen Headbutt, Snore, Drain Punch, Focus Punch, Endeavor

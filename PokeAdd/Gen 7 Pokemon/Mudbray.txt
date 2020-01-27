@@ -1,0 +1,24 @@
+Mudbray  
+Base Stats:   
+ 
+HP:  7 Attack:  10 Defense: 7  Special Attack: 5 Special Defense: 6   Speed:   5 
+ 
+Type: Ground Basic Ability 1: Own Tempo Basic Ability 2: Stamina Adv Ability 1: Inner Focus Adv Ability 2: Tolerance High Ability: Sprint 
+ 
+1 – Mudbray 2 – Mudsdale Minimum 30 
+ 
+  Size Information    Height: 3'03"/1.0 m (Medium) Weight: 242.5 lbs./ 110.0 kg (5)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Field Average Hatch Rate: 10 Days 
+ 
+Diet: Herbivore Habitat: Grassland 
+ 
+Capability List Overland 5, Swim 2, Jump 1/2, Power 9, Naturewalk (Grasslands), Mountable 1 Underdog 
+ 
+Skill List Athl 4d6+2, Acro 2d6, Combat 3d6+1, Stealth 2d6, Percep 2d6, Focus 2d6+1 
+ 
+Move List  Level Up Move List   1 Mud-Slap – Ground  3 Mud Sport – Ground  8 Rototiller – Ground  10 Bulldoze – Ground  15 Double Kick – Fighting  17 Stomp – Normal  22 Bide – Normal  24 High Horsepower – Ground  29 Iron Defense – Steel  31 Heavy Slam – Steel  36 Counter – Fighting  38 Earthquake – Ground  43 Mega Kick – Normal  45 Superpower – Fighting   
+ 
+TM/HM Move List   Roar, Toxic, Hidden Power, Protect, Frustration, Earthquake, Return, Double Team, Sandstorm, Rock Tomb, Facade, Rest, Attract, Low Sweep, Round, Payback, Bulldoze, Rock Slide, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Egg Move List  Body Slam, Double-Edge, Magnitude, Close Combat, Mud Bomb  
+ 
+Tutor Moves Iron Head, Low Kick, Earth Power, Iron Defense, Superpower, Snore, Endeavor, Stealth Rock, Stomping Tantrum 

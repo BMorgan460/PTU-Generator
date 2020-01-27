@@ -1,0 +1,25 @@
+Rockruff  
+Base Stats:   
+ 
+HP:  5 Attack:  7 Defense: 4   Special Attack: 3  Special Defense: 4   Speed:   6 
+ 
+Type: Rock Basic Ability 1: Keen Eye Basic Ability 2: Vital Spirit Adv Ability 1: Steadfast Adv Ability 2: Strong Jaw High Ability: Pack Hunt 
+ 
+1 – Rockruff 2 –Lycanroc  Midday Sun Stone Minimum 25 2 –Lycanroc Midnight Moon Stone Minimum 25 2 – Lycanroc Dusk Dusk Stone Minimum 25 
+ 
+  Size Information    Height: 1'08"/0.5 m (Small)   Weight: 20.3 lbs./9.2 kg (1)     Breeding Information    Gender Ratio: 87.5% M / 12.5% F   Egg Group: Field Average Hatch Rate: 10 Days 
+ 
+Diet: Carnivore   Habitat: Urban, Mountain, Grassland 
+ 
+Capability List 
+Overland 6, Swim 3, Jump 1/2, Power 3, Naturewalk (Grassland, Mountain), Darkvision, Pack Mon, Tracker, Underdog 
+ 
+Skill List Athl 2d6, Acro 3d6, Combat 3d6+2, Stealth 2d6+1, Percep 3d6, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Tackle – Normal  1 Leer – Normal  4 Sand Attack – Normal  7 Bite – Dark  12 Howl – Normal  15 Rock Throw – Rock  18 Odor Sleuth – Normal  23 Rock Tomb – Rock  26 Roar – Normal  29 Stealth Rock – Rock  34 Rock Slide – Rock  37 Scary Face – Normal  40 Crunch – Dark  45 Rock Climb – Normal  48 Stone Edge – Rock  
+ 
+TM/HM Move List   Roar, Toxic, Hidden Power, Taunt, Protect, Frustration, Return, Double Team, Rock Tomb, Façade, Rest, Attract, Round, Echoed Voice, Rock Polish, Stone Edge, Rock Slide, Swagger, Sleep Talk, Substitute, Snarl, Confide 
+ 
+Egg Move List  Crush Claw, Fire Fang, Thunder Fang, Sucker Punch, Thrash 
+ 
+Tutor Moves Covet, Iron Head, Earth Power, Iron Defense, Last Resort, Zen Headbutt, Hyper Voice, Iron Tail, Snore, Endeavor, Stealth Rock, Stomping Tantrum 

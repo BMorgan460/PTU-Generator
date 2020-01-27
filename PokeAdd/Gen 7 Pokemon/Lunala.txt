@@ -1,0 +1,21 @@
+Lunala    Base Stats:   
+ 
+HP:  14 Attack:  11 Defense:   9 Special Attack:  14 Special Defense:  11 Speed:   10 
+ 
+Type:  Psychic/Ghost Basic Ability 1: Shadow Shield Adv Ability 1: Competitive Adv Ability 2: Forewarn High Ability 1: Soulstealer High Ability 2: Starlight 
+ 
+1 – Cosmog 2 – Cosmoem Minimum 45 3 – Lunala Moon Stone Minimum 55 
+ 
+Size Information  Height:   13'01"/ 4.0 m (Large) Weight: 264.6 lbs./ 120.0 kg (5)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 4, Sky 8, Swim 2, Jump 1/1, Power 7, Blindsense, Mountable 1, Chilled, Glow 
+ 
+Skill List Athl 4d6+2, Acro 6d6+2, Combat 3d6, Stealth 5d6+1, Percep 4d6+2, Focus 4d6 
+ 
+Move List  Level Up Move List   Evolve – Moongeist Beam 1 Cosmic Power – Psychic  1 Hypnosis – Psychic  1 Teleport – Psychic  1 Confusion – Psychic  7 Night Shade – Ghost  13 Confuse Ray – Ghost  19 Air Slash – Flying  23 Shadow Ball – Ghost  31 Moonlight – Fairy  37 Night Daze – Dark  43 Magic Coat – Psychic  47 Moonblast – Fairy  59 Dream Eater – Psychic  61 Phantom Force – Ghost  67 Wide Guard – Rock  73 Hyper Beam - Normal 
+ 
+TM/HM Move List   Work Up, Psyshock, Calm Mind, Roar, Toxic, Hidden Power, Sunny Day, Ice Beam, Blizzard, Hyper Beam, Light Screen, Protect, Roost, Safeguard, Frustration, Solar Beam, Thunderbolt, Thunder, Return, Psychic, Shadow Ball, Double Team, Reflect, Aerial Ace, Façade, Rest, Round, Focus Blast, Charge Beam, Sky Drop, Will-O-Wisp, Acrobatics, Shadow Claw, Giga Impact, Thunder Wave, Fly, Psych Up, Dream Eater, Swagger, Sleep Talk, Substitute, Trick Room, Dazzling Gleam, Confide 
+ 
+Tutor Moves Signal Beam, Magic Coat, Icy Wind, Snore, Heat Wave, Tailwind, Sky Attack, Shock Wave, Spite, Trick, Magic Room, Wonder Room, Telekinesis, Defog 

@@ -1,0 +1,21 @@
+Lurantis  Base Stats:   
+ 
+HP:  7 Attack:  11 Defense: 9 Special Attack: 8 Special Defense: 9 Speed:   5 
+ 
+Type: Grass Basic Ability 1: Leaf Guard Basic Ability 2: Chlorophyll Adv Ability 1: Contrary Adv Ability 2: Flower Veil High Ability: Solar Power 
+ 
+1 – Fomantis  2 – Lurantis Minimum 35 
+ 
+  Size Information    Height: 2'11"/0.9 m (Medium) Weight: 40.8 lbs./18.5 kg (2)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Grass 
+ 
+Diet: Phototroph Habitat: Grassland, Forest 
+ 
+Capability List Overland 5, Swim 3, Jump 1/1, Power 4, Naturewalk (Grassland, Forest), Stealth, Alluring 
+ 
+Skill List Athl 2d6, Acro 2d6+1, Combat 3d6, Stealth 5d6+2, Percep 4d6+1, Focus 4d6 
+ 
+Move List  Level Up Move List   Evolve Petal Blizzard – Grass  1 X-Scissor – Bug  1 Fury Cutter – Bug  5 Leafage – Grass  10 Razor Leaf – Grass  14 Growth – Normal  19 Ingrain – Grass  23 Leaf Blade – Grass  28 Synthesis – Grass  32 Slash – Normal  40 Sweet Scent – Normal  47 Solar Blade – Grass  55 Sunny Day – Fire  
+ 
+TM/HM Move List   Toxic, Hidden Power, Sunny Day, Hyper Beam,  Protect,  Safeguard,  Frustration, Solar Beam, Return, Leech Life, Brick Break, Double Team, Aerial Ace, Facade, Rest, Attract, Low Sweep,  Round, Energy Ball, False Swipe, Fling, Payback, Giga Impact, Swords Dance, XScissor, Poison Jab, Grass Knot, Swagger, Sleep Talk, Substitute, Nature Power, Confide 
+ 
+Tutor Moves Bug Bite, Dual Chop, Signal Beam, Seed Bomb, Superpower, Snore, Knock Off, Synthesis, Giga Drain, Worry Seed, Defog, Laser Focus

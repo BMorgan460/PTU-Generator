@@ -1,0 +1,23 @@
+Dewpider  Base Stats: 
+ 
+HP:  4 Attack:  4 Defense: 5 Special Attack: 4 Special Defense: 7   Speed:   3 
+ 
+Type: Water/Bug Basic Ability 1: Water Bubble Basic Ability 2: Water Absorb Adv Ability 1: Refreshing Veil Adv Ability 2: Suction Cups High Ability: Technician 
+ 
+1 – Dewpider  2 – Araquanid Minimum 20 
+ 
+  Size Information    Height: 1’00” / 0.3m (Small) Weight: 8.8 lbs./ 4.0 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Water 1/Bug Average Hatch Rate: 10 Days 
+ 
+Diet: Carnivore Habitat: Marsh, Freshwater, Rainforest 
+ 
+Capability List Overland 4, Swim 4, Jump 1/2, Power 2, Naturewalk (Marsh), Fountain, Gilled, Threaded, Wallclimber, Underdog 
+ 
+Skill List Athl 1d6, Acro 3d6, Combat 2d6, Stealth 3d6+2, Percep 3d6, Focus 3d6+1 
+ 
+Move List  Level Up Move List   1 Water Sport – Water  1 Bubble – Water  5 Infestation – Bug 8 Spider Web – Bug  13 Bug Bite – Bug 16 Bubble Beam – Water  21 Bite – Dark  24 Aqua Ring – Water  29 Leech Life – Bug  32 Crunch – Dark  37 Lunge – Bug  40 Mirror Coat – Psychic  45 Liquidation – Water  48 Entrainment – Normal  
+ 
+TM/HM Move List   Toxic, Hidden Power, Ice Beam, Blizzard, Protect, Rain Dance, Frustration, Return, Leech Life, Double Team, Facade, Rest, Attract, Round, Scald, Frost Breath, X-Scissor, Infestation, Poison Jab, Swagger, Sleep Talk, Substitute, Surf, Waterfall 
+ 
+Egg Move List  Power Split, Aurora Beam, Stockpile, Spit Up, Sticky Web 
+ 
+Tutor Moves Bug Bite, Signal Beam, Magic Coat, Iron Defense, Icy Wind, Snore, Giga Drain, Water Pulse, Magic Room, Wonder Room, Liquidation 

@@ -1,0 +1,25 @@
+Oranguru  
+Base Stats:   
+ 
+HP:   9  Attack:  6 Defense: 8   Special Attack: 9  Special Defense: 11   Speed:   6 
+ 
+Type: Normal/Psychic Basic Ability 1:  Telepathy Basic Ability 2:  Inner Focus Adv Ability 1: Symbiosis Adv Ability 2: Discipline High Ability: Bodyguard 
+ 
+1 –Oranguru  
+ 
+Size Information   Height: 4'11"/1.5 m (Large)   Weight: 167.6 lbs./76.0 kg (4)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group:  Field Average Hatch Rate: 10 Days 
+ 
+Diet: Herbivore Habitat: Forest, Rainforest 
+ 
+Capability List Overland 5, Swim 3, Jump 1/1, Power 5, Telekinetic, Telepath  
+ 
+Skill List 
+ Athl 4d6+1, Acro 2d6, Combat 2d6+1, Stealth 2d6, Percep 6d6+2, Focus 6d6+2 
+ 
+Move List  Level Up Move List   1 Confusion – Psychic  4 After You – Normal  8 Taunt – Dark  11 Quash – Dark  15 Stored Power – Psychic  18 Psych Up – Normal  22 Feint Attack – Dark  25 Nasty Plot – Dark  29 Zen Headbutt – Psychic  32 Instruct – Psychic  36 Foul Play – Dark  39 Calm Mind – Psychic  43 Psychic – Psychic  46 Future Sight – Psychic  50 Trick Room – Psychic  
+ 
+TM/HM Move List   Work Up, Psyshock, Calm Mind, Toxic, Hidden Power, Sunny Day, Taunt, Light Screen, Protect, Rain Dance, Safeguard, Frustration, Thunderbolt, Thunder, Earthquake, Return, Psychic, Shadow Ball, Brick Break, Double Team, Reflect, Facade, Rest, Round, Focus Blast, Energy Ball, Fling, Charge Beam, Brutal Swing, Quash, Embargo, Payback, Giga Impact, Psych Up, Bulldoze, Rock Slide, Dream Eater, Swagger, Sleep Talk, Substitute, Trick Room, Nature Power,  Confide 
+ 
+Egg Move List  Extrasensory, Wonder Room, Psychic Terrain 
+ 
+Tutor Moves Covet, Magic Coat, Block, Foul Play, Gravity, Zen Headbutt, Snore, Knock Off, Pain Split, Spite, After You, Trick, Magic Room, Wonder Room, Snatch, Telekinesis, Ally Switch 

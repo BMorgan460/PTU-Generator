@@ -1,0 +1,23 @@
+Fomantis  Base Stats:   
+ 
+HP:  4 Attack:  6 Defense: 4 Special Attack: 5 Special Defense: 4  Speed:   4 
+ 
+Type: Grass Basic Ability 1: Leaf Guard Basic Ability 2: Chlorophyll Adv Ability 1: Contrary Adv Ability 2: Flower Veil High Ability: Solar Power 
+ 
+1 – Fomantis  2 – Lurantis Minimum 35 
+ 
+  Size Information    Height: 1'00"/0.3 m (Small) Weight: 3.3 lbs./1.5 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Grass Average Hatch Rate: 10 Days 
+ 
+Diet: Phototroph Habitat: Grassland, Forest 
+ 
+Capability List Overland 3, Swim 2, Jump 1/1, Power 2, Naturewalk (Grassland, Forest), Alluring, Stealth, Underdog 
+ 
+Skill List Athl 2d6, Acro 2d6, Combat 2d6+1, Stealth 4d6+1, Percep 3d6, Focus 3d6 
+ 
+Move List  Level Up Move List   1 Fury Cutter – Bug  5 Leafage – Grass   10 Razor Leaf – Grass  14 Growth – Normal  19 Ingrain – Grass  23 Leaf Blade – Grass  28 Synthesis – Grass  32 Slash – Slash  37 Sweet Scent – Normal  41 Solar Beam – Grass  46 Sunny Day – Fire  
+ 
+TM/HM Move List   Toxic, Hidden Power, Sunny Day, Protect, Safeguard, Frustration, Solar Beam, Return, Leech Life, Double Team, Façade, Rest, Attract, Round, Energy Ball, False Swipe, Fling, Payback, Swords Dance, X-Scissor, Poison Jab, Grass Knot, Swagger, Sleep Talk, Substitute, Nature Power, Confide 
+ 
+Egg Move List  Weather Ball, Giga Drain, Aromatherapy, Defog, Leaf Storm 
+ 
+Tutor Moves Bug Bite, Dual Chop, Signal Beam, Seed Bomb, Snore, Synthesis, Giga Drain, Worry Seed, Defog 

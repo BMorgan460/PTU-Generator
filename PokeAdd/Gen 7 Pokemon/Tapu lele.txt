@@ -1,0 +1,22 @@
+Tapu lele    Base Stats:   
+ 
+HP:  7 Attack:  9 Defense: 8  Special Attack:  13 Special Defense:  12 Speed:   10 
+ 
+Type:  Psychic/Fairy Basic Ability 1: Psychic Surge Adv Ability 1: Telepathy Adv Ability 2: Pressure Adv Ability 3: Celebrate High Ability 1: Type Aura 
+ 
+1 – Tapu Lele 
+ 
+Size Information  Height:   3'11"/ 1.2 m (Medium) Weight: 41.0 lbs./ 18.6 kg (2)     Breeding Information    Gender Ratio: Genderless Egg Group: No Eggs 
+ 
+Diet: Omnivore Habitat: Forest 
+ 
+Capability List Overland 5, Sky 6, Swim 3, Jump 1/1, Power 3, Aura Reader, Aura Pulse, Telekinetic 
+ 
+Skill List 
+Athl 3d6, Acro 4d6+2, Combat 3d6, Stealth 3d6, Percep 6d6+2, Focus 4d6 
+ 
+Move List  Level Up Move List   1 Psychic Terrain – Psychic 1 Aromatic Mist – Fairy 1 Aromatherapy – Grass 1 Mean Look – Normal 1 Draining Kiss – Fairy 1 Astonish – Ghost 1 Withdraw – Water 1 Confusion – Psychic 8 Psywave – Psychic 14 Psybeam – Psychic 20 Sweet Scent – Normal 26 Skill Swap – Psychic 32 Psyshock – Psychic 38 Tickle – Normal 43 Nature’s Madness – Fairy 48 Extrasensory – Psychic 53 Flatter – Dark 58 Moonblast - Fairy 
+ 
+TM/HM Move List   Psyshock, Calm Mind, Toxic, Hidden Power, Sunny Day, Taunt, Hyper Beam, Light Screen, Protect, Safeguard, Frustration, Thunderbolt, Thunder, Return, Psychic, Shadow Ball, Double Team, Reflect, Torment, Façade, Thief, Round, Echoed Voice, Focus Blast, Energy Ball, Fling, Charge Beam, Giga Impact, Psych Up, Grass Knot, Swagger, Sleep Talk, Substitute, Nature Power, Dazzling Gleam, Confide 
+ 
+Tutor Moves Magic Coat, Gravity, Iron Defense, Snore, Magic Room, Wonder Room, Skill Swap, Telekinesis, Ally Switch 

@@ -1,0 +1,22 @@
+Volcanion  Base Stats:   
+ 
+HP:  8 Attack:  11 Defense: 12 Special Attack: 13 Special Defense: 9 Speed:   7 
+ 
+Type: Fire/Water Basic Ability 1: Water Absorb Basic Ability 2: Steam Cloud  Adv Ability 1: Cave Crasher Adv Ability 2: Heat Mirage High Ability: Spray Down 
+ 
+1 – Volcanion  
+ 
+Size Information   Height: 5'7"/1.7 m (Medium) Weight: 429.9 lbs./195.0 kg (5)     Breeding Information    Gender Ratio: No Gender Egg Group: No Eggs 
+ 
+Diet: Terravore Habitat: Cave, Mountain 
+ 
+Capability List Overland 7, Swim 5, Jump 2/2, Power 9, Firestarter, Fountain, Egg Warmer, Heater, Naturewalk (Cave, Mountain) 
+ 
+Skill List 
+Athl 5d6+2, Acro 4d6+2, Combat 5d6+2, Stealth 3d6, Percep 4d6+1, Focus 3d6 
+ 
+Move List  Level Up Move List   1 Take Down - Normal  8 Mist – Ice  11 Haze – Ice  15 Flame Charge – Fire  21 Water Pulse – Water 28 Stomp – Normal 32 Scald – Water 40 Weather Ball – Normal 46 Body Slam – Normal 50 Hydro Pump – Water 58 Flare Blitz – Fire 65 Overheat – Fire 76 Explosion – Normal 85 Steam Eruption - Water 
+ 
+TM/HM Move List   Roar, Toxic, Hidden Power, Sunny Day, Hyper Beam, Protect, Frustration, Solar Beam, Smack Down, Earthquake, Return, Brick Break, Double Team, Sludge Wave, Flamethrower, Sludge Bomb, Sandstorm, Fire Blast, Façade, Flame Charge, Rest, Round, Overheat, Focus Blast, Scald, Fling, Will-O-Wisp, Explosion, Giga Impact, Stone Edge, Gyro Ball, Bulldoze, Rock Slide, Swagger, Sleep Talk, Substitute, Flash Cannon, Confide 
+ 
+Tutor Move List  Earth Power, Flare Blitz, Heat Wave, Snore, Steam Eruption, Superpower, Water Pulse

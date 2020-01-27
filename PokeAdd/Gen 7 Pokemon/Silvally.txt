@@ -1,0 +1,23 @@
+Silvally  
+Base Stats:   
+ 
+HP:  10 Attack:  10 Defense: 10 Special Attack: 10 Special Defense: 10  Speed:   10 
+ 
+Type: Normal Basic Ability 1:  RKS System Adv Ability 1: Magic Guard Adv Ability 2: Intimidate Adv Ability 3: Pressure High Ability: Adaptability 
+ 
+1 – Type:Null 2 – Silvally Minimum 40 
+ 
+  Size Information    Height: 7'07"/2.3 m (Large) Weight: 221.6 lbs./100.5 kg (5)     Breeding Information    Gender Ratio: No Gender   Egg Group: Amorphous 
+ 
+Diet: Carnivore Habitat: Unknown 
+ 
+Capability List Overland 6, Swim 6, Jump 1/2, Power 6, Darkvision, Tracker, Mountable 1 
+ 
+Skill List 
+Athl 5d6, Acro 5d6, Combat 5d6, Stealth 2d6, Percep 3d6, Focus 3d6+2 
+ 
+Move List  Level Up Move List   1 Multi-Attack – Normal  1 Heal Block – Psychic  1 Imprison – Psychic  1 Iron Head – Steel  1 Poison Fang – Poison  1 Fire Fang – Fire  1 Ice Fang – Ice  1 Thunder Fang – Electric  1 Tackle – Normal  5 Rage – Normal  10 Pursuit – Dark  15 Imprison 20 Aerial Ace 25 Crush Claw 30 Scary Face 35 X-Scissor 40 Take Down 42 Multi-Attack 45 Metal Sound 50 Iron Head 55 Double Hit 60 Air Slash 65 Punishment 70 Razor Wind 75 Tri Attack 80 Double-Edge 85 Parting Shot 
+ 
+TM/HM Move List   Work Up, Dragon Claw, Roar, Toxic, Hail, Hidden Power, Sunny Day, Hyper Beam, Protect, Rain Dance, Frustration, Return, Double Team, Sandstorm, Aerial Ace, Facade, Flame Charge, Rest, Round, Shadow Claw, Payback, Giga Impact, Thunder Wave, Swords Dance, Rock Slide, X-Scissor, Swagger, Sleep Talk, Uturn, Substitute, Confide 
+ 
+Tutor Moves Signal Beam, Iron Head, Magic Coat, Iron Defense, Last Resort, Icy Wind, Zen Headbutt, Hyper Voice, Snore, Heat Wave, Tailwind, Outrage, Defog, Laser Focus 

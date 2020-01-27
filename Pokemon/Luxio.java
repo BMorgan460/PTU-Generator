@@ -1,0 +1,57 @@
+public class Luxio extends Pokemon{
+{
+		name = "Luxio";
+		bHP = 6;
+		bAtk = 9;
+		bDef = 5;
+		bSpAtk = 6;
+		bSpDef = 5;
+		bSpd = 6;
+		type1 = "Electric";
+		type2 = "";
+		abilities = new String[]{"Intimidate", "Rivalry", "Sequence", "Celebrate", "Guts"};
+		abilityTypeCount = new int[] {2,2,1};
+		previous = new Shinx();
+		prevReq = 15;
+		next = new String[]{"Luxray"};
+		nextReq = new String[]{"30"};
+		height = "2\'/11\"";
+		weight = 67.2;
+		WC = 3;
+		maleRatio = 50;
+		femaleRatio = 50;
+		egg1 = "Field";
+		egg2 = "Diet";
+		habitats = new String[]{"Cave", "Grassland", "Capability"};
+		overland = 7;
+		swim = 4;
+		levitate = 0;
+		sky = 0;
+		burrow = 0;
+		lJump = 1;
+		hJump = 2;
+		power = 4;
+		underdog = false;
+		athl = 4;
+		acro = 2;
+		combat = 3;
+		stealth = 4;
+		percep = 4;
+		focus = 3;
+		athlBonus = 1;
+		acroBonus = 2;
+		combatBonus = 1;
+		stealthBonus = 2;
+		percepBonus = 1;
+		focusBonus = 0;
+		movesLevels = new int[]{5, 9, 13, 18, 23, 28, 33, 38, 43, 48, 53};
+		moves = new String[]{"Leer", "Charge", "Spark", "Bite", "Roar", "Swagger", "Thunder Fang", "Crunch", "Scary Face", "Discharge", "Wild Charge"};
+		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge Beam", "Flash", "Volt Switch", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Snarl"};
+		tutorMoves = new String[]{"Fury Cutter", "Iron Tail", "Magnet Rise", "Signal Beam", "Shock Wave", "Sleep Talk", "Snore", "Swift"};
+		naturalMoves = new String[]{};
+}
+		Luxio(){
+
+		super();
+		}
+}

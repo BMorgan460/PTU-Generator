@@ -1,0 +1,23 @@
+Stufful  Base Stats:   
+ 
+HP:  7 Attack:  8 Defense: 5 Special Attack: 5 Special Defense: 5 Speed:   5 
+ 
+Type: Normal/Fighting Basic Ability 1:  Fluffy Basic Ability 2: Klutz Adv Ability 1: Cute Charm Adv Ability 2: Scrappy High Ability: Pure Power 
+ 
+1 – Stufful  2 – Bewear Minimum 30 
+ 
+  Size Information    Height: 1'08"/0.5 m (Small) Weight: 15.0 lbs./6.8 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Field Average Hatch Rate: 7 Days 
+ 
+Diet: Herbivore Habitat: Forest, Urban, Grassland 
+ 
+Capability List Overland 4, Swim 3, Jump 1/1, Power 7, Naturewalk (Urban, Forest), Underdog 
+ 
+Skill List Athl 4d6+1, Acro 3d6, Combat 3d6+1, Stealth 2d6, Percep 2d6, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Tackle – Normal  1 Leer – Normal  5 Bide – Normal  10 Baby-Doll Eyes – Fairy  14 Brutal Swing – Dark  19 Flail – Normal  23 Payback – Dark  28 Take Down – Normal  32 Hammer Arm – Fighting  37 Thrash – Normal  41 Pain Split – Normal  46 Double-Edge – Normal  50 Superpower – Fighting  
+ 
+TM/HM Move List   Work Up, Roar, Toxic, Bulk Up, Hidden Power, Taunt, Protect, Frustration, Earthquake, Return, Brick Break, Double Team, Rock Tomb, Aerial Ace, Facade, Rest, Attract, Low Sweep, Round, Focus Blast, Fling, Brutal Swing, Payback, Swords Dance, Bulldoze, Rock Slide, Swagger, Sleep Talk, Substitute,  Confide 
+ 
+Egg Move List  Ice Punch, Thunder Punch, Force Palm, Endure, Wide Guard, Mega Kick, Stomping Tantrum 
+ 
+Tutor Moves Dual Chop, Iron Head, Thunder Punch, Ice Punch, Superpower, Zen Headbutt, Bind, Snore, Role Play, Pain Split, Focus Punch, Stomping Tantrum 

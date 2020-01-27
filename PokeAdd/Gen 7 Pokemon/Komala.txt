@@ -1,0 +1,24 @@
+Komala  Base Stats:   
+ 
+HP:  7 Attack:  12 Defense: 7 Special Attack: 8 Special Defense: 10 Speed: 7 
+ 
+Type: Normal Basic Ability 1:  Comatose Adv Ability 1: Forewarn Adv Ability 2: Scrappy Adv Ability 3: Klutz High Ability: Deep Sleep 
+ 
+1 – Komala 
+ 
+  Size Information    Height: 1'04"/0.4 m (Small) Weight: 43.9 lbs./19.9 kg (2)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group:  Field Average Hatch Rate: 10 Days 
+ 
+Diet: Herbivore Habitat: Grassland, Forest 
+ 
+Capability List Overland 5, Swim 3, Jump 1/1, Power 7, Blindsense, Wielder 
+ 
+ Skill List 
+Athl 4d6+2, Acro 2d6+3, Combat 4d6+2, Stealth 2d6, Percep 3d6+1, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Defense Curl – Normal  1 Rollout – Rock  6 Stockpile – Normal  6 Spit Up – Normal  6 Swallow – Normal  11 Rapid Spin – Normal  16 Yawn – Normal  21 Slam – Normal  26 Flail – Normal  31 Sucker Punch – Dark  36 Psych Up –Normal  41 Wood Hammer – Grass  46 Thrash – Normal  
+ 
+TM/HM Move List   Work Up, Calm Mind, Toxic, Bulk Up, Hidden Power, Sunny Day, Protect, Frustration, Earthquake, Return, Brick Break, Double Team, Facade, Attract, Low Sweep, Round, Quash, Acrobatics, Shadow Claw, Payback, Swords Dance, Psych Up, Bulldoze, Rock Slide, Swagger, Sleep Talk, U-turn, Substitute, Confide 
+ 
+Egg Move List   Charm, Wish, Play Rough, Sing 
+ 
+Tutor Moves Iron Head, Last Resort, Superpower, Zen Headbutt, Snore, Knock Off, Endeavor, Stomping Tantrum

@@ -1,0 +1,22 @@
+Alolan meowth    Base Stats:   
+ 
+HP:  4 Attack:  4 Defense:   4 Special Attack:  5 Special Defense:  4 Speed:   9 
+ 
+Type:  Dark Basic Ability 1: Pickup Basic Ability 2: Technician Adv Ability 1: Limber Adv Ability 2: Rattled High Ability 1: Defiant 
+ 
+1 – Alolan Meowth 2 – Alolan Persian Minimum 25 
+ 
+Size Information  Height:   1'04"/ 0.4 m (Small) Weight: 9.3 lbs./ 4.2 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Field Average Hatch Rate: 10 Days 
+ 
+Diet: Carnivore Habitat: Forest, Urban 
+ 
+Capability List Overland 5, Swim 2, Jump 1/1, Power 2, Tracker, Stealth, Underdog, Fortune, Naturewalk (Urban) 
+ 
+Skill List 
+Athl 1d6, Acro 3d6, Combat 2d6, Stealth 4d6, Percep 4d6, Focus 3d 
+ 
+Move List  Level Up Move List   1 Scratch – Normal 1 Growl – Normal 6 Bite – Dark 9 Fake Out – Normal 14 Fury Swipes – Normal 17 Screech – Normal 22 Feint Attack – Dark 25 Taunt – Dark 30 Pay Day – Normal 33 Slash – Normal 38 Nasty Plot – Dark 41 Assurance – Dark 46 Captivate – Normal 49 Night Slash – Dark 50 Feint – Normal 55 Dark Pulse – Dark  
+ 
+TM/HM Move List   Work Up, Toxic, Hidden Power, Sunny Day, Taunt, Protect, Rain Dance, Frustration, Thunderbolt, Thunder, Return, Shadow Ball, Double Team, Aerial Ace, Torment, Façade, Rest, Attract, Thief, Round, Echoed Voice, Quash, Embargo, Shadow Claw, Payback, Psych Up, Dream Eater, Swagger, Sleep Talk, U-turn, Substitute, Dark Pulse, Confide 
+ 
+Egg Move List  Spite, Charm, Hypnosis, Amnesia, Assist, Flail, Punishment, Snatch, Foul Play, Parting Shot, Flatter, Covet

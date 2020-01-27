@@ -1,0 +1,23 @@
+Bounsweet  Base Stats:   
+ 
+HP:  4 Attack:  3 Defense: 3 Special Attack: 3 Special Defense: 4 Speed:   3 
+ 
+Type: Grass Basic Ability 1: Leaf Guard Basic Ability 2: Oblivious Adv Ability 1: Sweet Veil Adv Ability 2: Aroma Veil High Ability: Dodge 
+ 
+1 – Bounsweet  2 – Steenee Minimum 20 3 – Tsareena Minimum 30 Learn Stomp  
+ 
+  Size Information    Height: 1'00"/0.3 m (Small) Weight: 7.1 lbs./3.2 kg (1)     Breeding Information    Gender Ratio: 100% F   Egg Group: Grass Average Hatch Rate: 10 Days 
+ 
+Diet: Phototroph Habitat: Forest, Rainforest 
+ 
+Capability List Overland 3, Swim 2, Jump 1/1, Power 1, Naturewalk (Forest), Alluring, Underdog 
+ 
+Skill List Athl 1d6, Acro 1d6, Combat 2d6-1, Stealth 3d6, Percep 3d6+1, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Splash – Normal  5 Play Nice – Normal  9 Rapid Spin – Normal  13 Razor Leaf – Grass  17 Sweet Scent – Normal  21 Magical Leaf – Grass  25 Teeter Dance – Normal  29 Flail – Normal  33 Aromatic Mist – Grass  
+ 
+TM/HM Move List   Toxic, Hidden Power, Sunny Day, Light Screen, Protect, Safeguard, Frustration, Solar Beam, Return, Double Team, Reflect, Facade, Rest, Attract, Round, Energy Ball, Grass Knot, Swagger, Sleep Talk, Substitute, Nature Power, Dazzling Gleam, Confide 
+ 
+Egg Move List  Grass Whistle, Synthesis, Play Rough, Feint, Charm, Acupressure 
+ 
+Tutor Moves Covet, Seed Bomb, Bounce, Zen Headbutt, Snore, Synthesis, Giga Drain, Worry Seed, Helping Hand, Endeavor 

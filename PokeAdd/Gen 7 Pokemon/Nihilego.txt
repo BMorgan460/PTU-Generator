@@ -1,0 +1,22 @@
+Nihilego    Base Stats:   
+ 
+HP:  11 Attack:  5 Defense:   5 Special Attack:  13 Special Defense:  13 Speed:   10 
+ 
+Type:  Rock/Poison  Basic Ability 1: Beast Boost AdvAbility 1: Pressure Adv Ability 2: Poison Touch Adv Ability 3: Shackle  High Ability 1: Memory Wipe 
+ 
+1 – Nihilego  
+ 
+Size Information  Height:   3'11"/ 1.2 m (Medium) Weight: 122.4 lbs./ 55.5 kg (4)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 3, Levitate 7, Swim 2, Jump 1/1, Power 3, Amorphous, Dead Silent, Mind Lock 
+ 
+Skill List Athl 2d6+1, Acro 5d6+2, Combat 3d6+2, Stealth 5d6, Percep 5d6, Focus 4d6 
+ 
+Move List  
+Level Up Move List   1 Power Split – Psychic  1 Guard Split – Psychic 1 Tickle – Normal  1 Acid – Poison  1 Constrict – Normal  1 Pound – Normal  7 Clear Smog – Poison  13 Psywave – Psychic 19 Headbutt – Normal  23 Venoshock – Poison  29 Toxic Spikes – Poison  31 Safeguard – Normal 37 Power Gem – Rock  43 Mirror Coat – Psychic  47 Acid Spray – Poison  53 Venom Drench – Poison  59 Stealth Rock – Rock  67 Wonder Room – Psychic  73 Head Smash – Rock   
+ 
+TM/HM Move List   Psyshock, Toxic, Venoshock, Hidden Power, Light Screen, Protect, Safeguard, Frustration, Thunderbolt, Thunder, Return, Psychic, Double Team, Reflect, Sludge Wave, Sludge Bomb, Sandstorm, Façade, Rest, Round, Echoed Voice, Charge Beam, Brutal Swing, Thunder Wave, Poison Jab, Grass Knot, Swagger, Sleep Talk, Substitute, Trick Room, Dazzling Gleam, Confide 
+ 
+Tutor Moves Iron Head, Gunk Shot, Magic Coat, Foul Play, Zen Headbutt, Bind, Snore, Knock Off, Role Play, Pain Split, Worry Seed, Spite, Wonder Room, Stealth Rock, Telekinesis, Ally Switch 

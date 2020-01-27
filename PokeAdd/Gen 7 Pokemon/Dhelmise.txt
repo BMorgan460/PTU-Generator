@@ -1,0 +1,20 @@
+Dhelmise    Base Stats:   
+ 
+HP:  7 Attack:  13 Defense:   10 Special Attack:  9 Special Defense:  9 Speed:   4 
+ 
+Type:  Ghost/Grass Basic Ability 1: Steelworker Adv Ability 1: Leaf Guard Adv Ability 2: Hydration Adv Ability 3: Water Veil High Ability 1: Shackle 
+ 
+1 – Dhelmise  
+ 
+Size Information  Height:   12'10"/ 3.9 m (Large) Weight: 463.0 lbs./ 210.0 kg (6)     Breeding Information    Gender Ratio: Genderless Egg Group: Mineral Average Hatch Rate: 16 Days  
+ 
+Diet: Phototroph Habitat: Ocean 
+ 
+Capability List Overland 3, Swim 5, Jump 0/1, Power 9, Dead Silent, Darkvision, Mountable 2, Anchored Skill List 
+Athl 5d6+1, Acro 2d6, Combat 4d6, Stealth 5d6+2, Percep 3d6, Focus 3d6+2 
+ 
+Move List  Level Up Move List   1 Switcheroo - Dark 1 Absorb - Grass 1 Growth – Normal 1 Rapid Spin – Normal 1 Astonish – Ghost 5 Mega Drain – Grass 9 Wrap – Normal 14 Gyro Ball – Steel 18 Metal Sound – Steel 23 Giga Drain – Grass 27 Whirlpool – Water 32 Anchor Shot – Steel 36 Shadow Ball – Ghost 41 Energy Ball – Grass 45 Slam – Normal 50 Heavy Slam – Steel 54 Phantom Force – Ghost 59 Power Whip – Grass  
+ 
+TM/HM Move List  Toxic, Hidden Power, Sunny Day, Hyper Beam, Protect, Rain Dance, Frustration, Solar Beam, Earthquake, Return, Shadow Ball, Brick Break, Double Team, Sludge Wave, Aerial Ace, Façade, Rest, Attract, Thief, Round, Energy Ball, Brutal Swing, Embargo, Shadow Claw, Payback, Giga Impact, Gyro Ball, Swords Dance, Bulldoze, Rock Slide, Grass Knot, Swagger, Sleep Talk, Substitute, Flash Cannon, Surf, Confide 
+ 
+Tutor Moves Iron Head, Block, Iron Defense, Snore, Knock Off, Synthesis, Role Play, Pain Split, Giga Drain, Spite, Helping Hand, Telekinesis, Ally Switch

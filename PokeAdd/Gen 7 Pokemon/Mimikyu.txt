@@ -1,0 +1,23 @@
+Mimikyu  Base Stats:   
+ 
+HP:  6 Attack:  9 Defense: 8 Special Attack: 5 Special Defense: 11 Speed: 10 
+ 
+Type: Ghost/Fairy Basic Ability 1:  Disguise Adv Ability 1: Fluffy Adv Ability 2: Shadow Tag Adv Ability 3: Cute Charm High Ability: Lightning Rod 
+ 
+1 – Mimikyu 
+ 
+  Size Information    Height: 0'08"/0.2 m (Small) Weight: 1.5 lbs./0.7 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group:   Amorphous Average Hatch Rate: 10 Days 
+ 
+Diet: Herbivore Habitat: Urban, Forest, Grassland 
+ 
+Capability List Overland 5, Swim 2, Jump 1/1, Power 5, Naturewalk (Forest), Amorphous, Darkvision, Dead Silent, Invisibility, Phasing  
+ 
+ Skill List Athl 2d6+2, Acro 4d6+2, Combat 3d6, Stealth 5d6+1, Percep 3d6, Focus 4d6 
+ 
+Move List  Level Up Move List   1 Wood Hammer – Grass  1 Splash – Normal  1 Scratch – Normal  1 Astonish – Ghost  1 Copycat – Normal  5 Double Team – Normal  10 Baby-Doll Eyes – Fairy  14 Shadow Sneak – Ghost  19 Mimic – Normal  23 Feint Attack – Dark  28 Charm – Fairy  32 Slash – Normal  37 Shadow Claw – Ghost  41 Hone Claws – Normal  46 Play Rough – Fairy  50 Pain Split – Normal  
+ 
+TM/HM Move List   Work Up, Toxic, Bulk Up, Hidden Power, Taunt, Hyper Beam, Light Screen, Protect, Safeguard, Frustration, Thunderbolt, Thunder, Return, Leech Life, Psychic, Shadow Ball, Double Team, Facade, Rest, Attract, Thief, Round, Fling, Charge Beam, Will-O-Wisp, Embargo, Shadow Claw, Payback, Thunder Wave, Swords Dance, Psych Up, X-Scissor, Infestation, Dream Eater, Swagger, Sleep Talk, Substitute, Trick Room, Dark Pulse, Dazzling Gleam, Confide 
+ 
+Egg Moves Grudge, Destiny Bond, Curse, Nightmare 
+ 
+Tutor Moves Covet, Last Resort, Snore, Pain Split, Giga Drain, Drain Punch, Spite, After You, Trick, Magic Room, Snatch, Telekinesis 

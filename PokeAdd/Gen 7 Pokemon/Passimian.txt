@@ -1,0 +1,25 @@
+Passimian  
+Base Stats:   
+ 
+HP:   10 Attack:  12 Defense: 9   Special Attack: 4  Special Defense: 6   Speed:   8 
+ 
+Type: Fighting Basic Ability 1:  Reciever Adv Ability 1: Defiant Adv Ability 2: Run Up Adv Ability 3: Sprint High Ability: Pack Hunt 
+ 
+1 -Passimian 
+ 
+Size Information   Height: 6'07"/2.0 m (Large)   Weight: 182.5 lbs./82.8 kg (4)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group:  Field Average Hatch Rate: 10 Days 
+ 
+Diet: Herbivore Habitat: Forest, Rainforest 
+ 
+Capability List Overland 7, Swim 4, Jump 2/3, Power 7, Pack Mon, Wielder 
+ 
+Skill List 
+ Athl 4d6+2, Acro 5d6+1, Combat 4d6, Stealth 2d6, Percep 2d6, Focus 3d6 
+ 
+Move List  Level Up Move List   1 Tackle – Normal  4 Leer – Normal  8 Rock Smash – Fighting  11 Focus Energy – Normal  15 Beat Up – Fighting  18 Scary Face – Normal  22 Take Down – Normal  25 Bestow – Normal  29 Thrash – Normal  32 Bulk Up – Fighting  36 Double-Edge – Normal  39 Fling – Dark  43 Close Combat – Fighting  46 Reversal – Fighting  50 Giga Impact – Normal  
+ 
+TM/HM Move List   Work Up, Toxic, Bulk Up, Hidden Power, Sunny Day, Taunt, Hyper Beam, Protect, Rain Dance, Frustration, Smack Down, Earthquake, Return, Shadow Ball, Brick Break, Double Team, Rock Tomb, Aerial Ace, Facade, Rest, Attract, Thief, Low Sweep, Round, Focus Blast, Energy Ball, Fling, Brutal Swing, Acrobatics, Payback, Giga Impact, Gyro Ball, Bulldoze, Rock Slide, Grass Knot, Swagger, Sleep Talk, U-turn, Substitute, Confide 
+ 
+Egg Move List  Seismic Toss, Vital Throw, Quick Guard, Iron Head, Quick Attack, Feint 
+ 
+Tutor Moves Iron Head, Seed Bomb, Gunk Shot, Uproar, Block, Superpower, Electroweb, Iron Tail, Snore, Knock Off, Drain Punch, Focus Punch, Shock Wave, Endeavor, Snatch, Laser Focus 

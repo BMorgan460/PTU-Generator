@@ -1,0 +1,23 @@
+Yungoos    
+Base Stats:   
+ 
+HP:  5 Attack:  7 Defense: 3   Special Attack: 3  Special Defense: 3   Speed:   5 
+ 
+Type: Normal  Basic Ability 1: Stake Out Basic Ability 2: Perception Adv Ability 1: Strong Jaw Adv Ability 2: Ambush High Ability: Adaptability 
+ 
+1 – Yungoos  2 –Gumshoos Minimum 20 
+ 
+  Size Information    Height: 1'04"/0.4 m (Small)   Weight: 13.2 lbs./6.0 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Field Average Hatch Rate: 7 Days 
+ 
+Diet: Omnivore   Habitat: Urban, Grassland, Taiga 
+ 
+Capability List Overland 6, Swim 4, Jump 2/2, Power 2, Stealth, Naturewalk (Grassland, Urban), Darkvision, Tracker, Underdog 
+Skill List Athl 2d6, Acro 3d6, Combat 2d6, Stealth 3d6+2, Percep 3d6+2, Focus 4d6 
+ 
+Move List  Level Up Move List   1 Tackle – Normal  3 Leer – Normal  7 Pursuit – Dark  10 Sand Attack – Normal  13 Odor Sleuth – Normal  16 Bide – Normal  19 Bite – Dark  22 Mud-Slap – Ground  25 Super Fang – Normal  28 Take Down – Normal  31 Scary Face – Normal  34 Crunch – Dark  37 Hyper Fang – Normal  40 Yawn – Normal  43 Thrash – Normal  46 Rest – Psychic  
+ 
+TM/HM Move List    Work Up,  Roar, Toxic,  Hidden Power,  Taunt, Protect, Frustration,  Earthquake, Return, Double Team, Sandstorm, Rock Tomb, Torment, Façade, Rest, Attract, Thief, Round, Echoed Voice,  Fling,  Payback, Bulldoze, Swagger, Sleep Talk, U-turn, Substitute, Confide 
+ 
+Egg Move List  Revenge, Last Resort, Fire Fang, Ice Fang, Thunder Fang 
+ 
+Tutor Moves Super Fang, Uproar, Last Resort, Iron Tail, Snore, Shock Wave, Endeavor, Stomping Tantrum 

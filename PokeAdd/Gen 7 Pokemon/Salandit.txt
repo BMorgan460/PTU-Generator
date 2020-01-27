@@ -1,0 +1,23 @@
+Salandit  Base Stats:   
+ 
+HP:  5 Attack:  4 Defense: 4 Special Attack: 7 Special Defense: 4  Speed:   7 
+ 
+Type: Poison/Fire Basic Ability 1:  Corrosion Adv Ability 1: Oblivious Adv Ability 2:  Heat Mirage Adv Ability 3: Keen Eye High Ability: Brimstone 
+ 
+1 – Salandit  2 – Salazzle Minimum 30 Female 
+ 
+  Size Information    Height: 2'00"/0.6 m (Small) Weight: 10.6 lbs./4.8 kg (1)     Breeding Information    Gender Ratio: 87.5% M / 12.5% F   Egg Group: Monster/Dragon Average Hatch Rate: 10 Days 
+ 
+Diet: Carnivore Habitat: Mountain, Cave, Grassland 
+ 
+Capability List Overland 5, Swim 2, Jump 1/2, Power 2, Naturewalk (Mountain), Firestarter, Pack Mon, Underdog 
+ 
+Skill List Athl 1d6+1, Acro 3d6+2, Combat 2d6, Stealth 2d6, Percep 2d6, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Scratch – Normal  1 Poison Gas – Poison  5 Ember – Fire  8 Sweet Scent – Normal  13 Dragon Rage – Dragon  16 Smog – Poison  21 Double Slap – Normal  24 Flame Burst – Fire  29 Toxic – Poison  32 Nasty Plot – Dark  37 Venoshock – Poison  40 Flamethrower – Fire  45 Venom Drench – Poison  48 Dragon Pulse – Dragon  
+ 
+TM/HM Move List   Dragon Claw, Toxic, Venoshock, Hidden Power, Taunt, Protect, Frustration, Return, Leech Life, Double Team, Sludge Wave, Flamethrower, Sludge Bomb, Fire Blast, Torment, Facade, Flame Charge, Rest, Attract, Thief, Round, Overheat, Fling, Will-O-Wisp, Shadow Claw, Payback, Poison Jab, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Egg Move List  Belch, Knock Off, Sand Attack, Snatch, Fake Out 
+ 
+Tutor Moves Covet, Gunk Shot, Foul Play, Dragon Pulse, Iron Tail, Snore, Knock Off, Heat Wave, Helping Hand, Snatch 

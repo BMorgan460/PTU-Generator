@@ -1,0 +1,21 @@
+Nagandel    Base Stats:   
+ 
+HP:  7 Attack:  7 Defense:   13 Special Attack:  7 Special Defense:  7 Speed:   12 
+ 
+Type:  Poison Basic Ability 1: Beast Boost Adv Ability 1: Deadly Poison Adv Ability 2: Sniper Adv Ability 3: Poison Touch High Ability 1: Corrosive Toxins 
+ 
+1 – Poipole 2 – Naganadel Minumum 35 Knows Dragon Pulse 
+ 
+Size Information  Height:  11'10"/ 3.6 m (Large) Weight: 330.7 lbs./ 150 kg (5)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 4, Swim 3, Levitate 8, Jump 1/2, Power 6 
+ 
+Skill List Athl 4d6+1, Acro 5d6+1, Combat 3d6+1, Stealth 4d6, Percep 5d6, Focus 3d6 
+ 
+Move List  Level Up Move List Evolve Air Cutter – Flying 1 Dragon Pulse – Dragon 1 Peck – Flying 1 Growl – Normal 1 Helping Hand – Normal 1 Acid – Normal 7 Fury Attack – Normal 13 Venoshock – Poison 19 Charm – Fairy 23 Venom Drench – Poison 31 Nasty Plot – Dark 37 Poison Jab – Poison 41 Toxic – Poison 47 Fell Stinger – Bug 53 Air Slash – Flying 61 Dragon Pulse – Dragon  
+ 
+TM/HM Move List   Dragon Claw, Toxic, Venoshock, Hidden Power, Hyper Beam, Protect, Frustration, Thunderbolt, Return, Leech Life, Double Team, Sludge Wave, Flamethrower, Sludge Bomb, Fire Blast, Aerial Ace, Façade, Rest, Thief, Round, Echoed Voice, Sky Drop, Acrobatics, Shadow Claw, Smart Strike, Fly, X-Scissor, Dragon Tail, Poison Jab, Sleep Talk, U-Turn, Substitute, Snarl, Dark Pulse, Confide 
+ 
+Move Tutor List Signal Beam, Gunk Shot, Uproar, Dragon Pulse, Iron Tail, Snore, Heat Wave, Tailwind, Sky Attack, Shock Wave, Gastro Acid, Helping Hand, Outrage, Snatch, Ally Switch, Throat Chop, Laser Focus, Draco Meteor 

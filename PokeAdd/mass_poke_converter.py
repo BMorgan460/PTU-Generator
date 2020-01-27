@@ -11,7 +11,7 @@ for line in f:
         name = line[0] + line[1:].lower()
         print(name)
         count += 1
-        text = name
+        text = name.strip()
     elif line.strip() == str(page):
         output = open(os.path.join(os.getcwd(), name.strip() + ".txt"), "wt")
         output.write(text)

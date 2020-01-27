@@ -1,0 +1,22 @@
+Stakataka 
+Base Stats:   
+ 
+HP:  6 Attack:  13 Defense:   21 Special Attack:  5 Special Defense:  10 Speed:   1 
+ 
+Type:  Rock/Steel Basic Ability 1: Beast Boost Adv Ability 1: Battle Armor Adv Ability 2: Solid Rock Adv Ability 3: Heavy Metal High Ability 1: Sturdy 
+ 
+1 – Stakataka 
+ 
+Size Information  Height:   18'01"/ 5.5 m (Gigantic) Weight: 1807.8 lbs./ 820 kg (7)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs  
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 4, Swim 1, Jump 0/1, Power 8, Dead Silent 
+ 
+Skill List Athl 5d6, Acro 2d6+1, Combat 4d6+2, Stealth 4d6-1, Percep 4d6, Focus 5d6+1 
+ 
+Move List  Level Up Move List   1 Protect – Normal 1 Tackle – Normal 5 Rock Slide – Rock 11 Stealth Rock – Rock 17 Bide – Normal 19 Take Down – Normal 23 Rock Throw – Rock 31 Autotomize – Steel 37 Iron Defense – Steel 43 Iron Head – Steel 47 Rock Blast – Rock 53 Wide Guard – Rock 61 Double Edge – Normal  
+ 
+TM/HM Move List   Toxic, Hidden Power, Light Screen, Protect, Safeguard, Frustration, Smack Down, Earthquake, Return, Reflect, Sandstorm, Rock Tomb, Façade, Rest, Round, Brutal Swing, Giga Impact, Rock Polish, Stone Edge, Gyro Ball, Bulldoze, Rock Slide, Infestation, Sleep Talk, Substitute, Flash Cannon, Trick Room 
+ 
+Move Tutor List Iron Head, Magic Coat, Block, Gravity, Magnet Rise, Iron Defense, Superpower, Zen Headbutt, Bind, Snore, Role Play, Magic Room, Wonder Room, Recycle, Stealth Rock, Skill Swap, Telekinesis, Ally Switch, Stomping Tantrum

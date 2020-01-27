@@ -1,0 +1,22 @@
+Alolan geodude    Base Stats:   
+ 
+HP:  4 Attack:  8 Defense:   10 Special Attack:  3 Special Defense:  3 Speed:   2 
+ 
+Type:  Rock/Electric Basic Ability 1:  Levitate Adv Ability 1: Magnet Pull Adv Ability 2: Sturdy Adv Ability 3: Motor Drive High Ability 1: Galvanize 
+ 
+1 – Alolan Geodude 2 – Alolan Graveler Minimum 25 3 – Alolan Golem Minimum 35 
+ 
+Size Information  Height:   1'04"/ 0.4 m (Small) Weight: 44.8 lbs./ 20.3 kg (2)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Mineral Average Hatch Rate: 7 Days 
+ 
+Diet: Terravore Habitat: Cave, Mountain 
+ 
+Capability List Overland 4, Swim 2, Levitate 3, Burrow 3, Jump 0/1, Power 3, Underdog, Volatile Bomb, Zapper, Magnetic, Materializer 
+ 
+Skill List 
+Athl 3d6+2, Acro 2d6, Combat 2d6+2, Stealth 2d6, Percep 2d6, Focus 3d6+1 
+ 
+Move List  Level Up Move List   1 Tackle – Normal 1 Defense Curl – Normal 4 Charge – Electric 6 Rock Polish – Rock 10 Rollout – Rock 12 Spark – Electric 16 Rock Throw – Rock 18 Smack Down – Rock 22 Thunder Punch – Electric 24 Self-Destruct – Normal 28 Stealth Rock – Rock 30 Rock Blast – Rock 34 Discharge – Electric 36 Explosion – Normal 40 Double-Edge – Normal 42 Stone Edge - Rock 
+ 
+TM/HM Move List   Toxic, Hidden Power, Sunny Day, Protect, Frustration, Smack Down, Thunderbolt, Thunder, Earthquake, Return, Brick Break, Double Team, Flamethrower, Sandstorm, Fire Blast, Rock Tomb, Façade, Rest, Attract, Round, Fling, Charge Beam, Brutal Swing, Explosion, Rock Polish, Stone Edge, Volt Switch, Gyro Ball, Bulldoze, Rock Slide, Swagger, Sleep Talk, Substitute, Nature Power, Confide 
+ 
+Egg Move List  Block, Flail, Curse, Rock Climb, Endure, Autotomize, Wide Guard, Magnet Rise, Counter, Screech

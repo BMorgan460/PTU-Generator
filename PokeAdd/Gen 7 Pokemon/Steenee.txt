@@ -1,0 +1,21 @@
+Steenee  Base Stats:   
+ 
+HP:  5 Attack:  4 Defense: 5 Special Attack: 4 Special Defense: 5 Speed:   6 
+ 
+Type: Grass Basic Ability 1: Leaf Guard Basic Ability 2: Oblivious Adv Ability 1: Sweet Veil Adv Ability 2: Aroma Veil High Ability: Cute Charm 
+ 
+1 – Bounsweet  2 – Steenee Minimum 20 3 – Tsareena Minimum 30 Learn Stomp  
+ 
+  Size Information    Height: 2'04"/0.7 m (Small) Weight: 18.1 lbs./8.2 kg (1)     Breeding Information    Gender Ratio: 100% F   Egg Group: Grass 
+ 
+Diet: Phototroph Habitat: Forest, Rainforest 
+ 
+Capability List Overland 5, Swim 2, Jump 1/2, Power 3, Naturewalk (Forest), Alluring, Underdog 
+ 
+Skill List Athl 1d6+2, Acro 2d6+1, Combat 2d6, Stealth 3d6+1, Percep 3d6, Focus 2d6+1 
+ 
+Move List  Level Up Move List   Evolve Double Slap – Normal  1 Splash – Normal  5 Play Nice – Normal  9 Rapid Spin – Normal  13 Razor Leaf – Grass  17 Sweet Scent – Normal  21 Magical Leaf – Grass   25 Teeter Dance – Normal  29 Stomp – Normal  33 Aromatic Mist – Fairy  37 Captivate – Normal  41 Aromatherapy – Grass  45 Leaf Storm – Grass  
+ 
+TM/HM Move List   Toxic, Hidden Power, Sunny Day, Light Screen, Protect, Safeguard, Frustration, Solar Beam, Return, Double Team, Reflect, Facade, Rest, Attract, Round, Energy Ball, Grass Knot, Swagger, Sleep Talk, Substitute, Nature Power, Dazzling Gleam, Confide 
+ 
+Tutor Moves Covet, Seed Bomb, Bounce, Zen Headbutt, Snore, Knock Off, Synthesis, Giga Drain, Worry Seed, Helping Hand, Endeavor 

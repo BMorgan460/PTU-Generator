@@ -1,0 +1,19 @@
+Alolan dugtrio    Base Stats:   
+ 
+HP:  4 Attack:  10 Defense:   6 Special Attack:  5 Special Defense:  7 Speed:   11 
+ 
+Type:  Ground/Steel Basic Ability 1: Sand Veil Basic Ability 2:  Tangling Hair Adv Ability 1: Sand Force Adv Ability 2: Polycephaly High Ability 1: Dig Away 
+ 
+1 – Alolan Diglett 2 – Alolan Dugtrio Minimum 25 
+ 
+Size Information  Height:   2'04"/ 0.7 m (Small) Weight: 146.8 lbs./ 66.6 kg (4)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Field 
+ 
+Diet: Herbivore Habitat: Cave, Mountain 
+ 
+Capability List Overland 2, Burrow 9, Jump 0/0, Power 4, Groundshaper, Tremorsense, Underdog 
+ 
+Skill List Athl 3d6, Acro 3d6, Combat 2d6, Stealth 5d6+2, Percep 4d6+1, Focus 4d6+1 
+ 
+Move List  Level Up Move List   Evolve Sand Tomb – Ground 1 Rototiller – Ground 1 Night Slash – Dark 1 Tri Attack – Normal 1 Sand Attack – Ground 1 Metal Claw – Steel 4 Growl - Normal 7 Astonish – Ghost 10 Mud-Slap – Ground 14 Magnitude – Ground 18 Bulldoze – Ground 22 Sucker Punch – Dark 25 Mud Bomb – Ground 30 Earth Power – Ground 35 Dig – Ground 41 Iron Head – Steel 47 Earthquake – Ground 53 Fissure – Ground 
+ 
+TM/HM Move List   Work Up, Toxic, Hidden Power, Sunny Day, Hyper Beam, Protect, Frustration, Earthquake, Return, Double Team, Sludge Wave, Sludge Bomb, Sandstorm, Rock Tomb, Aerial Ace, Façade, Rest, Attract, Thief, Round, Echoed Voice, Shadow Claw, Giga Impact, Stone Edge, Bulldoze, Rock Slide, Swagger, Sleep Talk, Substitute, Flash Cannon, Confide 

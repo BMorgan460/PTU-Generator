@@ -1,0 +1,24 @@
+Wishiwashi  
+Base Stats:   
+ 
+HP:  5 Attack:  2 Defense: 2   Special Attack: 3 Special Defense: 3   Speed:   4 
+ 
+Type: Water Basic Ability 1: Schooling Adv Ability 1: Swift Swim Adv Ability 2: Rattled Adv Ability 3: Refreshing Veil High Ability: Type Aura 
+ 
+1 – Wishiwashi 
+ 
+  Size Information    Height: 0'08"/0.2 m (Small)   Weight: 0.7 lbs./0.3 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Water 2 Average Hatch Rate: 7 Days 
+ 
+Diet: Herbivore  Habitat: Ocean, Freshwater 
+ 
+Capability List Overland 1, Swim 6, Jump 2/1, Power 1, Gilled, Naturewalk (Ocean, Freshwater), Fountain, Forme Change, Underdog 
+ 
+Skill List Athl 1d6, Acro 3d6, Combat 1d6, Stealth 3d6, Percep 2d6, Focus 2d6 
+ 
+Move List  Level Up Move List   1 Water Gun – Water  1 Growl – Normal  6 Helping Hand – Normal  9 Feint Attack – Dark  14 Brine – Water  17 Aqua Ring – Water  22 Tearful Look – Normal  25 Take Down – Normal  30 Dive – Water  33 Beat Up – Dark  38 Aqua Tail – Water  41 Double-Edge – Normal  46 Soak – Water  49 Endeavor – Normal  54 Hydro Pump – Water  
+ 
+TM/HM Move List   Toxic, Hail, Hidden Power, Ice Beam, Protect, Rain Dance, Frustration, Earthquake, Return, Double Team, Façade, Rest, Attract, Round, Scald, Bulldoze, Swagger, Sleep Talk, U-turn, Substitute, Surf, Waterfall, Confide 
+ 
+Egg Move List  Muddy Water, Mist, Water Pulse, Water Sport, Whirlpool 
+ 
+Tutor Moves Covet, Aqua Tail, Iron Tail, Snore, Water Pulse, Helping Hand, Endeavor 

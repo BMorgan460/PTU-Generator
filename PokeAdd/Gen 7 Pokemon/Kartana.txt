@@ -1,0 +1,22 @@
+Kartana    Base Stats:   
+ 
+HP:  6 Attack:  18 Defense:   13 Special Attack:  6 Special Defense:  3 Speed:   11 
+ 
+Type:  Grass/Steel Basic Ability 1:  Beast Boost Adv Ability 1: Parry Adv Ability 2: Light Metal Adv Ability 3: Tough Claws High Ability 1: Cruelty 
+ 
+1 – Kartana  
+ 
+Size Information  Height:   1'00"/ 0.3 m (Small) Weight: 0.2 lbs./ 0.1 kg (1)     Breeding Information    Gender Ratio: Genderless Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 4, Levitate 8, Swim 2, Jump 1/1, Power 8, Dead Silent 
+ 
+Skill List Athl 5d6+1, Acro 5d6+1, Combat 6d6+2, Stealth 4d6, Percep 3d6, Focus 4d6 
+ 
+Move List  
+Level Up Move List   1 Sacred Sword – Fighting  1 Defog – Flying 1 Vacuum Wave – Fighting 1 Air Cutter – Flying 1 Fury Cutter – Bug 1 Cut – Normal 7 False Swipe – Normal 13 Razor Leaf – Grass 19 Synthesis – Grass  23 Aerial Ace – Flying 29 Laser Focus – Normal 31 Night Slash – Dark 37 Swords Dance – Normal 43 Leaf Blade – Grass 47 X-Scissor – Bug 53 Detect – Fighting 59 Air Slash – Flying 67 Psycho Cut – Psychic 73 Guillotine – Normal 
+ 
+TM/HM Move List   Calm Mind, Toxic, Hidden Power, Protect, Frustration, Return, Brick Break, Double Team, Aerial Ace, Rest, Round, False Swipe, Smart Strike, Giga Impact, Swords Dance, X-Scissor, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Tutor Moves Iron Defense, Last Resort, Snore, Knock Off, Synthesis, Tailwind, Giga Drain, Defog, Laser Focus 

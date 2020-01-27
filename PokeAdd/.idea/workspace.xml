@@ -2,7 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1507ddd3-8c46-4dba-a0fe-1c4cd7a14523" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BULBASAUR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Burmy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carbink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Carbink.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cascoon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caterpie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combee.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cryogonal.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Darmanitan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deoxys attack forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deoxys defense forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deoxys normal forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deoxys speed forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ditto.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eldum.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Farfetch’d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flabébé.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golett.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gourgeist-average.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gourgeist-small.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kabutops.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kabutops.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kakuna.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Klink.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kricketot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landorus incarnate forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landorus therian forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magikarp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meloetta aria form.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meloetta step form.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meowstic-m.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meowstic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Metapod.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mew.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mime jr..txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mr. mime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nidoran (f).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nidoran (m).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pikachu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pikachu.java.org" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon that need to be done manually.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pumpkaboo-average.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pumpkaboo-large.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pumpkaboo-small.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pumpkaboo-super.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rufflet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rufflet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sawk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sawk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scatterbug.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shaymin land forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shaymin sky forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Silcoon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smeargle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spewpa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Throh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Throh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thundurus incarnate forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thundurus therian forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tornadus incarnate forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tornadus therian forme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Torpius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tropius" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tropius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tynamo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unown.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weedle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wobbuffet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wormadam  sandy cloak form.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wormadam  trash cloak form.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wormadam plant cloak form.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wurmple.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wynaut.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mass_poke_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/mass_poke_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mass_pokemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poke_to_java_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/poke_to_java_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Driver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Pikachu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Pikachu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Pokemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/EnviroDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/EnviroDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Generator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Pokemon.java" afterDir="false" />
@@ -41,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.poke_to_java_class">
     <configuration name="mass_poke_converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PokeAdd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,8 +141,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="poke_to_java_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PokeAdd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poke_to_java_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort_by_habitat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PokeAdd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort_by_habitat" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.poke_to_java_class" />
+        <item itemvalue="Python.sort_by_habitat" />
         <item itemvalue="Python.mass_poke_converter" />
       </list>
     </recent_temporary>

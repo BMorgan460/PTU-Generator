@@ -1,0 +1,23 @@
+Mudsdale 
+Base Stats:   
+ 
+HP:  10 Attack:  13 Defense: 10 Special Attack: 6 Special Defense: 9  Speed:   4 
+ 
+Type: Ground Basic Ability 1: Own Tempo Basic Ability 2: Stamina Adv Ability 1: Inner Focus Adv Ability 2: Tolerance High Ability: Sprint 
+ 
+1 – Mudbray  2 – Mudsdale Minimum 30 
+ 
+  Size Information    Height: 8'02"/2.5 m (Large) Weight: 2028.3 lbs./920.0 kg (6)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Field 
+ 
+Diet: Herbivore Habitat: Grassland 
+ 
+Capability List Overland 7, Swim 3, Jump 2/3, Power 14, Mountable 3, Naturewalk (Grassland) 
+ 
+Skill List 
+Athl 6d6+2, Acro 3d6, Combat 5d6+1, Stealth 2d6, Percep 3d6+1, Focus 4d6 
+ 
+Move List  Level Up Move List   1 Mud-Slap – Ground  3 Mud Sport – Ground  8 Rototiller – Ground  10 Bulldoze – Ground  15 Double Kick – Fighting  17 Stomp – Normal  22 Bide – Normal  24 High Horsepower – Ground  29 Iron Defense – Steel  34 Heavy Slam – Steel  42 Counter – Fighting  47 Earthquake – Ground  55 Mega Kick – Normal  60 Superpower- Fighting  
+ 
+TM/HM Move List   Roar, Toxic, Hidden Power, Protect, Frustration, Earthquake, Return, Double Team, Sandstorm, Rock Tomb, Facade, Rest, Attract, Low Sweep, Round, Payback, Bulldoze, Rock Slide, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Tutor Moves Iron Head, Low Kick, Earth Power, Iron Defense, Superpower, Snore, Endeavor, Stealth Rock, Stomping Tantrum

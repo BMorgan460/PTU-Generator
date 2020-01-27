@@ -1,0 +1,25 @@
+Comfey  
+Base Stats:   
+ 
+HP:   5   Attack:  5  Defense: 9   Special Attack: 8  Special Defense: 11   Speed:   10 
+ 
+Type: Fairy Basic Ability 1: Triage  Adv Ability 1: Flower Veil Adv Ability 2: Natural Cure Adv Ability 3: Aroma Veil High Ability: Sweet Veil 
+ 
+1 –Comfey  
+ 
+Size Information   Height: 0'04"/0.1 m (Small)   Weight: 0.7 lbs./0.3 kg (1)     Breeding Information    Gender Ratio: 25% M / 75% F   Egg Group:  Grass Average Hatch Rate: 10 Days 
+ 
+Diet: Phototroph Habitat: Beach, Grassland, Forest, Rainforest 
+ 
+Capability List Overland 2, Swim 3, Levitate 6, Jump 1/1, Power 2 
+ 
+Skill List 
+ Athl 2d6-1, Acro 4d6, Combat 2d6, Stealth 3d6+2, Percep 4d6, Focus 3d6+1 
+ 
+Move List  Level Up Move List   1 Helping Hand – Normal  1 Vine Whip – Grass  1 Flower Shield – Fairy  4 Leech Seed – Grass  7 Draining Kiss – Fairy  10 Magical Leaf – Grass  13 Growth – Normal  16 Wrap – Normal  19 Sweet Kiss – Fairy  22 Natural Gift – Normal  25 Petal Blizzard – Grass  28 Synthesis – Grass  31 Sweet Scent – Normal 34 Grass Knot – Grass  37 Floral Healing – Fairy  40 Petal Dance – Grass  43 Aromatherapy – Grass  46 Grassy Terrain – Grass  49 Play Rough – Fairy  
+ 
+TM/HM Move List   Calm Mind, Toxic, Hidden Power, Sunny Day, Taunt, Hyper Beam, Light Screen, Protect, Safeguard, Frustration, Solar Beam, Return, Double Team, Facade, Rest, Attract, Thief, Round, Echoed Voice, Energy Ball, Fling, Acrobatics, Psych Up, Grass Knot, Swagger, Sleep Talk, U-turn, Substitute, Trick Room, Nature Power, Dazzling Gleam,  Confide 
+ 
+Egg Move List  Endure, Amnesia, After You, Lucky Chant 
+ 
+Tutor Moves Covet, Seed Bomb, Magic Coat, Bind, Snore, Synthesis, Role Play, Heal Bell, Tailwind, Pain Split, Giga Drain, Worry Seed, After You, Helping Hand, Trick, Telekinesis, Ally Switch, Defog 

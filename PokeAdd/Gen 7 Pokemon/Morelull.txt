@@ -1,0 +1,23 @@
+Morelull  Base Stats:   
+ 
+HP:  4 Attack:  4 Defense: 6 Special Attack: 7 Special Defense: 8  Speed:   2 
+ 
+Type: Grass/Fairy Basic Ability 1:  Illuminate Basic Ability 2: Effect Spore Adv Ability 1: Rain Dish Adv Ability 2: Daze High Ability: Root Down 
+ 
+1 – Morelull  2 – Shiinotic Minimum 25 
+ 
+  Size Information    Height: 0'08"/0.2 m (Small) Weight: 3.3 lbs./ 1.5 kg (1)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Grass Average Hatch Rate: 10 Days 
+ 
+Diet: Phototroph Habitat: Grassland, Forest, Rainforest 
+ 
+Capability List Overland 2, Swim 1, Jump 0/0, Power 1, Glow, Murshroom Harvest, Underdog 
+ 
+Skill List Athl 1d6, Acro 1d6, Combat 1d6, Stealth 5d6, Percep 3d6, Focus 3d6 
+ 
+Move List  Level Up Move List   1 Absorb – Grass  4 Astonish – Ghost  8 Flash – Normal  11 Moonlight – Fairy  15 Mega Drain – Grass  18 Sleep Powder – Grass  22 Ingrain – Grass  25 Confuse Ray – Ghost  29 Giga Drain – Grass  32 Strength Sap – Grass  36 Spore – Grass  39 Moonblast – Fairy  43 Dream Eater – Psychic 46 Spotlight – Normal  
+ 
+TM/HM Move List   Toxic, Hidden Power, Sunny Day, Light Screen, Protect, Safeguard, Frustration, Solar Beam, Return, Double Team, Sludge Bomb, Rest, Attract, Round, Energy Ball, Thunder Wave, Dream Eater, Grass Knot, Swagger, Sleep Talk, Substitute, Nature Power, Dazzling Gleam, Confide 
+ 
+Egg Move List  Amnesia, Poison Powder, Stun Spore, Growth, Leech Seed 
+ 
+Tutor Moves Signal Beam, Seed Bomb, Magic Coat, Snore, Synthesis, Giga Drain, Worry Seed, After You, Magic Room, Wonder Room, Recycle 

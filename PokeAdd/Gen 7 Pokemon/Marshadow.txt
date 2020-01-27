@@ -1,0 +1,21 @@
+Marshadow    Base Stats:   
+ 
+HP:  9 Attack:  13 Defense:   8 Special Attack:  8 Special Defense:  9 Speed:   13 
+ 
+Type:  Fighting/Ice Basic Ability 1: Technician Adv Ability 1:  Sprint Adv Ability 2: Hustle Adv Ability 3: Exploit High Ability 1: Pure Power 
+ 
+1 – Marshadow  
+ 
+Size Information  Height:   2'04"/ 0.7 m (Small) Weight: 48.9 lbs./ 22.2 kg (2)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Unknown 
+ 
+Capability List Overland 8, Swim 4, Jump 2/2, Power 9, Invisibility, Aura Reader, Aura Pulse, Darkvision, Dead Silent, Phasing, Stealth 
+ 
+Skill List Athl 5d6+3, Acro 6d6+2, Combat 5d6+2, Stealth 5d6+2, Percep 3d6, Focus 4d6+1 
+ 
+Move List  Level Up Move List   1 Laser Focus – Normal 1 Assurance – Dark 1 Fire Punch – Fire 1 Thunder Punch – Electric 1 Ice Punch – Ice 1 Drain Punch – Fighting 1 Counter – Fighting 1 Pursuit – Dark 1 Shadow Sneak – Ghost 5 Force Palm – Fighting 11 Feint – Normal 15 Rolling Kick – Fighting 20 Copycat – Normal 26 Shadow Punch – Ghost 30 Role Play – Psychic 35 Jump Kick – Fighting 41 Psych Up – Normal 45 Spectral Thief – Ghost 50 Close Combat – Fighting 56 Sucker Punch – Dark 60 Endeavor – Normal  
+ 
+TM/HM Move List   Work Up, Calm Mind, Toxic, Bulk Up, Hidden Power, Protect, Frustration, Smack Down, Return, Shadow Ball, Brick Break, Double Team, Rock Tomb, Façade, Rest, Thief, Low Sweep, Round, Echoed Voice, Focus Blast, False Swipe, Fling, Will-O-Wisp, Acrobatics, Shadow Claw, Payback, Giga Impact, Stone Edge, Psych Up, Rock Slide, Poison Jab, Grass Knot, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Tutor Moves Iron Head, Bounce, Low Kick, Thunder Punch, Fire Punch, Ice Punch, Foul Play, Last Resort, Superpower, Zen Headbutt, Snore, Knock Off, Role Play, Drain Punch, Focus Punch, Endeavor, Outrage, Snatch, Throat Chop, Laser Focus 

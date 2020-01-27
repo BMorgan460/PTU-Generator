@@ -1,0 +1,22 @@
+Type null  
+Base Stats:   
+ 
+HP:  10 Attack:  10 Defense: 10 Special Attack: 10 Special Defense: 10 Speed:   6 
+ 
+Type: Normal Basic Ability 1:  Battle Armor Adv Ability 1: Magic Guard Adv Ability 2: Intimidate Adv Ability 3: Pressure High Ability: Adaptability 
+ 
+1 – Type:Null 2 – Silvally Minimum 40 
+ 
+  Size Information    Height: 6'03"/1.9 m (Large) Weight: 265.7 lbs./120.5 kg (5)     Breeding Information    Gender Ratio: No Gender   Egg Group: Amorphous Average Hatch Rate: 75 Days 
+ 
+Diet: Carnivore Habitat: Unknown 
+ 
+Capability List Overland 6, Swim 6, Jump 1/2, Power 6, Darkvision, Tracker 
+ 
+Skill List Athl 5d6, Acro 3d6+1, Combat 5d6, Stealth 2d6, Percep 3d6, Focus 3d6+2 
+ 
+Move List  Level Up Move List   1 Tackle – Normal  5 Rage – Normal  10 Pursuit – Dark  15 Imprison – Psychic  20 Aerial Ace – Flying  25 Crush Claw – Normal  30 Scary Face – Normal  35 X-Scissor – Bug  40 Take Down – Normal  45 Metal Sound – Steel  50 Iron Head – Steel  55 Double Hit – Normal  60 Air Slash – Flying  65 Punishment – Dark  70 Razor Wind – Normal  75 Tri Attack – Normal  80 Double-Edge – Normal  85 Heal Block – Psychic  
+ 
+TM/HM Move List   Work Up, Dragon Claw, Roar, Toxic, Hail, Hidden Power, Sunny Day, Protect, Rain Dance, Frustration, Return, Double Team, Sandstorm, Aerial Ace, Facade, Flame Charge, Rest, Round, Shadow Claw, Payback, Giga Impact, Thunder Wave, Swords Dance, Rock Slide, X-Scissor, Swagger, Sleep Talk, U-turn, Substitute, Confide 
+ 
+Tutor Moves Signal Beam, Iron Head, Magic Coat, Iron Defense, Last Resort, Icy Wind, Snore 

@@ -1,0 +1,22 @@
+Bewear  Base Stats:   
+ 
+HP:  12 Attack:  13 Defense: 8 Special Attack: 6 Special Defense: 6 Speed:   6 
+ 
+Type: Normal/Fighting Basic Ability 1:  Fluffy Basic Ability 2: Klutz Adv Ability 1: Unnerve Adv Ability 2: Scrappy High Ability: Hustle 
+ 
+1 – Stufful  2 – Bewear Minimum 30 
+ 
+  Size Information    Height: 6'11"/2.1 m (Large) Weight: 297.6 lbs./135.0 kg (5)     Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Field 
+ 
+Diet: Herbivore Habitat: Forest, Urban, Grassland 
+ 
+Capability List Overland 5, Swim 5, Jump 1/2, Power 12, Naturewalk (Urban, Forest) 
+ 
+Skill List 
+Athl 5d6+2, Acro 3d6+1, Combat 5d6+2, Stealth 2d6, Percep 2d6+1, Focus 4d6 
+ 
+Move List  Level Up Move List   1 Tackle – Normal  1 Leer – Normal   5 Bide – Normal  10 Baby-Doll Eyes – Fairy  14 Brutal Swing – Dark  19 Flail – Normal  23 Payback – Dark  30 Take Down – Normal  36 Hammer Arm – Fighting  43 Thrash – Normal  49 Pain Split – Normal  56 Double-Edge – Normal  62 Superpower – Fighting  
+ 
+TM/HM Move List   Work Up, Roar, Toxic, Bulk Up, Hidden Power, Taunt, Protect, Frustration, Earthquake, Return, Brick Break, Double Team, Rock Tomb, Aerial Ace, Facade, Rest, Attract, Low Sweep, Round, Focus Blast, Fling, Brutal Swing, Payback, Swords Dance, Bulldoze, Rock Slide, Swagger, Sleep Talk, Substitute, Confide 
+ 
+Tutor Moves Dual Chop, Iron Head, Low Kick, Thunder Punch, Ice Punch, Superpower, Zen Headbutt, Bind, Snore, Role Play, Pain Split, Drain Punch, Focus Punch, Stomping Tantrum 

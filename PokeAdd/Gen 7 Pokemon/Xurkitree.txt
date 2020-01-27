@@ -1,0 +1,22 @@
+Xurkitree    Base Stats:   
+ 
+HP:  8 Attack:  9 Defense:   7 Special Attack:  17 Special Defense:  7 Speed:   8 
+ 
+Type:  Electric Basic Ability 1: Beast Boost  Adv Ability 1: Motor Drive Adv Ability 2: Dodge Adv Ability 3: Volt Absorb High Ability 1: Sequence 
+ 
+1 – Xurkitree  
+ 
+Size Information  Height:   12'06"/ 3.8 m (Large) Weight: 220.5 lbs./ 100.0 kg (5)     Breeding Information    Gender Ratio: Genderless Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 6, Swim 3, Jump 1 /2, Power 6, Glow, Zapper, Wired 
+ 
+Skill List Athl 3d6, Acro 4d6+2, Combat 3d6, Stealth 4d6, Percep 5d6+1, Focus 5d6+1 
+ 
+Move List  
+Level Up Move List   1 Tail Glow – Bug 1 Spark – Electric 1 Charge – Electric 1 Wrap – Normal  1 Thundershock – Electric 7 Thunder Wave – Electric 13 Shock Wave – Electric 19 Ingrain – Grass 23 Thunder Punch – Electric 29 Eerie Impulse – Electric 31 Signal Beam – Bug 37 Thunderbolt – Electric 43 Hypnosis – Psychic 47 Discharge – Electric 53 Electric Terrain – Electric 59 Power Whip – Grass 67 Ion Deluge – Electric  73 Zap Cannon – Electric  
+ 
+TM/HM Move List   Calm Mind, Toxic, Hidden Power, Sunny Day, Hyper Beam, Light Screen, Protect, Rain Dance, Frustration, Solar Beam, Thunderbolt, Thunder, Return, Double Team, Reflect, Façade, Rest, Round, Energy Ball, Fling, Charge Beam, Brutal Swing, Giga Impact, Volt Switch, Thunder Wave, Grass Knot, Swagger, Sleep Talk, Substitute, Wild Charge, Nature Power, Dazzling Gleam, Confide 
+ 
+Tutor Moves Signal Beam, Thunder Punch, Magic Coat, Gravity, Magnet Rise, Electroweb, Bind, Snore, Shock Wave 

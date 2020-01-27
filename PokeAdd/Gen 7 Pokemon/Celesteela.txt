@@ -1,0 +1,22 @@
+Celesteela    Base Stats:   
+ 
+HP:  10 Attack:  10 Defense:   10 Special Attack:  11 Special Defense:  10 Speed:   6 
+ 
+Type:  Steel/Flying Basic Ability 1: Beast Boost Adv Ability 1:  Analytic Adv Ability 2: Heavy Metal Adv Ability 3: Steel Cannon High Ability 1: Rocket 
+ 
+1 – Celesteela  
+ 
+Size Information  Height:   30'02"/ 9.2 m (Huge) Weight: 2204.4 lbs./ 999.9 kg (6)     Breeding Information    Gender Ratio: Genderless   Egg Group: No Eggs 
+ 
+Diet: Unknown Habitat: Ultra Space 
+ 
+Capability List Overland 2, Sky 8, Swim 1, Jump 0/1, Power 8,  
+ 
+Skill List Athl 5d6, Acro 5d6+2, Combat 4d6, Stealth 4d6, Percep 3d6+2, Focus 4d6+1 
+ 
+Move List  Level Up Move List   
+1 Wide Guard – Rock 1 Air Slash – Flying 1 Ingrain – Grass 1 Absorb – Grass 1 Harden – Normal 1 Tackle – Normal 7 Smack Down – Rock 13 Mega Drain – Grass 19 Leech Seed – Grass 23 Metal Sound – Steel 29 Iron Head – Steel 31 Giga Drain – Grass 37 Flash Cannon – Steel 43 Autotomize – Steel 47 Seed Bomb – Grass 53 Skull Bash – Normal 59 Iron Defense – Steel 67 Heavy Slam – Steel 73 Double-edge – Normal 
+ 
+TM/HM Move List   Toxic, Hidden Power, Hyper Beam, Protect, Frustration, Solar Beam, Smack Down, Earthquake, Return, Double Team, Flamethrower, Fire Blast, Façade, Flame Charge, Rest, Round, Energy Ball, Brutal Swing, Acrobatics, Explosion, Smart Strike, Giga Impact, Stone Edge, Gyro Ball, Fly, Bulldoze, Rock Slide, Grass Knot, Swagger, Sleep Talk, Substitute, Flash Cannon, Confide 
+ 
+Tutor Moves Iron Head, Seed Bomb, Block, Gravity, Magnet Rise, Iron Defense, Superpower, Zen Headbutt, Snore, Giga Drain, Shock Wave, Stomping Tantrum

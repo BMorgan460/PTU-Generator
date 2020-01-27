@@ -11,7 +11,7 @@ public class Generator {
     private String[] abilities;
     private Pokemon  genned;
 
-    public Generator(String name, int minLevel, int maxLevel) {
+    public Generator(String name, int minLevel, int maxLevel, boolean evo) {
         if (minLevel > maxLevel) {
             int temp = minLevel;
             minLevel = maxLevel;
@@ -21,10 +21,15 @@ public class Generator {
             @SuppressWarnings("unchecked")
             Class<Pokemon> p1 = (Class<Pokemon>)Class.forName(name);
             genned = (Pokemon)p1.newInstance();
+            int levels = (int)(Math.random() * (maxLevel - minLevel + 1)) + minLevel;
+            if(genned.getPrevReq() > levels && evo) {
+                genned = genned.getPrev();
+                if(genned.getPrevReq() > levels) {
+                    genned = genned.getPrev();
+                }
+            }
             try {
                 genned.setNature();
-                int levels =
-                    (int)(Math.random() * maxLevel - minLevel + 1) + minLevel;
                 genned.normalize();
                 genned.levelUp(levels);
                 this.moves = genned.generateMoveList();

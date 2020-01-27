@@ -1,0 +1,24 @@
+Golisopod  Base Stats:   
+ 
+HP:  8 Attack:  13 Defense: 14 Special Attack: 6 Special Defense: 9 Speed:   4 
+ 
+Type: Bug/Water Basic Ability 1:  Emergency Exit Adv Ability 1: Bully Adv Ability 2: Shell Armor Adv Ability 3: Defiant High Ability: Tough Claws 
+ 
+1 – Wimpod  2 – Golisopod Minimum 30 
+ 
+  Size Information    Height: 6'07"/2.0 m (Large) Weight: 238.1 lbs./108.0 kg (4) 
+ 
+  Breeding Information    Gender Ratio: 50% M / 50% F   Egg Group: Bug/Water 3 
+ 
+Diet: Herbivore Habitat: Marsh, Ocean, Freshwater 
+ 
+Capability List Overland 6, Swim 5, Jump 1/1, Power 8, Naturewalk (Ocean, Freshwater) 
+ 
+Skill List 
+Athl 5d6+2, Acro 3d6-1, Combat 5d6+2, Stealth 2d6, Percep 2d6, Focus 3d6 
+ 
+Move List  Level Up Move List   Evolve First Impression – Bug  1 Struggle Bug – Bug  1 Sand Attack – Ground  4 Fury Cutter – Bug  7 Rock Smash – Fighting  10 Bug Bite – Bug  13 Spite – Ghost  16 Swords Dance – Normal  21 Slash – Normal  26 Razor Shell – Water  31 Sucker Punch – Dark  36 Iron Defense – Steel  41 Pin Missile – Bug  48 Liquidation – Water  
+ 
+TM/HM Move List   Toxic, Hail, Bulk Up, Venoshock, Hidden Power, Taunt, Ice Beam, Blizzard, Protect, Rain Dance, Frustration, Return, Leech Life, Brick Break, Double Team, Sludge Wave, Sludge Bomb, Rock Tomb, Aerial Ace, Facade, Rest, Attract, Round, Focus Blast, False Swipe, Scald, Fling, Shadow Claw, Payback, Giga Impact, Swords Dance, Psych Up, Frost Breath, Rock Slide, X-Scissor, Poison Jab, Swagger, Sleep Talk, Substitute, Surf, Snarl, Dark Pulse, Waterfall, Confide 
+ 
+Tutor Moves Bug Bite, Dual Chop, Iron Head, Drill Run, Iron Defense, Icy Wind, Snore, Knock Off, Pain Split, Water Pulse, Spite, Endeavor, Liquidation, Throat Chop, Laser Focus 

@@ -1,0 +1,22 @@
+Tapu bulu    Base Stats:   
+ 
+HP:  7 Attack:  13 Defense:   12 Special Attack:  9 Special Defense:  12 Speed:   8 
+ 
+Type:  Grass/Fairy Basic Ability 1: Grassy Surge Adv Ability 1: Telepathy Adv Ability 2: Pressure Adv Ability 3: Celebrate High Ability 1: Type Aura 
+ 
+1 – Tapu Bulu 
+ 
+Size Information  Height:   6'03"/ 1.9 m (Large) Weight: 100.3 lbs./45.5 kg (3)     Breeding Information    Gender Ratio: Genderless Egg Group: No Eggs 
+ 
+Diet: Herbivore Habitat: Grassland 
+ 
+Capability List Overland 5, Sky 5, Swim 2, Jump 1/1, Power 9, Aura Reader, Aura Pulse, Sprouter 
+ 
+Skill List 
+Athl 6d6+2, Acro 3d6+2, Combat 5d6+1, Stealth 3d6, Percep 3d6, Focus 4d6 
+ 
+Move List  Level Up Move List   1 Grassy Terrain – Grass 1 Wood Hammer – Grass 1 Superpower – Grass 1 Mean Look – Normal 1 Disable – Normal 1 Whirlwind – Normal 1 Withdraw – Water 1 Leafage – Grass 8 Horn Attack – Normal 14 Giga Drain – Grass 20 Scary Face – Normal 26 Leech Seed – Grass 32 Horn Leech – Grass 38 Rototiller – Ground 43 Nature’s Madness – Fairy 48 Zen Headbutt – Psychic 53 Megahorn – Bug 58 Skull Bash – Normal 
+ 
+TM/HM Move List   Work Up, Calm Mind, Roar, Toxic, Bulk Up, Hidden Power, Sunny Day, Taunt, Hyper Beam, Light Screen, Protect, Safeguard, Frustration, Solar Beam, Return, Brick Break, Reflect, Rock Tomb, Torment, Façade, Round, Echoed Voice, Focus Blast, Energy Ball, False Swipe, Fling, Brutal Swing, Payback, Smart Strike, Giga Impact, Stone Edge, Swords Dance, Psych Up, Rock Slide, Grass Knot, Swagger, Sleep Talk, Substitute, Snarl, Nature Power, Dazzling Gleam, Confide 
+ 
+Tutor Moves Dual Chop, Seed Bomb, Iron Defense, Superpower, Zen Headbutt, Snore, Synthesis, Giga Drain, Focus Punch, Worry Seed, Telekinesis 
