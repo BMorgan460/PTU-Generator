@@ -1,0 +1,1 @@
+Move: Cross Chop Type: Fighting Frequency: Scene x2 AC: 4 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Melee, 1 Target Effect: Cross Chop is a Critical Hit on 16+. Contest Type: Cool Contest Effect: Desperation 

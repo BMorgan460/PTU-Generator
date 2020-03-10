@@ -1,0 +1,1 @@
+Move: Retaliate Type: Normal Frequency: Scene x2 AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: Retaliate’s Damage Base is doubled to DB 14 (4d10+15 / 40) if an ally has been Fainted by a Damaging Move used by the Target in the last 2 rounds of Combat. Contest Type: Cool Contest Effect: Steady Performance 

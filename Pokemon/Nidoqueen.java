@@ -11,8 +11,8 @@ public class Nidoqueen extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Poison Point", "Rivalry", "Hustle", "Sheer Force", "Bodyguard"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Nidoran();
-		prevReq = Minimum;
+		previous = new Nidorina();
+		prevReq = 25;
 		height = "4\'/3\"";
 		weight = 132.3;
 		WC = 4;

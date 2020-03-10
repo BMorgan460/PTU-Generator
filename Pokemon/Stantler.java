@@ -28,7 +28,7 @@ public class Stantler extends Pokemon{
 		hJump = 2;
 		power = 4;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 2;

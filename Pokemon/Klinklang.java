@@ -18,8 +18,8 @@ public class Klinklang extends Pokemon{
 		height = "2\'/0\"";
 		weight = 178.6;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Diet";
 		habitats = new String[]{"Cave", "Capability", "List"};
@@ -32,7 +32,7 @@ public class Klinklang extends Pokemon{
 		hJump = 1;
 		power = 7;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 2;
 		combat = 4;

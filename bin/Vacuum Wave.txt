@@ -1,0 +1,1 @@
+Move: Vacuum Wave Type: Fighting Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: 4, 1 Target, Priority, Aura Effect: None Contest Type: Smart Contest Effect: Saving Grace

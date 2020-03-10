@@ -33,7 +33,7 @@ public class Sealeo extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Tundra"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 3;

@@ -1,0 +1,1 @@
+Move: Pluck Type: Flying Frequency: At-Will AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target Effect: Pluck takes the target’s Held Item or Accessory Slot Item and attaches it to Pluck’s user, if the user is not holding anything. Contest Type: Cute Contest Effect: Attention Grabber

@@ -17,8 +17,8 @@ public class Baltoy extends Pokemon{
 		size = "Small";
 		weight = 47.4;
 		WC = 2;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Diet";
 		habitats = new String[]{"Cave", "Capability", "List"};

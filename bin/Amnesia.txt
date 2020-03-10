@@ -1,0 +1,1 @@
+Move: Amnesia Type: Psychic Frequency: EOT AC: None Class: Status Range: Self Effect: Raise the user’s Special Defense 2 Combat Stages. Contest Type: Cute Contest Effect: Get Ready!

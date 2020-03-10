@@ -1,0 +1,1 @@
+Move: Light of Ruin Type: Fairy Frequency: Scene AC: 4 Damage Base 14: 4d10+15 / 40 Class: Special Range: 8, Ranged Blast 3, Smite, Recoil 1/2 Effect: None Contest Type: Beauty Contest Effect: Seen Nothing Yet

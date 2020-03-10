@@ -1,0 +1,1 @@
+Move: Acrobatics Type: Flying Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, Dash, 1 Target Effect: If the user is not holding an item, Acrobatics instead has a Damage Base of 11 (3d10+10 / 27). Contest Type: Smart Contest Effect: Incentives 

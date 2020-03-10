@@ -12,7 +12,7 @@ public class Vaporeon extends Pokemon{
 		abilities = new String[]{"Water Absorb", "Swift Swim", "Aqua Boost", "Hydration", "Away"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
-		prevReq = Stone;
+		prevReq = 10;
 		height = "3\'/3\"";
 		weight = 63.9;
 		WC = 3;

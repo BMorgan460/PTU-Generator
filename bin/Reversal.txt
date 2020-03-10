@@ -1,0 +1,1 @@
+Move: Reversal Type: Fighting Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: For each Injury the user has, Reversal’s Damage Base is increased by +1. Contest Type: Cool Contest Effect: Double Time

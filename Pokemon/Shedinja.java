@@ -12,13 +12,13 @@ public class Shedinja extends Pokemon{
 		abilities = new String[]{"Wonderguard", "Dodge", "Magic Guard", "Wonder Skin", "Pressure"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Nincada();
-		prevReq = from;
+		prevReq = 20;
 		height = "2\'/7\"";
 		size = "Small";
 		weight = 2.6;
 		WC = 1;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Diet";
 		habitats = new String[]{"Desert", "Forest", "Capability"};

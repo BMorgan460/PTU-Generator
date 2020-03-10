@@ -15,7 +15,7 @@ public class Amaura extends Pokemon{
 		nextReq = new String[]{"35"};
 		height = "4\'/03\"";
 		weight = 55.6;
-		WC = k;
+		WC = 3;
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Monster";

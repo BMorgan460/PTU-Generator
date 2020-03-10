@@ -32,7 +32,7 @@ public class Panpour extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;

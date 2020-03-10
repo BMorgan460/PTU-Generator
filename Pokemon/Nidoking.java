@@ -11,8 +11,8 @@ public class Nidoking extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Poison Point", "Rivalry", "Hustle", "Sheer Force", "Bodyguard"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Nidoran();
-		prevReq = Minimum;
+		previous = new Nidorino();
+		prevReq = 25;
 		height = "4\'/7\"";
 		weight = 136.7;
 		WC = 4;

@@ -1,4 +1,4 @@
-public class Nidoran-f extends Pokemon{
+public class Nidoran_f extends Pokemon{
 {
 		name = "Nidoran-f";
 		bHP = 6;
@@ -11,8 +11,6 @@ public class Nidoran-f extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Poison Point", "Rivalry", "Hustle", "Celebrate", "Bodyguard"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Nidoran();
-		prevReq = Minimum;
 		height = "1\'/4\"";
 		size = "Small";
 		weight = 15.4;
@@ -32,7 +30,7 @@ public class Nidoran-f extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Grassland"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 3;
@@ -52,7 +50,7 @@ public class Nidoran-f extends Pokemon{
 		tutorMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Helping Hand", "Iron Tail", "Shock Wave", "Sleep Talk", "Snore", "Super Fang", "Water Pulse"};
 		naturalMoves = new String[]{};
 }
-		Nidoran-f(){
+		Nidoran_f(){
 
 		super();
 		}

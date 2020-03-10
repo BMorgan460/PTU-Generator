@@ -1,0 +1,1 @@
+Move: Magical Leaf Type: Grass Frequency: EOT AC: None Damage Base 6: 2d6+8 / 15 Class: Special Range: 8, 1 Target Effect: Magical Leaf cannot miss. Contest Type: Beauty Contest Effect: Exhausting Act 

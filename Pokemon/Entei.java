@@ -15,8 +15,8 @@ public class Entei extends Pokemon{
 		size = "Large";
 		weight = 436.5;
 		WC = 5;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Monster";
 		egg2 = "Ground";
 		habitats = new String[]{"Mountain", "Capability", "List"};

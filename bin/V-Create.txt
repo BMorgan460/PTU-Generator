@@ -1,0 +1,1 @@
+Move: V-Create Type: Fire Frequency: Daily AC: 5 Damage Base 18: 6d12+25 / 65 Class: Physical Range: Melee, 1 Target, Smite Effect: Lower the user’s Defense, Special Defense, and Speed by 1 CS each. Contest Type: Beauty Contest Effect: Seen Nothing Yet 

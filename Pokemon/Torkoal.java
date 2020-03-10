@@ -29,7 +29,7 @@ public class Torkoal extends Pokemon{
 		hJump = 1;
 		power = 6;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 2;
 		combat = 2;

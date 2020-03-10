@@ -1,0 +1,1 @@
+Move: Ice Punch Type: Ice Frequency: At-Will AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target Effect: Ice Punch Freezes the target on 19+ during Accuracy Check. Contest Type: Beauty Contest Effect: Exhausting Act

@@ -12,7 +12,7 @@ public class Glaceon extends Pokemon{
 		abilities = new String[]{"Snow Cloak", "Covert", "Ice Body", "Winter’s", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
-		prevReq = Stone;
+		prevReq = 10;
 		height = "2\'/7\"";
 		weight = 57.1;
 		WC = 3;

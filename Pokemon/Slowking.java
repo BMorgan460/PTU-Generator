@@ -12,7 +12,7 @@ public class Slowking extends Pokemon{
 		abilities = new String[]{"Oblivious", "Own Tempo", "Telepathy", "Truant", "Regenerator"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Slowpoke();
-		prevReq = King’s;
+		prevReq = 35;
 		height = "6\'/7\"";
 		weight = 175.3;
 		WC = 4;

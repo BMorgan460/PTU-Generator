@@ -12,7 +12,7 @@ public class Simisage extends Pokemon{
 		abilities = new String[]{"Decoy", "Gluttony", "Grass Pelt", "Sap Sipper", "Overgrowth"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Pansage();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "3\'/7\"";
 		weight = 67.2;
 		WC = 3;

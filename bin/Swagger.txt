@@ -1,0 +1,1 @@
+Move: Swagger Type: Normal Frequency: EOT AC: 4 Class: Status Range: 6, 1 Target, Social Effect: The target’s Attack is raised 2 Combat Stages. Swagger Confuses the target. Contest Type: Cute Contest Effect: Excitement 

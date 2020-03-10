@@ -1,0 +1,1 @@
+Move: Ember Type: Fire Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: 4, 1 Target Effect: Ember Burns the target on 18+. Contest Type: Beauty Contest Effect: Steady Performance Special: Grants Firestarter

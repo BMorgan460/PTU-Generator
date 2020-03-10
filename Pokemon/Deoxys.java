@@ -14,8 +14,8 @@ public class Deoxys extends Pokemon{
 		height = "5\'/7\"";
 		weight = 134;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Mountain", "Capability"};

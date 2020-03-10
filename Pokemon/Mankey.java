@@ -32,7 +32,7 @@ public class Mankey extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Forest", "Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;

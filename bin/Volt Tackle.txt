@@ -1,0 +1,1 @@
+Move: Volt Tackle Type: Electric Frequency: Scene x2 AC: 2 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, 1 Target, Dash, Recoil 1/3 Effect: Volt Tackle Paralyzes the target on 19+. Contest Type: Cool Contest Effect: Seen Nothing Yet 

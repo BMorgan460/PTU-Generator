@@ -29,7 +29,7 @@ public class Basculin extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Ocean"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 3;
 		combat = 3;

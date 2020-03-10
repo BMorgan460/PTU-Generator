@@ -1,0 +1,1 @@
+Move: Synchronoise Type: Psychic Frequency: Scene x2 AC: 2 Damage Base 12: 3d12+10 / 30 Class: Special Range: Burst 3 Effect: Synchronoise can only hit targets that share a type with Synchronoise’s user. Contest Type: Smart Contest Effect: Incentives

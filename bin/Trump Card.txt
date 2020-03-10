@@ -1,0 +1,1 @@
+Move: Trump Card Type: Normal Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Special Range: 6, 1 Target Effect: Whenever Trump Card is used, the user gains a Trump Count after the attack is resolved. Trump Card’s Damage Base is increased by +2 for each Trump Count. Contest Type: Cool Contest Effect: Exhausting Act 

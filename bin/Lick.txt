@@ -1,0 +1,1 @@
+Move: Lick Type: Ghost Frequency: At-Will AC: 2 Damage Base 3: 1d6+5 / 9 Class: Physical Range: Melee, 1 Target Effect: Lick Paralyzes the target on 15+ during Accuracy Check. Contest Type: Tough Contest Effect: Inversed Appeal 

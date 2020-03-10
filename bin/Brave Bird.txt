@@ -1,0 +1,1 @@
+Move: Brave Bird Type: Flying Frequency: Scene x2 AC: 2 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, Dash, Push, Recoil 1/3 Effect: The target is pushed back 2 meters. Contest Type: Cute Contest Effect: Desperation 

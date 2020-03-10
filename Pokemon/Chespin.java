@@ -32,7 +32,7 @@ public class Chespin extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 2;

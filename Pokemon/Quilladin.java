@@ -34,7 +34,7 @@ public class Quilladin extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 2;
 		combat = 3;

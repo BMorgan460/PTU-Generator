@@ -1,0 +1,1 @@
+Move: Slack Off Type: Normal Frequency: Daily x2 AC: None Class: Status Range: Self Effect: The user regains Hit Points equal to half of its full Hit Points. Contest Type: Cute Contest Effect: Reflective Appeal 

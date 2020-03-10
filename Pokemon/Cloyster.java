@@ -12,7 +12,7 @@ public class Cloyster extends Pokemon{
 		abilities = new String[]{"Shell Armor", "Shell Shield", "Overcoat", "Wonder Skin", "Link"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Shellder();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "4\'/11\"";
 		weight = 292.1;
 		WC = 5;

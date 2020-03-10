@@ -1,0 +1,1 @@
+Move: Heal Pulse Type: Psychic Frequency: Daily x2 AC: None Class: Status Range: 6, 1 Target, Aura Effect: Restores 50% of the target’s max Hit Points. Heal Pulse’s user may not target itself with Heal Pulse. Contest Type: Beauty Contest Effect: Reflective Appeal

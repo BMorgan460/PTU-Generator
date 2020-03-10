@@ -15,8 +15,8 @@ public class Darkrai extends Pokemon{
 		size = "Large";
 		weight = 111.3;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Forest", "Non", "Space"};

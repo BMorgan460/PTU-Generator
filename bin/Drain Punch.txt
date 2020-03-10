@@ -1,0 +1,1 @@
+Move: Drain Punch Type: Fighting Frequency: Scene x2 AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target, Aura Effect: After the target takes damage, the user gains HP equal to half of the damage they dealt to the target. Contest Type: Beauty Contest Effect: Good Show!

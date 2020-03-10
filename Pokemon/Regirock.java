@@ -15,8 +15,8 @@ public class Regirock extends Pokemon{
 		size = "Huge";
 		weight = 507.1;
 		WC = 6;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Mountain", "Capability"};

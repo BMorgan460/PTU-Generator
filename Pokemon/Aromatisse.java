@@ -12,11 +12,11 @@ public class Aromatisse extends Pokemon{
 		abilities = new String[]{"Healer", "Aroma Veil", "Blessed Touch", "Interference", "Confidence"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Spritzee();
-		prevReq = Sachet;
+		prevReq = 20;
 		height = "2\'/07\"";
 		size = "Small";
 		weight = 34.2;
-		WC = k;
+		WC = 2;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Fairy";
@@ -31,7 +31,7 @@ public class Aromatisse extends Pokemon{
 		hJump = 1;
 		power = 2;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 4;
 		combat = 3;

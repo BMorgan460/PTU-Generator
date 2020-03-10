@@ -16,7 +16,7 @@ public class Litleo extends Pokemon{
 		height = "2\'/00\"";
 		size = "Small";
 		weight = 29.8;
-		WC = k;
+		WC = 2;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";

@@ -12,7 +12,7 @@ public class Whimsicott extends Pokemon{
 		abilities = new String[]{"Prankster", "Infiltrator", "Chlorophyll", "Windveiled", "Dodge"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Cottonee();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "2\'/4\"";
 		size = "Small";
 		weight = 14.6;

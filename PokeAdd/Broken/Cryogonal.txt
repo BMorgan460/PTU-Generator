@@ -1,4 +1,4 @@
-Cryogonal 
+CRYOGONAL 
  
    Base Stats:  HP:   7  Attack:  5  Defense:  3  Special Attack: 10  Special Defense: 14  Speed:   11
   Basic Information   Type : Ice  Basic Ability 1: Levitate  Adv Ability 1: Ice Body  Adv Ability 2: Snow Cloak  Adv Ability 3: Permafrost  High Ability: Snow Warning

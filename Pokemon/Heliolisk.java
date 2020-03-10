@@ -12,10 +12,10 @@ public class Heliolisk extends Pokemon{
 		abilities = new String[]{"Electrodash", "Dry Skin", "Sand Veil", "Solar Power", "Sunglow"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Helioptile();
-		prevReq = Stone;
+		prevReq = 30;
 		height = "3\'/03\"";
 		weight = 46.3;
-		WC = k;
+		WC = 2;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Monster";
@@ -31,7 +31,7 @@ public class Heliolisk extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Desert"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 5;
 		combat = 3;

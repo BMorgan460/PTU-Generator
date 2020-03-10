@@ -12,7 +12,7 @@ public class Espeon extends Pokemon{
 		abilities = new String[]{"Synchronize", "Trace", "Telepathy", "Forewarn", "Bounce"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
-		prevReq = Stone;
+		prevReq = 10;
 		height = "2\'/11\"";
 		weight = 58.4;
 		WC = 3;

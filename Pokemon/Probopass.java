@@ -12,7 +12,7 @@ public class Probopass extends Pokemon{
 		abilities = new String[]{"Sturdy", "Magnet Pull", "Sand Force", "MiniNoses", "System"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Nosepass();
-		prevReq = mi.;
+		prevReq = 20;
 		height = "4\'/7\"";
 		weight = 749.6;
 		WC = 6;
@@ -30,7 +30,7 @@ public class Probopass extends Pokemon{
 		hJump = 1;
 		power = 11;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 1;
 		combat = 2;

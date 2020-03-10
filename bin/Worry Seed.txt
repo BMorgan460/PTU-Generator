@@ -1,0 +1,1 @@
+Move: Worry Seed Type: Grass Frequency: Scene AC: 2 Class: Status Range: 8, 1 Target Effect: You choose one of the target’s Abilities. Worry Seed changes that Ability to Insomnia for the remainder of the encounter. Contest Type: Beauty Contest Effect: Excitement

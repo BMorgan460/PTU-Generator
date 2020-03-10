@@ -1,0 +1,1 @@
+Move: Power-Up Punch Type: Fighting Frequency: EOT AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: Melee, 1 Target Effect: If Power-Up Punch successfully hits a target, the user’s Attack is raised by +1 Combat Stage Contest Type: Tough Contest Effect: Catching Up 

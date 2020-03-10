@@ -12,7 +12,7 @@ public class Escavalier extends Pokemon{
 		abilities = new String[]{"Shell Armor", "Overcoat", "Analytic", "Swarm", "Up"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Karrablast();
-		prevReq = with;
+		prevReq = 20;
 		height = "3\'/3\"";
 		weight = 72.8;
 		WC = 3;

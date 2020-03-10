@@ -1,0 +1,1 @@
+Move: Heavy Slam Type: Steel Frequency: EOT AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: Melee, 1 Target Effect: For each weight class the user is above the target, increase Heavy Slam’s damage base by +2. Contest Type: Tough Contest Effect: Incentives 

@@ -12,7 +12,7 @@ public class Milotic extends Pokemon{
 		abilities = new String[]{"Marvel Scale", "Competitive", "Cute Charm", "Beautiful", "Vibe"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Feebas();
-		prevReq = Beauty;
+		prevReq = 20;
 		height = "20\'/4\"";
 		size = "Large";
 		weight = 357.1;

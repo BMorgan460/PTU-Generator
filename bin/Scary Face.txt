@@ -1,0 +1,1 @@
+Move: Scary Face Type: Normal Frequency: EOT AC: 2 Class: Status Range: 4, 1 Target, Social Effect: The target’s Speed is lowered 2 Combat Stages. Contest Type: Tough Contest Effect: Desperation 

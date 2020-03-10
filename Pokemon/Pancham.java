@@ -18,7 +18,7 @@ public class Pancham extends Pokemon{
 		height = "2\'/00\"";
 		size = "Small";
 		weight = 17.6;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";
@@ -34,7 +34,7 @@ public class Pancham extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 3;

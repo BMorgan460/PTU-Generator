@@ -1,0 +1,1 @@
+Move: Poison Gas Type: Poison Frequency: Scene AC: 6 Class: Status Range: Burst 1 or Cone 2 Effect: Poison Gas Poisons all Legal Targets. Contest Type: Smart Contest Effect: Steady Performance

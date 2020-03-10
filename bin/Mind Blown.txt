@@ -1,0 +1,1 @@
+Move: Mind Blown Type: Fire Frequency: Daily x2 AC: 3 DB: 15 Class: Special Range: Burst 2, Recoil 1/3

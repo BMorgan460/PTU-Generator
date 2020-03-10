@@ -1,0 +1,1 @@
+Move: Inferno Type: Fire Frequency: At-Will AC: 9 Damage Base 10: 3d8+10 / 24 Class: Special Range: 6, 1 Target Effect: Inferno Burns the target. Inferno ignores the target’s Evasion if there are no other combatants or Rough or Blocking Terrain within 2 meters of the target. Contest Type: Beauty Contest Effect: Steady Performance 

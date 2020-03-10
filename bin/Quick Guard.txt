@@ -1,0 +1,1 @@
+Move: Quick Guard Type: Fighting Frequency: Scene AC: None Class: Status Range: Melee, Interrupt, Shield, Trigger Effect: If the user or an adjacent ally is targeted by a Priority or Interrupt Attack, Quick Guard may be declared as an Interrupt, causing the triggering attack to have no effect. Contest Type: Cool Contest Effect: Inversed Appeal 

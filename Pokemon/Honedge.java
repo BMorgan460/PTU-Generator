@@ -16,7 +16,7 @@ public class Honedge extends Pokemon{
 		height = "2\'/07\"";
 		size = "Small";
 		weight = 4.4;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Mineral";

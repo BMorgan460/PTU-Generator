@@ -1,0 +1,1 @@
+Move: Wish Type: Normal Frequency: Daily x2 AC: None Class: Status Range: 15, 1 Target Effect: At the end of the user’s next turn, the target regains Hit Points equal to half of its full Hit Point value. If the user targets themselves and are replaced in battle, the replacement is healed. Contest Type: Cute Contest Effect: Reflective Appeal

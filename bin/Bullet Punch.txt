@@ -1,0 +1,1 @@
+Move: Bullet Punch Type: Steel Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: Melee, 1 Target, Priority Effect: None. Contest Type: Smart Contest Effect: Saving Grace 

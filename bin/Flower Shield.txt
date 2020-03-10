@@ -1,0 +1,1 @@
+Move: Flower Shield Type: Fairy Frequency: Scene AC: None Class: Status Range: Burst 2 Effect: All Grass Type Pokémon in Flower Shield’s area of effect have their Defense raised by +2 Combat Stages. Contest Type: Cute Contest Effect: Get Ready! 

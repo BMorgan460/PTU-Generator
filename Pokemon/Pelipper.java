@@ -30,7 +30,7 @@ public class Pelipper extends Pokemon{
 		hJump = 2;
 		power = 3;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 2;

@@ -1,0 +1,1 @@
+Move: Grass Knot Type: Grass Frequency: EOT AC: 2 Damage Base: See Effect Class: Special Range: 5, 1 Target, Weight Class Effect: Grass Knot’s Damage Base is equal to twice the target’s Weight Class. Contest Type: Smart Contest Effect: Incentives 

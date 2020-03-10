@@ -1,0 +1,1 @@
+Move: Precipice Blades Type: Ground Frequency: Scene x2 AC: 5 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Burst 1, Smite Effect: None. Contest Type: Cool Contest Effect: Desperation 

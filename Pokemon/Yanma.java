@@ -30,7 +30,7 @@ public class Yanma extends Pokemon{
 		hJump = 1;
 		power = 3;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 3;
 		combat = 2;

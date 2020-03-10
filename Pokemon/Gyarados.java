@@ -11,8 +11,8 @@ public class Gyarados extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Intimidate", "Frighten", "Steadfast", "Swift Swim", "Moxie"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Magikarp();
-		prevReq = 20;
+		//previous = new Magikarp();
+		//prevReq = 20;
 		height = "21\'/4\"";
 		size = "Huge";
 		weight = 518.1;

@@ -1,0 +1,1 @@
+Move: Astonish Type: Ghost Frequency: At-Will AC: 2 Damage Base 3: 1d6+5 / 9 Class: Physical Range: Melee, 1 Target Effect: Astonish Flinches the target on 15+. Once per scene, if the target is unaware of the user’s presence, Astonish automatically Flinches the target. Contest Type: Smart Contest Effect: Steady Performance 

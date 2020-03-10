@@ -11,9 +11,9 @@ public class Butterfree extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Compound Eyes", "Tinted Lens", "Keen Eye", "Flutter", "Away"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Caterpie();
+		//previous = new Caterpie();
 		prevReq = 5;
-		previous = new Metapod();
+		//sprevious = new Metapod();
 		prevReq = 5;
 		height = "3\'/7\"";
 		weight = 70.5;

@@ -1,0 +1,1 @@
+Move: Aqua Ring Type: Water Frequency: Scene AC: None Class: Status Range: Self, Coat Effect: Aqua Ring covers the user in a Coat that heals the user at the beginning of their turn. The user is healed a Tick of Hit Points each turn. Contest Type: Beauty Contest Effect: Safe Option 

@@ -13,7 +13,7 @@ public class Furfrou extends Pokemon{
 		abilityTypeCount = new int[] {1,3,1};
 		height = "3\'/11\"";
 		weight = 61.7;
-		WC = k;
+		WC = 3;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";
@@ -28,7 +28,7 @@ public class Furfrou extends Pokemon{
 		hJump = 2;
 		power = 4;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 3;
 		combat = 4;

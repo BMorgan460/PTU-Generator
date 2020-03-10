@@ -1,0 +1,1 @@
+Move: Round Type: Normal Frequency: EOT AC: 2 Damage Base X: See Effect Class: Special Range: Burst 1, Sonic Effect: Round’s Damage Base is equal to 6, plus +2 more for each previous use of Round by any Trainer or Pokémon this round, up to a maximum of DB12. Contest Type: Tough Contest Effect: Reliable

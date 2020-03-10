@@ -1,0 +1,1 @@
+Move: Zing Zap Type: Electric Frequency: EOT AC: 2 DB: 8 Class: Physical Range: Melee, Burst 1 Effect: Zing Zap flinches all legal targets on 18+.

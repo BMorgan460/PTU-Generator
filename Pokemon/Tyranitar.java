@@ -34,7 +34,7 @@ public class Tyranitar extends Pokemon{
 		power = 11;
 		natureWalk = new String[]{"Mountain"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 5;
 		acro = 1;
 		combat = 5;

@@ -1,0 +1,1 @@
+Move: Toxic Thread Type: Poison Frequency: EOT AC: 5 Class: Status Range: 6, 1 Target Effect: The targets Speed is lowered 1 Combat Stage and poisoned.

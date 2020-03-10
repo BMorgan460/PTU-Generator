@@ -12,13 +12,13 @@ public class Porygon2 extends Pokemon{
 		abilities = new String[]{"Download", "Trace", "Analytic", "Tolerance", "System"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Porygon();
-		prevReq = UpGrade;
+		prevReq = 10;
 		height = "2\'/0\"";
 		size = "Small";
 		weight = 71.7;
 		WC = 3;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Diet";
 		habitats = new String[]{"Urban", "Capability", "List"};
@@ -31,7 +31,7 @@ public class Porygon2 extends Pokemon{
 		hJump = 1;
 		power = 2;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 3;

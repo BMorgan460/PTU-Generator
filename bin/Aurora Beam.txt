@@ -1,0 +1,1 @@
+Move: Aurora Beam Type: Ice Frequency: At-Will AC: 2 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target Effect: Aurora Beam lowers the target’s Attack 1 Combat Stage on 18+. Contest Type: Beauty Contest Effect: Exhausting Act Special: Grants Freezer 

@@ -32,7 +32,7 @@ public class Bonsly extends Pokemon{
 		power = 1;
 		natureWalk = new String[]{"Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 1;

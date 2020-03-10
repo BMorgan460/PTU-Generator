@@ -33,7 +33,7 @@ public class Machoke extends Pokemon{
 		power = 8;
 		natureWalk = new String[]{"Cave", "Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 2;
 		combat = 4;

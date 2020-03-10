@@ -1,0 +1,1 @@
+Move: Dragon Pulse Type: Dragon Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: 8, 1 Target, Aura Effect: None Contest Type: Smart Contest Effect: Incentives

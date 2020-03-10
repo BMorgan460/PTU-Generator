@@ -1,0 +1,1 @@
+Move: Last Resort Type: Normal Frequency: At-Will AC: 2 Damage Base 14: 4d10+15 / 40 Class: Physical Range: Melee, 1 Target, Dash Effect: Last Resort can only be used after the user has performed 5 other different Moves in its Move List during a single fight, without being switched out. Contest Type: Cute Contest Effect: Safe Option 

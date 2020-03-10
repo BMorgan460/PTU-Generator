@@ -1,0 +1,1 @@
+Move: Smog Type: Poison Frequency: At-Will AC: 7 Damage Base 3: 1d6+5 / 9 Class: Special Range: Line 2 Effect: Smog Poisons the target on an Even-Numbered Roll. Contest Type: Tough Contest Effect: Steady Performance

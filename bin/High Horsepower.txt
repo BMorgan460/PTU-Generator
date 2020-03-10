@@ -1,0 +1,1 @@
+Move: High Horsepower Type: Ground Frequency: EOT AC: 2 DB: 10 Class: Physical Range: Melee, 1 Target, Dash, Push Effect: The target is pushed 2 meters.

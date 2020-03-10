@@ -1,0 +1,1 @@
+Move: Soft-Boiled Type: Normal Frequency: Daily x2 AC: None Class: Status Range: Melee, 1 Target Effect: The target regains Hit Points equal to half of its full Hit Points. The user may target themselves with Soft-Boiled. Contest Type: Beauty Contest Effect: Reflective Appeal

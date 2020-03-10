@@ -11,9 +11,9 @@ public class Dustox extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Shield Dust", "Compound Eyes", "Dust Cloud", "Flutter", "Spore"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Wurmple();
+		//previous = new Wurmple();
 		prevReq = 5;
-		previous = new Cascoon();
+		//previous = new Cascoon();
 		prevReq = 5;
 		height = "3\'/11\"";
 		weight = 69.7;
@@ -32,7 +32,7 @@ public class Dustox extends Pokemon{
 		hJump = 1;
 		power = 2;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;

@@ -1,0 +1,1 @@
+Move: Fire Spin Type: Fire Frequency: Scene x2 AC: 4 Damage Base 4: 1d8+6 / 11 Class: Special Range: 3, 1 Target Effect: The target is put in a Vortex. Contest Type: Beauty Contest Effect: Safe Option Special: Grants Firestarter 

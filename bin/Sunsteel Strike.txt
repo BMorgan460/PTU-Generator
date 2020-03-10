@@ -1,0 +1,1 @@
+Move: Sunsteel Strike Type: Steel Frequency: Scene AC: 2 DB: 10 Class: Physical Range: Melee, Close Blast 3, Smite Effect: Sunsteel Strike can be used on any target regardless of abilities.

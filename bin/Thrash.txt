@@ -1,0 +1,1 @@
+Move: Thrash Type: Normal Frequency: Scene x2 AC: 3 Damage Base 12: 3d12+10 / 30 Class: Physical Range: Melee, all adjacent foes, Smite Effect: After damage is dealt, the user becomes Enraged and Confused. Contest Type: Tough Contest Effect: Reliable

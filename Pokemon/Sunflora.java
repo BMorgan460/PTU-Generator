@@ -12,7 +12,7 @@ public class Sunflora extends Pokemon{
 		abilities = new String[]{"Sun Blanket", "Solar Power", "Chlorophyll", "Early Bird", "Drought"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Sunkern();
-		prevReq = Stone;
+		prevReq = 10;
 		height = "2\'/7\"";
 		size = "Small";
 		weight = 18.7;
@@ -32,7 +32,7 @@ public class Sunflora extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 3;
 		combat = 2;

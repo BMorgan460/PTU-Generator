@@ -1,0 +1,1 @@
+Move: Fire Blast Type: Fire Frequency: Scene x2 AC: 4 Damage Base 11: 3d10+10 / 27 Class: Special Range: 6, 1 Target, Smite Effect: Fire Blast burns the target on 19+. Contest Type: Beauty Contest Effect: Exhausting Act

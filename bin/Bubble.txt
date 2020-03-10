@@ -1,0 +1,1 @@
+Move: Bubble Type: Water Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: Burst 1 Effect: Bubble lowers the target’s Speed on 16+. Contest Type: Cute Contest Effect: Desperation 

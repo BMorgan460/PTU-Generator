@@ -15,8 +15,8 @@ public class Regice extends Pokemon{
 		size = "Huge";
 		weight = 385.8;
 		WC = 5;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Taiga", "Tundra", "Capability"};
@@ -30,7 +30,7 @@ public class Regice extends Pokemon{
 		power = 11;
 		natureWalk = new String[]{"Tundra"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 5;
 		acro = 2;
 		combat = 4;

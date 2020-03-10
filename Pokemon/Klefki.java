@@ -14,7 +14,7 @@ public class Klefki extends Pokemon{
 		height = "0\'/08\"";
 		size = "Small";
 		weight = 6.6;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Mineral";

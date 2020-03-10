@@ -32,7 +32,7 @@ public class Psyduck extends Pokemon{
 		power = 1;
 		natureWalk = new String[]{"Wetlands"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 1;
 		combat = 1;

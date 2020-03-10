@@ -1,0 +1,1 @@
+Move: Roar of Time Type: Dragon Frequency: Daily x2 AC: 4 Damage Base 15: 4d10+20 / 45 Class: Special Range: Burst 8, Smite, Exhaust Effect: All legal targets are Slowed, even if the attack misses. Contest Type: Cool Contest Effect: Seen Nothing Yet 

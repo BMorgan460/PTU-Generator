@@ -32,7 +32,7 @@ public class Minccino extends Pokemon{
 		power = 1;
 		natureWalk = new String[]{"Grassland", "Urban"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 1;
 		acro = 3;
 		combat = 2;

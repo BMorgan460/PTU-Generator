@@ -12,7 +12,7 @@ public class Scizor extends Pokemon{
 		abilities = new String[]{"Technician", "Light Metal", "Swarm", "Steadfast", "Parry"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Scyther();
-		prevReq = Metal;
+		prevReq = 35;
 		height = "5\'/11\"";
 		weight = 260.1;
 		WC = 5;

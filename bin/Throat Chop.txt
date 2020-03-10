@@ -1,0 +1,1 @@
+Move: Throat Chop Type: Dark Frequency: Scene x2 AC: 2 DB: 8 Class: Physical Range: Melee, 1 Target Effect: The target cannot use moves with the Sonic keyword for 2 rounds.

@@ -14,7 +14,7 @@ public class Hawlucha extends Pokemon{
 		height = "2\'/07\"";
 		size = "Small";
 		weight = 47.4;
-		WC = k;
+		WC = 2;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "HumanLike";
@@ -29,7 +29,7 @@ public class Hawlucha extends Pokemon{
 		hJump = 3;
 		power = 4;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 4;
 		combat = 5;

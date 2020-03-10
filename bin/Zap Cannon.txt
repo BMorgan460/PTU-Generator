@@ -1,0 +1,1 @@
+Move: Zap Cannon Type: Electric Frequency: At-Will AC: 9 Damage Base 12: 3d12+10 / 30 Class: Special Range: 12, 1 Target Effect: Zap Cannon Paralyzes the target. Zap Cannon ignores the target’s Evasion if there are no other combatants or Rough or Blocking Terrain within 2 meters of the target. Contest Type: Cool Contest Effect: Incentives 

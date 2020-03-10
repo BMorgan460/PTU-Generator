@@ -34,7 +34,7 @@ public class Skiploom extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 3;
 		combat = 2;

@@ -31,7 +31,7 @@ public class Wingull extends Pokemon{
 		hJump = 2;
 		power = 1;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 1;
 		acro = 3;
 		combat = 1;

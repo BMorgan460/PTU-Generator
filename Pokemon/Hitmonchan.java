@@ -12,7 +12,7 @@ public class Hitmonchan extends Pokemon{
 		abilities = new String[]{"Iron Fist", "Keen Eye", "Inner Focus", "Discipline", "Bodyguard"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Tyrogue();
-		prevReq = Defense;
+		prevReq = 20;
 		height = "4\'/7\"";
 		weight = 110.7;
 		WC = 4;

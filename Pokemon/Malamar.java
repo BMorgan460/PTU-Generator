@@ -15,7 +15,7 @@ public class Malamar extends Pokemon{
 		prevReq = 30;
 		height = "4\'/11\"";
 		weight = 103.6;
-		WC = k;
+		WC = 3;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Water";

@@ -31,7 +31,7 @@ public class Bagon extends Pokemon{
 		hJump = 1;
 		power = 4;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 2;

@@ -11,8 +11,8 @@ public class Nidorino extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Poison Point", "Rivalry", "Hustle", "Celebrate", "Bodyguard"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Nidoran();
-		prevReq = Minimum;
+		previous = new Nidoran_m();
+		prevReq = 15;
 		height = "2\'/11\"";
 		size = "Small";
 		weight = 43;
@@ -32,7 +32,7 @@ public class Nidorino extends Pokemon{
 		power = 5;
 		natureWalk = new String[]{"Grassland"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 3;
 		combat = 3;

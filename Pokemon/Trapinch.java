@@ -32,7 +32,7 @@ public class Trapinch extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Desert"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 1;
 		combat = 3;
@@ -46,7 +46,7 @@ public class Trapinch extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 1, 1, 5, 8, 12, 15, 19, 22, 26, 29, 33, 36, 40, 43, 47};
-		moves = new String[]{"Bite", "Sand Attack", "Feint Attack", "Bide", "MudSlap", "Bulldoze", "Sand Tomb", "Rock Slide", "Dig", "Crunch", "Earth Power", "Feint", "Earthquake", "Sandstorm", "Superpower", "Hyper Beam", "Fissure"};
+		moves = new String[]{"Bite", "Sand Attack", "Feint Attack", "Bide", "Mud_Slap", "Bulldoze", "Sand Tomb", "Rock Slide", "Dig", "Crunch", "Earth Power", "Feint", "Earthquake", "Sandstorm", "Superpower", "Hyper Beam", "Fissure"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Earthquake", "Return", "Dig", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Struggle Bug", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Bug Bite", "Bite", "Earth Power", "Endure", "Flail", "Focus Energy", "Fury Cutter", "Gust", "Mud Shot", "Quick Attack", "Signal Beam"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bug Bite", "Bite", "Giga Drain", "Earth Power", "Fury Cutter", "Giga Drain", "Signal Beam", "Sleep Talk", "Snore"};

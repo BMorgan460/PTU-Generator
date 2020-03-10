@@ -1,0 +1,1 @@
+Move: Refresh Type: Normal Frequency: Scene x2 AC: None Class: Status Range: Self Effect: The user is cured of all Poison, Burns, and Paralysis. Contest Type: Cute Contest Effect: Reflective Appeal

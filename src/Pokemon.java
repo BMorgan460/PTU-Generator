@@ -10,110 +10,111 @@ import java.nio.file.*;
 public class Pokemon {
 
     // base stats
-    protected String    name;
-    protected int       bHP;
-    protected int       bAtk;
-    protected int       bDef;
-    protected int       bSpAtk;
-    protected int       bSpDef;
-    protected int       bSpd;
+    protected String   name;
+    protected int      bHP;
+    protected int      bAtk;
+    protected int      bDef;
+    protected int      bSpAtk;
+    protected int      bSpDef;
+    protected int      bSpd;
 
     // nature changed base stats
-    private int         nHP;
-    private int         nAtk;
-    private int         nDef;
-    private int         nSpAtk;
-    private int         nSpDef;
-    private int         nSpd;
+    private int        nHP;
+    private int        nAtk;
+    private int        nDef;
+    private int        nSpAtk;
+    private int        nSpDef;
+    private int        nSpd;
 
-    private int         level;
+    private int        level;
 
-    private String      nature;
+    private String     nature;
 
     // adjusted stats
-    private int         HP;
-    private int         atk;
-    private int         def;
-    private int         spAtk;
-    private int         spDef;
-    private int         spd;
+    private int        HP;
+    private int        atk;
+    private int        def;
+    private int        spAtk;
+    private int        spDef;
+    private int        spd;
 
     // types
-    protected String    type1;
-    protected String    type2;
+    protected String   type1;
+    protected String   type2;
 
     // abilities
-    protected String[]  abilities;
-    protected int[]     abilityTypeCount;
+    protected String[] abilities;
+    protected int[]    abilityTypeCount;
 
     // evolutions
-    protected Pokemon   previous;
+    protected Pokemon  previous;
     protected String[] next;
-    protected int       prevReq;
-    protected String[]     nextReq;
+    protected int      prevReq;
+    protected String[] nextReq;
 
     // size
-    protected String    height;
-    protected double    weight;
-    protected String    size;
-    protected int       WC;
+    protected String   height;
+    protected double   weight;
+    protected String   size;
+    protected int      WC;
 
     // egg groups
-    protected double    maleRatio;
-    protected double    femaleRatio;
-    protected String    egg1;
-    protected String    egg2;
+    protected double   maleRatio;
+    protected double   femaleRatio;
+    protected String   egg1;
+    protected String   egg2;
 
     // habitats
-    protected String[]  habitats;
+    protected String[] habitats;
 
     // capabilities
-    protected int       overland;
-    protected int       swim;
-    protected int       levitate;
-    protected int       sky;
-    protected int       burrow;
-    protected int       lJump;
-    protected int       hJump;
-    protected int       power;
-    protected boolean   underdog;
-    protected String[]  natureWalk;
-    protected String[]  other;
-    private String[]    mOthers;
+    protected int      overland;
+    protected int      swim;
+    protected int      levitate;
+    protected int      sky;
+    protected int      burrow;
+    protected int      lJump;
+    protected int      hJump;
+    protected int      power;
+    protected boolean  underdog;
+    protected String[] natureWalk;
+    protected String[] other;
+    private String[]   mOthers;
 
     // skill ranks
-    protected int       athl;
-    protected int       acro;
-    protected int       combat;
-    protected int       stealth;
-    protected int       percep;
-    protected int       focus;
+    protected int      athl;
+    protected int      acro;
+    protected int      combat;
+    protected int      stealth;
+    protected int      percep;
+    protected int      focus;
 
     // skill bonus
-    protected int       athlBonus;
-    protected int       acroBonus;
-    protected int       combatBonus;
-    protected int       stealthBonus;
-    protected int       percepBonus;
-    protected int       focusBonus;
+    protected int      athlBonus;
+    protected int      acroBonus;
+    protected int      combatBonus;
+    protected int      stealthBonus;
+    protected int      percepBonus;
+    protected int      focusBonus;
 
     // Move list
-    protected String[]  moves;
-    protected String[]  eggMoves;
-    protected String[]  tutorMoves;
-    protected String[]  TMs;
-    protected int[]     movesLevels;
-    protected String[]  naturalMoves;
+    protected String[] moves;
+    protected String[] eggMoves;
+    protected String[] tutorMoves;
+    protected String[] TMs;
+    protected int[]    movesLevels;
+    protected String[] naturalMoves;
 
-    private String[]    moveList;
-    private String[]    abilityList;
+    private String[]   moveList;
+    private String[]   abilityList;
 
 
     // constructor
     public Pokemon() {
 
     }
-    
+
+
     /**
      * Getter method for previous requirement
      * 
@@ -122,7 +123,16 @@ public class Pokemon {
     public int getPrevReq() {
         return prevReq;
     }
-    
+
+
+    public boolean hasPrev() {
+        if (previous == null) {
+            return false;
+        }
+        return true;
+    }
+
+
     /**
      * Getter method for previous Pokemon
      * 
@@ -131,7 +141,8 @@ public class Pokemon {
     public Pokemon getPrev() {
         return previous;
     }
-    
+
+
     // methods
     /**
      * Decides what nature a Pokemon is
@@ -173,10 +184,15 @@ public class Pokemon {
     }
 
 
+    public String getName() {
+        return name;
+    }
+
+
     private boolean contains(String[] array, String[] var) {
         boolean flag = false;
         for (int i = 0; i < array.length; i++) {
-            for (int j = 0; j < array.length; j++) {
+            for (int j = 0; j < var.length; j++) {
                 if (array[i].equals(var[j])) {
                     flag = true;
                 }
@@ -431,6 +447,9 @@ public class Pokemon {
         return eggMoves;
     }
 
+    public int[] getMovesLevels() {
+        return movesLevels;
+    }
 
     /**
      * Generates a move list of length 6
@@ -447,11 +466,13 @@ public class Pokemon {
             }
         }
         String[] prevMoves;
+        int[] prevMovesLevels;
         if (previous != null) {
             prevMoves = previous.getMoves();
+            prevMovesLevels = previous.getMovesLevels();
             for (int i = 0; i < prevMoves.length; i++) {
-                if (movesLevels[i] <= level) {
-                    if (levelMoves.contains(prevMoves[i])) {
+                if (prevMovesLevels[i] <= level) {
+                    if (!(levelMoves.contains(prevMoves[i]))) {
                         levelMoves += prevMoves[i].replace(' ', '_')
                             .replace('-', '_').replace('\'', '_') + " ";
                     }
@@ -467,7 +488,7 @@ public class Pokemon {
         for (int i = 0; i < levelMovesA.length; i++) {
             availableMoves[i + index1] = levelMovesA[i];
         }
-
+        
         String[] moveList = new String[6];
         if (availableMoves.length > 6) {
             int[] rng = new int[6];
@@ -567,21 +588,33 @@ public class Pokemon {
             switch (down) {
                 case 1:
                     nHP = getBHP() - 1;
+                    if (nHP == 0)
+                        nHP = 1;
                     break;
                 case 2:
                     nAtk = getBAtk() - 2;
+                    if (nAtk <= 0)
+                        nAtk = 1;
                     break;
                 case 3:
                     nDef = getBDef() - 2;
+                    if (nDef <= 0)
+                        nDef = 1;
                     break;
                 case 4:
                     nSpAtk = getBSpAtk() - 2;
+                    if (nSpAtk <= 0)
+                        nSpAtk = 1;
                     break;
                 case 5:
                     nSpDef = getBSpDef() - 2;
+                    if (nSpDef <= 0)
+                        nSpDef = 1;
                     break;
                 case 6:
                     nSpd = getBSpd() - 2;
+                    if (nSpd <= 0)
+                        nSpd = 1;
                     break;
                 default:
                     System.out.println("Error " + down);
@@ -1119,6 +1152,9 @@ public class Pokemon {
 
 
     private String gender() {
+        if (maleRatio == -1) {
+            return "Genderless";
+        }
         int dice = (int)(Math.random() * 101) + 1;
         if (dice >= maleRatio) {
             return "Male";
@@ -1136,25 +1172,27 @@ public class Pokemon {
             hJump,
             lJump);
         if (sky > 0) {
-            result += String.format(",\"Sky\":%d,", sky);
+            result += String.format(",\"Sky\":%d", sky);
         }
         if (levitate > 0) {
-            result += String.format(",\"Levitate\":%d,", levitate);
+            result += String.format(",\"Levitate\":%d", levitate);
         }
         if (burrow > 0) {
-            result += String.format(",\"Burrow\":%d,", burrow);
+            result += String.format(",\"Burrow\":%d", burrow);
         }
-        if (natureWalk.length > 0) {
+        if (natureWalk != null && natureWalk.length > 0) {
             for (int i = 0; i < natureWalk.length; i++) {
                 result += ",\"Naturewalk(" + natureWalk[i] + ")\":true";
             }
         }
-        for (int i = 0; i < other.length; i++) {
-            if (!(other[i].equals("Teleporter"))) {
-                result += String.format(",\"%s\":true", other[i]);
-            }
-            else {
-                result += String.format(",\"%s\":4", other[i]);
+        if (other != null) {
+            for (int i = 0; i < other.length; i++) {
+                if (!(other[i].equals("Teleporter"))) {
+                    result += String.format(",\"%s\":true", other[i]);
+                }
+                else {
+                    result += String.format(",\"%s\":4", other[i]);
+                }
             }
         }
         if (mOthers != null) {
@@ -1193,10 +1231,13 @@ public class Pokemon {
         for (int i = 0; i < moveList.length; i++) {
             try {
                 @SuppressWarnings("unchecked")
-                Class<Move> move = (Class<Move>)Class.forName(moveList[i]);
-                Move genned = (Move)move.newInstance();
-                if (genned.getType().equals(type1)
-                    || genned.getType().equals(type2)) {
+                Class<Move> move =
+                    (Class<Move>)Class.forName(moveList[i].replace(" ", "_"));
+                Move genned = (Move)move.getDeclaredConstructor().newInstance();
+                if ((genned.getType().equals(type1)
+                    || genned.getType().equals(type2))
+                    && !(genned.getCategory().equals("Status"))
+                    && !(genned.getCategory().equals("Static"))) {
                     genned.increaseDB(2);
                 }
                 if ((genned.getType().equals("Steel")
@@ -1248,6 +1289,7 @@ public class Pokemon {
             catch (Exception e) {
                 System.out.println("Not a move: " + moveList[i]);
                 System.out.println("number:" + i);
+                System.out.println(e);
             }
         }
         for (int i = 1; i <= 6; i++) {

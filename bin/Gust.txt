@@ -1,0 +1,1 @@
+Move: Gust Type: Flying Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Special Range: 4, 1 Target Effect: If the target is airborne as a result of Fly or Sky Drop, Gust can hit them, ignoring Range and has a Damage Base of 8 instead. Contest Type: Smart Contest Effect: Steady Performance Special: Grants Guster 

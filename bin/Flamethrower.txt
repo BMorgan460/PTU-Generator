@@ -1,0 +1,1 @@
+Move: Flamethrower Type: Fire Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: 4, 1 Target Effect: Flamethrower Burns the target on 19+. Contest Type: Beauty Contest Effect: Exhausting Act 

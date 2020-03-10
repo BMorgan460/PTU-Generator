@@ -1,0 +1,1 @@
+Move: Power Swap Type: Psychic Frequency: Scene AC: None Class: Status Range: Melee, 1 Target Effect: The user and the target trade Combat Stage values for the Attack Stat, and then for the Special Attack Stat. Contest Type: Beauty Contest Effect: Inversed Appeal 

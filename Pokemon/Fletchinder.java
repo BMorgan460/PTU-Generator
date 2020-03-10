@@ -18,7 +18,7 @@ public class Fletchinder extends Pokemon{
 		height = "2\'/04\"";
 		size = "Small";
 		weight = 35.3;
-		WC = k;
+		WC = 2;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Flying";

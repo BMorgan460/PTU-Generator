@@ -22,7 +22,7 @@ public class Stoutland extends Pokemon{
 		femaleRatio = 50;
 		egg1 = "Field";
 		egg2 = "Diet";
-		habitats = new String[]{"Grassland", "Urban", "\"};
+		habitats = new String[]{"Grassland", "Urban"};
 		overland = 7;
 		swim = 5;
 		levitate = 0;

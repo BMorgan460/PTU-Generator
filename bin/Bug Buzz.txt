@@ -1,0 +1,1 @@
+Move: Bug Buzz Type: Bug Frequency: Scene x2 AC: 2 Damage Base 9: 2d10+10 / 21 Class: Special Range: Cone 2 or Close Blast 2, Sonic, Smite Effect: Bug Buzz lowers the Special Defense of all targets on 19+. Contest Type: Cute Contest Effect: Incentives 

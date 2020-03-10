@@ -12,7 +12,7 @@ public class Simisear extends Pokemon{
 		abilities = new String[]{"Decoy", "Gluttony", "Flame Body", "Flash Fire", "Blaze"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Pansear();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "3\'/3\"";
 		weight = 61.7;
 		WC = 3;

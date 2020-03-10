@@ -16,7 +16,7 @@ public class Gogoat extends Pokemon{
 		height = "5\'/07\"";
 		size = "Large";
 		weight = 200.6;
-		WC = k;
+		WC = 4;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";

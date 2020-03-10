@@ -12,7 +12,7 @@ public class Lilligant extends Pokemon{
 		abilities = new String[]{"Own Tempo", "Aroma Veil", "Chlorophyll", "Photosynthesis", "Guard"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Petilil();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "3\'/7\"";
 		weight = 35.9;
 		WC = 2;

@@ -1,0 +1,1 @@
+Move: Howl Type: Normal Frequency: At-Will AC: None Class: Status Range: Self Effect: Raise the user’s Attack 1 Combat stage. Contest Type: Cool Contest Effect: Get Ready!

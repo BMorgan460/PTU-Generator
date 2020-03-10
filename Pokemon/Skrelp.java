@@ -16,7 +16,7 @@ public class Skrelp extends Pokemon{
 		height = "1\'/08\"";
 		size = "Small";
 		weight = 16.1;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Water";

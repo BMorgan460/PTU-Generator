@@ -16,7 +16,7 @@ public class Aurorus extends Pokemon{
 		height = "8\'/10\"";
 		size = "Huge";
 		weight = 496;
-		WC = k;
+		WC = 6;
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Monster";

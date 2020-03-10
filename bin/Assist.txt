@@ -1,0 +1,1 @@
+Move: Assist Type: Normal Frequency: Scene x2 AC: None Class: Status Range: Self Effect: Randomly select another Pokémon on the user’s roster and then randomly select a Move that Pokémon knows. Assist’s user uses that Move immediately. Contest Type: Cute Contest Effect: Tease

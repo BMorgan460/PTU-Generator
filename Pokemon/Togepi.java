@@ -31,7 +31,7 @@ public class Togepi extends Pokemon{
 		hJump = 1;
 		power = 1;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 1;

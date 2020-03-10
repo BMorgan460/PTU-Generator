@@ -16,7 +16,7 @@ public class Avalugg extends Pokemon{
 		height = "6\'/07\"";
 		size = "Huge";
 		weight = 1113.3;
-		WC = k;
+		WC = 6;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Monster";

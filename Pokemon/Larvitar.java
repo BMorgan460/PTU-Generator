@@ -32,7 +32,7 @@ public class Larvitar extends Pokemon{
 		power = 7;
 		natureWalk = new String[]{"Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 1;
 		combat = 2;

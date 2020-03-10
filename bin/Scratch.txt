@@ -1,0 +1,1 @@
+Move: Scratch Type: Normal Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: Melee, Pass Effect: None Contest Type: Tough Contest Effect: Steady Performance 

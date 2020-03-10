@@ -1,0 +1,1 @@
+Move: Nature Power Type: Normal Frequency: EOT AC: See Effect Class: Status Damage Base: See Effect Range: See Effect Effect: Nature Power uses a Move defined by the Environ keyword. Contest Type: Beauty Contest Effect: Tease 

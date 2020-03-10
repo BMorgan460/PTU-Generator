@@ -1,4 +1,4 @@
-public class Porygon-z extends Pokemon{
+public class Porygon_z extends Pokemon{
 {
 		name = "Porygon-z";
 		bHP = 9;
@@ -12,15 +12,15 @@ public class Porygon-z extends Pokemon{
 		abilities = new String[]{"Download", "Trace", "Analytic", "Tolerance", "System"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Porygon();
-		prevReq = UpGrade;
+		prevReq = 10;
 		previous = new Porygon2();
-		prevReq = UpGrade;
+		prevReq = 30;
 		height = "2\'/11\"";
 		size = "Small";
 		weight = 75;
 		WC = 3;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Biology";
 		habitats = new String[]{"Urban", "Capability", "List"};
@@ -33,7 +33,7 @@ public class Porygon-z extends Pokemon{
 		hJump = 1;
 		power = 2;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 3;
@@ -52,7 +52,7 @@ public class Porygon-z extends Pokemon{
 		tutorMoves = new String[]{"Dark Pulse", "Electroweb", "Foul Play", "Gravity", "Icy Wind", "Iron Tail", "Last Resort", "Magic Coat", "Magnet Rise", "Mimic", "Pain Split", "Recycle", "Role Play", "Shock Wave", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Trick", "Trick", "Uproar", "Wonder Room", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
 }
-		Porygon-z(){
+		Porygon_z(){
 
 		super();
 		}

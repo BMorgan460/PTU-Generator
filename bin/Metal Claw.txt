@@ -1,0 +1,1 @@
+Move: Metal Claw Type: Steel Frequency: At-Will AC: 3 Damage Base 5: 1d8+8 / 13 Class: Physical Range: Melee, 1 Target, Spirit Surge Effect: Raise the user’s Attack 1 Combat Stage on 18+. Contest Type: Cool Contest Effect: Incentives 

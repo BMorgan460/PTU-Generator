@@ -33,7 +33,7 @@ public class Gabite extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Desert"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 3;

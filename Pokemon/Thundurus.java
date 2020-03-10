@@ -13,10 +13,10 @@ public class Thundurus extends Pokemon{
 		abilityTypeCount = new int[] {1,2,1};
 		height = "4\'/11\"";
 		size = "Large";
-		weight = 134.5lbs.;
-		WC = n;
-		maleRatio = No;
-		femaleRatio = Egg;
+		weight = 134.5;
+		WC = 4;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Mountain", "Capability", "List"};

@@ -1,0 +1,1 @@
+Move: Pollen Puff Type: Bug Frequency: EOT AC: 2 DB: 9 Class: Special Range: 5, 1 Target, Friendly Effect: Pollen Puff can be used on allies to restore 2 Ticks of Hit Points.

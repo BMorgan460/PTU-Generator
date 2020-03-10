@@ -1,0 +1,1 @@
+Move: Mirror Shot Type: Steel Frequency: EOT AC: 5 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, Ranged Blast 2 Effect: All Legal Targets have their Accuracy lowered by -2 on 16+. Contest Type: Cute Contest Effect: Exhausting Act 

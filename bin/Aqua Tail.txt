@@ -1,0 +1,1 @@
+Move: Aqua Tail Type: Water Frequency: EOT AC: 4 Damage Base 9: 2d10+10 / 21 Class: Physical Range: Melee, Pass Effect: None Contest Type: Cute Contest Effect: Steady Performance 

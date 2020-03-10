@@ -1,0 +1,1 @@
+Move: Rage Type: Normal Frequency: At-Will AC: 2 Damage Base 2: 1d6+3 / 7 Class: Physical Range: Melee, 1 Target, Spirit Surge Effect: The user becomes Enraged. Until the end of the user’s next turn, if the user is Enraged, the user gains +1 Attack Combat Stage whenever they are damaged by an Damaging Move or Attack. Contest Type: Cool Contest Effect: Get Ready! 

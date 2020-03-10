@@ -1,0 +1,1 @@
+Move: Power Trip Type: Dark Frequency: EOT AC: 2 DB: 2 Class: Physical Range: Melee, 1 Target Effect: For every Combat Stage the user has above 0, add +2 to Power Trip’s Damage Base, up to a maximum Damage Base of 20.

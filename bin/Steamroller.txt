@@ -1,0 +1,1 @@
+Move: Steamroller Type: Bug Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, Pass Effect: Steamroller Flinches the target on 15+. If the target is Small, Steamroller deals an additional +5 Damage. Contest Type: Tough Contest Effect: Steady Performance

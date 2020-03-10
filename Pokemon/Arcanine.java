@@ -12,7 +12,7 @@ public class Arcanine extends Pokemon{
 		abilities = new String[]{"Intimidate", "Flash Fire", "Justified", "Bodyguard", "Conqueror"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Growlithe();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "6\'/3\"";
 		size = "Large";
 		weight = 341.7;

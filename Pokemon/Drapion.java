@@ -31,7 +31,7 @@ public class Drapion extends Pokemon{
 		power = 7;
 		natureWalk = new String[]{"Forest"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 1;
 		combat = 4;

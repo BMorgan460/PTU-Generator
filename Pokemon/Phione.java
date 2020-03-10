@@ -15,8 +15,8 @@ public class Phione extends Pokemon{
 		size = "Small";
 		weight = 6.8;
 		WC = 1;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Water";
 		egg2 = "1";
 		habitats = new String[]{"Ocean", "Capability", "List"};

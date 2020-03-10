@@ -1,0 +1,1 @@
+Move: Air Slash Type: Flying Frequency: EOT AC: 3 Damage Base 8: 2d8+10 / 19 Class: Special Range: 6, 1 Target Effect: Air Slash Flinches the target on 15+. Contest Type: Cool Contest Effect: Exhausting Act 

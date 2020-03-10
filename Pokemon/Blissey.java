@@ -12,9 +12,9 @@ public class Blissey extends Pokemon{
 		abilities = new String[]{"Natural Cure", "Serene Grace", "Friend Guard", "Healer", "Touch"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Happiny();
-		prevReq = Oval;
+		prevReq = 10;
 		previous = new Chansey();
-		prevReq = Oval;
+		prevReq = 10;
 		height = "4\'/11\"";
 		weight = 103.2;
 		WC = 3;

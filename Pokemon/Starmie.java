@@ -12,12 +12,12 @@ public class Starmie extends Pokemon{
 		abilities = new String[]{"Natural Cure", "Illuminate", "Analytic", "Starswirl", "Death"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Staryu();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "3\'/7\"";
 		weight = 176.4;
 		WC = 4;
-		maleRatio = Hermaphrodite;
-		femaleRatio = Group;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Water";
 		egg2 = "3";
 		habitats = new String[]{"Ocean", "Capability", "List"};

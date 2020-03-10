@@ -32,7 +32,7 @@ public class Shelgon extends Pokemon{
 		hJump = 1;
 		power = 6;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 1;
 		combat = 2;

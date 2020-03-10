@@ -45,7 +45,7 @@ public class Pineco extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 6, 9, 12, 17, 20, 23, 28, 31, 34, 39, 42, 45};
-		moves = new String[]{"Protect", "Tackle", "SelfDestruct", "Bug Bite", "Take Down", "Rapid Spin", "Bide", "Natural Gift", "Spikes", "Payback", "Explosion", "Iron Defense", "Gyro Ball", "DoubleEdge"};
+		moves = new String[]{"Protect", "Tackle", "Self Destruct", "Bug Bite", "Take Down", "Rapid Spin", "Bide", "Natural Gift", "Spikes", "Payback", "Explosion", "Iron Defense", "Gyro Ball", "DoubleEdge"};
 		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Frustration", "Solar Beam", "Earthquake", "Return", "Dig", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Explosion", "Payback", "Gyro Ball", "Struggle Bug", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Counter", "Endure", "Flail", "Pin Missile", "Power Trick", "Trick", "Reflect", "Revenge", "Sand Tomb", "Stealth Rock", "Swift", "Toxic Spikes", "Spikes"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bug Bite", "Bite", "Defense Curl", "Drill Run", "Giga Drain", "Gravity", "Iron Defense", "Pain Split", "Rollout", "Sleep Talk", "Snore", "Stealth Rock", "String Shot"};

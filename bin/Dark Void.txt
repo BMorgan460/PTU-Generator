@@ -1,0 +1,1 @@
+Move: Dark Void Type: Dark Frequency: EOT AC: 4 Class: Status Range: Melee, 1 Target Effect: The target falls Asleep. Once per Scene, Dark Void may be used as if its range were "Burst 5, Friendly" instead. Contest Type: Smart Contest Effect: Excitement 

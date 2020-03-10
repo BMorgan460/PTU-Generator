@@ -1,0 +1,1 @@
+Move: Parabolic Charge Type: Electric Frequency: Scene AC: 4 Damage Base 5: 1d8+8 / 13 Class: Special Range: Cone 2 Effect: After the targets take damage, the user gains Hit Points equal to half of the total damage they dealt to all targets. Contest Type: Cool Contest Effect: Desperation 

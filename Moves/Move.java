@@ -35,7 +35,9 @@ public class Move {
     }
 
     public void increaseDB(int add) {
-        damageBase += add;
+        if(damageBase != 0) {
+            damageBase += add;
+        }
     }
 
     public String toString() {

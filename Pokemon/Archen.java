@@ -32,7 +32,7 @@ public class Archen extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[]{};
 		athl = 2;
 		acro = 3;
 		combat = 2;

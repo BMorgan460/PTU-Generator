@@ -19,8 +19,8 @@ public class Klang extends Pokemon{
 		size = "Small";
 		weight = 112.4;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Diet";
 		habitats = new String[]{"Cave", "Urban", "Capability"};

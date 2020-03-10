@@ -14,8 +14,8 @@ public class Solrock extends Pokemon{
 		height = "3\'/11\"";
 		weight = 339.5;
 		WC = 5;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Mountain", "Capability"};

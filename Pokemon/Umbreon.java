@@ -12,7 +12,7 @@ public class Umbreon extends Pokemon{
 		abilities = new String[]{"Synchronize", "Pressure", "Inner Focus", "Shackle", "Ambush"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
-		prevReq = Stone;
+		prevReq = 10;
 		height = "3\'/3\"";
 		weight = 59.5;
 		WC = 3;

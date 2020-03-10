@@ -1,0 +1,1 @@
+Move: Air Cutter Type: Flying Frequency: At-Will AC: 2 Damage Base 6: 2d6+8 / 15 Class: Special Range: Cone 2 Effect: Air Cutter is a Critical Hit on 18+. Contest Type: Cool Contest Effect: Steady Performance

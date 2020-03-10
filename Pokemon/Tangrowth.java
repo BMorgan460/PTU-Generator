@@ -12,7 +12,7 @@ public class Tangrowth extends Pokemon{
 		abilities = new String[]{"Photosynthesis", "Life Force", "Leaf Guard", "Chlorophyll", "Regenerator"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Tangela();
-		prevReq = Ancient;
+		prevReq = 30;
 		height = "6\'/7\"";
 		size = "Large";
 		weight = 283.5;

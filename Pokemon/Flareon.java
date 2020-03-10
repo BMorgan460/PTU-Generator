@@ -12,7 +12,7 @@ public class Flareon extends Pokemon{
 		abilities = new String[]{"Flash Fire", "Flame Body", "Ignition Boost", "Defiant", "Guts"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
-		prevReq = Stone;
+		prevReq = 10;
 		height = "2\'/11\"";
 		weight = 55.1;
 		WC = 3;

@@ -12,7 +12,7 @@ public class Weavile extends Pokemon{
 		abilities = new String[]{"Pressure", "Keen Eye", "Teamwork", "Pickpocket", "Vicious"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Sneasel();
-		prevReq = Razor;
+		prevReq = 30;
 		height = "3\'/7\"";
 		weight = 75;
 		WC = 3;

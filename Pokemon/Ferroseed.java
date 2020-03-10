@@ -32,7 +32,7 @@ public class Ferroseed extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 2;

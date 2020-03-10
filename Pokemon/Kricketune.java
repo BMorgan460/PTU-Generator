@@ -11,7 +11,7 @@ public class Kricketune extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Confidence", "Rally", "Swarm", "Technician", "Out"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Kricketot();
+		//previous = new Kricketot();
 		prevReq = 10;
 		height = "3\'/3\"";
 		weight = 56.2;
@@ -26,12 +26,12 @@ public class Kricketune extends Pokemon{
 		levitate = 0;
 		sky = 5;
 		burrow = 0;
-		lJump = ;
+		lJump = 3;
 		hJump = 3;
 		power = 2;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 4;
 		combat = 3;

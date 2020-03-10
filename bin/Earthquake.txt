@@ -1,0 +1,1 @@
+Move: Earthquake Type: Ground Frequency: Scene AC: 2 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Burst 3, Groundsource Effect: Earthquake can hit targets that are underground, including those using the Move Dig. Contest Type: Tough Contest Effect: Desperation Special: Grants Groundshaper 

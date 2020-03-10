@@ -12,7 +12,7 @@ public class Honchkrow extends Pokemon{
 		abilities = new String[]{"Insomnia", "Super Luck", "Confidence", "Rally", "Moxie"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Murkrow();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "2\'/11\"";
 		weight = 60.2;
 		WC = 3;

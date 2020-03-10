@@ -12,7 +12,7 @@ public class Froslass extends Pokemon{
 		abilities = new String[]{"Magic Guard", "Snow Cloak", "Cursed Body", "Omen", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Snorunt();
-		prevReq = Stone;
+		prevReq = 40;
 		height = "4\'/3\"";
 		weight = 58.6;
 		WC = 3;

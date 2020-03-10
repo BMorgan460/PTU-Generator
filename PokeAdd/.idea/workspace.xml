@@ -2,84 +2,999 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1507ddd3-8c46-4dba-a0fe-1c4cd7a14523" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moves/Low_Kick.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Low_Kick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moves/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Moves/Move.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BULBASAUR.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burmy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carbink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Carbink.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cascoon.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Caterpie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combee.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cryogonal.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Darmanitan.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deoxys attack forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deoxys defense forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deoxys normal forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deoxys speed forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ditto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eldum.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Farfetch’d.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flabébé.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golett.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gourgeist-average.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gourgeist-small.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kabutops.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kabutops.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kakuna.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Klink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Klink.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kricketot.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landorus incarnate forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landorus therian forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Magikarp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meloetta aria form.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meloetta step form.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meowstic-m.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meowstic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Metapod.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mew.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mime jr..txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mr. mime.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nidoran (f).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nidoran (m).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pikachu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pikachu.java.org" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pokemon that need to be done manually.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pumpkaboo-average.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pumpkaboo-large.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pumpkaboo-small.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pumpkaboo-super.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rufflet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rufflet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sawk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sawk.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scatterbug.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shaymin land forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shaymin sky forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Silcoon.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Smeargle.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spewpa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Throh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Throh.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thundurus incarnate forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thundurus therian forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tornadus incarnate forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tornadus therian forme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Torpius.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tropius" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tropius.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tynamo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unown.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weedle.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wobbuffet.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wormadam  sandy cloak form.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wormadam  trash cloak form.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wormadam plant cloak form.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wurmple.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wynaut.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mass_poke_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/mass_poke_converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mass_pokemon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abomasnow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Absol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accelgor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aegislash.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aerodactyl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aipom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alakazam.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alomomola.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Altaria.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amaura.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ambipom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amoonguss.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ampharos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anorith.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arbok.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arcanine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archeops.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ariados.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Armaldo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aromatisse.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aron.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articuno.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Audino.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aurorus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Avalugg.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Axew.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Azelf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Azumarill.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Azurill.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bagon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baltoy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Banette.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barbaracle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barboach.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basculin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bastiodon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayleef.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beartic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beautifly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beedrill.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beheeyem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bellossom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bellsprout.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bergmite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bibarel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bidoof.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binacle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisharp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blastoise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blaziken.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blissey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blitzle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boldore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bonsly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bouffalant.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Braixen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Braviary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Breloom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broken/Cryogonal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broken/Cryogonal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Broken/Cryogonal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broken/Golett.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Broken/Golett.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bronzong.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bronzor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budew.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buizel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buneary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bunnelby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Butterfree.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cacnea.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cacturne.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Camerupt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carbink.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carnivine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carracosta.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carvanha.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Castform.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Celebi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chandelure.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chansey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Charizard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Charmander.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Charmeleon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cherrim.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cherubi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chesnaught.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chespin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chikorita.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chimchar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chimecho.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinchou.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chingling.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinccino.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clamperl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clauncher.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clawitzer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Claydol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clefable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clefairy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cleffa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloyster.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cobalion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cofagrigus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combusken.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conkeldurr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corphish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corsola.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cottonee.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cradily.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cranidos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crawdaunt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cresselia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Croagunk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crobat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Croconaw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crustle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cubchoo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cubone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cyndaquil.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Darkrai.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Darumaka.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dedenne.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deerling.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deino.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Delcatty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Delibird.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Delphox.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deoxys.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dewgong.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dewott.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diancie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diggersby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diglett.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dodrio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doduo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Donphan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doublade.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dragalge.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dragonair.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dragonite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drapion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dratini.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drifblim.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drifloon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drilbur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drowzee.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Druddigon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ducklett.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dugtrio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dunsparce.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duosion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Durant.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dusclops.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dusknoir.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duskull.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dustox.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dwebble.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eelektrik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eelektross.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eevee.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ekans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electabuzz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electivire.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electrike.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electrode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elekid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elgyem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emboar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emolga.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Empoleon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entei.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Escavalier.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Espeon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Espurr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excadrill.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exeggcute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exeggutor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploud.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Farfetch_d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fearow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feebas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fennekin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feraligatr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ferroseed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ferrothorn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finneon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flaaffy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flabebe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flareon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fletchinder.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fletchling.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Floatzel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Floette.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Florges.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flygon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foongus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forretress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fraxure.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frillish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Froakie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frogadier.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Froslass.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Furfrou.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Furret.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gabite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gallade.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Galvantula.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Garbodor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Garchomp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gardevoir.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gastly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gastrodon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Genesect.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gengar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geodude.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gible.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gigalith.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Girafarig.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Glaceon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Glalie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Glameow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gligar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gliscor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gloom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gogoat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golbat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goldeen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golduck.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golurk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goodra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goomy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gorebyss.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gothita.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gothitelle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gothorita.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gourgeist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Granbull.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graveler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greninja.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grimer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grotle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groudon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grovyle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Growlithe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grumpig.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gulpin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gurdurr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyarados.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Happiny.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hariyama.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Haunter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hawlucha.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Haxorus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heatmor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heatran.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heliolisk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helioptile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heracross.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herdier.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hippopotas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hippowdon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hitmonchan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hitmonlee.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hitmontop.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ho-oh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Honchkrow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Honedge.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoothoot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoppip.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Horsea.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Houndoom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Houndour.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hydreigon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypno.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Igglybuff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Illumise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infernape.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inkay.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ivysaur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jellicent.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jigglypuff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jirachi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jolteon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Joltik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumpluff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jynx.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kabuto.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kabutops.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kadabra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kangaskhan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karrablast.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kecleon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keldeo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingdra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kingler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kirlia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klefki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klink.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klinklang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Koffing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Krabby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kricketune.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Krokorok.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Krookodile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kyogre.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lairon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lampent.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landorus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lanturn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lapras.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Larvesta.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Larvitar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Latias.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Latios.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leafeon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leavanny.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ledian.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ledyba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lickilicky.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lickitung.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Liepard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lileep.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lilligant.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lillipup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linoone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Litleo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Litwick.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombre.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lotad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loudred.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lucario.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ludicolo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lugia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lumineon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lunatone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luvdisc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luxio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luxray.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machamp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machoke.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machop.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magcargo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magmar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magmortar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magnemite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magneton.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Magnezone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makuhita.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Malamar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mamoswine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manaphy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandibuzz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mankey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mantine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mantyke.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maractus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mareep.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marill.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marowak.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marshtomp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Masquerain.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mawile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medicham.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meditite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meganium.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meloetta.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meowth.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mesprit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Metagross.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Metang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mewtwo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mienfoo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mienshao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mightyena.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Milotic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miltank.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mime_jr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minccino.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misdreavus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mismagius.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moltres.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monferno.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mothim.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mr_mime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mudkip.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Munchlax.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Munna.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Murkrow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Musharna.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nidoking.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nidoqueen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nidoran-f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nidoran-m.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nidorina.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nidorino.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nincada.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ninetales.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ninjask.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Noctowl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Noibat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Noivern.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nosepass.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nuzleaf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Octillery.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oddish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omanyte.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omastar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Onix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oshawott.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pachirisu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palpitoad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pancham.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pangoro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Panpour.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pansage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pansear.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paras.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parasect.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patrat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pawniard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pelipper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persian.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petilil.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phanpy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phantump.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phione.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pichu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidgeot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidgeotto.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidgey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidove.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pignite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pikachu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piloswine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pineco.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pinsir.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piplup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plusle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Politoed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poliwag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poliwhirl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poliwrath.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ponyta.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poochyena.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Porygon-z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Porygon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Porygon2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeape.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prinplup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Probopass.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Psyduck.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pumpkaboo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pupitar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Purrloin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Purugly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pyroar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quagsire.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quilava.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quilladin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qwilfish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raichu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raikou.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ralts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rampardos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rapidash.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raticate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rattata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regigigas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regirock.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Registeel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relicanth.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remoraid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reuniclus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rhydon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rhyhorn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rhyperior.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Riolu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roggenrola.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roselia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roserade.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rotom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rufflet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sableye.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Salamence.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Samurott.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sandile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sandshrew.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sandslash.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sawk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sawsbuck.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sceptile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scizor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scolipede.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrafty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scraggy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scyther.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seadra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seaking.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sealeo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seedot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seismitoad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentret.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serperior.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Servine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seviper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sewaddle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sharpedo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shaymin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shedinja.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shelgon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shellder.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shellos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shelmet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shieldon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shiftry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shinx.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shroomish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shuckle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shuppet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sigilyph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simipour.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simisage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simisear.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skarmory.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skiddo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skiploom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skitty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skorupi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skrelp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skuntank.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slaking.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slakoth.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sliggoo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slowbro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slowking.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slowpoke.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slugma.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slurpuff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smoochum.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sneasel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snivy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snorlax.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snorunt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snover.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snubbull.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solosis.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solrock.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spearow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spheal.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinarak.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinda.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spiritomb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spoink.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spritzee.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Squirtle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stantler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Staraptor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Staravia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starmie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Staryu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Steelix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stoutland.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stunfisk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stunky.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sudowoodo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suicune.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sunflora.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sunkern.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Surskit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swablu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swadloon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swalot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swampert.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swanna.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swellow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swinub.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swirlix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swoobat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sylveon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taillow.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talonflame.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tangela.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tangrowth.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tauros.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teddiursa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tentacool.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tentacruel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tepig.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Terrakion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Throh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thundurus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Timburr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tirtouga.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Togekiss.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Togepi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Togetic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Torchic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Torkoal.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tornadus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Torterra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Totodile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Toxicroak.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tranquill.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trapinch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Treecko.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trevenant.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tropius.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trubbish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtwig.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tympole.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Typhlosion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyranitar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyrantrum.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyrogue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyrunt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Umbreon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unfezant.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ursaring.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uxie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vanillish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vanillite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vanilluxe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vaporeon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Venipede.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Venomoth.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Venonat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Venusaur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vespiquen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibrava.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Victini.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Victreebel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vigoroth.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vileplume.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virizion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vivillon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volbeat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volcarona.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voltorb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vullaby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vulpix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wailmer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wailord.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walrein.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wartortle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Watchog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weavile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weepinbell.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weezing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Whimsicott.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Whirlipede.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Whiscash.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Whismur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wigglytuff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wingull.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Woobat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wooper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wormadam.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xatu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yamask.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yanma.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yanmega.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zangoose.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zapdos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zebstrika.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zigzagoon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zoroark.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zorua.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zubat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zweilous.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/huntail.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/poke_to_java_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/poke_to_java_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Amaura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Amaura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Arcanine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Arcanine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Archen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Archen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Aromatisse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Aromatisse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Aron.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Aron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Articuno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Articuno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Audino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Audino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Aurorus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Aurorus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Avalugg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Avalugg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Axew.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Axew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Azelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Azelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Baltoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Baltoy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Barbaracle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Barbaracle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Basculin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Basculin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bayleef.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bayleef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Beautifly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Beautifly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Beedrill.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Beedrill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bellsprout.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bellsprout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bergmite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bergmite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bidoof.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bidoof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Binacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Binacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Blissey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Blissey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Boldore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Boldore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bonsly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bonsly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bronzong.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bronzong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bronzor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bronzor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Budew.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Budew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Buneary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Buneary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Bunnelby.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Bunnelby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Butterfree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Butterfree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Cacnea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Cacnea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Carbink.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Carbink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Carnivine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Carnivine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Celebi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Celebi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Chansey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Chansey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Chatot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Chatot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Cherubi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Cherubi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Chespin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Chespin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Chikorita.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Chikorita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Cinccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Cinccino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Clauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Clauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Clawitzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Clawitzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Claydol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Claydol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Clefairy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Clefairy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Cleffa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Cleffa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Cloyster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Cloyster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Cobalion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Cobalion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Conkeldurr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Conkeldurr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Cradily.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Cradily.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Cranidos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Cranidos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Croagunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Croagunk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Crustle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Crustle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Darkrai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Darkrai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Dedenne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Dedenne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Delcatty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Delcatty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Deoxys.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Deoxys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Diancie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Diancie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Diggersby.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Diggersby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Doduo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Doduo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Doublade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Doublade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Dragalge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Dragalge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Dragonair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Dragonair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Drapion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Drapion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Dratini.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Dratini.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Drilbur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Drilbur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Dustox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Dustox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Dwebble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Dwebble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Eelektrik.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Eelektrik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Eelektross.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Eelektross.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Electabuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Electabuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Electivire.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Electivire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Electrode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Electrode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Entei.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Entei.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Escavalier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Escavalier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Espeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Espeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Espurr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Espurr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Exeggcute.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Exeggcute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Exeggutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Exeggutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Farfetch_d.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Farfetch_d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Ferroseed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Ferroseed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Flabebe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Flabebe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Flareon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Flareon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Fletchinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Fletchinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Fletchling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Fletchling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Floatzel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Floatzel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Floette.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Floette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Florges.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Florges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Fraxure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Fraxure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Froslass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Froslass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Furfrou.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Furfrou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Gabite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Gabite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Genesect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Genesect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Gible.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Gible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Glaceon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Glaceon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Gliscor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Gliscor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Gloom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Gloom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Gogoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Gogoat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Golurk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Golurk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Goodra.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Goodra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Goomy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Goomy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Gorebyss.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Gorebyss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Gourgeist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Gourgeist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Granbull.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Granbull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Grotle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Grotle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Groudon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Groudon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Grumpig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Grumpig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Gyarados.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Gyarados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Happiny.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Happiny.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Hawlucha.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Hawlucha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Heliolisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Heliolisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Helioptile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Helioptile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Hitmonchan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Hitmonchan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Hitmonlee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Hitmonlee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Hitmontop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Hitmontop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Ho_oh.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Ho_oh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Honchkrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Honchkrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Honedge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Honedge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Hoppip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Hoppip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Inkay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Inkay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Ivysaur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Ivysaur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Jirachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Jirachi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Jolteon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Jolteon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Kangaskhan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Kangaskhan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Karrablast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Karrablast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Keldeo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Keldeo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Kingler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Kingler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Klang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Klang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Klefki.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Klefki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Klink.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Klink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Klinklang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Klinklang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Kricketune.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Kricketune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Kyogre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Kyogre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Lairon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Lairon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Landorus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Landorus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Larvitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Larvitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Leafeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Leafeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Lickilicky.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Lickilicky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Lilligant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Lilligant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Litleo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Litleo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Loudred.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Loudred.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Lugia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Lugia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Lunatone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Lunatone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Machoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Machoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Machop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Machop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Magnemite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Magnemite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Magneton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Magneton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Magnezone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Magnezone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Makuhita.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Makuhita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Malamar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Malamar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Manaphy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Manaphy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mankey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mankey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mantine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mantine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Masquerain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Masquerain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mawile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mawile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Meditite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Meditite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Meloetta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Meloetta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mesprit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mesprit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Metagross.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Metagross.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Metang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Metang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mewtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mewtwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mienfoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mienfoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Milotic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Milotic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mime_jr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mime_jr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Minccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Minccino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mismagius.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mismagius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Moltres.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Moltres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mothim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mothim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Mr_mime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Mr_mime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Musharna.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Musharna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Nidoking.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Nidoking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Nidoqueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Nidoqueen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Nidoran_f.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Nidoran_f.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Nidoran_m.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Nidoran_m.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Nidorina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Nidorina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Nidorino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Nidorino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Ninetales.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Ninetales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Ninjask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Ninjask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Noibat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Noibat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Noivern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Noivern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Oddish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Oddish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pancham.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pancham.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pangoro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pangoro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Panpour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Panpour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pansage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pansage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pansear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pansear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pelipper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pelipper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Phantump.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Phantump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Phione.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Phione.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pidgeotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pidgeotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pidgey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pidgey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Piloswine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Piloswine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pineco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pineco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pinsir.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pinsir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Porygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Porygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Porygon2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Porygon2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Porygon_z.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Porygon_z.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Probopass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Probopass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Psyduck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Psyduck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pumpkaboo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pumpkaboo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pupitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pupitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Pyroar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Pyroar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Quilladin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Quilladin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Qwilfish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Qwilfish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Raichu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Raichu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Raikou.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Raikou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Regice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Regice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Regigigas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Regigigas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Regirock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Regirock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Riolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Riolu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Roggenrola.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Roggenrola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Roselia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Roselia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Rotom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Rotom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Rufflet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Rufflet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Scizor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Scizor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Sealeo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Sealeo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Seedot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Seedot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Seel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Seel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Sentret.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Sentret.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Serperior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Serperior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Shaymin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Shaymin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Shedinja.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Shedinja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Shelgon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Shelgon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Shelmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Shelmet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Shieldon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Shieldon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Shuckle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Shuckle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Simipour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Simipour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Simisage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Simisage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Simisear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Simisear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Skiddo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Skiddo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Skiploom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Skiploom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Skorupi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Skorupi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Skrelp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Skrelp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Slakoth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Slakoth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Sliggoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Slowking.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Slowking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Slurpuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Slurpuff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Smoochum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Smoochum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Snivy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Snivy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Snorlax.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Snorlax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Solrock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Solrock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Spheal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Spheal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Spinda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Spinda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Spritzee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Spritzee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Stantler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Stantler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Starly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Starly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Starmie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Starmie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Staryu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Staryu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Steelix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Steelix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Stoutland.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Stoutland.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Sudowoodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Sudowoodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Suicune.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Suicune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Sunflora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Sunflora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Sunkern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Sunkern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Swellow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Swellow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Swinub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Swinub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Swirlix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Swirlix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Sylveon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Sylveon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Talonflame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Talonflame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Tangrowth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Tangrowth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Terrakion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Terrakion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Thundurus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Thundurus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Togekiss.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Togekiss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Togepi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Togepi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Togetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Togetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Torkoal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Torkoal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Tornadus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Tornadus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Trapinch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Trapinch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Trevenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Trevenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Tropius.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Tropius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Turtwig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Turtwig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Tyranitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Tyranitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Tyrantrum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Tyrantrum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Tyrogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Tyrogue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Tyrunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Tyrunt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Umbreon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Umbreon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Unfezant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Unfezant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Uxie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Uxie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Vaporeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Vaporeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Venonat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Venonat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Venusaur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Venusaur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Vespiquen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Vespiquen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Victini.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Victini.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Vigoroth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Vigoroth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Virizion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Virizion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Vivillon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Vivillon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Voltorb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Voltorb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Weavile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Weavile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Weepinbell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Weepinbell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Whimsicott.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Whimsicott.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Whirlipede.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Whirlipede.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Whismur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Whismur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Wingull.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Wingull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Wormadam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Wormadam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Yanma.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Yanma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Yanmega.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Yanmega.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Zapdos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Zapdos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/Zigzagoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Zigzagoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/huntail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Huntail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Driver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Generator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/Pikachu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Pikachu.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Pokemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Tackle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Tackle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/EnviroDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/EnviroDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Generator.java" afterDir="false" />
@@ -186,8 +1101,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.poke_to_java_class" />
-        <item itemvalue="Python.sort_by_habitat" />
         <item itemvalue="Python.mass_poke_converter" />
+        <item itemvalue="Python.sort_by_habitat" />
       </list>
     </recent_temporary>
   </component>

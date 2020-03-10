@@ -30,7 +30,7 @@ public class Makuhita extends Pokemon{
 		hJump = 1;
 		power = 6;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 1;
 		combat = 3;

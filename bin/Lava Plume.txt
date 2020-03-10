@@ -1,0 +1,1 @@
+Move: Lava Plume Type: Fire Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: Burst 1 Effect: Lava Plume burns all targets on 16+. Contest Type: Tough Contest Effect: Exhausting Act

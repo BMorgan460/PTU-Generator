@@ -15,7 +15,7 @@ public class Barbaracle extends Pokemon{
 		prevReq = 35;
 		height = "4\'/03\"";
 		weight = 211.6;
-		WC = k;
+		WC = 4;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Water";

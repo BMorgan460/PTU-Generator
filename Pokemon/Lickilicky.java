@@ -12,7 +12,7 @@ public class Lickilicky extends Pokemon{
 		abilities = new String[]{"Thick Fat", "Own Tempo", "Oblivious", "Tingly Tongue", "Nine"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Lickitung();
-		prevReq = Rollout;
+		prevReq = 20;
 		height = "5\'/7\"";
 		weight = 308.6;
 		WC = 5;

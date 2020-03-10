@@ -34,7 +34,7 @@ public class Raichu extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Forest", "Urban"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 2;
 		combat = 4;

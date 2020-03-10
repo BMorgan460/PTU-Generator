@@ -1,0 +1,1 @@
+Move: Hex Type: Ghost Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target Effect: Once a Scene, if Hex’s target has a Status Affliction, you may have Hex’s Damage Base be 13 instead (4d10+10 / 35). Contest Type: Smart Contest Effect: Incentives

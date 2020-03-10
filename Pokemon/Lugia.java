@@ -15,8 +15,8 @@ public class Lugia extends Pokemon{
 		size = "Huge";
 		weight = 476.2;
 		WC = 6;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Arctic", "Ocean", "Capability"};

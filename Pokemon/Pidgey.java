@@ -31,7 +31,7 @@ public class Pidgey extends Pokemon{
 		hJump = 1;
 		power = 1;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 3;
 		combat = 2;

@@ -11,8 +11,8 @@ public class Mr_mime extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Soundproof", "Filter", "Technician", "Copy Master", "Wallmaster"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Mime();
-		prevReq = Mime;
+		previous = new Mime_jr();
+		prevReq = 10;
 		height = "4\'/3\"";
 		weight = 120.2;
 		WC = 4;

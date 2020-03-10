@@ -14,9 +14,9 @@ public class Diancie extends Pokemon{
 		height = "2\'/04\"";
 		size = "Small";
 		weight = 19.3;
-		WC = k;
-		maleRatio = No;
-		femaleRatio = Egg;
+		WC = 1;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Capability", "List"};

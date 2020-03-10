@@ -32,7 +32,7 @@ public class Shieldon extends Pokemon{
 		power = 5;
 		natureWalk = new String[]{"Mountain", "Cave"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 1;
 		combat = 2;

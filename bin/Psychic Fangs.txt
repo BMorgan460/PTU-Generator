@@ -1,0 +1,1 @@
+Move: Psychic Fangs Type: Psychic Frequency: EOT AC: 2 DB: 8 Class: Physical Range: Melee, 1 Target Effect: Light Screen and Reflect may not be activated in response to Psychic Fangs.

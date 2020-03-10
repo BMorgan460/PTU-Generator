@@ -32,7 +32,7 @@ public class Pansage extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;

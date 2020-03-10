@@ -1,0 +1,1 @@
+Move: Flame Charge Type: Fire Frequency: At-Will AC: 2 Damage Base 5: 1d8+8 / 13 Class: Physical Range: Melee, 1 Target, Dash Effect: Raise the user’s Speed 1 Combat Stage. Contest Type: Tough Contest Effect: Excitement 

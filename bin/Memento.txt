@@ -1,0 +1,1 @@
+Move: Memento Type: Dark Frequency: Scene AC: None Class: Status Range: 8, 1 Target, Trigger, Free Action Effect: Memento may be used as a Free Action when the user becomes Fainted. Memento’s target has each of their stats lowered by -2 CS. Contest Type: Tough Contest Effect: Big Show 

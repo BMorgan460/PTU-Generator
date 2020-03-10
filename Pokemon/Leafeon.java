@@ -12,7 +12,7 @@ public class Leafeon extends Pokemon{
 		abilities = new String[]{"Leaf Guard", "Grass Pelt", "Chlorophyll", "Photosynthesis", "Force"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
-		prevReq = Stone;
+		prevReq = 10;
 		height = "3\'/3\"";
 		weight = 56.2;
 		WC = 3;
@@ -31,7 +31,7 @@ public class Leafeon extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 3;
 		combat = 3;

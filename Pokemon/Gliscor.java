@@ -12,7 +12,7 @@ public class Gliscor extends Pokemon{
 		abilities = new String[]{"Hyper Cutter", "Sand Veil", "Poison Heal", "Poison Touch", "Ambush"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Gligar();
-		prevReq = Razor;
+		prevReq = 25;
 		height = "6\'/7\"";
 		weight = 93.7;
 		WC = 3;

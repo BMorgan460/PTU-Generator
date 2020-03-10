@@ -18,7 +18,7 @@ public class Goodra extends Pokemon{
 		height = "6\'/07\"";
 		size = "Large";
 		weight = 331.8;
-		WC = k;
+		WC = 5;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Dragon";
@@ -33,7 +33,7 @@ public class Goodra extends Pokemon{
 		hJump = 2;
 		power = 8;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 5;
 		acro = 3;
 		combat = 4;

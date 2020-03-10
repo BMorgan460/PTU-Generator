@@ -31,7 +31,7 @@ public class Seel extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Ocean", "Tundra"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 2;

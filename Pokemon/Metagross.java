@@ -11,7 +11,7 @@ public class Metagross extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Clear Body", "Light Metal", "Cluster Mind", "Telepathy", "Thrust"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Beldum();
+		//previous = new Beldum();
 		prevReq = 20;
 		previous = new Metang();
 		prevReq = 20;
@@ -19,8 +19,8 @@ public class Metagross extends Pokemon{
 		size = "Large";
 		weight = 1212.5;
 		WC = 6;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Diet";
 		habitats = new String[]{"Cave", "Mountain", "Capability"};

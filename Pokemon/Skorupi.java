@@ -32,7 +32,7 @@ public class Skorupi extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 1;
 		combat = 2;

@@ -12,7 +12,7 @@ public class Mantine extends Pokemon{
 		abilities = new String[]{"Water Absorb", "Wonder Skin", "Serene Grace", "Swift Swim", "Veil"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Mantyke();
-		prevReq = wiht;
+		prevReq = 10;
 		height = "6\'/11\"";
 		size = "Large";
 		weight = 485;

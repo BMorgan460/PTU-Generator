@@ -29,7 +29,7 @@ public class Shuckle extends Pokemon{
 		hJump = 0;
 		power = 4;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 1;
 		combat = 1;

@@ -1,0 +1,1 @@
+Move: Mimic Type: Normal Frequency: Scene AC: None Class: Status Range: 6, 1 Target Effect: Choose a Move that the target has used during the encounter. For the remainder of the encounter, that Move replaces Mimic on the user’s Move List. Mimic cannot miss. Contest Type: Cute Contest Effect: Attention Grabber 

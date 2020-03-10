@@ -34,7 +34,7 @@ public class Electivire extends Pokemon{
 		power = 7;
 		natureWalk = new String[]{"Urban"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 5;
 		acro = 4;
 		combat = 4;

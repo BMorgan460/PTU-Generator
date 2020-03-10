@@ -15,8 +15,8 @@ public class Celebi extends Pokemon{
 		size = "Small";
 		weight = 11;
 		WC = 1;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Forest", "Rainforest", "Capability"};

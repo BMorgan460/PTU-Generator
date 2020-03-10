@@ -1,0 +1,1 @@
+Move: Barrage Type: Normal Frequency: At-Will AC: 4 Damage Base 2: 1d6+3 / 7 Class: Physical Range: 6, 1 Target, Five Strike Effect: None Contest Type: Tough Contest Effect: Reliable 

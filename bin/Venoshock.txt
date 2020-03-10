@@ -1,0 +1,1 @@
+Move: Venoshock Type: Poison Frequency: Scene x2 AC: 2 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target Effect: If the target is Poisoned, Venoshock has a Damage Base of 13 (4d10+10 / 35) instead. Contest Type: Smart Contest Effect: Incentives

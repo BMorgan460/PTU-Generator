@@ -1,0 +1,1 @@
+Move: Toxic Type: Poison Frequency: Scene x2 AC: 4 Class: Status Range: 4, 1 Target Effect: The target is Badly Poisoned. If the user is Poison Type, Toxic cannot miss. Contest Type: Smart Contest Effect: Excitement 

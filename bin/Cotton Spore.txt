@@ -1,0 +1,1 @@
+Move: Cotton Spore Type: Grass Frequency: EOT AC: 2 Class: Status Range: Burst 1, Powder Effect: All Legal Targets have their Speed lowered 2 Combat Stages. Contest Type: Beauty Contest Effect: Saving Grace 

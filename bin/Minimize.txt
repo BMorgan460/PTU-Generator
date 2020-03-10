@@ -1,0 +1,1 @@
+Move: Minimize Type: Normal Frequency: Scene AC: None Class: Status Range: Self Effect: The user gains +4 Evasion, and user’s size is lowered to Small for the remainder of the encounter. Contest Type: Cute Contest Effect: Sabotage Special: Grants Shrinkable

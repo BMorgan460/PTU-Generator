@@ -11,14 +11,14 @@ public class Floette extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Power"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Flabébé();
+		previous = new Flabebe();
 		prevReq = 15;
 		next = new String[]{"Florges"};
 		nextReq = new String[]{"Stone"};
 		height = "0\'/08\"";
 		size = "Small";
 		weight = 2;
-		WC = k;
+		WC = 1;
 		maleRatio = 0;
 		femaleRatio = 100;
 		egg1 = "Fairy";

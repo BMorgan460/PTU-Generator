@@ -8,7 +8,7 @@ public class Tropius extends Pokemon{
 		bSpDef = 9;
 		bSpd = 5;
 		type1 = "Grass";
-		type2 = "";
+		type2 = "Flying";
 		abilities = new String[]{"Chlorophyll", "Solar Power", "Photosynthesis", "Harvest", "Windveiled"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "6\'/7\"";

@@ -11,7 +11,7 @@ public class Wormadam extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Anticipation", "Overcoat", "Adaptation", "Tolerance", "Veil"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Burmy();
+		//previous = new Burmy();
 		prevReq = 20;
 		height = "1\'/8\"";
 		size = "Small";

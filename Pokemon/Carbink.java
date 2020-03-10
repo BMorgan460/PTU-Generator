@@ -14,9 +14,9 @@ public class Carbink extends Pokemon{
 		height = "1\'/00\"";
 		size = "Small";
 		weight = 12.6;
-		WC = k;
-		maleRatio = Genderless;
-		femaleRatio = Group;
+		WC = 6;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Fairy";
 		egg2 = "and";
 		habitats = new String[]{"Cave", "Capability", "List"};
@@ -29,7 +29,7 @@ public class Carbink extends Pokemon{
 		hJump = 1;
 		power = 1;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 1;
 		acro = 3;
 		combat = 2;

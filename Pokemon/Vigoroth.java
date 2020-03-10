@@ -33,7 +33,7 @@ public class Vigoroth extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 4;
 		combat = 4;

@@ -1,0 +1,1 @@
+Move: Floral Healing Type: Fairy Frequency: Daily x2 Class: Status Range: 6, 1 Target Effect: Restore 50% of the targets max Hit Points. If the target is on Grassy Terrain, Floral Healing restores an additional tick of Hit Point. Floral Healing may not target the user.

@@ -17,8 +17,8 @@ public class Voltorb extends Pokemon{
 		size = "Small";
 		weight = 22.9;
 		WC = 1;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Average";
 		habitats = new String[]{"Urban", "Capability", "List"};

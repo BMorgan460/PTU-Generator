@@ -1,0 +1,1 @@
+Move: Feather Dance Type: Flying Frequency: EOT AC: 2 Class: Status Range: Burst 1, Friendly Effect: All legal targets have their Attack lowered 2 Combat Stages. Contest Type: Beauty Contest Effect: Excitement

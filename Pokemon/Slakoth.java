@@ -32,7 +32,7 @@ public class Slakoth extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 1;
 		acro = 1;
 		combat = 1;

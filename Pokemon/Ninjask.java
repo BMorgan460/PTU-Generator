@@ -32,7 +32,7 @@ public class Ninjask extends Pokemon{
 		power = 1;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 5;
 		combat = 4;

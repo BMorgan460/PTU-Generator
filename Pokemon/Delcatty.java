@@ -12,7 +12,7 @@ public class Delcatty extends Pokemon{
 		abilities = new String[]{"Cute Charm", "Normalize", "Celebrate", "Wonder Skin", "Conqueror"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Skitty();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "3\'/7\"";
 		weight = 71.9;
 		WC = 3;

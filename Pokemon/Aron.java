@@ -32,7 +32,7 @@ public class Aron extends Pokemon{
 		power = 5;
 		natureWalk = new String[]{"Cave"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 1;
 		combat = 2;

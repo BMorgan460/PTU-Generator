@@ -15,7 +15,7 @@ public class Gourgeist extends Pokemon{
 		prevReq = 25;
 		height = "2\'/11’\"";
 		weight = 27.6;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Amorphous";

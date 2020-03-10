@@ -16,7 +16,7 @@ public class Tyrantrum extends Pokemon{
 		height = "8\'/02\"";
 		size = "Huge";
 		weight = 592.2;
-		WC = k;
+		WC = 6;
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Monster";

@@ -32,7 +32,7 @@ public class Roggenrola extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Cave", "Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 1;
 		combat = 1;

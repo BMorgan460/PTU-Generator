@@ -12,7 +12,7 @@ public class Ninetales extends Pokemon{
 		abilities = new String[]{"Flash Fire", "Fox Fire", "Competitive", "Cursed Body", "Drought"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Vulpix();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "3\'/7\"";
 		weight = 43.9;
 		WC = 2;

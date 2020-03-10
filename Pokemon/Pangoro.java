@@ -18,7 +18,7 @@ public class Pangoro extends Pokemon{
 		height = "6\'/11\"";
 		size = "Large";
 		weight = 299.8;
-		WC = k;
+		WC = 5;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";

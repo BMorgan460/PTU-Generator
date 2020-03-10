@@ -1,0 +1,1 @@
+Move: Work Up Type: Normal Frequency: EOT AC: None Class: Status Range: Self Effect: Raise the user’s Attack 1 Combat Stage and raise the user’s Special Attack 1 Combat Stage. Contest Type: Tough Contest Effect: Get Ready! 

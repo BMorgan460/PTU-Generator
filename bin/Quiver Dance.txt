@@ -1,0 +1,1 @@
+Move: Quiver Dance Type: Bug Frequency: Scene x2 AC: None Class: Status Range: Self Effect: Raise the user’s Special Attack, Special Defense, and Speed by +1 Combat Stage each. Contest Type: Cool Contest Effect: Get Ready! 

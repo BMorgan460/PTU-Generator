@@ -1,0 +1,1 @@
+Move: Poison Tail Type: Poison Frequency: At-Will AC: 2 Damage Base 5: 1d8+8 / 13 Class: Physical Range: Melee, 1 Target Effect: Poison Tail is a Critical Hit on 18+, and Poisons the target on 19+. Contest Type: Smart Contest Effect: Incentives

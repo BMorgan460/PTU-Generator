@@ -12,7 +12,7 @@ public class Musharna extends Pokemon{
 		abilities = new String[]{"Forewarn", "Synchronize", "Telepathy", "Dreamspinner", "Daze"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Munna();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "3\'/7\"";
 		weight = 133.4;
 		WC = 4;

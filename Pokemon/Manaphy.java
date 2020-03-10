@@ -15,8 +15,8 @@ public class Manaphy extends Pokemon{
 		size = "Small";
 		weight = 3.1;
 		WC = 1;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Water";
 		egg2 = "1";
 		habitats = new String[]{"Ocean", "Capability", "List"};

@@ -15,7 +15,7 @@ public class Snivy extends Pokemon{
 		nextReq = new String[]{"30"};
 		height = "2\'/0\"";
 		size = "Small";
-		weight = 17.9.;
+		weight = 17.9;
 		WC = 1;
 		maleRatio = 87.5;
 		femaleRatio = 12.5;

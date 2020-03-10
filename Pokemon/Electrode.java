@@ -16,8 +16,8 @@ public class Electrode extends Pokemon{
 		height = "3\'/11\"";
 		weight = 146.8;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Diet";
 		habitats = new String[]{"Urban", "Capability", "List"};

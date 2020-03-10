@@ -15,8 +15,8 @@ public class Mewtwo extends Pokemon{
 		size = "Large";
 		weight = 269;
 		WC = 5;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Capability", "List"};

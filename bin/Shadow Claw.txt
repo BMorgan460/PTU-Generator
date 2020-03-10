@@ -1,0 +1,1 @@
+Move: Shadow Claw Type: Ghost Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, Pass Effect: Shadow Claw is a Critical Hit on 18+. Contest Type: Cute Contest Effect: Exhausting Act

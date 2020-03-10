@@ -15,7 +15,7 @@ public class Clawitzer extends Pokemon{
 		prevReq = 35;
 		height = "4\'/03\"";
 		weight = 77.8;
-		WC = k;
+		WC = 3;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Water";

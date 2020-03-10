@@ -1,0 +1,1 @@
+Move: Attract Type: Normal Frequency: Scene x2 AC: 2 Class: Status Range: 3, 1 Target, Social Effect: Attract Infatuates the target if its gender is the opposite of the user’s. Attract fails when used by or against Genderless targets. Contest Type: Cute Contest Effect: Excitement 

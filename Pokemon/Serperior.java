@@ -34,7 +34,7 @@ public class Serperior extends Pokemon{
 		power = 5;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 4;
 		combat = 4;

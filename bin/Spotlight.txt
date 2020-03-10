@@ -1,0 +1,1 @@
+Move: Spotlight Type: Normal Frequency: Scene x2 Class: Status Range: 6, 1 Target, Social Effect: Until the end of the users next turn, all foes must target the target of Spotlight when using a move that target’s one of their opponents. This effect ends if Spotlight’s target faints or is switched out.

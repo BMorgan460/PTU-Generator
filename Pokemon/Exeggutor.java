@@ -12,7 +12,7 @@ public class Exeggutor extends Pokemon{
 		abilities = new String[]{"Filter", "Cluster Mind", "Chlorophyll", "Twisted Power", "Harvest"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Exeggcute();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "6\'/7\"";
 		weight = 264.6;
 		WC = 5;

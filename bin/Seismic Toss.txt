@@ -1,0 +1,1 @@
+Move: Seismic Toss Type: Fighting Frequency: Scene x2 AC: 2 Class: Physical Range: Melee, 1 Target Effect: The target loses Hit Points equal to the level of Seismic Toss’ user. Contest Type: Tough Contest Effect: Steady Performance 

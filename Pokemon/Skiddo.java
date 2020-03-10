@@ -16,7 +16,7 @@ public class Skiddo extends Pokemon{
 		height = "2\'/11\"";
 		size = "Small";
 		weight = 68.3;
-		WC = k;
+		WC = 3;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";

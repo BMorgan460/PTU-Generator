@@ -1,0 +1,1 @@
+Move: Spectral Thief Type: Ghost Frequency: Scene AC: 2 DB: 9 Class: Physical Range: Melee, 1 Target Effect: Before attacking, the user copies any Combat Stages the target has that are above 0.

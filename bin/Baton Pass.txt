@@ -1,0 +1,1 @@
+Move: Baton Pass Type: Normal Frequency: At-Will AC: None Class: Status Range: Self Effect: The user is replaced with another Pokémon from their trainer’s roster. All Combat Stage, Coats, and [Stratagems] on Baton Pass’ user are transferred to the replacement. Baton Pass may be used to switch even if the user is Trapped. Contest Type: Cute Contest Effect: Inversed Appeal 

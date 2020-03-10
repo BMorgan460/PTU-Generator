@@ -12,7 +12,7 @@ public class Yanmega extends Pokemon{
 		abilities = new String[]{"Speed Boost", "Compound Eyes", "Frisk", "Rocket", "Lens"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Yanma();
-		prevReq = Ancient;
+		prevReq = 30;
 		height = "6\'/3\"";
 		weight = 113.5;
 		WC = 4;

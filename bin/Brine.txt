@@ -1,0 +1,1 @@
+Move: Brine Type: Water Frequency: Scene x2 AC: 2 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target Effect: If the target’s Hit Points are under 50%, Brine’s Damage Base is increased to Damage Base 13 (4d10+10 / 35). Contest Type: Smart Contest Effect: Incentives

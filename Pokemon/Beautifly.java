@@ -11,9 +11,9 @@ public class Beautifly extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Pride", "Rivalry", "Cruelty", "Swarm", "Sipper"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Wurmple();
+		//previous = new Wurmple();
 		prevReq = 5;
-		previous = new Silcoon();
+		//previous = new Silcoon();
 		prevReq = 5;
 		height = "3\'/3\"";
 		weight = 62.6;
@@ -33,7 +33,7 @@ public class Beautifly extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;

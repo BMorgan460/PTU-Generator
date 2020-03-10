@@ -1,0 +1,1 @@
+Move: Karate Chop Type: Fighting Frequency: At-Will AC: 2 Damage Base 5: 1d8+8 / 13 Class: Physical Range: Melee, 1 Target Effect: Karate Chop is a Critical Hit on 17+. Contest Type: Tough Contest Effect: Steady Performance

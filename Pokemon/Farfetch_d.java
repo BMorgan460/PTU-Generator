@@ -11,8 +11,6 @@ public class Farfetch_d extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Keen Eye", "Inner Focus", "Defiant", "Super Luck", "Mastery"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Farfetch’d();
-		prevReq = 2’;
 		height = "2\'/7\"";
 		size = "Small";
 		weight = 33.1;

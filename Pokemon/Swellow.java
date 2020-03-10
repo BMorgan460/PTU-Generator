@@ -30,7 +30,7 @@ public class Swellow extends Pokemon{
 		hJump = 3;
 		power = 1;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 3;

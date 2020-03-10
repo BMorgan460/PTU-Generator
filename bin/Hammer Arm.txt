@@ -1,0 +1,1 @@
+Move: Hammer Arm Type: Fighting Frequency: EOT AC: 3 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Melee, 1 Target Effect: The user lowers their Speed 1 Combat Stage. Contest Type: Cool Contest Effect: Desperation

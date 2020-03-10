@@ -15,8 +15,8 @@ public class Zapdos extends Pokemon{
 		size = "Large";
 		weight = 116;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Flying";
 		egg2 = "Average";
 		habitats = new String[]{"Mountain", "Urban", "Capability"};

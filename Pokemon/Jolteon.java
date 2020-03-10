@@ -12,7 +12,7 @@ public class Jolteon extends Pokemon{
 		abilities = new String[]{"Volt Absorb", "Sprint", "Thunder Boost", "Quick Feet", "Vanguard"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
-		prevReq = Size;
+		prevReq = 10;
 		height = "2\'/7\"";
 		weight = 54;
 		WC = 2;

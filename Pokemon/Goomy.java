@@ -16,7 +16,7 @@ public class Goomy extends Pokemon{
 		height = "1\'/00\"";
 		size = "Small";
 		weight = 6.2;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Dragon";

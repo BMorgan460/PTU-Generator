@@ -33,7 +33,7 @@ public class Grotle extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 3;

@@ -39,7 +39,7 @@ public class Drilbur extends Pokemon{
 		focus = 2;
 		athlBonus = 0;
 		acroBonus = 0;
-		combatBonus = !;
+		combatBonus = 1;
 		stealthBonus = 1;
 		percepBonus = 1;
 		focusBonus = 1;

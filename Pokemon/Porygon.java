@@ -17,8 +17,8 @@ public class Porygon extends Pokemon{
 		size = "Small";
 		weight = 80.5;
 		WC = 3;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Diet";
 		habitats = new String[]{"Urban", "Capability", "List"};

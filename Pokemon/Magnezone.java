@@ -18,8 +18,8 @@ public class Magnezone extends Pokemon{
 		height = "3\'/11\"";
 		weight = 396.8;
 		WC = 5;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Diet";
 		habitats = new String[]{"Mountain", "Capability", "List"};

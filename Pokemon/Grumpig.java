@@ -31,7 +31,7 @@ public class Grumpig extends Pokemon{
 		power = 5;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 3;
 		combat = 3;

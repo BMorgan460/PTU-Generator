@@ -16,7 +16,7 @@ public class Clauncher extends Pokemon{
 		height = "1\'/08\"";
 		size = "Small";
 		weight = 18.3;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Water";

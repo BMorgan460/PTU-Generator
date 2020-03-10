@@ -1,0 +1,1 @@
+Move: Crush Claw Type: Normal Frequency: EOT AC: 3 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target, Dash Effect: Crush Claw lowers the target’s Defense 1 Combat Stage on Even-Numbered Rolls. Contest Type: Cool Contest Effect: Steady Performance 

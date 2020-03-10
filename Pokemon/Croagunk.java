@@ -31,7 +31,7 @@ public class Croagunk extends Pokemon{
 		hJump = 3;
 		power = 3;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 3;

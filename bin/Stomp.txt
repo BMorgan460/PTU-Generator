@@ -1,0 +1,1 @@
+Move: Stomp Type: Normal Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: Stomp Flinches the target on 15+. If the target is at least one size category smaller than the user, Stomp deals an additional 10 damage. Contest Type: Tough Contest Effect: Steady Performance 

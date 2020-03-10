@@ -17,8 +17,8 @@ public class Bronzor extends Pokemon{
 		size = "Small";
 		weight = 133.4;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Forest", "Mountain"};

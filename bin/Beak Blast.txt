@@ -1,0 +1,1 @@
+Move: Beak Blast Type: Flying Frequency: Scene x2 AC: 4 DB: 10 Class: Phyical Range: Melee, Pass, Priority (Limited) Effect: Use of Beak Blast must be declared as a Priority (Limited) action at the beginning of the round. Any Melee range attack that strikes the user during the round burns the moves user. At the end of the round, the user may shift and useBeak Blast.

@@ -32,7 +32,7 @@ public class Bidoof extends Pokemon{
 		power = 1;
 		natureWalk = new String[]{"Grassland", "Wetlands"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 1;

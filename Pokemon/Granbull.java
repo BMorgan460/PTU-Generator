@@ -30,7 +30,7 @@ public class Granbull extends Pokemon{
 		hJump = 2;
 		power = 5;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 2;
 		combat = 4;

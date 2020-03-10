@@ -1,0 +1,1 @@
+Move: Bonemerang Type: Ground Frequency: EOT AC: 3 Damage Base 5: 1d8+8 / 13 Class: Physical Range: 6, Double Strike Effect: None Contest Type: Tough Contest Effect: Reliable 

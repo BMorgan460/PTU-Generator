@@ -11,13 +11,13 @@ public class Florges extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Power"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Flabébé();
+		previous = new Flabebe();
 		prevReq = 15;
 		previous = new Floette();
 		prevReq = 15;
 		height = "3\'/07\"";
 		weight = 22;
-		WC = k;
+		WC = 2;
 		maleRatio = 0;
 		femaleRatio = 100;
 		egg1 = "Fairy";

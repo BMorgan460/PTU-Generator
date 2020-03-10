@@ -16,7 +16,7 @@ public class Noibat extends Pokemon{
 		height = "1\'/08\"";
 		size = "Small";
 		weight = 17.6;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Flying";

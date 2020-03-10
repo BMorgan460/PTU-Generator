@@ -1,0 +1,1 @@
+Move: Fire Lash Type: Fire Frequency: EOT AC: 2 DB: 8 Class: Physical Range: 4, 1 Target Effect: Fire Lash lowers the targets Defense 1 Combat Stage.

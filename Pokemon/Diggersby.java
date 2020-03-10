@@ -15,7 +15,7 @@ public class Diggersby extends Pokemon{
 		prevReq = 20;
 		height = "3\'/03\"";
 		weight = 93.5;
-		WC = k;
+		WC = 3;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";

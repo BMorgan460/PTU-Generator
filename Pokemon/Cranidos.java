@@ -31,7 +31,7 @@ public class Cranidos extends Pokemon{
 		power = 5;
 		natureWalk = new String[]{"Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 2;

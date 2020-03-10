@@ -1,0 +1,1 @@
+Move: Confusion Type: Psychic Frequency: At-Will AC: 2 Damage Base 5: 1d8+8 / 13 Class: Special Range: 6, 1 Target Effect: Confusion Confuses the target on 19+. Contest Type: Smart Contest Effect: Steady Performance

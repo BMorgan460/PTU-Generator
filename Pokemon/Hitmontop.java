@@ -12,7 +12,7 @@ public class Hitmontop extends Pokemon{
 		abilities = new String[]{"Intimidate", "Technician", "Steadfast", "Discipline", "Kicks"};
 		abilityTypeCount = new int[] {2,1,1};
 		previous = new Tyrogue();
-		prevReq = Attack;
+		prevReq = 10;
 		height = "4\'/7\"";
 		weight = 105.8;
 		WC = 3;

@@ -1,0 +1,1 @@
+Move: Cut Type: Normal Frequency: At-Will AC: 3 Damage Base 5: 1d8+8 / 13 Class: Physical Range: Melee, Pass Effect: Cut ignores up to 5 Damage Reduction (Defenses are not Damage Reduction). Contest Type: Cool Contest Effect: Steady Performance

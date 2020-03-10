@@ -16,7 +16,7 @@ public class Trevenant extends Pokemon{
 		height = "4\'/11\"";
 		size = "Large";
 		weight = 156.5;
-		WC = k;
+		WC = 4;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Grass";

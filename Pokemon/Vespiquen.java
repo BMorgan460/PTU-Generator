@@ -11,7 +11,7 @@ public class Vespiquen extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Rally", "Pressure", "Unnerve", "Regal Challenge", "Guard"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Combee();
+		//previous = new Combee();
 		prevReq = 20;
 		height = "3\'/11\"";
 		weight = 84.9;

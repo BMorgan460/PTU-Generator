@@ -1,0 +1,1 @@
+Move: Low Sweep Type: Fighting Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 1 Target Effect: Lowers the target’s Speed 1 Combat Stage. Contest Type: Tough Contest Effect: Steady Performance 

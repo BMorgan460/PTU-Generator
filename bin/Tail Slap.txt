@@ -1,0 +1,1 @@
+Move: Tail Slap Type: Normal Frequency: EOT AC: 4 Damage Base 3: 1d6+5 / 9 Class: Physical Range: Melee, 1 Target, Five Strike Effect: None Contest Type: Cute Contest Effect: Reliable 

@@ -29,7 +29,7 @@ public class Carnivine extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 3;

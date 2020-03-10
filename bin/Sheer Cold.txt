@@ -1,0 +1,1 @@
+Move: Sheer Cold Type: Ice Frequency: Daily AC: None Class: Status Range: 4, 1 Target, Execute Effect: Roll 1d100. This roll may not be modified in any way.  If you roll X or lower, the target Faints. X is equal to 30 + The User’s Level - The Target’s Level. Contest Type: Beauty Contest Effect: Big Show Special: Grants Freezer

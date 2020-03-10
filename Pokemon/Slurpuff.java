@@ -12,11 +12,11 @@ public class Slurpuff extends Pokemon{
 		abilities = new String[]{"Sweet Veil", "Frisk", "Lunchbox", "Unburden", "Instinct"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Swirlix();
-		prevReq = Whipped;
+		prevReq = 20;
 		height = "2\'/07\"";
 		size = "Small";
 		weight = 11;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Fairy";
@@ -31,7 +31,7 @@ public class Slurpuff extends Pokemon{
 		hJump = 2;
 		power = 2;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 3;

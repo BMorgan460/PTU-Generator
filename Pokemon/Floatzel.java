@@ -31,7 +31,7 @@ public class Floatzel extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Ocean", "Wetlands"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 5;
 		combat = 3;

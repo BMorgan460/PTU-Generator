@@ -1,0 +1,1 @@
+Move: Yawn Type: Normal Frequency: Scene x2 AC: None Class: Status Range: 2, 1 Target, Social Effect: The target falls Asleep at the end of their next turn. Yawn cannot miss. Contest Type: Cute Contest Effect: Excitement

@@ -15,8 +15,8 @@ public class Landorus extends Pokemon{
 		size = "Large";
 		weight = 149.9;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Mountian", "Capability", "List"};

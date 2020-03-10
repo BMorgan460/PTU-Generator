@@ -1,0 +1,1 @@
+Move: Seed Flare Type: Grass Frequency: Scene AC: 5 Damage Base 12: 3d12+10 / 30 Class: Special Range: 6, Ranged Blast 3 Effect: All Legal Targets have their Special Defense lowered 1 Combat Stage. Contest Type: Cool Contest Effect: Seen Nothing Yet 

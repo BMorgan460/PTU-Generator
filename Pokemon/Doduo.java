@@ -30,7 +30,7 @@ public class Doduo extends Pokemon{
 		hJump = 5;
 		power = 4;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;

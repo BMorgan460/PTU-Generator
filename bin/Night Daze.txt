@@ -1,0 +1,1 @@
+Move: Night Daze Type: Dark Frequency: EOT AC: 3 Damage Base 9: 2d10+10 / 21 Class: Special Range: 4, 1 Target Effect: Night Daze lowers the target’s Accuracy by -1 on 13+. Contest Type: Tough Contest Effect: Unsettling 

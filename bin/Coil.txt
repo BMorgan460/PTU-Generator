@@ -1,0 +1,1 @@
+Move: Coil Type: Poison Frequency: Scene x2 AC: None Class: Status Range: Self Effect: Raise the user’s Attack 1 Combat Stage, raise the user’s Defense 1 Combat Stage, and the user gains +1 Accuracy. Contest Type: Cute Contest Effect: Get Ready! 

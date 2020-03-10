@@ -1,0 +1,1 @@
+Move: Stone Edge Type: Rock Frequency: EOT AC: 5 Damage Base 10: 3d8+10 / 24 Class: Physical Range: 8, 1 Target Effect: Stone Edge is a Critical Hit on 17+. Contest Type: Tough Contest Effect: Incentives 

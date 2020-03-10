@@ -33,7 +33,7 @@ public class Lairon extends Pokemon{
 		power = 9;
 		natureWalk = new String[]{"Cave"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 1;
 		combat = 3;

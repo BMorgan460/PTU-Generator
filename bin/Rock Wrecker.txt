@@ -1,0 +1,1 @@
+Move: Rock Wrecker Type: Rock Frequency: Daily x2 AC: 4 Damage Base 15: 4d10+20 / 45 Class: Physical Range: Melee, 1 Target, Dash, Exhaust, Smite Effect: None Contest Type: Tough Contest Effect: Seen Nothing Yet Special: Grants Materializer 

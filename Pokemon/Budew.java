@@ -32,7 +32,7 @@ public class Budew extends Pokemon{
 		power = 1;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 1;
 		acro = 2;
 		combat = 1;

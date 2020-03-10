@@ -8,7 +8,7 @@ public class Dwebble extends Pokemon{
 		bSpDef = 4;
 		bSpd = 6;
 		type1 = "Bug";
-		type2 = "";
+		type2 = "Rock";
 		abilities = new String[]{"Sturdy", "Shell Armor", "Hyper Cutter", "Weak Armor", "Rattled"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Crustle"};
@@ -32,7 +32,7 @@ public class Dwebble extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Desert", "Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 2;

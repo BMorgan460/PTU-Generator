@@ -32,7 +32,7 @@ public class Machop extends Pokemon{
 		power = 5;
 		natureWalk = new String[]{"Cave", "Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 3;

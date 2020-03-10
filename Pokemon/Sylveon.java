@@ -12,12 +12,10 @@ public class Sylveon extends Pokemon{
 		abilities = new String[]{"Cute Charm", "Gentle Vibe", "Pixilate", "Friend Guard", "Celebrate"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
-		prevReq = Stone;
-		previous = new Vaporeon();
-		prevReq = Stone;
+		prevReq = 10;
 		height = "3\'/03\"";
 		weight = 51.8;
-		WC = k;
+		WC = 2;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";
@@ -32,7 +30,7 @@ public class Sylveon extends Pokemon{
 		hJump = 2;
 		power = 3;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 3;

@@ -16,8 +16,8 @@ public class Claydol extends Pokemon{
 		height = "4\'/11\"";
 		weight = 238.1;
 		WC = 5;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Diet";
 		habitats = new String[]{"Cave", "Capability", "List"};

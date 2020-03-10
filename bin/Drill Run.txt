@@ -1,0 +1,1 @@
+Move: Drill Run Type: Ground Frequency: At-Will AC: 3 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target Effect: Drill Run is a Critical Hit on 18+. Contest Type: Cool Contest Effect: Steady Performance 

@@ -1,0 +1,1 @@
+Move: Confide Type: Normal Frequency: At-Will AC: 2 Class: Status Range: 4, 1 Target, Social Effect: The target’s Special Attack is lowered 1 Combat Stage. Contest Type: Cute Contest Effect: Excitement

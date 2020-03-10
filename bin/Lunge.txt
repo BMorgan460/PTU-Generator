@@ -1,0 +1,1 @@
+Move: Lunge Type: Bug Frequency: EOT AC: 2 DB: 8 Class: Physical Range: Melee, 1 Target, Dash Effect: Lunge lowers the targets Attack 1 Combat Stage on 15+.

@@ -33,7 +33,7 @@ public class Boldore extends Pokemon{
 		power = 8;
 		natureWalk = new String[]{"Cave", "Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 1;
 		combat = 2;

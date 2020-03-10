@@ -16,7 +16,7 @@ public class Tyrunt extends Pokemon{
 		height = "2\'/07\"";
 		size = "Small";
 		weight = 57.3;
-		WC = k;
+		WC = 3;
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Monster";
@@ -32,7 +32,7 @@ public class Tyrunt extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 3;

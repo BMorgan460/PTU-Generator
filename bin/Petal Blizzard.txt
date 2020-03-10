@@ -1,0 +1,1 @@
+Move: Petal Blizzard Type: Grass Frequency: EOT AC: 2 Damage Base 9: 2d10+10 / 21 Class: Physical Range: Burst 1 Effect: None. Contest Type: Beauty Contest Effect: Big Show

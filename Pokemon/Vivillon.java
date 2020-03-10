@@ -11,13 +11,13 @@ public class Vivillon extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Compound Eyes", "Shield Dust", "Friend Guard", "Wonder Skin", "Spore"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Scatterbug();
+		//previous = new Scatterbug();
 		prevReq = 5;
-		previous = new Spewpa();
+		//previous = new Spewpa();
 		prevReq = 5;
 		height = "3\'/11\"";
 		weight = 37.5;
-		WC = k;
+		WC = 2;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Bug";

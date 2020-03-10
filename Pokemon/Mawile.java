@@ -30,7 +30,7 @@ public class Mawile extends Pokemon{
 		power = 1;
 		natureWalk = new String[]{"Cave"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 3;
 		combat = 3;

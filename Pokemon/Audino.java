@@ -28,7 +28,7 @@ public class Audino extends Pokemon{
 		hJump = 1;
 		power = 2;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 1;

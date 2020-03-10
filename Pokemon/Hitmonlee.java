@@ -12,7 +12,7 @@ public class Hitmonlee extends Pokemon{
 		abilities = new String[]{"Reckless", "Limber", "Unburden", "Discipline", "Kicks"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Tyrogue();
-		prevReq = Attack;
+		prevReq = 20;
 		height = "4\'/11\"";
 		weight = 109.8;
 		WC = 3;

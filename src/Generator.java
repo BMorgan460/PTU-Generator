@@ -1,4 +1,5 @@
 import java.lang.Class;
+import java.lang.reflect.InvocationTargetException;
 
 /**
  * Creates the actual Pokemon that is used Author : MageMan460/GrandMage460
@@ -20,11 +21,11 @@ public class Generator {
         try {
             @SuppressWarnings("unchecked")
             Class<Pokemon> p1 = (Class<Pokemon>)Class.forName(name);
-            genned = (Pokemon)p1.newInstance();
+            genned = (Pokemon) p1.getDeclaredConstructor().newInstance();
             int levels = (int)(Math.random() * (maxLevel - minLevel + 1)) + minLevel;
-            if(genned.getPrevReq() > levels && evo) {
+            if(genned.hasPrev() && (genned.getPrevReq() > levels) && evo) {
                 genned = genned.getPrev();
-                if(genned.getPrevReq() > levels) {
+                if(genned.hasPrev() && genned.getPrevReq() > levels) {
                     genned = genned.getPrev();
                 }
             }
@@ -37,17 +38,29 @@ public class Generator {
                 genned.update();
             }
             catch (Exception e) {
-
+                e.printStackTrace();
             }
         }
         catch (ClassNotFoundException e) {
             System.out.println("Not a Pokemon name");
         }
-        catch (IllegalAccessException e) {
-
+        catch (IllegalAccessException e1) {
+            
+        }
+        catch (IllegalArgumentException e1) {
+            
+        }
+        catch (InvocationTargetException e1) {
+            
+        }
+        catch (NoSuchMethodException e1) {
+            
+        }
+        catch (SecurityException e1) {
+            
         }
         catch (InstantiationException e1) {
-
+            
         }
     }
 
@@ -55,21 +68,8 @@ public class Generator {
     public String toJSON() {
         return genned.toJSON();
     }
-
-    public static void main(String[] args) {
-        Pokemon t = new Pikachu();
-        t.setNature();
-        t.normalize();
-        t.levelUp(10);
-        String[] moves = t.generateMoveList();
-        String[] abilities = t.generateAbilities();
-        System.out.print(t);
-        for (int i = 0; i < moves.length; i++) {
-            System.out.println(moves[i]);
-        }
-        for (int i = 0; i < abilities.length; i++) {
-            System.out.println(abilities[i]);
-        }
-        System.out.print(t.toJSON());
+    
+    public String getName() {
+        return genned.getName();
     }
 }

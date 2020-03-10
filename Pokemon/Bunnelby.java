@@ -32,7 +32,7 @@ public class Bunnelby extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Grassland", "Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;

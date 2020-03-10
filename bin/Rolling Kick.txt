@@ -1,0 +1,1 @@
+Move: Rolling Kick Type: Fighting Frequency: At-Will AC: 4 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target Effect: Rolling Kick Flinches the target on 15+. Contest Type: Cool Contest Effect: Steady Performance 

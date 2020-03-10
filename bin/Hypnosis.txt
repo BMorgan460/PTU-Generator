@@ -1,0 +1,1 @@
+Move: Hypnosis Type: Psychic Frequency: Scene x2 AC: 6 Class: Status Range: 4, 1 Target Effect: The target falls Asleep. Contest Type: Smart Contest Effect: Excitement 

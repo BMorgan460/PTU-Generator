@@ -32,7 +32,7 @@ public class Gible extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Desert"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 2;

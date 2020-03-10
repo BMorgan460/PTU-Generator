@@ -32,7 +32,7 @@ public class Togekiss extends Pokemon{
 		hJump = 2;
 		power = 6;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 3;
 		combat = 3;

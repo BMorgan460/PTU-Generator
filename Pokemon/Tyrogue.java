@@ -31,7 +31,7 @@ public class Tyrogue extends Pokemon{
 		hJump = 1;
 		power = 4;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 3;

@@ -1,0 +1,1 @@
+Move: Brutal Swing Type: Dark Frequency: At-Will AC: 2 DB: 6 Class: Physical Range: Melee, Burst 1

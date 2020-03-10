@@ -1,0 +1,1 @@
+Move: Strength Type: Normal Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target, Push Effect: You may immediately initiate a Push Maneuver as a Free Action. The Maneuver automatically hits, but you must still make the Opposed Roll. Contest Type: Tough Contest Effect: Steady Performance Special: Grants +1 Power

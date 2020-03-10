@@ -31,7 +31,7 @@ public class Crustle extends Pokemon{
 		power = 5;
 		natureWalk = new String[]{"Desert", "Mountain"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 1;
 		combat = 2;

@@ -12,7 +12,7 @@ public class Simipour extends Pokemon{
 		abilities = new String[]{"Decoy", "Gluttony", "Rain Dish", "Water Absorb", "Torrent"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Panpour();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "3\'/3\"";
 		weight = 63.9;
 		WC = 3;

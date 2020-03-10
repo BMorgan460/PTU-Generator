@@ -33,7 +33,7 @@ public class Piloswine extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Tundra"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 1;
 		combat = 3;

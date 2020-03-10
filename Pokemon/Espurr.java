@@ -16,7 +16,7 @@ public class Espurr extends Pokemon{
 		height = "1\'/00\"";
 		size = "Small";
 		weight = 7.7;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Field";

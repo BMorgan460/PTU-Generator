@@ -1,0 +1,1 @@
+Move: Spark Type: Electric Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: Melee, 1 Target, Dash Effect: Spark Paralyzes the target on 15+. Contest Type: Cool Contest Effect: Steady Performance 

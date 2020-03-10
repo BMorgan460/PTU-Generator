@@ -1,0 +1,1 @@
+Move: Role Play Type: Psychic Frequency: Daily AC: None Class: Status Range: Melee, 1 Target Effect: The user gains one of the target’s Abilities, chosen at random, for the remainder of the encounter. This effect ends if the user Faints or is switched out. Role Play cannot miss. Contest Type: Cute Contest Effect: Catching Up

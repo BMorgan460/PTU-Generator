@@ -32,7 +32,7 @@ public class Snorlax extends Pokemon{
 		power = 12;
 		natureWalk = new String[]{"Forest", "Mountain"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 6;
 		acro = 2;
 		combat = 3;

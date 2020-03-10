@@ -16,7 +16,7 @@ public class Dragalge extends Pokemon{
 		height = "5\'/11\"";
 		size = "Large";
 		weight = 179.7;
-		WC = k;
+		WC = 4;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Water";

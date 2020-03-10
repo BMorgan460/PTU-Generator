@@ -1,0 +1,1 @@
+Move: Revelation Dance Type: Normal Frequency: EOT AC: 2 DB: 9 Class: Special Range: 6, 1 Target Effect: This attack’s type matches the Primary type of the user.

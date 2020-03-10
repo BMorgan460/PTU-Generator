@@ -1,0 +1,1 @@
+Move: Ice Shard Type: Ice Frequency: At-Will AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: 4, 1 Target, Priority Effect: None Contest Type: Beauty Contest Effect: Saving Grace 

@@ -42,7 +42,7 @@ public class Pinsir extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 4, 8, 11, 15, 18, 22, 26, 29, 33, 36, 40, 43, 47, 50};
-		moves = new String[]{"Focus Energy", "Vice", "Bind", "Seismic Toss", "Harden", "Revenge", "Vital Throw", "Double Hit", "Brick Break", "Submission", "XScissor", "Storm Throw", "Swords Dance", "Thrash", "Superpower", "Guillotine"};
+		moves = new String[]{"Focus Energy", "Vice Grip", "Bind", "Seismic Toss", "Harden", "Revenge", "Vital Throw", "Double Hit", "Brick Break", "Submission", "XScissor", "Storm Throw", "Swords Dance", "Thrash", "Superpower", "Guillotine"};
 		TMs = new String[]{"Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "False Swipe", "Fling", "Giga Impact", "Stone Edge", "Swords Dance", "Struggle Bug", "Bulldoze", "Rock Slide", "XScissor", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Bug Bite", "Bite", "Close Combat", "Feint Attack", "False Swipe", "Feint", "Flail", "Fury Attack", "Me First", "Quick Attack", "Superpower"};
 		tutorMoves = new String[]{"Bind", "Body Slam", "Slam", "Bug Bite", "Bite", "Focus Punch", "Fury Cutter", "Iron Defense", "Knock Off", "Sleep Talk", "Snore", "Stealth Rock", "String Shot", "Superpower"};

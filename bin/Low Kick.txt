@@ -1,0 +1,1 @@
+Move: Low Kick Type: Fighting Frequency: EOT AC: 2 Damage Base: See Effect Class: Physical Range: Melee, 1 Target, Weight Class Effect: Low Kick’s Damage Base is equal to twice the target’s Weight Class. Contest Type: Tough Contest Effect: Steady Performance 

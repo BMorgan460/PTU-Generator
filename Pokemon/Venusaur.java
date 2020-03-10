@@ -11,7 +11,7 @@ public class Venusaur extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Confidence", "Photosynthesis", "Chlorophyll", "Aroma Veil", "Courage"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Bulbasaur();
+		//previous = new Bulbasaur();
 		prevReq = 15;
 		previous = new Ivysaur();
 		prevReq = 15;

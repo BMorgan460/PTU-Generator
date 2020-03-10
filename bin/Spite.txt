@@ -1,0 +1,1 @@
+Move: Spite Type: Ghost Frequency: Scene AC: None Class: Status Range: 1 Target, Trigger Effect: Spite may be used as a Free Action that does not take up a Command whenever the user is hit by a Move. That Move becomes Disabled for the attacker. Contest Type: Tough Contest Effect: Excitement 

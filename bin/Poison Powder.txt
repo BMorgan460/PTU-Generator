@@ -1,0 +1,1 @@
+Move: Poison Powder Type: Poison Frequency: EOT AC: 6 Class: Status Range: 4, 1 Target, Powder Effect: The target is Poisoned. Contest Type: Smart Contest Effect: Excitement 

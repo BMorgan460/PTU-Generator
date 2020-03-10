@@ -1,0 +1,1 @@
+Move: Power Gem Type: Rock Frequency: At-Will AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: 6, 1 Target Effect: None Contest Type: Beauty Contest Effect: Steady Performance

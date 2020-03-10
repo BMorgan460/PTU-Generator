@@ -1,0 +1,1 @@
+Move: Rototiller Type: Ground Frequency: Scene AC: None Class: Status Range: Burst 2 Effect: All Grass-type Pokémon in the area raise their Attack and Special Attack 1 Combat Stage. Contest Type: Tough Contest Effect: Special Attention 

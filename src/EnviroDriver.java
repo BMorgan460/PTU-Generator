@@ -33,59 +33,59 @@ public class EnviroDriver {
         String name = "";
         switch (enviro) {
             case "Arctic":
-                name = ARCTIC[((int)Math.random() * ARCTIC.length)];
+                name = ARCTIC[((int)(Math.random() * ARCTIC.length))];
                 break;
             case "Beach":
-                name = BEACH[((int)Math.random() * BEACH.length)];
+                name = BEACH[((int)(Math.random() * BEACH.length))];
                 break;
             case "Cave":
-                name = CAVE[((int)Math.random() * CAVE.length)];
+                name = CAVE[((int)(Math.random() * CAVE.length))];
                 break;
             case "Desert":
-                name = DESERT[((int)Math.random() * DESERT.length)];
+                name = DESERT[((int)(Math.random() * DESERT.length))];
                 break;
             case "Forest":
-                name = FOREST[((int)Math.random() * FOREST.length)];
+                name = FOREST[((int)(Math.random() * FOREST.length))];
                 break;
-            case "Fresh Water":
-                name = FRESH[((int)Math.random() * FRESH.length)];
+            case "Fresh":
+                name = FRESH[((int)(Math.random() * FRESH.length))];
                 break;
             case "Grasslands":
-                name = GRASS[((int)Math.random() * GRASS.length)];
+                name = GRASS[((int)(Math.random() * GRASS.length))];
                 break;
             case "Marsh":
-                name = MARSH[((int)Math.random() * MARSH.length)];
+                name = MARSH[((int)(Math.random() * MARSH.length))];
                 break;
             case "Mountain":
                 name = MOUNTAIN[((int)(Math.random() * MOUNTAIN.length))];
                 break;
             case "Rainforest":
-                name = RAIN[((int)Math.random() * RAIN.length)];
+                name = RAIN[((int)(Math.random() * RAIN.length))];
                 break;
             case "Ocean":
-                name = OCEAN[((int)Math.random() * OCEAN.length)];
+                name = OCEAN[((int)(Math.random() * OCEAN.length))];
                 break;
             case "Taiga":
-                name = TAIGA[((int)Math.random() * TAIGA.length)];
+                name = TAIGA[((int)(Math.random() * TAIGA.length))];
                 break;
             case "Tundraa":
-                name = TUNDRAA[((int)Math.random() * TUNDRAA.length)];
+                name = TUNDRAA[((int)(Math.random() * TUNDRAA.length))];
                 break;
             case "Urban":
-                name = URBAN[((int)Math.random() * URBAN.length)];
+                name = URBAN[((int)(Math.random() * URBAN.length))];
                 break;
             default:
                 System.out.println("Not an environment");
         }
         name = name.charAt(0) + name.substring(1, name.length()).toLowerCase().replace(" ", "_");
-        System.out.println(name);
+        System.out.println(name);        
         Generator genned = new Generator(name, minLevel, maxLevel, true);
         String json = genned.toJSON();
         String path = System.getProperty("user.dir");
         path = path + System.getProperty("file.separator") + "JSON" + System.getProperty("file.separator") + "temp";
         File folder = new File(path);
         File[] listOfFiles = folder.listFiles();
-        path = path + System.getProperty("file.separator") + name + "_" + listOfFiles.length + ".txt";
+        path = path + System.getProperty("file.separator") + genned.getName() + "_" + listOfFiles.length + ".pokemon";
         File file = new File(path);
         try {
             PrintWriter printer = new PrintWriter(file);

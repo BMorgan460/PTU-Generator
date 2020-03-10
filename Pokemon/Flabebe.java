@@ -11,16 +11,10 @@ public class Flabebe extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Power"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Flabébé();
-		prevReq = 15;
-		previous = new Floette();
-		prevReq = 15;
-		previous = new Florges();
-		prevReq = Stone;
 		height = "0\'/04\"";
 		size = "Small";
 		weight = 0.2;
-		WC = k;
+		WC = 1;
 		maleRatio = 0;
 		femaleRatio = 100;
 		egg1 = "Fairy";

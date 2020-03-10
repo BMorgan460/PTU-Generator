@@ -17,7 +17,7 @@ public class Talonflame extends Pokemon{
 		prevReq = 15;
 		height = "3\'/11\"";
 		weight = 54;
-		WC = k;
+		WC = 3;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Flying";

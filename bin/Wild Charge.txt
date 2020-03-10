@@ -1,0 +1,1 @@
+Move: Wild Charge Type: Electric Frequency: At-Will AC: 2 Damage Base 9: 2d10+10 / 21 Class: Physical Range: Melee, 1 Target, Dash, Recoil 1/3 Effect: None. Contest Type: Tough Contest Effect: Steady Performance

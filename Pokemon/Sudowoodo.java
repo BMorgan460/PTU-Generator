@@ -12,7 +12,7 @@ public class Sudowoodo extends Pokemon{
 		abilities = new String[]{"Copy Master", "Sturdy", "Cute Tears", "Mimitree", "Head"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Bonsly();
-		prevReq = Learn;
+		prevReq = 10;
 		height = "3\'/11\"";
 		weight = 83.8;
 		WC = 3;

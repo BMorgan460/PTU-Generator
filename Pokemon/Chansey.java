@@ -12,7 +12,7 @@ public class Chansey extends Pokemon{
 		abilities = new String[]{"Natural Cure", "Serene Grace", "Friend Guard", "Healer", "Touch"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Happiny();
-		prevReq = Oval;
+		prevReq = 10;
 		height = "3\'/7\"";
 		weight = 76.3;
 		WC = 3;

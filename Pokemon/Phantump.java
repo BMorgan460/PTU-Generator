@@ -16,7 +16,7 @@ public class Phantump extends Pokemon{
 		height = "1\'/04\"";
 		size = "Small";
 		weight = 15.4;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Grass";

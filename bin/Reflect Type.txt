@@ -1,0 +1,1 @@
+Move: Reflect Type Type: Normal Frequency: Scene AC: 2 Class: Status Range: Melee, 1 Target Effect: Reflect Type changes one of the user’s Types into one Type of your choice that the target has for the rest of the scene. Contest Type: Beauty Contest Effect: Attention Grabber 

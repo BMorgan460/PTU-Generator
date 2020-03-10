@@ -30,7 +30,7 @@ public class Qwilfish extends Pokemon{
 		power = 2;
 		natureWalk = new String[]{"Ocean"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 3;

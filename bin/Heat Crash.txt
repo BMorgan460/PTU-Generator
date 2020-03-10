@@ -1,0 +1,1 @@
+Move: Heat Crash Type: Fire Frequency: EOT AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: Melee, 1 Target, Dash Effect: For each weight class the user is above the target, increase Heat Crash’s Damage Base by +2. Contest Type: Tough Contest Effect: Incentives

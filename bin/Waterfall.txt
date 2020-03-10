@@ -1,0 +1,1 @@
+Move: Waterfall Type: Water Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target Effect: Waterfall Flinches the target on 17+. Contest Type: Tough Contest Effect: Steady Performance ‘

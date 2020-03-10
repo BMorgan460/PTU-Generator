@@ -1,0 +1,1 @@
+Move: Crunch Type: Dark Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: Melee, 1 Target Effect: Crunch lowers the target’s Defense 1 Combat Stage on 17+ Contest Type: Tough Contest Effect: Exhausting Act 

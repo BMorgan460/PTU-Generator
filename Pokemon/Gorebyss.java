@@ -12,7 +12,7 @@ public class Gorebyss extends Pokemon{
 		abilities = new String[]{"Gulp", "Competitive", "Water Veil", "Swift Swim", "Sniper"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Clamperl();
-		prevReq = Deepseascale;
+		prevReq = 20;
 		height = "5\'/11\"";
 		weight = 49.8;
 		WC = 2;

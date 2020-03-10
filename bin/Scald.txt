@@ -1,0 +1,1 @@
+Move: Scald Type: Water Frequency: Scene x2 AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: 5, 1 Target Effect: Scald Burns the target on 15+. Contest Type: Smart Contest Effect: Steady Performance 

@@ -15,8 +15,8 @@ public class Terrakion extends Pokemon{
 		size = "Large";
 		weight = 573.2;
 		WC = 6;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Field";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Mountain", "Capability"};

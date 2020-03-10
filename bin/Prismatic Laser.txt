@@ -1,0 +1,1 @@
+Move: Prismatic Laser Type: Psychic Frequency: Daily x2 AC: 4 DB: 16 Class: Special Range: Cone 3, Smite, Exhaust

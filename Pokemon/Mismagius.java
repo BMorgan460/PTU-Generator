@@ -12,7 +12,7 @@ public class Mismagius extends Pokemon{
 		abilities = new String[]{"Levitate", "Frighten", "Magician", "Omen", "Away"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Misdreavus();
-		prevReq = Stone;
+		prevReq = 20;
 		height = "2\'/11\"";
 		size = "Small";
 		weight = 9.7;

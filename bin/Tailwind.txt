@@ -1,0 +1,1 @@
+Move: Tailwind Type: Flying Frequency: Scene AC: None Class: Status Effect: For the remainder of the encounter, all allied trainers and Pokémon gain +5 to their Initiative. Multiple instances of Tailwind cannot stack. Contest Type: Smart Contest Effect: Saving Grace Special: Grants Guster 

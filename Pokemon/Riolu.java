@@ -31,7 +31,7 @@ public class Riolu extends Pokemon{
 		hJump = 1;
 		power = 3;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 3;

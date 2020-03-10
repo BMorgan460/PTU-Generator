@@ -17,8 +17,8 @@ public class Staryu extends Pokemon{
 		size = "Small";
 		weight = 76.1;
 		WC = 3;
-		maleRatio = Hermaphrodite;
-		femaleRatio = Group;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Water";
 		egg2 = "3";
 		habitats = new String[]{"Ocean", "Capability", "List"};

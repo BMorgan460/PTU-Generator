@@ -11,7 +11,7 @@ public class Eelektrik extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Levitate", "Twisted Power", "Storm Drain", "Lightning Rod", "Up"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Tynamo();
+		//previous = new Tynamo();
 		prevReq = 30;
 		next = new String[]{"Eelektross"};
 		nextReq = new String[]{"Minimum"};

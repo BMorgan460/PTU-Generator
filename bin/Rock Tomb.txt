@@ -1,0 +1,1 @@
+Move: Rock Tomb Type: Rock Frequency: At-Will AC: 5 Damage Base 6: 2d6+8 / 15 Class: Physical Range: 6, 1 Target Effect: Rock Tomb lowers the target’s Speed by -1 Combat Stage. Contest Type: Smart Contest Effect: Desperation Special: Grants Materializer 

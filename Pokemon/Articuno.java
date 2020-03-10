@@ -15,8 +15,8 @@ public class Articuno extends Pokemon{
 		size = "Large";
 		weight = 122.1;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = 0;
 		egg1 = "Flying";
 		egg2 = "Average";
 		habitats = new String[]{"Taiga", "Tundra", "Capability"};

@@ -14,8 +14,8 @@ public class Regigigas extends Pokemon{
 		height = "12\'/2\"";
 		weight = 925.9;
 		WC = 6;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Mountain", "Tundra"};

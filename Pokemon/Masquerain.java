@@ -30,7 +30,7 @@ public class Masquerain extends Pokemon{
 		hJump = 2;
 		power = 1;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 4;
 		combat = 1;

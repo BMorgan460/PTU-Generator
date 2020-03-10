@@ -31,7 +31,7 @@ public class Rufflet extends Pokemon{
 		hJump = 3;
 		power = 2;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 2;

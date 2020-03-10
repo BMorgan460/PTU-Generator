@@ -1,0 +1,1 @@
+Move: Meteor Mash Type: Steel Frequency: EOT AC: 4 Damage Base 9: 2d10+10 / 21 Class: Physical Range: Melee, 1 Target, Dash, Spirit Surge Effect: Raise the user’s Attack 1 Combat Stage on 15+. Contest Type: Cool Contest Effect: Desperation

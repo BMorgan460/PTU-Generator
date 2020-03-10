@@ -1,0 +1,1 @@
+Move: Sleep Talk Type: Normal Frequency: Scene AC: None Class: Status Range: Self Effect: Select another of the user’s Moves at random; this turn, the user may Shift and use that Move despite being Asleep. Sleep Talk can be only be used by Sleeping targets. Contest Type: Cute Contest Effect: Steady Performance

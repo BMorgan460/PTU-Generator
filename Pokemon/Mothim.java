@@ -11,7 +11,7 @@ public class Mothim extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Tinted Lens", "Swarm", "Honey Thief", "Flutter", "Eyes"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Burmy();
+		//previous = new Burmy();
 		prevReq = 20;
 		height = "2\'/11\"";
 		weight = 51.4;
@@ -30,7 +30,7 @@ public class Mothim extends Pokemon{
 		hJump = 2;
 		power = 2;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 4;
 		combat = 3;

@@ -16,8 +16,8 @@ public class Bronzong extends Pokemon{
 		height = "4\'/3\"";
 		weight = 412.3;
 		WC = 5;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Diet";
 		habitats = new String[]{"Cave", "Mountain", "Capability"};

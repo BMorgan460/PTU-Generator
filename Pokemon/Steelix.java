@@ -12,7 +12,7 @@ public class Steelix extends Pokemon{
 		abilities = new String[]{"Sturdy", "Weak Armor", "Frighten", "Battle Armor", "Head"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Onix();
-		prevReq = Metal;
+		prevReq = 35;
 		height = "30\'/2\"";
 		weight = 881.8;
 		WC = 6;

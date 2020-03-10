@@ -30,7 +30,7 @@ public class Cradily extends Pokemon{
 		hJump = 0;
 		power = 8;
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 3;

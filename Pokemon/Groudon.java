@@ -14,8 +14,8 @@ public class Groudon extends Pokemon{
 		height = "11\'/6\"";
 		weight = 2094.4;
 		WC = 6;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Desert", "Mountain"};

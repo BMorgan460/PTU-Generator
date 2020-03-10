@@ -1,0 +1,1 @@
+Move: Seed Bomb Type: Grass Frequency: At-Will AC: 2 Damage Base 8: 2d8+10 / 19 Class: Physical Range: 8, 1 Target Effect: None Contest Type: Smart Contest Effect: Steady Performance

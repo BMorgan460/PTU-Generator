@@ -1,0 +1,1 @@
+Move: Dragon Rush Type: Dragon Frequency: Scene x2 AC: 4 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Melee, 1 Target, Dash, Push, Smite Effect: The target is Pushed 3 meters. Dragon Rush Flinches the target on 17+. Contest Type: Cool Contest Effect: Desperation 

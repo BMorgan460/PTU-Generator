@@ -11,9 +11,9 @@ public class Beedrill extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Sniper", "Poison Touch", "Technician", "Swarm", "Vanguard"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Weedle();
+		//previous = new Weedle();
 		prevReq = 5;
-		previous = new Kakuna();
+		//previous = new Kakuna();
 		prevReq = 5;
 		height = "3\'/3\"";
 		weight = 65;
@@ -32,7 +32,7 @@ public class Beedrill extends Pokemon{
 		hJump = 4;
 		power = 4;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 5;
 		combat = 4;

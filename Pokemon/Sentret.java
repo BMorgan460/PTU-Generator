@@ -32,7 +32,7 @@ public class Sentret extends Pokemon{
 		power = 1;
 		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 1;
 		acro = 3;
 		combat = 1;

@@ -1,0 +1,1 @@
+Move: Freeze Shock Type: Ice Frequency: Scene AC: 4 Damage Base 14: 4d10+15 / 40 Class: Physical Range: 10, Single Target, Set-Up, Full Action Set-Up Effect: The user may shift, then ends their turn. Resolution Effect: The user uses Freeze Shock. Freeze Shock paralyzes on 15+. Contest Type: Beauty Contest Effect: Seen Nothing Yet 

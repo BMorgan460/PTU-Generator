@@ -1,4 +1,4 @@
-public class Ho-oh extends Pokemon{
+public class Ho_oh extends Pokemon{
 {
 		name = "Ho-oh";
 		bHP = 11;
@@ -11,14 +11,12 @@ public class Ho-oh extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Pressure", "Regenerator", "Sun Blanket", "Force"};
 		abilityTypeCount = new int[] {1,2,1};
-		previous = new Hooh();
-		prevReq = 12’;
 		height = "12\'/6\"";
 		size = "Huge";
 		weight = 438.7;
 		WC = 5;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "None";
 		egg2 = "Average";
 		habitats = new String[]{"Mountain", "Capability", "List"};
@@ -49,7 +47,7 @@ public class Ho-oh extends Pokemon{
 		tutorMoves = new String[]{"Air Cutter", "Ancient Power", "Earth Power", "Giga Drain", "Heat Wave", "Hyper Voice", "Iron Head", "Ominous Wind", "Pluck", "Roost", "Signal Beam", "Sky Attack", "Sleep Talk", "Snore", "Swift", "Tailwind", "Telekinesis", "Twister", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
 }
-		Ho-oh(){
+		Ho_oh(){
 
 		super();
 		}

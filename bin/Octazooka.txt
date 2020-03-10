@@ -1,0 +1,1 @@
+Move: Octazooka Type: Water Frequency: At-Will AC: 3 Damage Base 7: 2d6+10 / 17 Class: Special Range: 6, 1 Target Effect: On an Even-Numbered Roll, the target’s Accuracy is Lowered by 1. Contest Type: Tough Contest Effect: Incentives 

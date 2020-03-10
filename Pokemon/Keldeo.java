@@ -14,8 +14,8 @@ public class Keldeo extends Pokemon{
 		height = "4\'/7\"";
 		weight = 106.9;
 		WC = 3;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Field";
 		egg2 = "Average";
 		habitats = new String[]{"Cave", "Mountain", "Capability"};

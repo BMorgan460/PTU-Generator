@@ -1,0 +1,1 @@
+Move: Shadow Ball Type: Ghost Frequency: EOT AC: 2 Damage Base 8: 2d8+10 / 19 Class: Special Range: 8, 1 Target Effect: Shadow Ball lowers the foe’s Special Defense 1 Combat Stage on 17+. Contest Type: Smart Contest Effect: Exhausting Act 

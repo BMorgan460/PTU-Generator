@@ -18,7 +18,7 @@ public class Doublade extends Pokemon{
 		height = "2\'/07\"";
 		size = "Small";
 		weight = 9.9;
-		WC = k;
+		WC = 1;
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Mineral";

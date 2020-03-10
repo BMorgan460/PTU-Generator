@@ -1,0 +1,1 @@
+Move: Egg Bomb Type: Normal Frequency: Scene x2 AC: 6 Damage Base 10: 3d8+10 / 24 Class: Physical Range: 5, Blast 2 Effect: None. Contest Type: Tough Contest Effect: Steady Performance 

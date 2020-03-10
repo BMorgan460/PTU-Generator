@@ -11,7 +11,7 @@ public class Ivysaur extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Chlorophyll", "Overgrow", "Confidence", "Discipline", "Empower"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Bulbasaur();
+		//previous = new Bulbasaur();
 		prevReq = 15;
 		next = new String[]{"Venusaur"};
 		nextReq = new String[]{"30"};
@@ -33,7 +33,7 @@ public class Ivysaur extends Pokemon{
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 2;
 		combat = 3;

@@ -33,7 +33,7 @@ public class Conkeldurr extends Pokemon{
 		power = 12;
 		natureWalk = new String[]{"Mountain", "Urban"};
 		underdog = false;
-		other = new String[]};
+		other = new String[] {};
 		athl = 5;
 		acro = 1;
 		combat = 5;

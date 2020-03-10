@@ -33,7 +33,7 @@ public class Pupitar extends Pokemon{
 		power = 8;
 		natureWalk = new String[]{"Mountain"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 4;
 		acro = 1;
 		combat = 3;

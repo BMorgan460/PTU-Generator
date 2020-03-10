@@ -1,0 +1,1 @@
+Move: Fusion Flare Type: Fire Frequency: Scene x2 AC: 2 Damage Base 10: 3d8+10 / 24 Class: Special Range: 8, 1 Target, Smite Effect: If Fusion Bolt was used this round or last round by any participant of the encounter, Fusion Flare has its Damage Base increased by +3. Contest Type: Beauty Contest Effect: Seen Nothing Yet 

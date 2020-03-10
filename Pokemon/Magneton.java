@@ -18,8 +18,8 @@ public class Magneton extends Pokemon{
 		height = "3\'/3\"";
 		weight = 132.3;
 		WC = 4;
-		maleRatio = No;
-		femaleRatio = Egg;
+		maleRatio = -1;
+		femaleRatio = -1;
 		egg1 = "Mineral";
 		egg2 = "Diet";
 		habitats = new String[]{"Mountain", "Urban", "Capability"};

@@ -33,7 +33,7 @@ public class Loudred extends Pokemon{
 		power = 4;
 		natureWalk = new String[]{"Cave"};
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 2;
 		combat = 3;

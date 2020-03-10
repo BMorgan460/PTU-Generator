@@ -29,7 +29,7 @@ public class Chatot extends Pokemon{
 		hJump = 2;
 		power = 2;
 		underdog = true;
-		other = new String[]};
+		other = new String[] {};
 		athl = 3;
 		acro = 4;
 		combat = 2;

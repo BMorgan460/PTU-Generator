@@ -1,0 +1,1 @@
+Move: Ancient Power Type: Rock Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Special Range: 6, 1 Target, Spirit Surge Effect: On 19+, the user has each of its stats raised by +1 Combat Stage. Contest Type: Tough Contest Effect: Desperation 
