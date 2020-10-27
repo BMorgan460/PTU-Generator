@@ -1,5 +1,5 @@
 public class Shaymin extends Pokemon{
-{
+	{
 		name = "Shaymin";
 		bHP = 10;
 		bAtk = 10;
@@ -9,7 +9,7 @@ public class Shaymin extends Pokemon{
 		bSpd = 10;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Natural Cure", "Magic Guard", "Photosynthesis", "Guard"};
+		abilities = new String[]{"Natural Cure", "Magic Guard", "Photosynthesis", "Leaf Guard"};
 		abilityTypeCount = new int[] {1,2,1};
 		height = "0\'/8\"";
 		size = "Small";
@@ -18,18 +18,17 @@ public class Shaymin extends Pokemon{
 		maleRatio = -1;
 		femaleRatio = -1;
 		egg1 = "None";
-		egg2 = "Average";
-		habitats = new String[]{"Forest", "Grassland", "Capability"};
+		egg2 = "";
 		overland = 7;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 4;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 2;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
+		other = new String[]{"Sprouter","Telepath"};
 		athl = 3;
 		acro = 4;
 		combat = 3;
@@ -47,7 +46,7 @@ public class Shaymin extends Pokemon{
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Psychic", "Double Team", "Facade", "Rest", "Round", "Energy Ball", "Giga Impact", "Flash", "Swords Dance", "Psych Up", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam"};
 		tutorMoves = new String[]{"Covet", "Earth Power", "Endeavor", "Giga Drain", "Last Resort", "Seed Bomb", "Sleep Talk", "Snore", "Swift", "Synthesis", "Worry Seed", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Shaymin(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Sawsbuck extends Pokemon{
-{
+	{
 		name = "Sawsbuck";
 		bHP = 8;
 		bAtk = 10;
@@ -8,8 +8,8 @@ public class Sawsbuck extends Pokemon{
 		bSpDef = 7;
 		bSpd = 10;
 		type1 = "Normal";
-		type2 = "";
-		abilities = new String[]{"Sap Sipper", "Chlorophyll", "Serene Grace", "Rivalry", "Pelt"};
+		type2 = "Grass";
+		abilities = new String[]{"Sap Sipper", "Chlorophyll", "Serene Grace", "Rivalry", "Grass Pelt"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Deerling();
 		prevReq = 35;
@@ -17,20 +17,20 @@ public class Sawsbuck extends Pokemon{
 		size = "Large";
 		weight = 203.9;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Forest", "Grassland", "Capability"};
+		egg2 = "Herbivore";
 		overland = 6;
 		swim = 0;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 5;
+		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
+		other = new String[]{"Pack Mon","Mountable 1"};
 		athl = 4;
 		acro = 4;
 		combat = 3;
@@ -45,10 +45,10 @@ public class Sawsbuck extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 20, 24, 28, 32, 36, 37, 44, 52, 60};
 		moves = new String[]{"Growl", "Sand Attack", "Double Kick", "Leech Seed", "Feint Attack", "Take Down", "Jump Kick", "Aromatherapy", "Energy Ball", "Charm", "Horn Leech", "Nature Power", "DoubleEdge", "Solar Beam"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Retaliate", "Giga Impact", "Flash", "Thunder Wave", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Nature Power"};
+		TMs = new String[]{"Cut", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Retaliate", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Nature Power"};
 		tutorMoves = new String[]{"Bounce", "Giga Drain", "Last Resort", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Work Up", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Sawsbuck(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Simipour extends Pokemon{
-{
+	{
 		name = "Simipour";
 		bHP = 8;
 		bAtk = 10;
@@ -19,17 +19,17 @@ public class Simipour extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Forest", "Rainforest", "Capability"};
+		egg2 = "Omnivore";
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 4;
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = false;
+		other = new String[]{"Fountain"};
 		athl = 4;
 		acro = 5;
 		combat = 3;
@@ -44,10 +44,10 @@ public class Simipour extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43};
 		moves = new String[]{"Leer", "Lick", "Water Gun", "Fury Swipes", "Water Sport", "Bite", "Scald", "Taunt", "Fling", "Acrobatics", "Brine", "Recycle", "Natural Gift", "Crunch"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Scald", "Fling", "Acrobatics", "Shadow Claw", "Payback", "Giga Impact", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Cut", "Surf", "Waterfall", "Dive", "Hone Claws", "Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Scald", "Fling", "Acrobatics", "Shadow Claw", "Payback", "Giga Impact", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Aqua Tail", "Covet", "Endeavor", "Gunk Shot", "Helping Hand", "Ice Punch", "Icy Wind", "Iron Tail", "Knock Off", "Low Kick", "Recycle", "Role Play", "Sleep Talk", "Snore", "Superpower", "Uproar", "Work Up"};
 		naturalMoves = new String[]{};
-}
+	}
 		Simipour(){
 
 		super();

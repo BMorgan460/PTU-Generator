@@ -1,5 +1,5 @@
 public class Kyogre extends Pokemon{
-{
+	{
 		name = "Kyogre";
 		bHP = 10;
 		bAtk = 10;
@@ -17,17 +17,17 @@ public class Kyogre extends Pokemon{
 		maleRatio = -1;
 		femaleRatio = -1;
 		egg1 = "None";
-		egg2 = "Average";
-		habitats = new String[]{"Arctic", "Ocean", "Capability"};
+		egg2 = "";
 		overland = 4;
 		swim = 12;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 12;
+		natureWalk = new String[]{"Ocean"};
 		underdog = false;
+		other = new String[]{"Fountain","Gilled","Glow","Mountable 2"};
 		athl = 4;
 		acro = 4;
 		combat = 5;
@@ -42,10 +42,10 @@ public class Kyogre extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 15, 20, 30, 35, 45, 50, 60, 65, 75, 80, 90};
 		moves = new String[]{"Ancient Power", "Water Pulse", "Scary Face", "Aqua Tail", "Body Slam", "Aqua Ring", "Ice Beam", "Origin Pulse", "Calm Mind", "Muddy Water", "Sheer Cold", "Hydro Pump", "DoubleEdge", "Water Spout"};
-		TMs = new String[]{"Calm Mind", "Roar", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Thunder", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Round", "Scald", "Giga Impact", "Thunder Wave", "Psych Up", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Surf", "Strength", "Waterfall", "Dive", "Calm Mind", "Roar", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Thunder", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Round", "Scald", "Giga Impact", "Thunder", "Thunder Wave", "Psych Up", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		tutorMoves = new String[]{"Ancient Power", "Aqua Tail", "Block", "Defense Curl", "Dive", "Icy Wind", "Iron Head", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Uproar"};
 		naturalMoves = new String[]{};
-}
+	}
 		Kyogre(){
 
 		super();

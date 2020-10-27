@@ -1,5 +1,5 @@
 public class Teddiursa extends Pokemon{
-{
+	{
 		name = "Teddiursa";
 		bHP = 6;
 		bAtk = 8;
@@ -17,20 +17,21 @@ public class Teddiursa extends Pokemon{
 		size = "Small";
 		weight = 19.4;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Cave", "Mountain", "Taiga"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Cave", "Mountain"};
+		underdog = true;
+		other = new String[]{"Tracker","Stealth","Honey Gather"};
 		athl = 1;
 		acro = 2;
 		combat = 2;
@@ -45,11 +46,11 @@ public class Teddiursa extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 8, 15, 22, 29, 36, 43, 43, 50, 57};
 		moves = new String[]{"Leer", "Lick", "Scratch", "Fury Swipes", "Feint Attack", "Sweet Scent", "Slash", "Charm", "Rest", "Snore", "Thrash", "Fling"};
-		TMs = new String[]{"Hone Claws", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Shadow Claw", "Payback", "Retaliate", "Swords Dance", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Shadow Claw", "Payback", "Retaliate", "Swords Dance", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		eggMoves = new String[]{"Belly Drum", "Chip Away", "Close Combat", "Counter", "Cross Chop", "Crunch", "Fake Tears", "Metal Claw", "Night Slash", "Slash", "Play Rough", "Seismic Toss", "Sleep Talk", "Take Down", "Yawn"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Dynamic Punch", "Fire Punch", "Focus Punch", "Fury Cutter", "Gunk Shot", "Hyper Voice", "Ice Punch", "Last Resort", "Mega Kick", "Mega Punch", "Metronome", "Rollout", "Seed Bomb", "Sleep Talk", "Snore", "Superpower", "Swift", "Thunder Punch", "Work Up"};
 		naturalMoves = new String[]{"Fling"};
-}
+	}
 		Teddiursa(){
 
 		super();

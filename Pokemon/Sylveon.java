@@ -1,5 +1,5 @@
 public class Sylveon extends Pokemon{
-{
+	{
 		name = "Sylveon";
 		bHP = 10;
 		bAtk = 7;
@@ -11,26 +11,22 @@ public class Sylveon extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Cute Charm", "Gentle Vibe", "Pixilate", "Friend Guard", "Celebrate"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Eevee();
-		prevReq = 10;
 		height = "3\'/03\"";
 		weight = 51.8;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Grassland", "Urban", "Capability"};
+		egg2 = "Herbivore";
 		overland = 6;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 3;
 		underdog = false;
-		other = new String[] {};
+		other = new String[]{"Tracker"};
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -48,7 +44,7 @@ public class Sylveon extends Pokemon{
 		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Dig", "Shadow Ball", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Retaliate", "Giga Impact", "Flash", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"Covet", "Disarming Voice", "Heal Bell", "Helping Hand", "Hyper Voice", "Iron Tail", "Last Resort", "Magic Coat", "Skill Swap", "Snore"};
 		naturalMoves = new String[]{"Disarming Voice"};
-}
+	}
 		Sylveon(){
 
 		super();

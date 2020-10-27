@@ -1,5 +1,5 @@
 public class Tentacruel extends Pokemon{
-{
+	{
 		name = "Tentacruel";
 		bHP = 8;
 		bAtk = 7;
@@ -8,7 +8,7 @@ public class Tentacruel extends Pokemon{
 		bSpDef = 12;
 		bSpd = 10;
 		type1 = "Water";
-		type2 = "";
+		type2 = "Poison";
 		abilities = new String[]{"Clear Body", "Liquid Ooze", "Rain Dish", "Gulp", "Illuminate"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Tentacool();
@@ -16,20 +16,21 @@ public class Tentacruel extends Pokemon{
 		height = "5\'/3\"";
 		weight = 121.3;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "3";
-		habitats = new String[]{"Ocean", "Capability", "List"};
+		egg2 = "Diet";
+		habitats = new String[]{"Ocean"};
 		overland = 3;
 		swim = 7;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 6;
+		natureWalk = new String[]{"Ocean"};
 		underdog = false;
+		other = new String[]{"Gilled","Fountain","Reach"};
 		athl = 4;
 		acro = 2;
 		combat = 4;
@@ -44,10 +45,10 @@ public class Tentacruel extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 25, 28, 32, 36, 40, 44, 48, 52, 56};
 		moves = new String[]{"Supersonic", "Constrict", "Acid", "Toxic Spikes", "Water Pulse", "Wrap", "Acid Spray", "Bubble Beam", "Barrier", "Poison Jab", "Brine", "Screech", "Hex", "Sludge Wave", "Hydro Pump", "Wring Out"};
-		TMs = new String[]{"Toxic", "Hail", "Venoshock", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Payback", "Giga Impact", "Swords Dance", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
+		TMs = new String[]{"Cut", "Surf", "Waterfall", "Dive", "Toxic", "Hail", "Venoshock", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Payback", "Giga Impact", "Swords Dance", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"Bind", "Brine", "Dive", "Giga Drain", "Icy Wind", "Knock Off", "Magic Coat", "Reflect Type", "Role Play", "Sleep Talk", "Snore", "Wring Out"};
 		naturalMoves = new String[]{"Reflect Type", "Wring Out"};
-}
+	}
 		Tentacruel(){
 
 		super();

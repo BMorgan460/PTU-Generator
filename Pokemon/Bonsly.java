@@ -1,5 +1,5 @@
 public class Bonsly extends Pokemon{
-{
+	{
 		name = "Bonsly";
 		bHP = 5;
 		bAtk = 8;
@@ -9,30 +9,29 @@ public class Bonsly extends Pokemon{
 		bSpd = 1;
 		type1 = "Rock";
 		type2 = "";
-		abilities = new String[]{"Copy Master", "Sturdy", "Cute Tears", "Rattled", "Head"};
+		abilities = new String[]{"Copy Master", "Sturdy", "Cute Tears", "Rattled", "Rock Head"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Sudowoodo"};
-		nextReq = new String[]{"Learn"};
+		nextReq = new String[]{"50"};
 		height = "1\'/8\"";
 		size = "Small";
 		weight = 33.1;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Mineral";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Forest", "Grassland", "Taiga"};
 		overland = 3;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 0;
+		lJump = 0 ;
 		hJump = 1;
 		power = 1;
 		natureWalk = new String[]{"Forest"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 2;
 		combat = 1;
@@ -51,7 +50,7 @@ public class Bonsly extends Pokemon{
 		eggMoves = new String[]{"Curse", "Defense Curl", "Endure", "Harden", "Headbutt", "Rollout", "Sand Tomb", "Stealth Rock"};
 		tutorMoves = new String[]{"After You", "Block", "Covet", "Earth Power", "Foul Play", "Helping Hand", "Low Kick", "Magic Coat", "Role Play", "Rollout", "Sleep Talk", "Snore", "Stealth Rock", "Sucker Punch", "Uproar"};
 		naturalMoves = new String[]{};
-}
+	}
 		Bonsly(){
 
 		super();

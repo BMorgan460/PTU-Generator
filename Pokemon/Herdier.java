@@ -1,5 +1,5 @@
 public class Herdier extends Pokemon{
-{
+	{
 		name = "Herdier";
 		bHP = 7;
 		bAtk = 8;
@@ -18,20 +18,20 @@ public class Herdier extends Pokemon{
 		height = "2\'/11\"";
 		weight = 32.4;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Grassland", "Urban", "Capability"};
+		egg2 = "Omnivore";
 		overland = 7;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 4;
-		underdog = false;
+		natureWalk = new String[]{"Grassland", "Urban"};
+		underdog = true;
+		other = new String[]{"Tracker"};
 		athl = 3;
 		acro = 2;
 		combat = 3;
@@ -46,10 +46,10 @@ public class Herdier extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 8, 12, 15, 20, 24, 29, 33, 38, 42, 47, 52};
 		moves = new String[]{"Odor Sleuth", "Bite", "Helping Hand", "Take Down", "Work Up", "Crunch", "Roar", "Retaliate", "Reversal", "Last Resort", "Giga Impact", "Play Rough"};
-		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Dig", "Shadow Ball", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Payback", "Retaliate", "Giga Impact", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Snarl", "Confide"};
+		TMs = new String[]{"Surf", "Strength", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Dig", "Shadow Ball", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Payback", "Retaliate", "Giga Impact", "Thunder", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Snarl", "Confide"};
 		tutorMoves = new String[]{"Covet", "Helping Hand", "Hyper Voice", "Last Resort", "Sleep Talk", "Snore", "Uproar", "Work Up"};
 		naturalMoves = new String[]{};
-}
+	}
 		Herdier(){
 
 		super();

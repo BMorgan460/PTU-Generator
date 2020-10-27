@@ -1,5 +1,5 @@
 public class Ursaring extends Pokemon{
-{
+	{
 		name = "Ursaring";
 		bHP = 9;
 		bAtk = 13;
@@ -16,20 +16,21 @@ public class Ursaring extends Pokemon{
 		height = "5\'/11\"";
 		weight = 277.3;
 		WC = 5;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
+		egg2 = "Omnivore";
 		habitats = new String[]{"Cave", "Mountain", "Taiga"};
 		overland = 7;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 6;
+		natureWalk = new String[]{"Cave", "Mountain"};
 		underdog = false;
+		other = new String[]{"Tracker"};
 		athl = 4;
 		acro = 2;
 		combat = 5;
@@ -44,10 +45,10 @@ public class Ursaring extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{8, 15, 22, 29, 38, 47, 49, 58, 67};
 		moves = new String[]{"Fury Swipes", "Feint Attack", "Sweet Scent", "Slash", "Scary Face", "Rest", "Snore", "Thrash", "Hammer Arm"};
-		TMs = new String[]{"Hone Claws", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Fling", "Shadow Claw", "Payback", "Retaliate", "Giga Impact", "Stone Edge", "Swords Dance", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Fling", "Shadow Claw", "Payback", "Retaliate", "Giga Impact", "Stone Edge", "Swords Dance", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Avalanche", "Body Slam", "Slam", "Counter", "Defense Curl", "Dynamic Punch", "Fake Tears", "Fire Punch", "Fury Cutter", "Gunk Shot", "Hammer Arm", "Ice Punch", "Last Resort", "Low Kick", "Mega Kick", "Mega Punch", "Metronome", "Rollout", "Seed Bomb", "Seismic Toss", "Sleep Talk", "Snore", "Superpower", "Swift", "Thunder Punch", "Uproar", "Work Up"};
 		naturalMoves = new String[]{"Fake Tears", "Hammer Arm"};
-}
+	}
 		Ursaring(){
 
 		super();

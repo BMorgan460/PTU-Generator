@@ -1,5 +1,5 @@
 public class Cobalion extends Pokemon{
-{
+	{
 		name = "Cobalion";
 		bHP = 9;
 		bAtk = 9;
@@ -18,19 +18,17 @@ public class Cobalion extends Pokemon{
 		maleRatio = -1;
 		femaleRatio = -1;
 		egg1 = "Field";
-		egg2 = "Average";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
+		egg2 = "";
 		overland = 7;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 3;
+		lJump = 3 ;
 		hJump = 3;
 		power = 7;
 		natureWalk = new String[]{"Mountain"};
 		underdog = false;
-		other = new String[]{"1"};
+		other = new String[]{"Mountable 1"};
 		athl = 6;
 		acro = 4;
 		combat = 5;
@@ -45,10 +43,10 @@ public class Cobalion extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 7, 13, 19, 25, 31, 37, 42, 49, 55, 61, 67, 73};
 		moves = new String[]{"Leer", "Quick Attack", "Double Kick", "Metal Claw", "Take Down", "Helping Hand", "Retaliate", "Iron Head", "Sacred Sword", "Swords Dance", "Quick Guard", "Work Up", "Metal Burst", "Close Combat"};
-		TMs = new String[]{"Hone Claws", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Taunt", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Return", "Double Team", "Reflect", "Sandstorm", "Aerial Ace", "Facade", "Rest", "Round", "Focus Blast", "False Swipe", "Retaliate", "Giga Impact", "Rock Polish", "Stone Edge", "Volt Switch", "Thunder Wave", "Swords Dance", "Psych Up", "XScissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon", "Rock Smash"};
+		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Taunt", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Return", "Double Team", "Reflect", "Sandstorm", "Aerial Ace", "Facade", "Rest", "Round", "Focus Blast", "False Swipe", "Retaliate", "Giga Impact", "Rock Polish", "Stone Edge", "Volt Switch", "Thunder", "Thunder Wave", "Swords Dance", "Psych Up", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Rock Smash"};
 		tutorMoves = new String[]{"Block", "Bounce", "Close Combat", "Helping Hand", "Iron Defense", "Iron Head", "Magnet Rise", "Metal Burst", "Quick Guard", "Sleep Talk", "Snore", "Stealth Rock", "Superpower", "Work Up", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{"Close Combat", "Metal Burst", "Quick Guard", "Work Up"};
-}
+	}
 		Cobalion(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Dragonite extends Pokemon{
-{
+	{
 		name = "Dragonite";
 		bHP = 9;
 		bAtk = 13;
@@ -8,31 +8,29 @@ public class Dragonite extends Pokemon{
 		bSpDef = 10;
 		bSpd = 8;
 		type1 = "Dragon";
-		type2 = "";
+		type2 = "Flying";
 		abilities = new String[]{"Inner Focus", "Multiscale", "Courage", "Rocket", "Confidence"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Dratini();
-		prevReq = 30;
 		previous = new Dragonair();
-		prevReq = 30;
+		prevReq = 50;
 		height = "7\'/3\"";
 		size = "Large";
 		weight = 463;
 		WC = 6;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
+		egg2 = " ";
 		habitats = new String[]{"Cave", "Freshwater", "Mountain"};
 		overland = 6;
 		swim = 6;
 		levitate = 0;
-		sky = 8;
 		burrow = 0;
-		lJump = 3;
+		lJump = 3 ;
 		hJump = 4;
 		power = 8;
 		underdog = false;
+		other = new String[]{"Aura Reader","Mountable 1"};
 		athl = 5;
 		acro = 4;
 		combat = 4;
@@ -47,10 +45,10 @@ public class Dragonite extends Pokemon{
 		focusBonus = 3;
 		movesLevels = new int[]{5, 11, 15, 21, 25, 33, 39, 47, 53, 55, 61, 67, 75, 81};
 		moves = new String[]{"Thunder Wave", "Twister", "Dragon Rage", "Slam", "Agility", "Dragon Tail", "Aqua Tail", "Dragon Rush", "Safeguard", "Wing Attack", "Dragon Dance", "Outrage", "Hyper Beam", "Hurricane"};
-		TMs = new String[]{"Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Roost", "Safeguard", "Frustration", "Thunderbolt", "Thunder", "Earthquake", "Return", "Brick Break", "Double Team", "Flamethrower", "Sandstorm", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Steel Wing", "Focus Blast", "Fling", "Sky Drop", "Incinerate", "Giga Impact", "Stone Edge", "Thunder Wave", "Thunder Wave", "Bulldoze", "Rock Slide", "Dragon Tail", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Cut", "Fly", "Surf", "Strength", "Waterfall", "Dive", "Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Roost", "Safeguard", "Frustration", "Thunderbolt", "Thunder", "Earthquake", "Return", "Brick Break", "Double Team", "Flamethrower", "Sandstorm", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Steel Wing", "Focus Blast", "Fling", "Sky Drop", "Incinerate", "Giga Impact", "Stone Edge", "Thunder", "Thunder Wave", "Thunder", "Thunder Wave", "Bulldoze", "Rock Slide", "Dragon Tail", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Air Cutter", "Aqua Tail", "Bind", "Body Slam", "Slam", "Dive", "Draco Meteor", "Dragon Pulse", "Dynamic Punch", "Focus Punch", "Fury Cutter", "Heat Wave", "Ice Punch", "Icy Wind", "Iron Head", "Iron Tail", "Ominous Wind", "Outrage", "Shock Wave", "Sleep Talk", "Snore", "Steel Wing", "Superpower", "Swift", "Tailwind", "Thunder", "Water Pulse"};
 		naturalMoves = new String[]{"Hurricane"};
-}
+	}
 		Dragonite(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Stantler extends Pokemon{
-{
+	{
 		name = "Stantler";
 		bHP = 7;
 		bAtk = 10;
@@ -14,21 +14,19 @@ public class Stantler extends Pokemon{
 		height = "4\'/7\"";
 		weight = 157;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Average";
-		habitats = new String[]{"Forest", "Taiga", "Capability"};
+		egg2 = "";
 		overland = 7;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 4;
 		underdog = false;
-		other = new String[] {};
+		other = new String[]{"Tracker"};
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -43,11 +41,11 @@ public class Stantler extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 7, 10, 13, 16, 21, 23, 27, 33, 38, 43, 49, 53, 55};
 		moves = new String[]{"Tackle", "Leer", "Astonish", "Hypnosis", "Stomp", "Sand Attack", "Take Down", "Confuse Ray", "Calm Mind", "Role Play", "Zen Headbutt", "Jump Kick", "Imprison", "Captivate", "Me First"};
-		TMs = new String[]{"Psyshock", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Earthquake", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Charge Beam", "Retaliate", "Giga Impact", "Flash", "Thunder Wave", "Psych Up", "Bulldoze", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Wild Charge"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Earthquake", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Charge", "Charge Beam", "Retaliate", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Bulldoze", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Wild Charge"};
 		eggMoves = new String[]{"Bite", "Disable", "Double Kick", "Extrasensory", "Me First", "Megahorn", "Mud Sport", "Psych Up", "Rage", "Spite", "Swagger", "Thrash", "Zen Headbutt", "Headbutt"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Gravity", "Iron Tail", "Last Resort", "Magic Coat", "Magic Room", "Me First", "Role Play", "Shock Wave", "Signal Beam", "Skill Swap", "Sleep Talk", "Snore", "Spite", "Sucker Punch", "Swift", "Uproar", "Work Up", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{"Me First"};
-}
+	}
 		Stantler(){
 
 		super();

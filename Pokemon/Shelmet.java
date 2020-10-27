@@ -1,5 +1,5 @@
 public class Shelmet extends Pokemon{
-{
+	{
 		name = "Shelmet";
 		bHP = 5;
 		bAtk = 4;
@@ -12,27 +12,25 @@ public class Shelmet extends Pokemon{
 		abilities = new String[]{"Shell Armor", "Overcoat", "Hydration", "Sturdy", "Dodge"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Accelgor"};
-		nextReq = new String[]{"with"};
+		nextReq = new String[]{"20"};
 		height = "1\'/4\"";
 		size = "Small";
 		weight = 17;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Bug";
-		egg2 = "Average";
-		habitats = new String[]{"Forest", "Marsh", "Capability"};
+		egg2 = "";
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
 		natureWalk = new String[]{"Forest"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -47,11 +45,11 @@ public class Shelmet extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 4, 8, 13, 16, 20, 25, 28, 32, 37, 40, 44, 49, 52, 56};
 		moves = new String[]{"Leech Life", "Acid", "Bide", "Curse", "Struggle Bug", "Mega Drain", "Yawn", "Protect", "Acid Armor", "Giga Drain", "Body Slam", "Bug Buzz", "Recover", "Guard Swap", "Final Gambit"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Struggle Bug", "Infestation", "Swagger", "Sleep Talk", "Substitute"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Struggle Bug", "Infestation", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Baton Pass", "Encore", "Endure", "Feint", "Guard Split", "Mind Reader", "Pursuit", "Spikes"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Gastro Acid", "Acid", "Giga Drain", "Signal Beam", "Sleep Talk", "Snore"};
 		naturalMoves = new String[]{};
-}
+	}
 		Shelmet(){
 
 		super();

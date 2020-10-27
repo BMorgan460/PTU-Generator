@@ -1,5 +1,5 @@
 public class Goomy extends Pokemon{
-{
+	{
 		name = "Goomy";
 		bHP = 5;
 		bAtk = 5;
@@ -9,7 +9,7 @@ public class Goomy extends Pokemon{
 		bSpd = 4;
 		type1 = "Dragon";
 		type2 = "";
-		abilities = new String[]{"Sap Sipper", "Dry Skin", "Hydration", "Gooey", "Force"};
+		abilities = new String[]{"Sap Sipper", "Dry Skin", "Hydration", "Gooey", "Absorb Force"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Sligoo", "Goodra"};
 		nextReq = new String[]{"50"};
@@ -17,21 +17,19 @@ public class Goomy extends Pokemon{
 		size = "Small";
 		weight = 6.2;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Dragon";
-		egg2 = "Average";
-		habitats = new String[]{"Marsh", "Rainforest", "Capability"};
+		egg2 = "";
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 0;
+		lJump = 0 ;
 		hJump = 0;
 		power = 1;
-		underdog = false;
-		other = new String[]{"Underdog"};
+		underdog = true;
+		other = new String[]{"Amorphous","Amorphous"};
 		athl = 2;
 		acro = 1;
 		combat = 2;
@@ -46,11 +44,11 @@ public class Goomy extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 9, 13, 18, 25, 28, 32, 38, 42};
 		moves = new String[]{"Tackle", "Bubble", "Absorb", "Protect", "Bide", "Dragon Breath", "Rain Dance", "Flail", "Body Slam", "Muddy Water", "Dragon Pulse"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Rock Slide", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Rock Slide", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Acid Armor", "Counter", "Curse", "Endure", "Iron Tail", "Poison Tail"};
 		tutorMoves = new String[]{"Draco Meteor", "Dragon Pulse", "Iron Tail", "Outrage", "Shock Wave", "Snore", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Goomy(){
 
 		super();

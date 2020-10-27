@@ -1,5 +1,5 @@
 public class Skiddo extends Pokemon{
-{
+	{
 		name = "Skiddo";
 		bHP = 7;
 		bAtk = 7;
@@ -17,21 +17,21 @@ public class Skiddo extends Pokemon{
 		size = "Small";
 		weight = 68.3;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Forest", "Grassland", "Urban"};
 		overland = 6;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 3;
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
+		other = new String[]{"Mountable 1"};
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -46,11 +46,11 @@ public class Skiddo extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 7, 12, 13, 16, 20, 22, 26, 30, 34, 38, 42, 45};
 		moves = new String[]{"Tackle", "Growth", "Vine Whip", "Leech Seed", "Razor Leaf", "Worry Seed", "Synthesis", "Take Down", "Bulldoze", "Seed Bomb", "Bulk Up", "DoubleEdge", "Horn Leech", "Leaf Blade"};
-		TMs = new String[]{"Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Dig", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Payback", "Retaliate", "Bulldoze", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Nature Power", "Confide"};
+		TMs = new String[]{"Surf", "Strength", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Dig", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Payback", "Retaliate", "Bulldoze", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Nature Power", "Confide"};
 		eggMoves = new String[]{"Defense Curl", "Milk Drink", "Rollout"};
 		tutorMoves = new String[]{"Giga Drain", "Iron Tail", "Seed Bomb", "Snore", "Synthesis", "Worry Seed", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Skiddo(){
 
 		super();

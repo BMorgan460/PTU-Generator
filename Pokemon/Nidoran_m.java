@@ -1,6 +1,6 @@
 public class Nidoran_m extends Pokemon{
-{
-		name = "Nidoran-m";
+	{
+		name = "Nidoran_m";
 		bHP = 5;
 		bAtk = 6;
 		bDef = 4;
@@ -15,22 +15,21 @@ public class Nidoran_m extends Pokemon{
 		size = "Small";
 		weight = 19.8;
 		WC = 1;
-		maleRatio = 100;
-		femaleRatio = 0;
+		maleRatio = 100.0;
+		femaleRatio = 0.0;
 		egg1 = "Monster";
 		egg2 = "Field";
-		habitats = new String[]{"Grassland", "Capability", "List"};
+		habitats = new String[]{"Grassland"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 2;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
 		natureWalk = new String[]{"Grassland"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 2;
 		combat = 3;
@@ -45,11 +44,11 @@ public class Nidoran_m extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 7, 9, 13, 19, 21, 25, 31, 33, 37, 43, 45};
 		moves = new String[]{"Leer", "Peck", "Focus Energy", "Double Kick", "Poison Sting", "Fury Attack", "Horn Attack", "Helping Hand", "Toxic Spikes", "Flatter", "Poison Jab", "Captivate", "Horn Drill"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Double Team", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp"};
+		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Amnesia", "Beat Up", "Confusion", "Counter", "Disable", "Sucker Punch", "Supersonic", "Take Down", "Venom Drench"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Drill Run", "Helping Hand", "Iron Tail", "Shock Wave", "Sleep Talk", "Snore", "Sucker Punch", "Super Fang", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Nidoran_m(){
 
 		super();

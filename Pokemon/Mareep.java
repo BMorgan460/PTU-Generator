@@ -1,5 +1,5 @@
 public class Mareep extends Pokemon{
-{
+	{
 		name = "Mareep";
 		bHP = 6;
 		bAtk = 4;
@@ -17,20 +17,21 @@ public class Mareep extends Pokemon{
 		size = "Small";
 		weight = 17.2;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Monster";
 		egg2 = "Field";
-		habitats = new String[]{"Grassland", "Capability", "List"};
+		habitats = new String[]{"Grassland"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Grassland"};
+		underdog = true;
+		other = new String[]{"Glow","Zapper"};
 		athl = 2;
 		acro = 3;
 		combat = 1;
@@ -45,11 +46,11 @@ public class Mareep extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 8, 11, 15, 18, 22, 25, 29, 32, 36, 39, 43, 46};
 		moves = new String[]{"Tackle", "Growl", "Thunder Wave", "Thunder Shock", "Cotton Spore", "Charge", "Take Down", "Electro Ball", "Confuse Ray", "Power Gem", "Discharge", "Cotton Guard", "Signal Beam", "Light Screen", "Thunder"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Charge Beam", "Flash", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Charge", "Charge Beam", "Flash", "Thunder", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge"};
 		eggMoves = new String[]{"After You", "Agility", "Body Slam", "Slam", "Charge", "Eerie Impulse", "Electric Terrain", "Flatter", "Iron Tail", "Odor Sleuth", "Reflect", "Safeguard", "Sand Attack", "Screech", "Take Down"};
 		tutorMoves = new String[]{"After You", "Defense Curl", "Heal Bell", "Iron Tail", "Magnet Rise", "Shock Wave", "Signal Beam", "Sleep Talk", "Snore", "Swift"};
 		naturalMoves = new String[]{};
-}
+	}
 		Mareep(){
 
 		super();

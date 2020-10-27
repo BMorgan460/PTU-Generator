@@ -1,0 +1,54 @@
+public class Meowstic_m extends Pokemon{
+	{
+		name = "Meowstic_m";
+		bHP = 7;
+		bAtk = 5;
+		bDef = 8;
+		bSpAtk = 8;
+		bSpDef = 8;
+		bSpd = 10;
+		type1 = "Psychic";
+		type2 = "";
+		abilities = new String[]{"Keen Eye", "Infiltrator", "Prankster", "Own Tempo", "Telepath"};
+		abilityTypeCount = new int[] {2,2,1};
+		height = "2\'/00\"";
+		size = "Small";
+		weight = 18.7;
+		WC = 1;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
+		egg1 = "Field";
+		egg2 = "Herbivore";
+		overland = 7;
+		swim = 4;
+		levitate = 0;
+		burrow = 0;
+		lJump = 1 ;
+		hJump = 2;
+		power = 2;
+		natureWalk = new String[]{"Grassland"};
+		underdog = false;
+		other = new String[]{"Telepath"};
+		athl = 3;
+		acro = 3;
+		combat = 3;
+		stealth = 4;
+		percep = 5;
+		focus = 4;
+		athlBonus = 0;
+		acroBonus = 1;
+		combatBonus = 0;
+		stealthBonus = 0;
+		percepBonus = 0;
+		focusBonus = 2;
+		movesLevels = new int[]{1, 1, 5, 9, 13, 17, 19, 25, 28, 31, 35, 40, 43, 45, 48, 50, 55};
+		moves = new String[]{"Scratch", "Leer", "Covet", "Confusion", "Light Screen", "Psybeam", "Fake Out", "Psyshock", "Charm", "Miracle Eye", "Reflect", "Psychic", "Role Play", "Imprison", "Sucker Punch", "Misty Terrain", "Quick Guard"};
+		TMs = new String[]{"Cut", "Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Psychic", "Double Team", "Reflect", "Torment", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Charge", "Charge Beam", "Payback", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dark Pulse", "Confide"};
+		tutorMoves = new String[]{"Covet", "Gravity", "Heal Bell", "Helping Hand", "Iron Tail", "Magic Coat", "Magic Room", "Recycle", "Role Play", "Shock Wave", "Signal Beam", "Snatch", "Snore", "Trick", "Wonder Room", "Zen Headbutt", "Headbutt", "Helping Hand", "Mean Look", "Quick Guard"};
+		naturalMoves = new String[]{"Helping Hand", "Mean Look", "Quick Guard"};
+	}
+		Meowstic_m(){
+
+		super();
+		}
+}

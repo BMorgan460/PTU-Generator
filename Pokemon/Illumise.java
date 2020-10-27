@@ -1,5 +1,5 @@
 public class Illumise extends Pokemon{
-{
+	{
 		name = "Illumise";
 		bHP = 7;
 		bAtk = 5;
@@ -15,20 +15,20 @@ public class Illumise extends Pokemon{
 		size = "Small";
 		weight = 39;
 		WC = 2;
-		maleRatio = 0;
-		femaleRatio = 100;
+		maleRatio = 0.0;
+		femaleRatio = 100.0;
 		egg1 = "Bug";
 		egg2 = "Humanshape";
 		habitats = new String[]{"Forest", "Grassland", "Rainforest"};
 		overland = 3;
 		swim = 3;
 		levitate = 0;
-		sky = 5;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 2;
-		underdog = false;
+		underdog = true;
+		other = new String[]{"Glow","Wallclimber"};
 		athl = 3;
 		acro = 4;
 		combat = 2;
@@ -43,11 +43,11 @@ public class Illumise extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 5, 9, 12, 15, 19, 22, 25, 29, 33, 36, 40, 43, 47};
 		moves = new String[]{"Tackle", "Play Nice", "Sweet Scent", "Charm", "Quick Attack", "Struggle Bug", "Moonlight", "Wish", "Encore", "Flatter", "Zen Headbutt", "Helping Hand", "Bug Buzz", "Play Rough", "Covet"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Roost", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Brick Break", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Charge Beam", "Acrobatics", "Flash", "Thunder Wave", "Struggle Bug", "Psych Up", "Swagger", "Sleep Talk", "UTurn", "Substitute", "PowerUp", "Dazzling Gleam"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Roost", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Brick Break", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Charge", "Charge Beam", "Acrobatics", "Flash", "Thunder", "Thunder Wave", "Struggle Bug", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam"};
 		eggMoves = new String[]{"Baton Pass", "Bug Buzz", "Captivate", "Confuse Ray", "Encore", "Fake Tears", "Silver Wind", "Trick"};
 		tutorMoves = new String[]{"Air Cutter", "Body Slam", "Slam", "Bug Bite", "Bite", "Counter", "Covet", "Dynamic Punch", "Focus Punch", "Giga Drain", "Helping Hand", "Ice Punch", "Mega Kick", "Mega Punch", "Metronome", "Ominous Wind", "Roost", "Seismic Toss", "Shock Wave", "Signal Beam", "Sleep Talk", "Snore", "String Shot", "Swift", "Tailwind", "Thunder Punch", "Water Pulse", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Illumise(){
 
 		super();

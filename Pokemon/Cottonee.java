@@ -1,5 +1,5 @@
 public class Cottonee extends Pokemon{
-{
+	{
 		name = "Cottonee";
 		bHP = 4;
 		bAtk = 3;
@@ -8,29 +8,29 @@ public class Cottonee extends Pokemon{
 		bSpDef = 5;
 		bSpd = 7;
 		type1 = "Grass";
-		type2 = "";
+		type2 = "Fairy";
 		abilities = new String[]{"Prankster", "Infiltrator", "Chlorophyll", "Leaf Guard", "Dodge"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Whimsicott"};
-		nextReq = new String[]{"Stone"};
+		nextReq = new String[]{"20"};
 		height = "1\'/0\"";
 		size = "Small";
 		weight = 1.3;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Plant";
 		egg2 = "Fairy";
-		habitats = new String[]{"Grassland", "Capability", "List"};
+		habitats = new String[]{"Grassland"};
 		overland = 4;
 		swim = 1;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 1;
-		underdog = false;
+		underdog = true;
+		other = new String[]{"Inflatable","Shrinkable"};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -49,7 +49,7 @@ public class Cottonee extends Pokemon{
 		eggMoves = new String[]{"Beat Up", "Captivate", "Encore", "Fake Tears", "Memento", "Natural Gift", "Switcheroo", "Tickle", "Worry Seed"};
 		tutorMoves = new String[]{"Covet", "Endeavor", "Giga Drain", "Helping Hand", "Knock Off", "Seed Bomb", "Sleep Talk", "Snore", "Tailwind", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Cottonee(){
 
 		super();

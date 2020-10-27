@@ -1,5 +1,5 @@
 public class Clauncher extends Pokemon{
-{
+	{
 		name = "Clauncher";
 		bHP = 5;
 		bAtk = 5;
@@ -9,7 +9,7 @@ public class Clauncher extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Shell Armor", "Sniper", "Gulp", "Swift Swim", "Launcher"};
+		abilities = new String[]{"Shell Armor", "Sniper", "Gulp", "Swift Swim", "Mega Launcher"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Clawitzer"};
 		nextReq = new String[]{"35"};
@@ -17,20 +17,21 @@ public class Clauncher extends Pokemon{
 		size = "Small";
 		weight = 18.3;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Ocean", "Capability", "List"};
+		egg2 = "and";
+		habitats = new String[]{"Ocean"};
 		overland = 3;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Ocean"};
+		underdog = true;
+		other = new String[]{"Gilled","Fountain"};
 		athl = 2;
 		acro = 2;
 		combat = 3;
@@ -44,12 +45,12 @@ public class Clauncher extends Pokemon{
 		percepBonus = 3;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 7, 9, 12, 16, 20, 25, 30, 34, 39, 43, 48};
-		moves = new String[]{"Splash", "Water Gun", "Water Sport", "Vice", "Bubble", "Flail", "Bubble Beam", "Swords Dance", "Crabhammer", "Water Pulse", "Smack Down", "Aqua Jet", "Muddy Water"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Ice Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Scald", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Flash Cannon", "Confide"};
+		moves = new String[]{"Splash", "Water Gun", "Water Sport", "Vice Grip", "Bubble", "Flail", "Bubble Beam", "Swords Dance", "Crabhammer", "Water Pulse", "Smack Down", "Aqua Jet", "Muddy Water"};
+		TMs = new String[]{"Cut", "Surf", "Waterfall", "Toxic", "Venoshock", "Hidden Power", "Ice Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Scald", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Confide"};
 		eggMoves = new String[]{"Aqua Jet", "Crabhammer", "Endure", "Entrainment", "Helping Hand"};
 		tutorMoves = new String[]{"Aqua Tail", "Bounce", "Dragon Pulse", "Helping Hand", "Icy Wind", "Iron Tail", "Snore", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Clauncher(){
 
 		super();

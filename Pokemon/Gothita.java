@@ -1,5 +1,5 @@
 public class Gothita extends Pokemon{
-{
+	{
 		name = "Gothita";
 		bHP = 5;
 		bAtk = 3;
@@ -9,7 +9,7 @@ public class Gothita extends Pokemon{
 		bSpd = 5;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Frisk", "Competitive", "Cute Tears", "Telepathy", "Tag"};
+		abilities = new String[]{"Frisk", "Competitive", "Cute Tears", "Telepathy", "Shadow Tag"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Gothorita", "Gothitelle"};
 		nextReq = new String[]{"40"};
@@ -17,21 +17,20 @@ public class Gothita extends Pokemon{
 		size = "Small";
 		weight = 12.8;
 		WC = 1;
-		maleRatio = 25;
-		femaleRatio = 75;
+		maleRatio = 25.0;
+		femaleRatio = 75.0;
 		egg1 = "Humanshape";
-		egg2 = "Average";
-		habitats = new String[]{"Forest", "Urban", "Capability"};
+		egg2 = "";
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
 		natureWalk = new String[]{"Forest", "Urban"};
-		underdog = false;
+		underdog = true;
+		other = new String[]{"Telekinetic","Telepath"};
 		athl = 2;
 		acro = 3;
 		combat = 1;
@@ -46,11 +45,11 @@ public class Gothita extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 7, 8, 10, 14, 16, 19, 24, 25, 28, 31, 33, 37, 40, 46, 48};
 		moves = new String[]{"Pound", "Confusion", "Tickle", "Play Nice", "Fake Tears", "Double Slap", "Psybeam", "Embargo", "Feint Attack", "Psyshock", "Flatter", "Future Sight", "Heal Block", "Psychic", "Telekinesis", "Charm", "Magic Room"};
-		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Taunt", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Fling", "Charge Beam", "Embargo", "Payback", "Flash", "Thunder Wave", "Psych Up", "Rock Slide", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick Room"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Taunt", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Fling", "Charge", "Charge Beam", "Embargo", "Payback", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Rock Slide", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room"};
 		eggMoves = new String[]{"Captivate", "Dark Pulse", "Heal Pulse", "Mean Look", "Miracle Eye", "Mirror Coat", "Uproar"};
 		tutorMoves = new String[]{"Covet", "Foul Play", "Gravity", "Heal Bell", "Helping Hand", "Magic Coat", "Magic Room", "Recycle", "Role Play", "Signal Beam", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Telekinesis", "Trick", "Uproar", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Gothita(){
 
 		super();

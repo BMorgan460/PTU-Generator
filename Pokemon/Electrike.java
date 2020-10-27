@@ -1,5 +1,5 @@
 public class Electrike extends Pokemon{
-{
+	{
 		name = "Electrike";
 		bHP = 4;
 		bAtk = 5;
@@ -17,20 +17,21 @@ public class Electrike extends Pokemon{
 		size = "Small";
 		weight = 33.5;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Forest", "Grassland", "Urban"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Grassland"};
+		underdog = true;
+		other = new String[]{"Tracker","Zapper"};
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -45,11 +46,11 @@ public class Electrike extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 24, 29, 34, 39, 44, 49};
 		moves = new String[]{"Tackle", "Thunder Wave", "Leer", "Howl", "Quick Attack", "Spark", "Odor Sleuth", "Thunder Fang", "Bite", "Discharge", "Roar", "Wild Charge", "Charge", "Thunder"};
-		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Flamethrower", "Facade", "Rest", "Attract", "Thief", "Round", "Charge Beam", "Flash", "Volt Switch", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Snarl"};
+		TMs = new String[]{"Strength", "Roar", "Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Flamethrower", "Facade", "Rest", "Attract", "Thief", "Round", "Charge", "Charge Beam", "Flash", "Volt Switch", "Thunder", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Snarl"};
 		eggMoves = new String[]{"Crunch", "Curse", "Discharge", "Eerie Impulse", "Electro Ball", "Fire Fang", "Headbutt", "Ice Fang", "Shock Wave", "Swift", "Switcheroo", "Thunder Fang", "Uproar"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Iron Tail", "Magnet Rise", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Uproar"};
 		naturalMoves = new String[]{};
-}
+	}
 		Electrike(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Jellicent extends Pokemon{
-{
+	{
 		name = "Jellicent";
 		bHP = 10;
 		bAtk = 6;
@@ -8,7 +8,7 @@ public class Jellicent extends Pokemon{
 		bSpDef = 11;
 		bSpd = 6;
 		type1 = "Water";
-		type2 = "";
+		type2 = "Ghost";
 		abilities = new String[]{"Water Absorb", "Cursed Body", "Damp", "Liquid Ooze", "Pressure"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Frillish();
@@ -17,20 +17,21 @@ public class Jellicent extends Pokemon{
 		size = "Large";
 		weight = 297.6;
 		WC = 5;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Indeterminate";
-		egg2 = "Diet";
-		habitats = new String[]{"Ocean", "Capability", "List"};
+		egg2 = "Carnivore";
+		habitats = new String[]{"Ocean"};
 		overland = 1;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 3;
+		natureWalk = new String[]{"Ocean"};
 		underdog = false;
+		other = new String[]{"Darkvision","Dead Silent","Fountain","Invisibility","Invisibility"};
 		athl = 3;
 		acro = 2;
 		combat = 3;
@@ -45,10 +46,10 @@ public class Jellicent extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 13, 17, 22, 27, 32, 37, 45, 53, 61, 69};
 		moves = new String[]{"Absorb", "Night Shade", "Bubble Beam", "Recover", "Water Pulse", "Ominous Wind", "Brine", "Rain Dance", "Hex", "Hydro Pump", "Wring Out", "Water Spout"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Scald", "WillOWisp", "Giga Impact", "Flash", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Dark Pulse", "Dazzling Gleam"};
+		TMs = new String[]{"Surf", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Scald", "Giga Impact", "Flash", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dark Pulse", "Dazzling Gleam"};
 		tutorMoves = new String[]{"Bind", "Dark Pulse", "Giga Drain", "Icy Wind", "Magic Coat", "Pain Split", "Sleep Talk", "Snore", "Spite", "Trick", "Water Spout", "Wring Out"};
 		naturalMoves = new String[]{"Water Spout", "Wring Out"};
-}
+	}
 		Jellicent(){
 
 		super();

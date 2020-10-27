@@ -1,5 +1,5 @@
 public class Froakie extends Pokemon{
-{
+	{
 		name = "Froakie";
 		bHP = 4;
 		bAtk = 6;
@@ -9,7 +9,7 @@ public class Froakie extends Pokemon{
 		bSpd = 7;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Mud Dweller", "Torrent", "Protean", "Hydration", "Away"};
+		abilities = new String[]{"Mud Dweller", "Torrent", "Protean", "Hydration", "Wash Away"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Frogadier", "Greninja"};
 		nextReq = new String[]{"30"};
@@ -20,17 +20,17 @@ public class Froakie extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Freshwater", "Marsh", "Capability"};
+		egg2 = "Average";
 		overland = 5;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Wetlands"};
+		underdog = true;
+		other = new String[]{"Fountain","Gilled","Wallclimber"};
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -45,11 +45,11 @@ public class Froakie extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 8, 10, 14, 18, 21, 25, 29, 35, 39, 43, 48};
 		moves = new String[]{"Pound", "Growl", "Bubble", "Quick Attack", "Lick", "Water Pulse", "Smokescreen", "Round", "Fling", "Smack Down", "Substitute", "Bounce", "Double Team", "Hydro Pump"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Dig", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Scald", "Fling", "Acrobatics", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Cut", "Surf", "Strength", "Waterfall", "Toxic", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Dig", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Scald", "Fling", "Acrobatics", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		eggMoves = new String[]{"Bestow", "Camouflage", "Mind Reader", "Mud Sport", "Water Sport", "Toxic Spikes", "Spikes"};
 		tutorMoves = new String[]{"Bounce", "Icy Wind", "Role Play", "Snatch", "Snore", "Spite", "Water Pledge", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Froakie(){
 
 		super();

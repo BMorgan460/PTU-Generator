@@ -1,5 +1,5 @@
 public class Piplup extends Pokemon{
-{
+	{
 		name = "Piplup";
 		bHP = 5;
 		bAtk = 5;
@@ -9,7 +9,7 @@ public class Piplup extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Klutz", "Torrent", "Pride", "Defiant", "Swim"};
+		abilities = new String[]{"Klutz", "Torrent", "Pride", "Defiant", "Swift Swim"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Prinplup", "Empoleon"};
 		nextReq = new String[]{"30"};
@@ -20,17 +20,18 @@ public class Piplup extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Water";
-		egg2 = "1";
+		egg2 = " ";
 		habitats = new String[]{"Beach", "Taiga", "Tundra"};
 		overland = 4;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Tundra", "Ocean"};
+		underdog = true;
+		other = new String[]{"Fountain"};
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -45,11 +46,11 @@ public class Piplup extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 4, 8, 11, 15, 19, 24, 28, 33, 37, 42, 46, 51};
 		moves = new String[]{"Pound", "Growl", "Bubble", "Water Sport", "Peck", "Bubble Beam", "Bide", "Fury Attack", "Brine", "Whirlpool", "Mist", "Drill Peck", "Hydro Pump"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Fling", "Quash", "Grass Knot", "Swagger", "Sleep Talk", "Substitute"};
+		TMs = new String[]{"Cut", "Surf", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Fling", "Quash", "Grass Knot", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Agility", "Aqua Ring", "Bide", "Double Hit", "Flail", "Hydro Pump", "Mud Sport", "Snore", "Supersonic", "Yawn"};
 		tutorMoves = new String[]{"Covet", "Dive", "Icy Wind", "Pluck", "Signal Beam", "Sleep Talk", "Snore", "Stealth Rock", "Water Pledge", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Piplup(){
 
 		super();

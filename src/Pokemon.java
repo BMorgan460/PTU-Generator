@@ -447,9 +447,11 @@ public class Pokemon {
         return eggMoves;
     }
 
+
     public int[] getMovesLevels() {
         return movesLevels;
     }
+
 
     /**
      * Generates a move list of length 6
@@ -471,24 +473,30 @@ public class Pokemon {
             prevMoves = previous.getMoves();
             prevMovesLevels = previous.getMovesLevels();
             for (int i = 0; i < prevMoves.length; i++) {
+                prevMoves[i] = prevMoves[i].replace(' ', '_').replace('-', '_')
+                    .replace('\'', '_') + " ";
                 if (prevMovesLevels[i] <= level) {
                     if (!(levelMoves.contains(prevMoves[i]))) {
-                        levelMoves += prevMoves[i].replace(' ', '_')
-                            .replace('-', '_').replace('\'', '_') + " ";
+                        levelMoves += prevMoves[i];
                     }
                 }
             }
         }
-        int index1 = naturalMoves.length;
+        int index1;
         String[] levelMovesA = levelMoves.split(" ");
-        String[] availableMoves = new String[index1 + levelMovesA.length];
-        for (int i = 0; i < naturalMoves.length; i++) {
-            availableMoves[i] = naturalMoves[i];
+        String[] availableMoves;
+        if(naturalMoves != null) {
+            index1 = naturalMoves.length;
+            availableMoves = new String[index1 + levelMovesA.length];
+            for (int i = 0; i < naturalMoves.length; i++) {
+                availableMoves[i] = naturalMoves[i];
+            }
+            for (int i = 0; i < levelMovesA.length; i++) {
+                availableMoves[i + index1] = levelMovesA[i];
+            }
+        }else {
+            availableMoves = levelMoves.split(" ");
         }
-        for (int i = 0; i < levelMovesA.length; i++) {
-            availableMoves[i + index1] = levelMovesA[i];
-        }
-        
         String[] moveList = new String[6];
         if (availableMoves.length > 6) {
             int[] rng = new int[6];

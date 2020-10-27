@@ -1,5 +1,5 @@
 public class Riolu extends Pokemon{
-{
+	{
 		name = "Riolu";
 		bHP = 4;
 		bAtk = 7;
@@ -21,17 +21,15 @@ public class Riolu extends Pokemon{
 		femaleRatio = 12.5;
 		egg1 = "Field";
 		egg2 = "Humanshape";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
 		overland = 6;
 		swim = 0;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 3;
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 2;
 		combat = 3;
@@ -46,11 +44,11 @@ public class Riolu extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 1, 6, 11, 15, 19, 24, 29, 47, 55};
 		moves = new String[]{"Endure", "Foresight", "Quick Attack", "Counter", "Feint", "Force Palm", "Copycat", "Screech", "Reversal", "Nasty Plot", "Final Gambit"};
-		TMs = new String[]{"Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Shadow Claw", "Payback", "Retaliate", "Swords Dance", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Strength", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Shadow Claw", "Payback", "Retaliate", "Swords Dance", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		eggMoves = new String[]{"Agility", "Bite", "Blaze Kick", "Bullet Punch", "Circle Throw", "Cross Chop", "Crunch", "Detect", "Jump Kick", "Iron Defense", "Low Kick", "Mind Reader", "Sky Uppercut", "Vacuum Wave"};
 		tutorMoves = new String[]{"Drain Punch", "Dual Chop", "Focus Punch", "Fury Cutter", "Helping Hand", "Ice Punch", "Iron Defense", "Iron Tail", "Low Kick", "Magic Coat", "Magnet Rise", "Role Play", "Sleep Talk", "Snore", "Swift", "Thunder Punch", "Vacuum Wave", "Work Up", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Riolu(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Golduck extends Pokemon{
-{
+	{
 		name = "Golduck";
 		bHP = 8;
 		bAtk = 8;
@@ -16,20 +16,20 @@ public class Golduck extends Pokemon{
 		height = "5\'/7\"";
 		weight = 168.9;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Beach", "Freshwater", "Capability"};
+		egg2 = " ";
 		overland = 5;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 5;
+		natureWalk = new String[]{"Wetlands"};
 		underdog = false;
+		other = new String[]{"Telepath","Telekinetic"};
 		athl = 4;
 		acro = 4;
 		combat = 3;
@@ -44,10 +44,10 @@ public class Golduck extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{4, 8, 11, 15, 18, 22, 25, 29, 32, 38, 43, 49, 54, 60};
 		moves = new String[]{"Tail Whip", "Water Gun", "Confusion", "Fury Swipes", "Water Pulse", "Disable", "Screech", "Aqua Tail", "Zen Headbutt", "Soak", "Psych Up", "Amnesia", "Hydro Pump", "Wonder Room"};
-		TMs = new String[]{"Hone Claws", "Psyshock", "Calm Mind", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Psychic", "Brick Break", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Scald", "Fling", "Shadow Claw", "Giga Impact", "Flash", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Surf", "Strength", "Waterfall", "Dive", "Hone Claws", "Psyshock", "Calm Mind", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Psychic", "Brick Break", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Scald", "Fling", "Shadow Claw", "Giga Impact", "Flash", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Aqua Tail", "Body Slam", "Slam", "Brine", "Counter", "Dive", "Dynamic Punch", "Focus Punch", "Fury Cutter", "Ice Punch", "Icy Wind", "Iron Tail", "Low Kick", "Magic Coat", "Mega Kick", "Mega Punch", "Role Play", "Seismic Toss", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Telekinesis", "Wonder Room", "Worry Seed", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Golduck(){
 
 		super();

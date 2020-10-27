@@ -1,5 +1,5 @@
 public class Chingling extends Pokemon{
-{
+	{
 		name = "Chingling";
 		bHP = 5;
 		bAtk = 3;
@@ -9,7 +9,7 @@ public class Chingling extends Pokemon{
 		bSpd = 5;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Serene Grace", "Magic Guard", "Probablity", "Charm"};
+		abilities = new String[]{"Levitate", "Serene Grace", "Magic Guard", "Probablity", "Cute Charm"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Chimecho"};
 		nextReq = new String[]{"15"};
@@ -17,21 +17,19 @@ public class Chingling extends Pokemon{
 		size = "Small";
 		weight = 1.3;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Indeterminate";
-		egg2 = "Average";
-		habitats = new String[]{"Cave", "Urban", "Capability"};
+		egg2 = "";
 		overland = 1;
 		swim = 2;
 		levitate = 3;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		underdog = false;
-		other = new String[]{"Underdog"};
+		underdog = true;
+		other = new String[]{"Telepath"};
 		athl = 2;
 		acro = 2;
 		combat = 1;
@@ -46,11 +44,11 @@ public class Chingling extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 4, 7, 10, 13, 16, 19, 32};
 		moves = new String[]{"Wrap", "Growl", "Astonish", "Confusion", "Yawn", "Last Resort", "Entrainment", "Uproar"};
-		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Torment", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Charge Beam", "Flash", "Thunder Wave", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Dazzling Gleam"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Torment", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Charge", "Charge Beam", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dazzling Gleam"};
 		eggMoves = new String[]{"Cosmic Power", "Curse", "Disable", "Dream Eater", "Future Sight", "Hypnosis", "Recover", "Skill Swap", "Stored Power", "Wish"};
 		tutorMoves = new String[]{"Bind", "Gravity", "Heal Bell", "Helping Hand", "Icy Wind", "Knock Off", "Last Resort", "Magic Coat", "Recycle", "Role Play", "Rollout", "Shock Wave", "Signal Beam", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Swift", "Telekinesis", "Trick", "Uproar", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Chingling(){
 
 		super();

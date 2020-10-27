@@ -1,5 +1,5 @@
 public class Eevee extends Pokemon{
-{
+	{
 		name = "Eevee";
 		bHP = 6;
 		bAtk = 6;
@@ -12,7 +12,7 @@ public class Eevee extends Pokemon{
 		abilities = new String[]{"Run Away", "Sprint", "Adaptability", "Anticipation", "Celebrate"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Vaporeon"};
-		nextReq = new String[]{"Stone"};
+		nextReq = new String[]{"2"};
 		height = "1\'/0\"";
 		size = "Small";
 		weight = 14.3;
@@ -20,18 +20,17 @@ public class Eevee extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Forest", "Grassland", "Urban"};
 		overland = 4;
 		swim = 0;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
-		other = new String[]{"Underdog"};
+		underdog = true;
+		other = new String[]{"Tracker"};
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -50,7 +49,7 @@ public class Eevee extends Pokemon{
 		eggMoves = new String[]{"Captivate", "Charm", "Covet", "Curse", "Detect", "Endure", "Fake Tears", "Flail", "Natural Gift", "Stored Power", "Synchronoise", "Tickle", "Wish", "Yawn"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Heal Bell", "Helping Hand", "Hyper Voice", "Iron Tail", "Last Resort", "Sleep Talk", "Snore", "Swift", "Work Up"};
 		naturalMoves = new String[]{};
-}
+	}
 		Eevee(){
 
 		super();

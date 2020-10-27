@@ -1,5 +1,5 @@
 public class Snorunt extends Pokemon{
-{
+	{
 		name = "Snorunt";
 		bHP = 5;
 		bAtk = 5;
@@ -9,7 +9,7 @@ public class Snorunt extends Pokemon{
 		bSpd = 5;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Inner Focus", "Ice Body", "Winter’s", "Moody", "Frostbite"};
+		abilities = new String[]{"Inner Focus", "Ice Body", "Winter's Kiss", "Moody", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Glalie"};
 		nextReq = new String[]{"40"};
@@ -17,20 +17,20 @@ public class Snorunt extends Pokemon{
 		size = "Small";
 		weight = 37;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Fairy";
 		egg2 = "Mineral";
-		habitats = new String[]{"Taiga", "Tundra", "Capability"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Tundra"};
+		underdog = true;
+		other = new String[]{"Chilled","Glow"};
 		athl = 2;
 		acro = 2;
 		combat = 1;
@@ -49,7 +49,7 @@ public class Snorunt extends Pokemon{
 		eggMoves = new String[]{"Avalanche", "Bide", "Block", "Disable", "Fake Tears", "Hex", "Rollout", "Spikes", "Switcheroo", "Weather Ball"};
 		tutorMoves = new String[]{"Block", "Body Slam", "Slam", "Icy Wind", "Sleep Talk", "Snore", "Spite", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Snorunt(){
 
 		super();

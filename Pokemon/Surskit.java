@@ -1,5 +1,5 @@
 public class Surskit extends Pokemon{
-{
+	{
 		name = "Surskit";
 		bHP = 4;
 		bAtk = 3;
@@ -8,8 +8,8 @@ public class Surskit extends Pokemon{
 		bSpDef = 5;
 		bSpd = 7;
 		type1 = "Bug";
-		type2 = "";
-		abilities = new String[]{"Water Absorb", "Danger Syrup", "Instinct", "Swift Swim", "Dish"};
+		type2 = "Water";
+		abilities = new String[]{"Water Absorb", "Danger Syrup", "Instinct", "Swift Swim", "Rain Dish"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Masquerain"};
 		nextReq = new String[]{"20"};
@@ -17,20 +17,21 @@ public class Surskit extends Pokemon{
 		size = "Small";
 		weight = 3.7;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Freshwater", "Capability", "List"};
+		egg2 = " ";
+		habitats = new String[]{"Freshwater"};
 		overland = 4;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Wetlands"};
+		underdog = true;
+		other = new String[]{"Threaded","Honey Gather"};
 		athl = 2;
 		acro = 3;
 		combat = 1;
@@ -45,11 +46,11 @@ public class Surskit extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 6, 9, 14, 17, 22, 25, 25, 30, 35, 38};
 		moves = new String[]{"Bubble", "Quick Attack", "Sweet Scent", "Water Sport", "Bubble Beam", "Agility", "Mist", "Haze", "Aqua Jet", "Baton Pass", "Sticky Web"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Flash", "Struggle Bug", "Psych Up", "Infestation", "Swagger", "Sleep Talk", "UTurn", "Substitute"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Flash", "Struggle Bug", "Psych Up", "Infestation", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Aqua Jet", "Bug Bite", "Bite", "Endure", "Fell Stinger", "Foresight", "Hydro Pump", "Mind Reader", "Mud Shot", "Power Split", "Psybeam", "Signal Beam"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Giga Drain", "Icy Wind", "Signal Beam", "Sleep Talk", "Snore", "String Shot", "Swift", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Surskit(){
 
 		super();

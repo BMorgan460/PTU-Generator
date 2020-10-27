@@ -1,5 +1,5 @@
 public class Roggenrola extends Pokemon{
-{
+	{
 		name = "Roggenrola";
 		bHP = 6;
 		bAtk = 8;
@@ -9,7 +9,7 @@ public class Roggenrola extends Pokemon{
 		bSpd = 2;
 		type1 = "Rock";
 		type2 = "";
-		abilities = new String[]{"Sturdy", "Sand Rush", "Sand Force", "Sand Veil", "Up"};
+		abilities = new String[]{"Sturdy", "Sand Rush", "Sand Force", "Sand Veil", "Run Up"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Boldore", "Gigalith"};
 		nextReq = new String[]{"40"};
@@ -17,22 +17,20 @@ public class Roggenrola extends Pokemon{
 		size = "Small";
 		weight = 39.7;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Mineral";
-		egg2 = "Average";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
+		egg2 = "";
 		overland = 3;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 0;
+		lJump = 0 ;
 		hJump = 0;
 		power = 3;
 		natureWalk = new String[]{"Cave", "Mountain"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 1;
 		combat = 1;
@@ -47,11 +45,11 @@ public class Roggenrola extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 4, 7, 10, 14, 17, 20, 23, 27, 30, 33, 36, 40};
 		moves = new String[]{"Tackle", "Harden", "Sand Attack", "Headbutt", "Rock Blast", "MudSlap", "Iron Defense", "Smack Down", "Rock Slide", "Stealth Rock", "Sandstorm", "Stone Edge", "Explosion"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Protect", "Frustration", "Smack Down", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Explosion", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon", "Rock Smash", "Nature Power"};
+		TMs = new String[]{"Strength", "Toxic", "Hidden Power", "Protect", "Frustration", "Smack Down", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Explosion", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Rock Smash", "Nature Power"};
 		eggMoves = new String[]{"Autotomize", "Curse", "Gravity", "Heavy Slam", "Slam", "Magnitude", "Take Down", "Wide Guard"};
 		tutorMoves = new String[]{"Block", "Earth Power", "Gravity", "Iron Defense", "Sleep Talk", "Snore", "Stealth Rock"};
 		naturalMoves = new String[]{};
-}
+	}
 		Roggenrola(){
 
 		super();

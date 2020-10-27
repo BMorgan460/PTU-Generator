@@ -1,5 +1,5 @@
 public class Tornadus extends Pokemon{
-{
+	{
 		name = "Tornadus";
 		bHP = 8;
 		bAtk = 12;
@@ -18,18 +18,17 @@ public class Tornadus extends Pokemon{
 		maleRatio = -1;
 		femaleRatio = -1;
 		egg1 = "None";
-		egg2 = "Average";
-		habitats = new String[]{"Mountain", "Capability", "List"};
+		egg2 = "";
+		habitats = new String[]{"Mountain"};
 		overland = 5;
 		swim = 5;
 		levitate = 0;
-		sky = 8;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 6;
 		underdog = false;
-		other = new String[]{"Zapper"};
+		other = new String[]{"Guster","Zapper"};
 		athl = 4;
 		acro = 5;
 		combat = 4;
@@ -44,10 +43,10 @@ public class Tornadus extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 7, 13, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73, 79, 85};
 		moves = new String[]{"Astonish", "Gust", "Uproar", "Swagger", "Bite", "Revenge", "Air Cutter", "Extrasensory", "Agility", "Air Slash", "Crunch", "Tailwind", "Rain Dance", "Hurricane", "Dark Pulse", "Hammer Arm", "Thrash"};
-		TMs = new String[]{"Toxic", "Bulk Up", "Hidden Power", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Psychic", "Brick Break", "Double Team", "Sludge Wave", "Sludge Bomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Fling", "Sky Drop", "Incinerate", "Acrobatics", "Embargo", "Payback", "Giga Impact", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Rock Smash", "Dark Pulse"};
+		TMs = new String[]{"Fly", "Strength", "Toxic", "Bulk Up", "Hidden Power", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Psychic", "Brick Break", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Fling", "Sky Drop", "Incinerate", "Acrobatics", "Embargo", "Payback", "Giga Impact", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Dark Pulse"};
 		tutorMoves = new String[]{"Dark Pulse", "Foul Play", "Hammer Arm", "Heat Wave", "Icy Wind", "Iron Tail", "Knock Off", "Role Play", "Sleep Talk", "Snore", "Superpower", "Uproar"};
 		naturalMoves = new String[]{"Hammer Arm", "Hurricane", "Superpower", "Tailwind", "Thrash"};
-}
+	}
 		Tornadus(){
 
 		super();

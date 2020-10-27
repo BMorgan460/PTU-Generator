@@ -7,10 +7,13 @@ public class Driver {
 
     public static void main(String[] args) {
 		String name = args[0];
+		
 		//GET RID OF THIS LATER
 		Scanner scan = new Scanner(System.in);
 		name = scan.nextLine();
 		scan.close();
+		//GET RID OF THIS LATER
+		
 		int minLevel = Integer.valueOf(args[1]);
 		int maxLevel = Integer.valueOf(args[2]);
 		Generator g = new Generator(name, minLevel, maxLevel, false);

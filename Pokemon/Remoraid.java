@@ -1,5 +1,5 @@
 public class Remoraid extends Pokemon{
-{
+	{
 		name = "Remoraid";
 		bHP = 4;
 		bAtk = 7;
@@ -17,20 +17,21 @@ public class Remoraid extends Pokemon{
 		size = "Small";
 		weight = 26.5;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Ocean", "Capability", "List"};
+		egg2 = " ";
+		habitats = new String[]{"Ocean"};
 		overland = 1;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Ocean"};
+		underdog = true;
+		other = new String[]{"Gilled","Fountain"};
 		athl = 2;
 		acro = 3;
 		combat = 1;
@@ -45,11 +46,11 @@ public class Remoraid extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50};
 		moves = new String[]{"Water Gun", "LockOn", "Psybeam", "Aurora Beam", "Bubble Beam", "Focus Energy", "Water Pulse", "Signal Beam", "Ice Beam", "Bullet Seed", "Hydro Pump", "Hyper Beam", "Soak"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Psychic", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Charge Beam", "Incinerate", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute"};
+		TMs = new String[]{"Surf", "Waterfall", "Dive", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Psychic", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Charge", "Charge Beam", "Incinerate", "Thunder", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Acid Spray", "Aurora Beam", "Entrainment", "Flail", "Haze", "Mud Shot", "Octazooka", "Rock Blast", "Screech", "Snore", "Supersonic", "Swift", "Water Pulse", "Water Spout", "Thunder Wave"};
 		tutorMoves = new String[]{"Bounce", "Brine", "Defense Curl", "Dive", "Gunk Shot", "Icy Wind", "Seed Bomb", "Signal Beam", "Sleep Talk", "Snore", "String Shot", "Swift"};
 		naturalMoves = new String[]{};
-}
+	}
 		Remoraid(){
 
 		super();

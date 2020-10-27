@@ -1,5 +1,5 @@
 public class Garbodor extends Pokemon{
-{
+	{
 		name = "Garbodor";
 		bHP = 8;
 		bAtk = 10;
@@ -17,20 +17,21 @@ public class Garbodor extends Pokemon{
 		size = "Large";
 		weight = 236.6;
 		WC = 5;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Mineral";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Grassland", "Marsh", "Urban"};
 		overland = 5;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 6;
+		natureWalk = new String[]{"Urban"};
 		underdog = false;
+		other = new String[]{"Inflatable"};
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -45,10 +46,10 @@ public class Garbodor extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{3, 7, 12, 14, 18, 23, 23, 25, 29, 34, 39, 46, 49, 54, 59};
 		moves = new String[]{"Recycle", "Toxic Spikes", "Acid Spray", "Double Slap", "Sludge", "Stockpile", "Swallow", "Body Slam", "Sludge Bomb", "Clear Smog", "Toxic", "Amnesia", "Belch", "Gunk Shot", "Explosion"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Smack Down", "Thunderbolt", "Return", "Psychic", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Fling", "Explosion", "Payback", "Giga Impact", "Rock Polish", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Smack Down", "Thunderbolt", "Return", "Psychic", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Fling", "Explosion", "Payback", "Giga Impact", "Rock Polish", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
 		tutorMoves = new String[]{"Dark Pulse", "Drain Punch", "Giga Drain", "Gunk Shot", "Pain Split", "Recycle", "Seed Bomb", "Sleep Talk", "Snore", "Spite"};
 		naturalMoves = new String[]{};
-}
+	}
 		Garbodor(){
 
 		super();

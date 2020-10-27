@@ -1,5 +1,5 @@
 public class Grumpig extends Pokemon{
-{
+	{
 		name = "Grumpig";
 		bHP = 8;
 		bAtk = 5;
@@ -16,22 +16,21 @@ public class Grumpig extends Pokemon{
 		height = "2\'/11\"";
 		weight = 157.6;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
+		egg2 = "Herbivore";
 		habitats = new String[]{"Forest", "Grassland", "Taiga"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 5;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
-		other = new String[] {};
+		other = new String[]{"Telepath"};
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -46,10 +45,10 @@ public class Grumpig extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{7, 10, 14, 15, 18, 21, 26, 29, 29, 35, 42, 46, 52, 60};
 		moves = new String[]{"Psywave", "Odor Sleuth", "Psybeam", "Psych Up", "Confuse Ray", "Magic Coat", "Zen Headbutt", "Power Gem", "Rest", "Snore", "Psyshock", "Payback", "Psychic", "Bounce"};
-		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Energy Ball", "Fling", "Charge Beam", "Payback", "Giga Impact", "Flash", "Thunder Wave", "Psych Up", "Bulldoze", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "PowerUp", "Confide"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Energy Ball", "Fling", "Charge", "Charge Beam", "Payback", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Bulldoze", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Counter", "Covet", "Drain Punch", "Dynamic Punch", "Fire Punch", "Focus Punch", "Heal Bell", "Ice Punch", "Icy Wind", "Iron Tail", "Magic Coat", "Mega Kick", "Mega Punch", "Recycle", "Role Play", "Seismic Toss", "Shock Wave", "Signal Beam", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Swift", "Telekinesis", "Thunder Punch", "Trick", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Grumpig(){
 
 		super();

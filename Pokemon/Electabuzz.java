@@ -1,5 +1,5 @@
 public class Electabuzz extends Pokemon{
-{
+	{
 		name = "Electabuzz";
 		bHP = 7;
 		bAtk = 8;
@@ -9,7 +9,7 @@ public class Electabuzz extends Pokemon{
 		bSpd = 11;
 		type1 = "Electric";
 		type2 = "";
-		abilities = new String[]{"Static", "Inner Focus", "Vital Spirit", "Motor Drive", "Boost"};
+		abilities = new String[]{"Static", "Inner Focus", "Vital Spirit", "Motor Drive", "Thunder Boost"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Elekid();
 		prevReq = 30;
@@ -18,22 +18,21 @@ public class Electabuzz extends Pokemon{
 		height = "3\'/7\"";
 		weight = 66.1;
 		WC = 3;
-		maleRatio = 75;
-		femaleRatio = 25;
+		maleRatio = 75.0;
+		femaleRatio = 25.0;
 		egg1 = "Humanshape";
-		egg2 = "Diet";
+		egg2 = "Ergovore";
 		habitats = new String[]{"Forest", "Grassland", "Urban"};
 		overland = 7;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 5;
 		natureWalk = new String[]{"Urban"};
 		underdog = false;
-		other = new String[] {};
+		other = new String[]{"Zapper"};
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -48,10 +47,10 @@ public class Electabuzz extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 8, 12, 15, 19, 22, 26, 29, 36, 42, 49, 55};
 		moves = new String[]{"Thunder Shock", "Low Kick", "Swift", "Shock Wave", "Thunder Wave", "Electro Ball", "Light Screen", "Thunder Punch", "Discharge", "Screech", "Thunderbolt", "Thunder"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Charge Beam", "Giga Impact", "Flash", "Volt Switch", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Strength", "Toxic", "Hidden Power", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Charge", "Charge Beam", "Giga Impact", "Flash", "Volt Switch", "Thunder", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Covet", "Dual Chop", "Electroweb", "Fire Punch", "Focus Punch", "Helping Hand", "Ice Punch", "Iron Tail", "Low Kick", "Magnet Rise", "Mega Kick", "Mega Punch", "Seismic Toss", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Thunder Punch", "Uproar"};
 		naturalMoves = new String[]{};
-}
+	}
 		Electabuzz(){
 
 		super();

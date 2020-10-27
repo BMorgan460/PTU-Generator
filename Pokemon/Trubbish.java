@@ -1,5 +1,5 @@
 public class Trubbish extends Pokemon{
-{
+	{
 		name = "Trubbish";
 		bHP = 5;
 		bAtk = 5;
@@ -17,20 +17,21 @@ public class Trubbish extends Pokemon{
 		size = "Small";
 		weight = 68.3;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Mineral";
-		egg2 = "Average";
-		habitats = new String[]{"Urban", "Capability", "List"};
+		egg2 = "";
+		habitats = new String[]{"Urban"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Urban"};
+		underdog = true;
+		other = new String[]{"Inflatable"};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -45,11 +46,11 @@ public class Trubbish extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 3, 7, 12, 14, 18, 23, 23, 25, 29, 34, 36, 40, 42, 45, 47};
 		moves = new String[]{"Poison Gas", "Pound", "Recycle", "Toxic Spikes", "Acid Spray", "Double Slap", "Sludge", "Stockpile", "Swallow", "Take Down", "Sludge Bomb", "Clear Smog", "Toxic", "Amnesia", "Belch", "Gunk Shot", "Explosion"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Explosion", "Payback", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Explosion", "Payback", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
 		eggMoves = new String[]{"Curse", "Haze", "Mud Sport", "Rock Blast", "Rollout", "Sand Attack", "Spikes"};
 		tutorMoves = new String[]{"Dark Pulse", "Drain Punch", "Giga Drain", "Gunk Shot", "Pain Split", "Recycle", "Seed Bomb", "Sleep Talk", "Snore", "Spite"};
 		naturalMoves = new String[]{};
-}
+	}
 		Trubbish(){
 
 		super();

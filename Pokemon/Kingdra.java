@@ -1,5 +1,5 @@
 public class Kingdra extends Pokemon{
-{
+	{
 		name = "Kingdra";
 		bHP = 8;
 		bAtk = 10;
@@ -8,30 +8,29 @@ public class Kingdra extends Pokemon{
 		bSpDef = 10;
 		bSpd = 9;
 		type1 = "Water";
-		type2 = "";
-		abilities = new String[]{"Sniper", "Damp", "Poison Point", "Multiscale", "Down"};
+		type2 = "Dragon";
+		abilities = new String[]{"Sniper", "Damp", "Poison Point", "Multiscale", "Spray Down"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Horsea();
-		prevReq = 30;
 		previous = new Seadra();
-		prevReq = 30;
+		prevReq = 40;
 		height = "5\'/11\"";
 		weight = 335.1;
 		WC = 5;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Ocean", "Capability", "List"};
+		egg2 = " ";
+		habitats = new String[]{"Ocean"};
 		overland = 3;
 		swim = 8;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 6;
+		natureWalk = new String[]{"Ocean"};
 		underdog = false;
+		other = new String[]{"Fountain","Gilled","Mountable 1"};
 		athl = 5;
 		acro = 3;
 		combat = 4;
@@ -46,10 +45,10 @@ public class Kingdra extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{5, 9, 13, 17, 21, 26, 31, 38, 45, 52, 60};
 		moves = new String[]{"Smokescreen", "Leer", "Water Gun", "Twister", "Bubble Beam", "Focus Energy", "Brine", "Agility", "Dragon Pulse", "Dragon Dance", "Hydro Pump"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Quash", "Giga Impact", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon"};
+		TMs = new String[]{"Surf", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Quash", "Giga Impact", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon"};
 		tutorMoves = new String[]{"Bounce", "Dive", "Draco Meteor", "Dragon Pulse", "Icy Wind", "Outrage", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Twister", "Water Pulse"};
 		naturalMoves = new String[]{"Dragon Pulse"};
-}
+	}
 		Kingdra(){
 
 		super();

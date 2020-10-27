@@ -1,5 +1,5 @@
 public class Gothitelle extends Pokemon{
-{
+	{
 		name = "Gothitelle";
 		bHP = 7;
 		bAtk = 6;
@@ -9,31 +9,28 @@ public class Gothitelle extends Pokemon{
 		bSpd = 7;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Frisk", "Competitive", "Cute Tears", "Telepathy", "Tag"};
+		abilities = new String[]{"Frisk", "Competitive", "Cute Tears", "Telepathy", "Shadow Tag"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Gothita();
-		prevReq = 25;
 		previous = new Gothorita();
-		prevReq = 25;
+		prevReq = 40;
 		height = "4\'/11\"";
 		weight = 97;
 		WC = 3;
-		maleRatio = 25;
-		femaleRatio = 75;
+		maleRatio = 25.0;
+		femaleRatio = 75.0;
 		egg1 = "Humanshape";
-		egg2 = "Diet";
-		habitats = new String[]{"Urban", "Capability", "List"};
+		egg2 = "Herbivore";
+		habitats = new String[]{"Urban"};
 		overland = 6;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 1;
 		power = 4;
 		natureWalk = new String[]{"Forest", "Urban"};
 		underdog = false;
-		other = new String[]{"Telepath"};
+		other = new String[]{"Telekinetic","Telepath"};
 		athl = 2;
 		acro = 2;
 		combat = 3;
@@ -48,10 +45,10 @@ public class Gothitelle extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{3, 7, 10, 14, 16, 19, 24, 25, 28, 31, 34, 39, 45, 54, 59};
 		moves = new String[]{"Confusion", "Tickle", "Fake Tears", "Double Slap", "Psybeam", "Embargo", "Feint Attack", "Psyshock", "Flatter", "Future Sight", "Heal Block", "Psychic", "Telekinesis", "Charm", "Magic Room"};
-		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Taunt", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Energy Ball", "Fling", "Charge Beam", "Embargo", "Payback", "Giga Impact", "Flash", "Thunder Wave", "Psych Up", "Rock Slide", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "PowerUp", "Confide"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Taunt", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Energy Ball", "Fling", "Charge", "Charge Beam", "Embargo", "Payback", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Rock Slide", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Confide"};
 		tutorMoves = new String[]{"Covet", "Foul Play", "Gravity", "Heal Bell", "Helping Hand", "Magic Coat", "Magic Room", "Play Nice", "Recycle", "Role Play", "Signal Beam", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Telekinesis", "Trick", "Uproar", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{"Play Nice"};
-}
+	}
 		Gothitelle(){
 
 		super();

@@ -36,7 +36,7 @@ public class Move {
 
     public void increaseDB(int add) {
         if(damageBase != 0) {
-            damageBase += add;
+            mDamageBase += add;
         }
     }
 
@@ -47,7 +47,7 @@ public class Move {
                 , mDamageBase + damageBase, mDamageBase + damageBase*2, mDamageBase + damageBase*3, mDamageBase + damageBase*4, name, type, category, mDamageBase, frequency, AC, range, effects);
         }else if(range.contains("Five Strike")) {
             result = String.format("\"strike\":\"Five\",\"DB2\":%d,\"DB3\":%d,\"DB4\":%d,\"DB5\":%d,\"Name\":\"%s\",\"Type\":\"%s\",\"DType\":\"%s\",\"DB\":%d,\"Freq\":\"%s\",\"AC\":%d,\"Range\":\"%s\",\"Effects\":\"%s\""
-                , mDamageBase + damageBase, mDamageBase + damageBase*2, mDamageBase + damageBase*3, mDamageBase + damageBase*4, name, type, category, mDamageBase, frequency, AC, range, effects);
+                , mDamageBase + damageBase, mDamageBase + damageBase*2, mDamageBase + damageBase*3  , mDamageBase + damageBase*4, name, type, category, mDamageBase, frequency, AC, range, effects);
         }else if(range.contains("Double Strike")) {
             result = String.format("\"strike\":\"Double\",\"DB2\":%d,\"Name\":\"%s\",\"Type\":\"%s\",\"DType\":\"%s\",\"DB\":%d,\"Freq\":\"%s\",\"AC\":%d,\"Range\":\"%s\",\"Effects\":\"%s\""
                 , mDamageBase*2, name, type, category, mDamageBase, frequency, AC, range, effects);

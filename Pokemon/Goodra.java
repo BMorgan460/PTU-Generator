@@ -1,5 +1,5 @@
 public class Goodra extends Pokemon{
-{
+	{
 		name = "Goodra";
 		bHP = 9;
 		bAtk = 10;
@@ -9,31 +9,27 @@ public class Goodra extends Pokemon{
 		bSpd = 8;
 		type1 = "Dragon";
 		type2 = "";
-		abilities = new String[]{"Sap Sipper", "Dry Skin", "Hydration", "Gooey", "Force"};
+		abilities = new String[]{"Sap Sipper", "Dry Skin", "Hydration", "Gooey", "Absorb Force"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Goomy();
-		prevReq = 40;
 		previous = new Sligoo();
-		prevReq = 40;
+		prevReq = 50;
 		height = "6\'/07\"";
 		size = "Large";
 		weight = 331.8;
 		WC = 5;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Dragon";
-		egg2 = "Diet";
-		habitats = new String[]{"Marsh", "Rainforest", "Capability"};
+		egg2 = "Herbivore";
 		overland = 7;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 8;
 		underdog = false;
-		other = new String[] {};
+		other = new String[]{"Amorphous","Amorphous"};
 		athl = 5;
 		acro = 3;
 		combat = 4;
@@ -48,10 +44,10 @@ public class Goodra extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 1, 5, 9, 13, 18, 25, 28, 32, 38, 47, 50, 55, 63};
 		moves = new String[]{"Tackle", "Bubble", "Absorb", "Protect", "Bide", "Dragon Breath", "Rain Dance", "Flail", "Body Slam", "Muddy Water", "Dragon Pulse", "Aqua Tail", "Power Whip", "Outrage"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Earthquake", "Return", "Double Team", "Sludge Wave", "Flamethrower", "Sludge Bomb", "Fire Blast", "Facade", "Rest", "Attract", "Round", "Focus Blast", "Incinerate", "Giga Impact", "Bulldoze", "Rock Slide", "Dragon Tail", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
+		TMs = new String[]{"Strength", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Earthquake", "Return", "Double Team", "Sludge", "Sludge Wave", "Flamethrower", "Sludge", "Sludge Bomb", "Fire Blast", "Facade", "Rest", "Attract", "Round", "Focus Blast", "Incinerate", "Giga Impact", "Bulldoze", "Rock Slide", "Dragon Tail", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Aqua Tail", "Draco Meteor", "Dragon Pulse", "Fire Punch", "Focus Punch", "Iron Tail", "Shock Wave", "Snore", "Superpower", "Thunder Punch", "Water Pulse"};
 		naturalMoves = new String[]{"Feint", "Outrage"};
-}
+	}
 		Goodra(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Delibird extends Pokemon{
-{
+	{
 		name = "Delibird";
 		bHP = 5;
 		bAtk = 6;
@@ -8,26 +8,27 @@ public class Delibird extends Pokemon{
 		bSpDef = 5;
 		bSpd = 8;
 		type1 = "Ice";
-		type2 = "";
-		abilities = new String[]{"Vital Spirit", "Hustle", "Pickup", "Delivery Bird", "Eye"};
+		type2 = "Flying";
+		abilities = new String[]{"Vital Spirit", "Hustle", "Pickup", "Delivery Bird", "Keen Eye"};
 		abilityTypeCount = new int[] {1,3,1};
 		height = "2\'/11\"";
 		weight = 35.3;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
+		egg2 = " ";
 		habitats = new String[]{"Mountain", "Taiga", "Tundra"};
 		overland = 4;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 3;
+		lJump = 3 ;
 		hJump = 4;
 		power = 4;
-		underdog = false;
+		natureWalk = new String[]{"Tundra"};
+		underdog = true;
+		other = new String[]{"Chilled"};
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -42,11 +43,11 @@ public class Delibird extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1};
 		moves = new String[]{"Present"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Brick Break", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Frost Breath", "Swagger", "Sleep Talk", "Substitute", "PowerUp", "Confide"};
+		TMs = new String[]{"Fly", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Brick Break", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Frost Breath", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Aurora Beam", "Bestow", "Destiny Bond", "Fake Out", "Future Sight", "Ice Ball", "Ice Punch", "Ice Shard", "Icy Wind", "Quick Attack", "Rapid Spin", "Spikes", "Splash"};
 		tutorMoves = new String[]{"Avalanche", "Body Slam", "Slam", "Bounce", "Counter", "Focus Punch", "Gunk Shot", "Ice Punch", "Icy Wind", "Mega Kick", "Mega Punch", "Pluck", "Recycle", "Seismic Toss", "Seed Bomb", "Signal Beam", "Sky Attack", "Sleep Talk", "Snore", "Swift", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Delibird(){
 
 		super();

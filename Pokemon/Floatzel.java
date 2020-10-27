@@ -1,5 +1,5 @@
 public class Floatzel extends Pokemon{
-{
+	{
 		name = "Floatzel";
 		bHP = 9;
 		bAtk = 11;
@@ -16,22 +16,20 @@ public class Floatzel extends Pokemon{
 		height = "3\'/7\"";
 		weight = 73.9;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Freshwater", "Grassland", "Capability"};
+		egg2 = " ";
 		overland = 7;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 3;
+		lJump = 3 ;
 		hJump = 3;
 		power = 2;
 		natureWalk = new String[]{"Ocean", "Wetlands"};
 		underdog = false;
-		other = new String[] {};
+		other = new String[]{"Fountain"};
 		athl = 4;
 		acro = 5;
 		combat = 3;
@@ -46,10 +44,10 @@ public class Floatzel extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{4, 7, 11, 15, 18, 21, 24, 29, 35, 41, 46, 51, 57};
 		moves = new String[]{"Growl", "Water Sport", "Quick Attack", "Water Gun", "Pursuit", "Swift", "Aqua Jet", "Double Hit", "Whirlpool", "Razor Wind", "Aqua Tail", "Agility", "Hydro Pump"};
-		TMs = new String[]{"Roar", "Toxic", "Hail", "Bulk Up", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Focus Blast", "Scald", "Payback", "Giga Impact", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Surf", "Strength", "Waterfall", "Dive", "Roar", "Toxic", "Hail", "Bulk Up", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Focus Blast", "Scald", "Payback", "Giga Impact", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Aqua Tail", "Brine", "Crunch", "Dive", "Focus Punch", "Ice Punch", "Icy Wind", "Iron Tail", "Low Kick", "Sleep Talk", "Snore", "Swift", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Floatzel(){
 
 		super();

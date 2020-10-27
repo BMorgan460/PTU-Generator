@@ -1,5 +1,5 @@
 public class Piloswine extends Pokemon{
-{
+	{
 		name = "Piloswine";
 		bHP = 10;
 		bAtk = 10;
@@ -8,8 +8,8 @@ public class Piloswine extends Pokemon{
 		bSpDef = 6;
 		bSpd = 5;
 		type1 = "Ice";
-		type2 = "";
-		abilities = new String[]{"Oblivious", "Snow Cloak", "Thick Fat", "Gluttony", "Body"};
+		type2 = "Ground";
+		abilities = new String[]{"Oblivious", "Snow Cloak", "Thick Fat", "Gluttony", "Ice Body"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Swinub();
 		prevReq = 30;
@@ -18,22 +18,21 @@ public class Piloswine extends Pokemon{
 		height = "3\'/7\"";
 		weight = 123;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
+		egg2 = "Herbivore";
 		habitats = new String[]{"Cave", "Taiga", "Tundra"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 4;
 		natureWalk = new String[]{"Tundra"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 1;
 		combat = 3;
@@ -48,10 +47,10 @@ public class Piloswine extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 8, 11, 14, 18, 21, 24, 28, 33, 37, 41, 46, 52, 58};
 		moves = new String[]{"Mud Sport", "Powder Snow", "MudSlap", "Endure", "Mud Bomb", "Icy Wind", "Ice Shard", "Take Down", "Fury Attack", "Mist", "Thrash", "Earthquake", "Blizzard", "Amnesia"};
-		TMs = new String[]{"Roar", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Strength", "Roar", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		tutorMoves = new String[]{"Avalanche", "Body Slam", "Slam", "Defense Curl", "Earth Power", "Endeavor", "Horn Attack", "Icy Wind", "Sleep Talk", "Snore", "Stealth Rock", "Superpower"};
 		naturalMoves = new String[]{"Peck"};
-}
+	}
 		Piloswine(){
 
 		super();

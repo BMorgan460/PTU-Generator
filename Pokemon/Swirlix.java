@@ -1,5 +1,5 @@
 public class Swirlix extends Pokemon{
-{
+	{
 		name = "Swirlix";
 		bHP = 6;
 		bAtk = 5;
@@ -12,26 +12,25 @@ public class Swirlix extends Pokemon{
 		abilities = new String[]{"Sweet Veil", "Frisk", "Lunchbox", "Unburden", "Instinct"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Slurpuff"};
-		nextReq = new String[]{"Whipped"};
+		nextReq = new String[]{"20"};
 		height = "1\'/04\"";
 		size = "Small";
 		weight = 7.7;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Fairy";
-		egg2 = "Average";
-		habitats = new String[]{"Grassland", "Capability", "List"};
+		egg2 = "";
+		habitats = new String[]{"Grassland"};
 		overland = 5;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		underdog = false;
-		other = new String[]{"Underdog"};
+		underdog = true;
+		other = new String[]{"Alluring"};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -46,11 +45,11 @@ public class Swirlix extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 5, 8, 10, 13, 17, 21, 26, 31, 36, 41, 45, 49, 58, 67};
 		moves = new String[]{"Sweet Scent", "Tackle", "Fairy Wind", "Play Nice", "Fake Tears", "Round", "Cotton Spore", "Endeavor", "Aromatherapy", "Draining Kiss", "Energy Ball", "Cotton Guard", "Wish", "Play Rough", "Light Screen", "Safeguard"};
-		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Psychic", "Double Team", "Flamethrower", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Flash", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
+		TMs = new String[]{"Surf", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Psychic", "Double Team", "Flamethrower", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Flash", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
 		eggMoves = new String[]{"After You", "Belly Drum", "Copycat", "Yawn"};
 		tutorMoves = new String[]{"After You", "Covet", "Endeavor", "Gastro Acid", "Acid", "Heal Bell", "Helping Hand", "Magic Coat", "Snore"};
 		naturalMoves = new String[]{};
-}
+	}
 		Swirlix(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Dragalge extends Pokemon{
-{
+	{
 		name = "Dragalge";
 		bHP = 7;
 		bAtk = 8;
@@ -8,8 +8,8 @@ public class Dragalge extends Pokemon{
 		bSpDef = 12;
 		bSpd = 4;
 		type1 = "Poison";
-		type2 = "";
-		abilities = new String[]{"Poison Point", "Poison Touch", "Adaptability", "Analytic", "Toxins"};
+		type2 = "Dragon";
+		abilities = new String[]{"Poison Point", "Poison Touch", "Adaptability", "Analytic", "Corrosive Toxins"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Skrelp();
 		prevReq = 35;
@@ -17,20 +17,21 @@ public class Dragalge extends Pokemon{
 		size = "Large";
 		weight = 179.7;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Ocean", "Capability", "List"};
+		egg2 = "and";
+		habitats = new String[]{"Ocean"};
 		overland = 3;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 6;
+		natureWalk = new String[]{"Ocean"};
 		underdog = false;
+		other = new String[]{"Fountain","Gilled","Stealth","Mountable 1"};
 		athl = 4;
 		acro = 2;
 		combat = 4;
@@ -45,10 +46,10 @@ public class Dragalge extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 1, 1, 5, 9, 12, 15, 19, 23, 25, 28, 32, 35, 40, 45, 53, 59, 67};
 		moves = new String[]{"Tackle", "Smokescreen", "Bubble", "Feint Attack", "Tail Whip", "Water Gun", "Acid", "Camouflage", "Poison Tail", "Water Pulse", "Double Team", "Toxic", "Aqua Tail", "Sludge Bomb", "Hydro Pump", "Dragon Pulse", "Dragon Tail", "Twister"};
-		TMs = new String[]{"Toxic", "Hail", "Venoshock", "Hidden Power", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Focus Blast", "Scald", "Giga Impact", "Dragon Tail", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		TMs = new String[]{"Surf", "Waterfall", "Toxic", "Hail", "Venoshock", "Hidden Power", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Focus Blast", "Scald", "Giga Impact", "Dragon Tail", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Aqua Tail", "Bounce", "Draco Meteor", "Dragon Pulse", "Dragon Tail", "Gunk Shot", "Icy Wind", "Iron Tail", "Outrage", "Shock Wave", "Snore", "Water Pulse"};
 		naturalMoves = new String[]{"Dragon Tail", "Snore", "Twister"};
-}
+	}
 		Dragalge(){
 
 		super();

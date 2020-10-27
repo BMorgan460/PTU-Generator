@@ -1,5 +1,5 @@
 public class Throh extends Pokemon{
-{
+	{
 		name = "Throh";
 		bHP = 12;
 		bAtk = 10;
@@ -14,20 +14,20 @@ public class Throh extends Pokemon{
 		height = "4\'/3\"";
 		weight = 122.4;
 		WC = 4;
-		maleRatio = 100;
-		femaleRatio = 0;
+		maleRatio = 100.0;
+		femaleRatio = 0.0;
 		egg1 = "Humanshape";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Cave", "Mountain", "Urban"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 7;
 		underdog = false;
+		other = new String[]{};
 		athl = 5;
 		acro = 2;
 		combat = 5;
@@ -42,10 +42,10 @@ public class Throh extends Pokemon{
 		focusBonus = 3;
 		movesLevels = new int[]{1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53};
 		moves = new String[]{"Bind", "Leer", "Bide", "Focus Energy", "Seismic Toss", "Vital Throw", "Revenge", "Storm Throw", "Body Slam", "Bulk Up", "Circle Throw", "Endure", "Wide Guard", "Superpower", "Reversal"};
-		TMs = new String[]{"Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Payback", "Retaliate", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Strength", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Payback", "Retaliate", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Bind", "Block", "Fire Punch", "Helping Hand", "Ice Punch", "Knock Off", "Low Kick", "Pain Split", "Sleep Talk", "Snore", "Superpower", "Thunder Punch", "Work Up"};
 		naturalMoves = new String[]{};
-}
+	}
 		Throh(){
 
 		super();

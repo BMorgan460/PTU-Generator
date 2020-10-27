@@ -1,5 +1,5 @@
 public class Charmeleon extends Pokemon{
-{
+	{
 		name = "Charmeleon";
 		bHP = 6;
 		bAtk = 6;
@@ -9,7 +9,7 @@ public class Charmeleon extends Pokemon{
 		bSpd = 8;
 		type1 = "Fire";
 		type2 = "";
-		abilities = new String[]{"Blaze", "Intimidate", "Solar Power", "Prime Fury", "Flame"};
+		abilities = new String[]{"Blaze", "Intimidate", "Solar Power", "Prime Fury", "White Flame"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Charmander();
 		prevReq = 15;
@@ -22,16 +22,16 @@ public class Charmeleon extends Pokemon{
 		femaleRatio = 12.5;
 		egg1 = "Monster";
 		egg2 = "Dragon";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
 		overland = 6;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 4;
-		underdog = false;
+		natureWalk = new String[]{"Mountain"};
+		underdog = true;
+		other = new String[]{"Firestarter","Glow"};
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -46,10 +46,10 @@ public class Charmeleon extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{7, 10, 17, 21, 28, 32, 39, 43, 50, 54};
 		moves = new String[]{"Ember", "Smokescreen", "Dragon Rage", "Scary Face", "Fire Fang", "Flame Burst", "Slash", "Flamethrower", "Fire Spin", "Inferno"};
-		TMs = new String[]{"Hone Claws", "Dragon Claw", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Fling", "Incinerate", "WillOWisp", "Shadow Claw", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Dragon Claw", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Fling", "Incinerate", "Shadow Claw", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Defense Curl", "Dynamic Punch", "Fire Pledge", "Fire Punch", "Focus Punch", "Fury Cutter", "Heat Wave", "Iron Tail", "Outrage", "Mega Kick", "Mega Punch", "Metal Claw", "Rage", "Seismic Toss", "Sleep Talk", "Snore", "Swift", "Thunder Punch"};
 		naturalMoves = new String[]{};
-}
+	}
 		Charmeleon(){
 
 		super();

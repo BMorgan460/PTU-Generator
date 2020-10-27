@@ -1,5 +1,5 @@
 public class Lombre extends Pokemon{
-{
+	{
 		name = "Lombre";
 		bHP = 6;
 		bAtk = 5;
@@ -8,7 +8,7 @@ public class Lombre extends Pokemon{
 		bSpDef = 7;
 		bSpd = 5;
 		type1 = "Water";
-		type2 = "";
+		type2 = "Grass";
 		abilities = new String[]{"Swift Swim", "Rain Dish", "Own Tempo", "Hydration", "Confidence"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Lotad();
@@ -18,20 +18,21 @@ public class Lombre extends Pokemon{
 		height = "3\'/11\"";
 		weight = 71.7;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Freshwater", "Capability", "List"};
+		egg2 = " ";
+		habitats = new String[]{"Freshwater"};
 		overland = 4;
 		swim = 5;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 3;
-		underdog = false;
+		natureWalk = new String[]{"Grassland", "Forest"};
+		underdog = true;
+		other = new String[]{"Fountain"};
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -46,10 +47,10 @@ public class Lombre extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{3, 6, 9, 12, 16, 20, 24, 28, 32, 36, 40, 44};
 		moves = new String[]{"Growl", "Absorb", "Bubble", "Fury Swipes", "Fake Out", "Water Sport", "Bubble Beam", "Nature Power", "Uproar", "Knock Off", "Zen Headbutt", "Hydro Pump"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Energy Ball", "Scald", "Fling", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power", "PowerUp", "Confide"};
+		TMs = new String[]{"Surf", "Strength", "Waterfall", "Dive", "Hone Claws", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Energy Ball", "Scald", "Fling", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bullet Seed", "Dive", "Drain Punch", "Dynamic Punch", "Fire Punch", "Giga Drain", "Ice Punch", "Icy Wind", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Thunder Punch", "Uproar", "Water Pulse", "Whirlpool", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Lombre(){
 
 		super();

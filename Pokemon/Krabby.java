@@ -1,5 +1,5 @@
 public class Krabby extends Pokemon{
-{
+	{
 		name = "Krabby";
 		bHP = 3;
 		bAtk = 11;
@@ -17,21 +17,20 @@ public class Krabby extends Pokemon{
 		size = "Small";
 		weight = 14.3;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "3";
-		habitats = new String[]{"Beach", "Capability", "List"};
+		egg2 = "Average";
+		habitats = new String[]{"Beach"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 1;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 3;
-		underdog = false;
-		other = new String[]{"Underdog"};
+		underdog = true;
+		other = new String[]{"Gilled"};
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -45,12 +44,12 @@ public class Krabby extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 9, 11, 15, 19, 21, 25, 29, 31, 35, 39, 41, 45};
-		moves = new String[]{"Bubble", "Mud Sport", "Vice", "Leer", "Harden", "Bubble Beam", "Mud Shot", "Metal Claw", "Stomp", "Protect", "Guillotine", "Slam", "Brine", "Crabhammer", "Flail"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "False Swipe", "Scald", "Fling", "Swords Dance", "Rock Slide", "XScissor", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		moves = new String[]{"Bubble", "Mud Sport", "Vice Grip", "Leer", "Harden", "Bubble Beam", "Mud Shot", "Metal Claw", "Stomp", "Protect", "Guillotine", "Slam", "Brine", "Crabhammer", "Flail"};
+		TMs = new String[]{"Cut", "Surf", "Strength", "Dive", "Hone Claws", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "False Swipe", "Scald", "Fling", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Agility", "Ally Switch", "Amnesia", "Ancient Power", "Bide", "Chip Away", "Dig", "Endure", "Flail", "Haze", "Knock Off", "Slam", "Swords Dance", "Tickle"};
 		tutorMoves = new String[]{"Ancient Power", "Body Slam", "Slam", "Dive", "Fury Cutter", "Icy Wind", "Iron Defense", "Knock Off", "Sleep Talk", "Snore", "Superpower", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Krabby(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Weepinbell extends Pokemon{
-{
+	{
 		name = "Weepinbell";
 		bHP = 7;
 		bAtk = 9;
@@ -8,7 +8,7 @@ public class Weepinbell extends Pokemon{
 		bSpDef = 5;
 		bSpd = 6;
 		type1 = "Grass";
-		type2 = "";
+		type2 = "Poison";
 		abilities = new String[]{"Limber", "Gluttony", "Chlorophyll", "Crush Trap", "Stench"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Bellsprout();
@@ -18,22 +18,21 @@ public class Weepinbell extends Pokemon{
 		height = "3\'/3\"";
 		weight = 14.1;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Plant";
-		egg2 = "Diet";
+		egg2 = "Canivore";
 		habitats = new String[]{"Cave", "Forest", "Marsh"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 2;
 		combat = 3;
@@ -48,10 +47,10 @@ public class Weepinbell extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{7, 11, 13, 15, 17, 23, 27, 29, 35, 39, 41, 47};
 		moves = new String[]{"Growth", "Wrap", "Sleep Powder", "Poison Powder", "Stun Spore", "Acid", "Knock Off", "Sweet Scent", "Gastro Acid", "Razor Leaf", "Slam", "Wring Out"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Flash", "Swords Dance", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power"};
+		TMs = new String[]{"Cut", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Flash", "Swords Dance", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power"};
 		tutorMoves = new String[]{"Bind", "Bug Bite", "Bite", "Bullet Seed", "Gastro Acid", "Acid", "Giga Drain", "Knock Off", "Natural Gift", "Secret Power", "Seed Bomb", "Sleep Talk", "Snore", "Sucker Punch", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Weepinbell(){
 
 		super();

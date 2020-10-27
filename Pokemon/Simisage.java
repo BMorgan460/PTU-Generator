@@ -1,5 +1,5 @@
 public class Simisage extends Pokemon{
-{
+	{
 		name = "Simisage";
 		bHP = 8;
 		bAtk = 10;
@@ -19,18 +19,17 @@ public class Simisage extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Forest", "Rainforest", "Capability"};
+		egg2 = "Omnivore";
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 4;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
+		other = new String[]{};
 		athl = 4;
 		acro = 5;
 		combat = 3;
@@ -45,10 +44,10 @@ public class Simisage extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43};
 		moves = new String[]{"Leer", "Lick", "Vine Whip", "Fury Swipes", "Leech Seed", "Bite", "Seed Bomb", "Torment", "Fling", "Acrobatics", "Grass Knot", "Recycle", "Natural Gift", "Crunch"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Energy Ball", "Fling", "Acrobatics", "Shadow Claw", "Payback", "Giga Impact", "Flash", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power", "PowerUp", "Confide"};
+		TMs = new String[]{"Cut", "Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Energy Ball", "Fling", "Acrobatics", "Shadow Claw", "Payback", "Giga Impact", "Flash", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power", "Confide"};
 		tutorMoves = new String[]{"Covet", "Endeavor", "Giga Drain", "Gunk Shot", "Helping Hand", "Iron Tail", "Knock Off", "Low Kick", "Recycle", "Role Play", "Sleep Talk", "Snore", "Superpower", "Synthesis", "Uproar", "Work Up", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Simisage(){
 
 		super();

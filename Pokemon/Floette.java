@@ -1,5 +1,5 @@
 public class Floette extends Pokemon{
-{
+	{
 		name = "Floette";
 		bHP = 5;
 		bAtk = 5;
@@ -9,7 +9,7 @@ public class Floette extends Pokemon{
 		bSpd = 5;
 		type1 = "Fairy";
 		type2 = "";
-		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Power"};
+		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Flower Power"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Flabebe();
 		prevReq = 15;
@@ -19,20 +19,20 @@ public class Floette extends Pokemon{
 		size = "Small";
 		weight = 2;
 		WC = 1;
-		maleRatio = 0;
-		femaleRatio = 100;
+		maleRatio = 0.0;
+		femaleRatio = 100.0;
 		egg1 = "Fairy";
-		egg2 = "Diet";
-		habitats = new String[]{"Forest", "Grassland", "Capability"};
+		egg2 = "Herbivore";
 		overland = 2;
 		swim = 2;
 		levitate = 6;
-		sky = 0;
 		burrow = 0;
-		lJump = 0;
+		lJump = 0 ;
 		hJump = 1;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Grassland", "Forest"};
+		underdog = true;
+		other = new String[]{"Alluring"};
 		athl = 2;
 		acro = 4;
 		combat = 1;
@@ -50,7 +50,7 @@ public class Floette extends Pokemon{
 		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Psychic", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Flash", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"After You", "Covet", "Endeavor", "Giga Drain", "Heal Bell", "Helping Hand", "Magic Coat", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Floette(){
 
 		super();

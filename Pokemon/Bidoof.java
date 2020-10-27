@@ -1,5 +1,5 @@
 public class Bidoof extends Pokemon{
-{
+	{
 		name = "Bidoof";
 		bHP = 6;
 		bAtk = 5;
@@ -17,22 +17,21 @@ public class Bidoof extends Pokemon{
 		size = "Small";
 		weight = 44.1;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
+		egg2 = " ";
 		habitats = new String[]{"Forest", "Grassland", "Marsh"};
 		overland = 5;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 1;
 		natureWalk = new String[]{"Grassland", "Wetlands"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 2;
 		combat = 1;
@@ -47,11 +46,11 @@ public class Bidoof extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45};
 		moves = new String[]{"Tackle", "Growl", "Defense Curl", "Rollout", "Headbutt", "Hyper Fang", "Yawn", "Amnesia", "Take Down", "Super Fang", "Superpower", "Curse"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Charge Beam", "Retaliate", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Cut", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Charge", "Charge Beam", "Retaliate", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Aqua Tail", "Defense Curl", "Endure", "Fury Swipes", "Odor Sleuth", "Quick Attack", "Rock Climb", "Rollout", "Skull Bash", "Sleep Talk", "Water Sport"};
 		tutorMoves = new String[]{"Aqua Tail", "Covet", "Fury Cutter", "Icy Wind", "Iron Tail", "Last Resort", "Pluck", "Rollout", "Shock Wave", "Sleep Talk", "Snore", "Stealth Rock", "Swift", "Super Fang", "Superpower", "Work Up"};
 		naturalMoves = new String[]{};
-}
+	}
 		Bidoof(){
 
 		super();

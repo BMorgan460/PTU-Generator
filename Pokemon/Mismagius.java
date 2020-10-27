@@ -1,5 +1,5 @@
 public class Mismagius extends Pokemon{
-{
+	{
 		name = "Mismagius";
 		bHP = 6;
 		bAtk = 6;
@@ -9,7 +9,7 @@ public class Mismagius extends Pokemon{
 		bSpd = 11;
 		type1 = "Ghost";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Frighten", "Magician", "Omen", "Away"};
+		abilities = new String[]{"Levitate", "Frighten", "Magician", "Omen", "Fade Away"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Misdreavus();
 		prevReq = 20;
@@ -17,20 +17,19 @@ public class Mismagius extends Pokemon{
 		size = "Small";
 		weight = 9.7;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Indeterminate";
-		egg2 = "Diet";
-		habitats = new String[]{"Cave", "Forest", "Capability"};
+		egg2 = "Nullivore";
 		overland = 1;
 		swim = 3;
-		levitate = 0;
-		sky = 0;
+		levitate = 4;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
-		power = 0;
+		power = 3;
 		underdog = false;
+		other = new String[]{"Darkvision","Dead Silent","Phasing"};
 		athl = 2;
 		acro = 2;
 		combat = 3;
@@ -45,10 +44,10 @@ public class Mismagius extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 10, 14, 19, 23, 28, 32, 37, 41, 46, 50, 55};
 		moves = new String[]{"Growl", "Psywave", "Spite", "Astonish", "Confuse Ray", "Mean Look", "Hex", "Psybeam", "Pain Split", "Payback", "Shadow Ball", "Perish Song", "Grudge", "Power Gem"};
-		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Energy Ball", "Charge Beam", "WillOWisp", "Embargo", "Payback", "Giga Impact", "Flash", "Thunder Wave", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Dark Pulse", "Dazzling Gleam"};
+		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Energy Ball", "Charge", "Charge Beam", "Embargo", "Payback", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dark Pulse", "Dazzling Gleam"};
 		tutorMoves = new String[]{"Dark Pulse", "Defense Curl", "Foul Play", "Heal Bell", "Hyper Voice", "Icy Wind", "Ominous Wind", "Lucky Chant", "Magic Coat", "Mystical Fire", "Pain Split", "Phantom Force", "Power Gem", "Role Play", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Sucker Punch", "Swift", "Telekinesis", "Trick", "Uproar", "Wonder Room"};
 		naturalMoves = new String[]{"Astonish", "Lucky Chant", "Mystical Fire", "Phantom Force", "Power Gem", "Psywave"};
-}
+	}
 		Mismagius(){
 
 		super();

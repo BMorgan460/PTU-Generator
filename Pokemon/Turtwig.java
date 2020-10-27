@@ -1,5 +1,5 @@
 public class Turtwig extends Pokemon{
-{
+	{
 		name = "Turtwig";
 		bHP = 6;
 		bAtk = 7;
@@ -9,7 +9,7 @@ public class Turtwig extends Pokemon{
 		bSpd = 3;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Shell Armor", "Overgrow", "Grass Pelt", "Sturdy", "Cure"};
+		abilities = new String[]{"Shell Armor", "Overgrow", "Grass Pelt", "Sturdy", "Natural Cure"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Grotle", "Torterra"};
 		nextReq = new String[]{"30"};
@@ -25,14 +25,13 @@ public class Turtwig extends Pokemon{
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 2;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -47,11 +46,11 @@ public class Turtwig extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45};
 		moves = new String[]{"Tackle", "Withdraw", "Absorb", "Razor Leaf", "Curse", "Bite", "Mega Drain", "Leech Seed", "Synthesis", "Crunch", "Giga Drain", "Leaf Storm"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Cut", "Strength", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Amnesia", "Body Slam", "Slam", "Earth Power", "Grassy Terrain", "Growth", "Sand Tomb", "Seed Bomb", "Spit Up", "Stockpile", "Superpower", "Swallow", "Thrash", "Tickle", "Wide Guard", "Worry Seed"};
 		tutorMoves = new String[]{"Bullet Seed", "Earth Power", "Giga Drain", "Grass Pledge", "Iron Tail", "Natural Gift", "Rock Climb", "Secret Power", "Seed Bomb", "Sleep Talk", "Snore", "Stealth Rock", "Superpower", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Turtwig(){
 
 		super();

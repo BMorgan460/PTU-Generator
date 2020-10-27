@@ -1,5 +1,5 @@
 public class Omanyte extends Pokemon{
-{
+	{
 		name = "Omanyte";
 		bHP = 4;
 		bAtk = 4;
@@ -8,8 +8,8 @@ public class Omanyte extends Pokemon{
 		bSpDef = 6;
 		bSpd = 4;
 		type1 = "Rock";
-		type2 = "";
-		abilities = new String[]{"Shell Armor", "Shell Shield", "Rough Skin", "Weak Armor", "Link"};
+		type2 = "Water";
+		abilities = new String[]{"Shell Armor", "Shell Shield", "Rough Skin", "Weak Armor", "Skill Link"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Omastar"};
 		nextReq = new String[]{"40"};
@@ -20,17 +20,17 @@ public class Omanyte extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Cave", "Ocean", "Capability"};
+		egg2 = " ";
 		overland = 3;
 		swim = 5;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Ocean"};
+		underdog = true;
+		other = new String[]{"Gilled"};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -45,11 +45,11 @@ public class Omanyte extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 7, 10, 16, 19, 25, 28, 34, 37, 43, 46, 52, 55};
 		moves = new String[]{"Constrict", "Withdraw", "Bite", "Water Gun", "Rollout", "Leer", "Mud Shot", "Brine", "Protect", "Ancient Power", "Tickle", "Rock Blast", "Shell Smash", "Hydro Pump"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Giga Impact", "Rock Polish", "Stone Edge", "Gyro Ball", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Surf", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Giga Impact", "Rock Polish", "Stone Edge", "Gyro Ball", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Aurora Beam", "Bide", "Bubble Beam", "Haze", "Knock Off", "Muddy Water", "Reflect Type", "Rock Slide", "Slam", "Spikes", "Supersonic", "Toxic Spikes", "Spikes", "Water Pulse", "Whirlpool", "Wring Out"};
 		tutorMoves = new String[]{"Ancient Power", "Bind", "Body Slam", "Slam", "Dive", "Earth Power", "Icy Wind", "Iron Defense", "Knock Off", "Rollout", "Sleep Talk", "Snore", "Stealth Rock"};
 		naturalMoves = new String[]{};
-}
+	}
 		Omanyte(){
 
 		super();

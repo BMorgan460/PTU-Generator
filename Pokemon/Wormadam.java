@@ -1,5 +1,5 @@
 public class Wormadam extends Pokemon{
-{
+	{
 		name = "Wormadam";
 		bHP = 7;
 		bAtk = 8;
@@ -8,29 +8,29 @@ public class Wormadam extends Pokemon{
 		bSpDef = 9;
 		bSpd = 3;
 		type1 = "Bug";
-		type2 = "";
-		abilities = new String[]{"Anticipation", "Overcoat", "Adaptation", "Tolerance", "Veil"};
+		type2 = "Ground";
+		abilities = new String[]{"Anticipation", "Overcoat", "Adaptation", "Tolerance", "Sand Veil"};
 		abilityTypeCount = new int[] {1,3,1};
-		//previous = new Burmy();
+		previous = new Burmy();
 		prevReq = 20;
 		height = "1\'/8\"";
 		size = "Small";
 		weight = 14.3;
 		WC = 1;
-		maleRatio = 0;
-		femaleRatio = 100;
+		maleRatio = 0.0;
+		femaleRatio = 100.0;
 		egg1 = "Bug";
-		egg2 = "Diet";
-		habitats = new String[]{"Desert", "Mountain", "Capability"};
+		egg2 = "Herbivore";
 		overland = 4;
 		swim = 1;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Desert"};
+		underdog = true;
+		other = new String[]{"Threaded"};
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -48,7 +48,7 @@ public class Wormadam extends Pokemon{
 		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Psychic", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Giga Impact", "Flash", "Struggle Bug", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Earth Power", "Electroweb", "Endeavor", "Gunk Shot", "Natural Gift", "Signal Beam", "Skill Swap", "Snore", "Stealth Rock", "String Shot", "Sucker Punch", "Uproar"};
 		naturalMoves = new String[]{};
-}
+	}
 		Wormadam(){
 
 		super();

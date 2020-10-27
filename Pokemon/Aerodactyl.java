@@ -1,5 +1,5 @@
 public class Aerodactyl extends Pokemon{
-{
+	{
 		name = "Aerodactyl";
 		bHP = 8;
 		bAtk = 11;
@@ -8,7 +8,7 @@ public class Aerodactyl extends Pokemon{
 		bSpDef = 8;
 		bSpd = 13;
 		type1 = "Rock";
-		type2 = "";
+		type2 = "Flying";
 		abilities = new String[]{"Frighten", "Unnerve", "Cruelty", "Rock Head", "Pressure"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "5\'/11\"";
@@ -18,14 +18,12 @@ public class Aerodactyl extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Flying";
-		egg2 = "Average";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
+		egg2 = "";
 		overland = 4;
 		swim = 3;
 		levitate = 0;
-		sky = 10;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 3;
 		power = 8;
 		underdog = false;
@@ -44,11 +42,11 @@ public class Aerodactyl extends Pokemon{
 		focusBonus = 3;
 		movesLevels = new int[]{1, 1, 1, 9, 17, 25, 33, 41, 49, 57, 65, 73, 81};
 		moves = new String[]{"Bite", "Scary Face", "Wing Attack", "Roar", "Agility", "Ancient Power", "Crunch", "Take Down", "Sky Drop", "Iron Head", "Hyper Beam", "Rock Slide", "Giga Impact"};
-		TMs = new String[]{"Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Smack Down", "Earthquake", "Return", "Double Team", "Flamethrower", "Sandstorm", "Fire Blast", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Sky Drop", "Incinerate", "Payback", "Giga Impact", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Fly", "Strength", "Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Smack Down", "Earthquake", "Return", "Double Team", "Flamethrower", "Sandstorm", "Fire Blast", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Sky Drop", "Incinerate", "Payback", "Giga Impact", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Assurance", "Curse", "Dragon Breath", "Foresight", "Pursuit", "Roost", "Steel Wing", "Tailwind", "Whirlwind", "Wide Guard"};
 		tutorMoves = new String[]{"Ancient Power", "Aqua Tail", "Dragon Pulse", "Earth Power", "Heat Wave", "Iron Head", "Iron Tail", "Ominous Wind", "Roost", "Snore", "Swift", "Sky Attack", "Sleep Talk", "Snore", "Stealth Rock", "Tailwind", "Thunder", "Twister"};
 		naturalMoves = new String[]{"Iron Head"};
-}
+	}
 		Aerodactyl(){
 
 		super();
