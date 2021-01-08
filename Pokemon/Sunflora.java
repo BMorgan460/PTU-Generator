@@ -45,7 +45,7 @@ public class Sunflora extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 2;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 50};
-		moves = new String[]{"Ingrain", "Grass", "Mega Drain", "Leech Seed", "Razor Leaf", "Worry Seed", "Giga Drain", "Bullet Seed", "Petal Dance", "Natural Gift", "Solar Beam", "DoubleEdge", "Sunny Day", "Leaf Storm", "Petal Blizzard"};
+		moves = new String[]{"Ingrain", "Grasswhistle", "Mega Drain", "Leech Seed", "Razor Leaf", "Worry Seed", "Giga Drain", "Bullet Seed", "Petal Dance", "Natural Gift", "Solar Beam", "DoubleEdge", "Sunny Day", "Leaf Storm", "Petal Blizzard"};
 		TMs = new String[]{"Cut", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Giga Impact", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power"};
 		tutorMoves = new String[]{"After You", "Earth Power", "Endeavor", "Flower Shield", "Giga Drain", "Helping Hand", "Pound", "Seed Bomb", "Snore", "Synthesis", "Uproar", "Worry Seed"};
 		naturalMoves = new String[]{"Flower Shield"};

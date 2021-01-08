@@ -9,8 +9,8 @@ public class Shaymin extends Pokemon{
 		bSpd = 10;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Natural Cure", "Magic Guard", "Photosynthesis", "Leaf Guard"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Natural Cure", "Leaf Guard", "Sol Veil", "Flower Veil", "Magic Guard"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "0\'/8\"";
 		size = "Small";
 		weight = 4.6;
@@ -42,7 +42,7 @@ public class Shaymin extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 10, 19, 28, 37, 46, 55, 64, 73, 82, 82, 91, 91, 100};
-		moves = new String[]{"Growth", "Defense Curl", "Magical Leaf", "Leech Seed", "Synthesis", "Sweet Scent", "Natural Gift", "Worry Seed", "Aromatherapy", "Energy Ball", "Sweet Kiss", "Grass", "Healing Wish", "Lucky Chant", "Seed Flare"};
+		moves = new String[]{"Growth", "Defense Curl", "Magical Leaf", "Leech Seed", "Synthesis", "Sweet Scent", "Natural Gift", "Worry Seed", "Aromatherapy", "Energy Ball", "Sweet Kiss", "Grasswhistle", "Healing Wish", "Lucky Chant", "Seed Flare"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Psychic", "Double Team", "Facade", "Rest", "Round", "Energy Ball", "Giga Impact", "Flash", "Swords Dance", "Psych Up", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam"};
 		tutorMoves = new String[]{"Covet", "Earth Power", "Endeavor", "Giga Drain", "Last Resort", "Seed Bomb", "Sleep Talk", "Snore", "Swift", "Synthesis", "Worry Seed", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};

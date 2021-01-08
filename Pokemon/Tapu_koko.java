@@ -9,6 +9,8 @@ public class Tapu_koko extends Pokemon{
 		bSpd = 13;
 		type1 = "Electric";
 		type2 = "Fairy";
+		abilities = new String[]{"Electric Surge", "Telepathy", "Pressure", "Celebrate", "Type Aura"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 45.2;
 		WC = 2;

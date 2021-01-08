@@ -9,6 +9,8 @@ public class Celesteela extends Pokemon{
 		bSpd = 6;
 		type1 = "Steel";
 		type2 = "Flying";
+		abilities = new String[]{"Beast Boost", "Analytic", "Heavy Metal", "Steel Cannon", "Rocket"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Huge";
 		weight = 2204.4;
 		WC = 6;

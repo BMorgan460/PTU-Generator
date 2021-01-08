@@ -9,6 +9,8 @@ public class Yungoos extends Pokemon{
 		bSpd = 5;
 		type1 = "Normal";
 		type2 = "";
+		abilities = new String[]{"Stakeout", "Perception", "Strong Jaw", "Ambush", "Adaptability"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 13.2;
 		WC = 1;
@@ -36,7 +38,7 @@ public class Yungoos extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46};
 		moves = new String[]{"Tackle", "Leer", "Pursuit", "Sand Attack", "Odor Sleuth", "Bide", "Bite", "Mud_Slap", "Super Fang", "Take Down", "Scary Face", "Crunch", "Hyper Fang", "Yawn", "Thrash", "Rest"};
-		TMs = new String[]{"Work Up", "Roar", "Toxic", "Hidden Power", "Taunt", "Protect", "Frustration", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Torment", "Façade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Fling", "Payback", "Bulldoze", "Swagger", "Sleep Talk", "U_turn", "Substitute", "Confide"};
+		TMs = new String[]{"Work Up", "Roar", "Toxic", "Hidden Power", "Taunt", "Protect", "Frustration", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Fling", "Payback", "Bulldoze", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Confide"};
 		eggMoves = new String[]{"Revenge", "Last Resort", "Fire Fang", "Ice Fang", "Thunder Fang"};
 		tutorMoves = new String[]{"Super Fang", "Uproar", "Last Resort", "Iron Tail", "Snore", "Shock Wave", "Endeavor", "Stomping Tantrum"};
 		naturalMoves = new String[]{};

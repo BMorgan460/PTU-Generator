@@ -9,6 +9,8 @@ public class Tapu_lele extends Pokemon{
 		bSpd = 10;
 		type1 = "Psychic";
 		type2 = "Fairy";
+		abilities = new String[]{"Psychic Surge", "Telepathy", "Pressure", "Celebrate", "Type Aura"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 41.0;
 		WC = 2;
 		overland = 5;

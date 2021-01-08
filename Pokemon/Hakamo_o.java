@@ -8,7 +8,9 @@ public class Hakamo_o extends Pokemon{
 		bSpDef = 7;
 		bSpd = 7;
 		type1 = "Dragon";
-		type2 = "";
+		type2 = "Fighting";
+		abilities = new String[]{"Soundproof", "Bulletproof", "Overcoat", "Battle Armor", "Multiscale"};
+		abilityTypeCount = new int[] {2,2,1};
 		weight = 103.6;
 		WC = 3;
 		overland = 6;

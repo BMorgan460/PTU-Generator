@@ -9,7 +9,7 @@ public class Simisage extends Pokemon{
 		bSpd = 10;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Decoy", "Gluttony", "Grass Pelt", "Sap Sipper", "Overgrowth"};
+		abilities = new String[]{"Decoy", "Gluttony", "Grass Pelt", "Sap Sipper", "Overgrow"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Pansage();
 		prevReq = 20;

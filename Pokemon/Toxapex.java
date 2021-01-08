@@ -9,6 +9,8 @@ public class Toxapex extends Pokemon{
 		bSpd = 4;
 		type1 = "Poison";
 		type2 = "Water";
+		abilities = new String[]{"Merciless", "Limber", "Regenerator", "Cruelty", "Poison Touch"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 32.0;
 		WC = 2;
@@ -36,7 +38,7 @@ public class Toxapex extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 44, 51, 58};
 		moves = new String[]{"Poison Sting", "Peck", "Bite", "Toxic Spikes", "Wide Guard", "Toxic", "Venoshock", "Spike Cannon", "Recover", "Poison Jab", "Venom Drench", "Pin Missile", "Liquidation"};
-		TMs = new String[]{"Toxic", "Hail", "Venoshock", "Hidden Power", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Smack Down", "Return", "Double Team", "Sludge Wave", "Sludge Bomb", "Façade", "Rest", "Attract", "Round", "Scald", "Payback", "Frost Breath", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Confide"};
+		TMs = new String[]{"Toxic", "Hail", "Venoshock", "Hidden Power", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Smack Down", "Return", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Scald", "Payback", "Frost Breath", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Confide"};
 		tutorMoves = new String[]{"Covet", "Gunk Shot", "Magic Coat", "Block", "Iron Defense", "Icy Wind", "Snore", "Knock Off", "Pain Split", "Water Pulse", "Gastro Acid", "Acid", "Spite", "After You", "Snatch", "Liquidation"};
 		naturalMoves = new String[]{};
 	}

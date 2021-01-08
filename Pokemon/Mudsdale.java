@@ -9,6 +9,8 @@ public class Mudsdale extends Pokemon{
 		bSpd = 4;
 		type1 = "Ground";
 		type2 = "";
+		abilities = new String[]{"Own Tempo", "Stamina", "Inner Focus", "Tolerance", "Sprint"};
+        abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 2028.3;
 		WC = 6;
@@ -35,7 +37,7 @@ public class Mudsdale extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 8, 10, 15, 17, 22, 24, 29, 34, 42, 47, 55, 60};
-		moves = new String[]{"Mud_Slap", "Mud Sport", "Rototiller", "Bulldoze", "Double Kick", "Stomp", "Bide", "High Horsepower", "Iron Defense", "Heavy Slam", "Counter", "Earthquake", "Mega Kick", "Superpower_"};
+		moves = new String[]{"Mud_Slap", "Mud Sport", "Rototiller", "Bulldoze", "Double Kick", "Stomp", "Bide", "High Horsepower", "Iron Defense", "Heavy Slam", "Counter", "Earthquake", "Mega Kick", "Superpower"};
 		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Protect", "Frustration", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Payback", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Iron Head", "Low Kick", "Earth Power", "Iron Defense", "Superpower", "Snore", "Endeavor", "Stealth Rock", "Stomping Tantrum"};
 		naturalMoves = new String[]{};

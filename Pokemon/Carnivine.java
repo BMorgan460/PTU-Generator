@@ -9,7 +9,7 @@ public class Carnivine extends Pokemon{
 		bSpd = 5;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Flying", "Ambush", "Gluttony", "Technician", "Big Swallow"};
+		abilities = new String[]{"Flying Fly Trap", "Ambush", "Gluttony", "Technician", "Big Swallow"};
 		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/7\"";
 		weight = 59.5;

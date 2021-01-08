@@ -9,7 +9,7 @@ public class Spinda extends Pokemon{
 		bSpd = 6;
 		type1 = "Normal";
 		type2 = "";
-		abilities = new String[]{"Strange Tempo", "Tangled", "Dodge", "Spinning Dance", "Contrary"};
+		abilities = new String[]{"Strange Tempo", "Tangled Feet", "Dodge", "Spinning Dance", "Contrary"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "3\'/7\"";
 		weight = 11;

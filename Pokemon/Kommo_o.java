@@ -9,6 +9,8 @@ public class Kommo_o extends Pokemon{
 		bSpd = 9;
 		type1 = "Dragon";
 		type2 = "Fighting";
+		abilities = new String[]{"Soundproof", "Bulletproof", "Overcoat", "Battle Armor", "Multiscale"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 172.4;
 		WC = 4;

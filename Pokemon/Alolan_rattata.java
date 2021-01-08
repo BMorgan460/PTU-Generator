@@ -9,6 +9,8 @@ public class Alolan_rattata extends Pokemon{
 		bSpd = 7;
 		type1 = "Dark";
 		type2 = "Normal";
+		abilities = new String[]{"Gluttony", "Hustle", "Thick Fat", "Pickup", "Nimble Strikes"};
+        abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 8.4;
 		WC = 1;

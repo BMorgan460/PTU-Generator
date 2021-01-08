@@ -9,6 +9,8 @@ public class Araquanid extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "Bug";
+		abilities = new String[]{"Water Bubble", "Water Absorb", "Refreshing Veil", "Suction Cups", "Technician"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 180.8;
 		WC = 4;
@@ -36,7 +38,7 @@ public class Araquanid extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 1, 5, 8, 13, 16, 21, 26, 29, 33, 38, 45, 57, 62};
 		moves = new String[]{"Wide Guard", "Soak", "Water Sport", "Bubble", "Infestation", "Spider Web", "Bug Bite", "Bubble Beam", "Bite", "Aqua Ring", "Leech Life", "Crunch", "Lunge", "Mirror Coat", "Liquidation", "Entrainment"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Leech Life", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Frost Breath", "X_Scissor", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Leech Life", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Frost Breath", "XScissor", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Signal Beam", "Magic Coat", "Iron Defense", "Icy Wind", "Snore", "Giga Drain", "Water Pulse", "Magic Room", "Wonder Room", "Liquidation", "Laser Focus"};
 		naturalMoves = new String[]{};
 	}

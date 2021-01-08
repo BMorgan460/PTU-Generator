@@ -9,6 +9,8 @@ public class Guzzlord extends Pokemon{
 		bSpd = 4;
 		type1 = "Dark";
 		type2 = "Dragon";
+		abilities = new String[]{"Beast Boost", "Abominable", "Truant", "Life Force", "Gluttony"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Huge";
 		weight = 1957.7;
 		WC = 6;

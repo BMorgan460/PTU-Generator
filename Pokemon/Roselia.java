@@ -47,7 +47,7 @@ public class Roselia extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 2;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 50};
-		moves = new String[]{"Growth", "Poison Sting", "Stun Spore", "Mega Drain", "Leech Seed", "Magical Leaf", "Grass", "Giga Drain", "Toxic Spikes", "Sweet Scent", "Ingrain", "Petal Blizzard", "Toxic", "Aromatherapy", "Synthesis", "Petal Dance"};
+		moves = new String[]{"Growth", "Poison Sting", "Stun Spore", "Mega Drain", "Leech Seed", "Magical Leaf", "Grasswhistle", "Giga Drain", "Toxic Spikes", "Sweet Scent", "Ingrain", "Petal Blizzard", "Toxic", "Aromatherapy", "Synthesis", "Petal Dance"};
 		TMs = new String[]{"Cut", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Flash", "Swords Dance", "Psych Up", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bullet Seed", "Covet", "Fury Cutter", "Giga Drain", "Seed Bomb", "Sleep Talk", "Snore", "Swift", "Synthesis", "Uproar", "Worry Seed"};
 		naturalMoves = new String[]{};

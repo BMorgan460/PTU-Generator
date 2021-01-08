@@ -9,6 +9,8 @@ public class Brionne extends Pokemon{
 		bSpd = 5;
 		type1 = "Water";
 		type2 = "";
+		abilities = new String[]{"Refreshing Veil", "Torrent", "Liquid Voice", "Pixilate", "Beautiful"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 38.6;
 		WC = 2;
@@ -36,7 +38,7 @@ public class Brionne extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 8, 11, 15, 19, 24, 28, 33, 37, 42, 46, 51, 56};
 		moves = new String[]{"Pound", "Water Gun", "Growl", "Disarming Voice", "Baby_Doll Eyes", "Aqua Jet", "Encore", "Bubble Beam", "Sing", "Double Slap", "Hyper Voice", "Moonblast", "Captivate", "Hydro Pump", "Misty Terrain"};
-		TMs = new String[]{"Work Up", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Façade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Acrobatics", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"};
+		TMs = new String[]{"Work Up", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Acrobatics", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"};
 		tutorMoves = new String[]{"Water Pledge", "Covet", "Uproar", "Icy Wind", "Aqua Tail", "Hyper Voice", "Iron Tail", "Snore", "Water Pulse", "Helping Hand", "Wonder Room"};
 		naturalMoves = new String[]{};
 	}

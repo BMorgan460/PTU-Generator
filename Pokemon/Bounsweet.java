@@ -9,6 +9,8 @@ public class Bounsweet extends Pokemon{
 		bSpd = 3;
 		type1 = "Grass";
 		type2 = "";
+		abilities = new String[]{"Leaf Guard", "Oblivious", "Sweet Veil", "Aroma Veil", "Dodge"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 7.1;
 		WC = 1;

@@ -9,6 +9,8 @@ public class Pheromosa extends Pokemon{
 		bSpd = 15;
 		type1 = "Bug";
 		type2 = "Fighting";
+		abilities = new String[]{"Beast Boost", "Beautiful", "Inner Focus", "Quick Feet", "Reckless"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 55.1;
 		WC = 3;

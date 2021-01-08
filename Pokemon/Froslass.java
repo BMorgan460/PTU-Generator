@@ -42,7 +42,7 @@ public class Froslass extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 1;
 		movesLevels = new int[]{5, 10, 14, 19, 23, 28, 32, 37, 41, 42, 48, 54, 61};
-		moves = new String[]{"Double Team", "Ice Shard", "Icy Wind", "Astonish", "Draining Kiss", "Ominous Wind", "Confuse Ray", "WakeUp", "Captivate", "Shadow Ball", "Blizzard", "Hail", "Destiny Bond"};
+		moves = new String[]{"Double Team", "Ice Shard", "Icy Wind", "Astonish", "Draining Kiss", "Ominous Wind", "Confuse Ray", "Wake Up Slap", "Captivate", "Shadow Ball", "Blizzard", "Hail", "Destiny Bond"};
 		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Shadow Ball", "Double Team", "Double Team", "Torment", "Facade", "Rest", "Attract", "Round", "Fling", "Embargo", "Payback", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Frost Breath", "Dream Eater", "Swagger", "Sleep Talk", "Substitute"};
 		tutorMoves = new String[]{"Avalanche", "Block", "Destiny Bond", "Ice Punch", "Icy Wind", "Ominous Wind", "Pain Split", "Rollout", "Shock Wave", "Signal Beam", "Sleep Talk", "Snatch", "Snore", "Spite", "Sucker Punch", "Telekinesis", "Trick", "Water Pulse"};
 		naturalMoves = new String[]{"Destiny Bond"};

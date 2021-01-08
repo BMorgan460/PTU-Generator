@@ -9,7 +9,7 @@ public class Manaphy extends Pokemon{
 		bSpd = 10;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Hydration", "Rain Dish", "Swift Swim", "Gulp", "Damp"};
+		abilities = new String[]{"Hydration", "Rain Dish", "Swift Swim", "Damp", "Absorb Force"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "1\'/0\"";
 		size = "Small";

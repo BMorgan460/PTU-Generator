@@ -45,7 +45,7 @@ public class Poliwhirl extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 2;
 		movesLevels = new int[]{5, 8, 11, 15, 18, 21, 27, 32, 37, 43, 48, 53};
-		moves = new String[]{"Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Mud Shot", "Belly Drum", "WakeUp", "Hydro Pump", "Mud Bomb"};
+		moves = new String[]{"Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Mud Shot", "Belly Drum", "Wake Up Slap", "Hydro Pump", "Mud Bomb"};
 		TMs = new String[]{"Surf", "Strength", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Psychic", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Fling", "Bulldoze", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Counter", "Dive", "Defense Curl", "Endeavor", "Focus Punch", "Helping Hand", "Ice Punch", "Icy Wind", "Mega Kick", "Mega Punch", "Metronome", "Seismic Toss", "Sleep Talk", "Snore", "Water Pulse"};
 		naturalMoves = new String[]{};

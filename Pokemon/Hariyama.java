@@ -42,7 +42,7 @@ public class Hariyama extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 1;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 26, 30, 38, 42, 46, 50, 54};
-		moves = new String[]{"Sand Attack", "Arm Thrust", "Fake Out", "Force Palm", "Whirlwind", "Knock Off", "Vital Throw", "Belly Drum", "Smelling Salts", "WakeUp", "Endure", "Close Combat", "Reversal", "Heavy Slam"};
+		moves = new String[]{"Sand Attack", "Arm Thrust", "Fake Out", "Force Palm", "Whirlwind", "Knock Off", "Vital Throw", "Belly Drum", "Smelling Salts", "Wake Up Slap", "Endure", "Close Combat", "Reversal", "Heavy Slam"};
 		TMs = new String[]{"Surf", "Strength", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Smack Down", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Payback", "Retaliate", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Dynamic Punch", "Fire Punch", "Focus Punch", "Helping Hand", "Ice Punch", "Iron Head", "Knock Off", "Low Kick", "Magic Coat", "Mega Kick", "Mega Punch", "Metronome", "Rock Climb", "Role Play", "Sleep Talk", "Snore", "Superpower", "Thunder Punch", "Vacuum Wave", "Work Up"};
 		naturalMoves = new String[]{};

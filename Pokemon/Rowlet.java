@@ -9,6 +9,8 @@ public class Rowlet extends Pokemon{
 		bSpd = 4;
 		type1 = "Grass";
 		type2 = "Flying";
+		abilities = new String[]{"Overgrow", "Sniper", "Long Reach", "Covert", "Forest Lord"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 3.3;
 		WC = 1;
@@ -36,7 +38,7 @@ public class Rowlet extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 8, 11, 15, 18, 22, 25, 29, 32, 36, 39, 43, 46};
 		moves = new String[]{"Tackle", "Leafage", "Growl", "Peck", "Astonish", "Razor Leaf", "Foresight", "Pluck", "Synthesis", "Fury Attack", "Sucker Punch", "Leaf Blade", "Feather Dance", "Brave Bird", "Nasty Plot"};
-		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Roost", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Façade", "Rest", "Attract", "Round", "Echoed Voice", "Steel Wing", "Energy Ball", "False Swipe", "Shadow Claw", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Roost", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Steel Wing", "Energy Ball", "False Swipe", "Shadow Claw", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
 		eggMoves = new String[]{"Curse", "Confuse Ray", "Ominous Wind", "Haze", "Baton Pass", "Defog", "Leech Seed"};
 		tutorMoves = new String[]{"Grass Pledge", "Covet", "Seed Bomb", "Snore", "Synthesis", "Sky Attack", "Giga Drain", "Worry Seed", "Defog"};
 		naturalMoves = new String[]{};

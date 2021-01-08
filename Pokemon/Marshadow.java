@@ -7,8 +7,10 @@ public class Marshadow extends Pokemon{
 		bSpAtk = 8;
 		bSpDef = 9;
 		bSpd = 13;
-		type1 = "Fighting";
-		type2 = "Ice";
+		type1 = "Ghost";
+		type2 = "Fighting";
+		abilities = new String[]{"Technician", "Sprint", "Hustle", "Exploit", "Pure Power"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 48.9;
 		WC = 2;

@@ -9,8 +9,8 @@ public class Espurr extends Pokemon{
 		bSpd = 7;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Keen Eye", "Infiltrator", "Oblivious", "Own Tempo", "Telepath"};
-		abilityTypeCount = new int[] {2,1,1};
+		abilities = new String[]{"Keen Eye", "Infiltrator", "Oblivious", "Own Tempo", "Unaware"};
+		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Meowstic"};
 		nextReq = new String[]{"25"};
 		height = "1\'/00\"";

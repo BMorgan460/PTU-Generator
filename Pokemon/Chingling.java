@@ -9,7 +9,7 @@ public class Chingling extends Pokemon{
 		bSpd = 5;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Serene Grace", "Magic Guard", "Probablity", "Cute Charm"};
+		abilities = new String[]{"Levitate", "Serene Grace", "Magic Guard", "Probablity Control", "Cute Charm"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Chimecho"};
 		nextReq = new String[]{"15"};

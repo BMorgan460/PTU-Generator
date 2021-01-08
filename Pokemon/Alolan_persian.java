@@ -9,6 +9,8 @@ public class Alolan_persian extends Pokemon{
 		bSpd = 12;
 		type1 = "Dark";
 		type2 = "";
+		abilities = new String[]{"Pickup", "Technician", "Limber", "Rattled", "Defiant"};
+        abilityTypeCount = new int[] {2,2,1};
 		weight = 72.8;
 		WC = 3;
 		overland = 7;

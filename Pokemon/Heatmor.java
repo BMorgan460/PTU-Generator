@@ -9,7 +9,7 @@ public class Heatmor extends Pokemon{
 		bSpd = 7;
 		type1 = "Fire";
 		type2 = "";
-		abilities = new String[]{"Flash Fire", "Glutony", "White Smoke", "Magma Armor", "Flame Tongue"};
+		abilities = new String[]{"Flash Fire", "Gluttony", "White Smoke", "Magma Armor", "Flame Tongue"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "4\'/8\"";
 		weight = 127.9;

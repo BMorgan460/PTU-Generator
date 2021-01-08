@@ -9,6 +9,8 @@ public class Necrozma extends Pokemon{
 		bSpd = 8;
 		type1 = "Psychic";
 		type2 = "";
+		abilities = new String[]{"Prism Armor", "Weird Power", "Tinted Lens", "Perception", "Cluster Mind"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 507.1;
 		WC = 6;

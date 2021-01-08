@@ -9,7 +9,7 @@ public class Arbok extends Pokemon{
 		bSpd = 8;
 		type1 = "Poison";
 		type2 = "";
-		abilities = new String[]{"Shed Skin", "Intimidate", "Serpent’s", "Mark*"};
+		abilities = new String[]{"Shed Skin", "Intimidate", "Serpents Mark", "Serpents Mark"};
 		abilityTypeCount = new int[] {2,1,1};
 		previous = new Ekans();
 		prevReq = 20;

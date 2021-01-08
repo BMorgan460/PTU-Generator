@@ -9,8 +9,8 @@ public class Regigigas extends Pokemon{
 		bSpd = 10;
 		type1 = "Normal";
 		type2 = "";
-		abilities = new String[]{"Clear Body", "Slow Start", "Battle Armor", "Adaptability"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Clear Body", "Slow Start", "Battle Armor", "Last Chance", "Unaware"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "12\'/2\"";
 		weight = 925.9;
 		WC = 6;

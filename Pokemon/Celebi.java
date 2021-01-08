@@ -9,8 +9,8 @@ public class Celebi extends Pokemon{
 		bSpd = 10;
 		type1 = "Psychic";
 		type2 = "Grass";
-		abilities = new String[]{"Natural Cure", "Magic Guard", "Probability Control", "Healer"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Natural Cure", "Magic Guard", "Probability Control", "Full Guard", "Healer"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "2\'/0\"";
 		size = "Small";
 		weight = 11;

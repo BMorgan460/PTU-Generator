@@ -9,7 +9,7 @@ public class Bergmite extends Pokemon{
 		bSpd = 3;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Sturdy", "Winter's Kiss", "Ice Body", "Own Tempo", "Permafrost"};
+		abilities = new String[]{"Sturdy", "Winters Kiss", "Ice Body", "Own Tempo", "Permafrost"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Avalugg"};
 		nextReq = new String[]{"35"};

@@ -9,8 +9,8 @@ public class Thundurus extends Pokemon{
 		bSpd = 11;
 		type1 = "Electric";
 		type2 = "Flying";
-		abilities = new String[]{"Prankster", "Frisk", "Pride", "Drizzle"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Prankster", "Frisk", "Pride", "Lightning Rod", "Drizzle"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/11\"";
 		size = "Large";
 		weight = 134.5;

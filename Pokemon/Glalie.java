@@ -9,7 +9,7 @@ public class Glalie extends Pokemon{
 		bSpd = 8;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Inner Focus", "Ice Body", "Winter's Kiss", "Moody", "Frostbite"};
+		abilities = new String[]{"Inner Focus", "Ice Body", "Winters Kiss", "Moody", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Snorunt();
 		prevReq = 40;
@@ -43,7 +43,7 @@ public class Glalie extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 1;
 		movesLevels = new int[]{5, 10, 14, 19, 23, 28, 32, 37, 41, 42, 48, 54, 61};
-		moves = new String[]{"Double Team", "Ice Shard", "Icy Wind", "Bite", "Ice Fang", "Headbutt", "Protect", "Frost Breath", "Crunch", "FreezeDry", "Blizzard", "Hail", "Sheer Cold"};
+		moves = new String[]{"Double Team", "Ice Shard", "Icy Wind", "Bite", "Ice Fang", "Headbutt", "Protect", "Frost Breath", "Crunch", "Freeze Dry", "Blizzard", "Hail", "Sheer Cold"};
 		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Earthquake", "Return", "Shadow Ball", "Double Team", "Double Team", "Torment", "Facade", "Rest", "Attract", "Round", "Explosion", "Payback", "Giga Impact", "Flash", "Gyro Ball", "Bulldoze", "Frost Breath", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
 		tutorMoves = new String[]{"Avalanche", "Block", "Body Slam", "Slam", "Dark Pulse", "Icy Wind", "Iron Head", "Rollout", "Sheer Cold", "Signal Beam", "Sleep Talk", "Snore", "Spite", "Super Fang", "Water Pulse"};
 		naturalMoves = new String[]{"Sheer Cold"};

@@ -44,7 +44,7 @@ public class Scraggy extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 5, 9, 12, 16, 20, 23, 27, 31, 34, 38, 42, 45, 49, 53};
-		moves = new String[]{"Leer", "Low Kick", "Sand Attack", "Feint Attack", "Headbutt", "Swagger", "Brick Break", "Payback", "Chip Away", "Hi", "Scary Face", "Crunch", "Facade", "Rock Climb", "Focus Punch", "Head Smash"};
+		moves = new String[]{"Leer", "Low Kick", "Sand Attack", "Feint Attack", "Headbutt", "Swagger", "Brick Break", "Payback", "Chip Away", "High Jump Kick", "Scary Face", "Crunch", "Facade", "Rock Climb", "Focus Punch", "Head Smash"};
 		TMs = new String[]{"Strength", "Dragon Claw", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Dig", "Brick Break", "Double Team", "Sludge", "Sludge Bomb", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Incinerate", "Payback", "Retaliate", "Giga Impact", "Stone Edge", "Rock Slide", "Dragon Tail", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Snarl", "Dark Pulse", "Confide"};
 		eggMoves = new String[]{"Amnesia", "Counter", "Detect", "Dragon Dance", "Drain Punch", "Feint Attack", "Fake Out", "Fire Punch", "Ice Punch", "Quick Guard", "Thunder Punch", "Zen Headbutt", "Headbutt"};
 		tutorMoves = new String[]{"Dark Pulse", "Dragon Pulse", "Drain Punch", "Dual Chop", "Fire Punch", "Foul Play", "Ice Punch", "Iron Defense", "Iron Head", "Iron Tail", "Knock Off", "Low Kick", "Sleep Talk", "Snatch", "Snore", "Spite", "Super Fang", "Thunder Punch", "Work Up", "Zen Headbutt", "Headbutt"};

@@ -44,7 +44,7 @@ public class Machamp extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 2;
 		movesLevels = new int[]{5, 7, 9, 13, 15, 19, 21, 25, 27, 33, 37, 43, 47, 53, 57};
-		moves = new String[]{"Focus Energy", "Karate Chop", "Foresight", "Low Sweep", "Seismic Toss", "Revenge", "Knock Off", "Vital Throw", "WakeUp", "Dual Chop", "Submission", "Bulk Up", "Cross Chop", "Scary Face", "Dynamic Punch"};
+		moves = new String[]{"Focus Energy", "Karate Chop", "Foresight", "Low Sweep", "Seismic Toss", "Revenge", "Knock Off", "Vital Throw", "Wake Up Slap", "Dual Chop", "Submission", "Bulk Up", "Cross Chop", "Scary Face", "Dynamic Punch"};
 		TMs = new String[]{"Strength", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Incinerate", "Payback", "Retaliate", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Dual Chop", "Fire Punch", "Focus Punch", "Helping Hand", "Ice Punch", "Knock Off", "Magic Coat", "Mega Kick", "Mega Punch", "Metronome", "Role Play", "Sleep Talk", "Snore", "Superpower", "Thunder Punch", "Vacuum Wave", "Work Up"};
 		naturalMoves = new String[]{};

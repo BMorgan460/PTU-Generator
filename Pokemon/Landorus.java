@@ -9,8 +9,8 @@ public class Landorus extends Pokemon{
 		bSpd = 10;
 		type1 = "Ground";
 		type2 = "Flying";
-		abilities = new String[]{"Intimidate", "Frisk", "Defiant", "Healer"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Sand Force", "Frisk", "Defiant", "Run Away", "Healer"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/11\"";
 		size = "Large";
 		weight = 149.9;

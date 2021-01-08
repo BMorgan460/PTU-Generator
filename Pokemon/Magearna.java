@@ -9,6 +9,8 @@ public class Magearna extends Pokemon{
 		bSpd = 7;
 		type1 = "Steel";
 		type2 = "Fairy";
+		abilities = new String[]{"Soul Heart", "Sturdy", "Quick Curl", "Filter", "Beam Cannon"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 177.5;
 		WC = 4;
 		overland = 6;

@@ -9,6 +9,8 @@ public class Alolan_golem extends Pokemon{
 		bSpd = 5;
 		type1 = "Rock";
 		type2 = "Electric";
+		abilities = new String[]{"Sequence", "Magnet Pull", "Sturdy", "Motor Drive", "Galvanize"};
+        abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 696.7;
 		WC = 6;

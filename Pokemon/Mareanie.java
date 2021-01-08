@@ -9,6 +9,8 @@ public class Mareanie extends Pokemon{
 		bSpd = 5;
 		type1 = "Poison";
 		type2 = "Water";
+		abilities = new String[]{"Merciless", "Limber", "Regenerator", "Cruelty", "Poison Touch"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 17.6;
 		WC = 1;

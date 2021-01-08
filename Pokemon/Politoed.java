@@ -43,7 +43,7 @@ public class Politoed extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 2;
 		movesLevels = new int[]{5, 8, 11, 15, 18, 21, 27, 27, 32, 37, 37, 43, 48, 48, 53};
-		moves = new String[]{"Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Swagger", "Mud Shot", "Belly Drum", "Bounce", "WakeUp", "Hydro Pump", "Hyper Voice", "Mud Bomb"};
+		moves = new String[]{"Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Swagger", "Mud Shot", "Belly Drum", "Bounce", "Wake Up Slap", "Hydro Pump", "Hyper Voice", "Mud Bomb"};
 		TMs = new String[]{"Surf", "Strength", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Psychic", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Focus Blast", "Scald", "Fling", "Payback", "Giga Impact", "Bulldoze", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Bubble", "Counter", "Dive", "Defense Curl", "Dynamic Punch", "Endeavor", "Focus Punch", "Helping Hand", "Hyper Voice", "Ice Punch", "Icy Wind", "Mega Kick", "Mega Punch", "Metronome", "Seismic Toss", "Sleep Talk", "Snore", "Water Gun", "Water Pulse"};
 		naturalMoves = new String[]{};

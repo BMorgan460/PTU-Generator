@@ -9,6 +9,8 @@ public class Magmar extends Pokemon{
 		bSpd = 10;
 		type1 = "Fire";
 		type2 = "";
+		abilities = new String[]{"Flame Body", "Oblivious", "Vital Spirit", "Flash Fire", "Type Aura"};
+		abilityTypeCount = new int[] {2,2,1};
 		height = "4\'/3\"";
 		weight = 98.1;
 		WC = 3;

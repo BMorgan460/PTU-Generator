@@ -45,7 +45,7 @@ public class Phantump extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 8, 13, 19, 23, 28, 31, 35, 39, 45, 49, 54};
-		moves = new String[]{"Tackle", "Confuse Ray", "Astonish", "Growth", "Ingrain", "Feint Attack", "Leech Seed", "Curse", "WillOWisp", "Forest’s", "Destiny Bond", "Phantom Force", "Wood Hammer", "Horn Leech"};
+		moves = new String[]{"Tackle", "Confuse Ray", "Astonish", "Growth", "Ingrain", "Feint Attack", "Leech Seed", "Curse", "WillOWisp", "Forest’s Curse", "Destiny Bond", "Phantom Force", "Wood Hammer", "Horn Leech"};
 		TMs = new String[]{"Cut", "Strength", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Dig", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Shadow Claw", "Bulldoze", "Rock Slide", "Poison Jab", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Rock Smash", "Nature Power", "Dark Pulse", "Confide"};
 		eggMoves = new String[]{"Bestow", "Grudge", "Imprison", "Venom Drench"};
 		tutorMoves = new String[]{"Foul Play", "Giga Drain", "Magic Coat", "Pain Split", "Role Play", "Seed Bomb", "Skill Swap", "Snore", "Spite", "Trick", "Worry Seed"};

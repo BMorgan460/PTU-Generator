@@ -9,6 +9,8 @@ public class Alolan_sandslash extends Pokemon{
 		bSpd = 7;
 		type1 = "Ice";
 		type2 = "Steel";
+		abilities = new String[]{"Rough Skin", "Quick Curl", "Snow Cloak", "Slush Rush", "Permafrost"};
+        abilityTypeCount = new int[] {2,2,1};
 		weight = 121.3;
 		WC = 4;
 		overland = 6;

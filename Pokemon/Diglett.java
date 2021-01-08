@@ -43,7 +43,7 @@ public class Diglett extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 4, 7, 12, 15, 18, 23, 26, 29, 34, 37, 40, 45};
-		moves = new String[]{"Sand Attack", "Scratch", "Growl", "Astonish", "MudSlap", "Magnitude", "Bulldoze", "Sucker Punch", "Mud Bomb", "Earth Power", "Dig", "Slash", "Earthquake", "Fissure"};
+		moves = new String[]{"Sand Attack", "Scratch", "Growl", "Astonish", "Mud Slap", "Magnitude", "Bulldoze", "Sucker Punch", "Mud Bomb", "Earth Power", "Dig", "Slash", "Earthquake", "Fissure"};
 		TMs = new String[]{"Cut", "Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Sludge", "Sludge Bomb", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Ancient Power", "Astonish", "Beat Up", "Endure", "Feint Attack", "Final Gambit", "Headbutt", "Memento", "Mud Bomb", "Pursuit", "Reversal", "Rock Slide", "Screech", "Uproar"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Earth Power", "Fury Swipes", "Sleep Talk", "Snore", "Stealth Rock", "Sucker Punch", "Uproar"};

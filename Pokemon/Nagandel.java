@@ -9,6 +9,8 @@ public class Nagandel extends Pokemon{
 		bSpd = 12;
 		type1 = "Poison";
 		type2 = "";
+		abilities = new String[]{"Beast Boost", "Deadly Poison", "Sniper", "Poison Touch", "Corrosive Toxins"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 330.7;
 		WC = 5;

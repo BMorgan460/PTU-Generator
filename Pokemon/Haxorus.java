@@ -43,7 +43,7 @@ public class Haxorus extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 20, 24, 28, 32, 36, 42, 50, 58, 66, 74};
-		moves = new String[]{"Leer", "Assurance", "Dragon Rage", "Double", "Scary Face", "Slash", "False Swipe", "Dragon Claw", "Dragon Dance", "Taunt", "Dragon Pulse", "Swords Dance", "Guillotine", "Outrage", "Giga Impact"};
+		moves = new String[]{"Leer", "Assurance", "Dragon Rage", "Double Hit", "Scary Face", "Slash", "False Swipe", "Dragon Claw", "Dragon Dance", "Taunt", "Dragon Pulse", "Swords Dance", "Guillotine", "Outrage", "Giga Impact"};
 		TMs = new String[]{"Cut", "Surf", "Strength", "Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Focus Blast", "False Swipe", "Fling", "Incinerate", "Shadow Claw", "Payback", "Giga Impact", "Swords Dance", "Bulldoze", "Rock Slide", "Dragon Tail", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		tutorMoves = new String[]{"Aqua Tail", "Draco Meteor", "Dragon Pulse", "Dual Chop", "Endeavor", "Iron Tail", "Low Kick", "Sleep Talk", "Snore", "Superpower"};
 		naturalMoves = new String[]{"Outrage"};

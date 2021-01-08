@@ -44,7 +44,7 @@ public class Timburr extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 4, 8, 12, 16, 20, 24, 28, 31, 34, 37, 40, 43, 46, 49};
-		moves = new String[]{"Leer", "Pound", "Focus Energy", "Bide", "Low Kick", "Rock Throw", "WakeUp", "Chip Away", "Bulk Up", "Rock Slide", "Dynamic Punch", "Scary Face", "Hammer Arm", "Stone Edge", "Focus Punch", "Superpower"};
+		moves = new String[]{"Leer", "Pound", "Focus Energy", "Bide", "Low Kick", "Rock Throw", "Wake Up Slap", "Chip Away", "Bulk Up", "Rock Slide", "Dynamic Punch", "Scary Face", "Hammer Arm", "Stone Edge", "Focus Punch", "Superpower"};
 		TMs = new String[]{"Strength", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Payback", "Retaliate", "Stone Edge", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		eggMoves = new String[]{"Comet Punch", "Counter", "Detect", "Drain Punch", "Endure", "Force Palm", "Foresight", "Mach Punch", "Reversal", "Smelling Salts"};
 		tutorMoves = new String[]{"Block", "Drain Punch", "Fire Punch", "Helping Hand", "Ice Punch", "Knock Off", "Low Kick", "Sleep Talk", "Snore", "Superpower", "Thunder Punch", "Work Up"};

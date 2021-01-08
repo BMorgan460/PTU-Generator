@@ -44,7 +44,7 @@ public class Dugtrio extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 1;
 		movesLevels = new int[]{4, 7, 12, 15, 18, 23, 26, 28, 33, 40, 45, 50, 57};
-		moves = new String[]{"Growl", "Astonish", "MudSlap", "Magnitude", "Bulldoze", "Sucker Punch", "Sand Tomb", "Mud Bomb", "Earth Power", "Dig", "Slash", "Earthquake", "Fissure"};
+		moves = new String[]{"Growl", "Astonish", "Mud Slap", "Magnitude", "Bulldoze", "Sucker Punch", "Sand Tomb", "Mud Bomb", "Earth Power", "Dig", "Slash", "Earthquake", "Fissure"};
 		TMs = new String[]{"Cut", "Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Earth Power", "Fury Swipes", "Night Slash", "Sleep Talk", "Snore", "Stealth Rock", "Sucker Punch", "Uproar"};
 		naturalMoves = new String[]{"Night Slash", "Slash", "Rototiller"};

@@ -1,0 +1,1 @@
+"Name":"Vanguard","Freq":"Static","Info":"The user gains a +5 Bonus to all Damage Rolls against targets with an initiative lower than itself that have not yet acted that round (having Ante’d up your Action via an Interrupt or similar on a previous round does not count as having acted that round)."

@@ -9,6 +9,8 @@ public class Blacephalon extends Pokemon{
 		bSpd = 11;
 		type1 = "Fire";
 		type2 = "Ghost";
+		abilities = new String[]{"Beast Boost", "Aftermath", "Celebrate", "Interference", "Weird Power"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 28.7;
 		WC = 2;
 		overland = 7;

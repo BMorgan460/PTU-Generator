@@ -44,7 +44,7 @@ public class Conkeldurr extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 3;
 		movesLevels = new int[]{4, 8, 12, 16, 20, 24, 29, 33, 37, 41, 45, 49, 53, 57};
-		moves = new String[]{"Focus Energy", "Bide", "Low Kick", "Rock Throw", "WakeUp", "Chip Away", "Bulk Up", "Rock Slide", "Dynamic Punch", "Scary Face", "Hammer Arm", "Stone Edge", "Focus Punch", "Superpower"};
+		moves = new String[]{"Focus Energy", "Bide", "Low Kick", "Rock Throw", "Wake Up Slap", "Chip Away", "Bulk Up", "Rock Slide", "Dynamic Punch", "Scary Face", "Hammer Arm", "Stone Edge", "Focus Punch", "Superpower"};
 		TMs = new String[]{"Strength", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Payback", "Retaliate", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Block", "Drain Punch", "Fire Punch", "Helping Hand", "Ice Punch", "Knock Off", "Low Kick", "Sleep Talk", "Snore", "Superpower", "Thunder Punch", "Work Up"};
 		naturalMoves = new String[]{};

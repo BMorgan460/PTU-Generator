@@ -9,6 +9,8 @@ public class Cosmog extends Pokemon{
 		bSpd = 4;
 		type1 = "Psychic";
 		type2 = "";
+		abilities = new String[]{"Transporter", "Telepathy", "Forewarn", "Run Away", "Dodge"};
+        abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 0.2;
 		WC = 1;

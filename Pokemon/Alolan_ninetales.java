@@ -9,6 +9,8 @@ public class Alolan_ninetales extends Pokemon{
 		bSpd = 11;
 		type1 = "Ice";
 		type2 = "Fairy";
+		abilities = new String[]{"Snow Cloak", "Fairy Orbs", "Competitive", "Cute Charm", "Snow Warning"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 43.9;
 		WC = 2;
 		overland = 6;

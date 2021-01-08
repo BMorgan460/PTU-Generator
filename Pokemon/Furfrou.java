@@ -40,7 +40,7 @@ public class Furfrou extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 9, 12, 15, 22, 27, 35, 35, 38, 42, 48};
-		moves = new String[]{"Tackle", "Growl", "Sand Attack", "BabyDoll", "Headbutt", "Tail Whip", "Bite", "Odor Sleuth", "Retaliate", "Take Down", "Charm", "Sucker Punch", "Cotton Guard"};
+		moves = new String[]{"Tackle", "Growl", "Sand Attack", "Baby Doll Eyes", "Headbutt", "Tail Whip", "Bite", "Odor Sleuth", "Retaliate", "Take Down", "Charm", "Sucker Punch", "Cotton Guard"};
 		TMs = new String[]{"Surf", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Charge", "Charge Beam", "Retaliate", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Snarl", "Dark Pulse", "Confide"};
 		eggMoves = new String[]{"Captivate", "Mimic", "Refresh", "Role Play", "Work Up"};
 		tutorMoves = new String[]{"Endeavor", "Helping Hand", "Hyper Voice", "Iron Tail", "Last Resort", "Role Play", "Snore", "Uproar", "Zen Headbutt", "Headbutt"};

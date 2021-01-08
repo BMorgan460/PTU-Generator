@@ -9,6 +9,8 @@ public class Type_null extends Pokemon{
 		bSpd = 6;
 		type1 = "Normal";
 		type2 = "";
+		abilities = new String[]{"Battle Armor", "Magic Guard", "Intimidate", "Pressure", "Adaptability"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 265.7;
 		WC = 5;

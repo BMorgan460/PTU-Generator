@@ -9,6 +9,8 @@ public class Alolan_raticate extends Pokemon{
 		bSpd = 8;
 		type1 = "Dark";
 		type2 = "Normal";
+		abilities = new String[]{"Gluttony", "Hustle", "Thick Fat", "Pickup", "Abominable"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 56.2;
 		WC = 3;

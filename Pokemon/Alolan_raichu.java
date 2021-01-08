@@ -9,6 +9,8 @@ public class Alolan_raichu extends Pokemon{
 		bSpd = 11;
 		type1 = "Electric";
 		type2 = "Psychic";
+		abilities = new String[]{"Surge Surfer", "Static", "Lightning Rod", "Sequence", "Levitate"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 46.3;
 		WC = 2;

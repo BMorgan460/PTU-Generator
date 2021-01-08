@@ -9,8 +9,8 @@ public class Tornadus extends Pokemon{
 		bSpd = 11;
 		type1 = "Flying";
 		type2 = "";
-		abilities = new String[]{"Prankster", "Frisk", "Pride", "Drizzle"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Prankster", "Frisk", "Pride", "Windveiled","Drizzle"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/11\"";
 		size = "Large";
 		weight = 138.9;

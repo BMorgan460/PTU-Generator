@@ -44,7 +44,7 @@ public class Machop extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 7, 9, 13, 15, 19, 21, 25, 27, 31, 33, 37, 39, 43, 45};
-		moves = new String[]{"Leer", "Low Kick", "Focus Energy", "Karate Chop", "Foresight", "Low Sweep", "Seismic Toss", "Revenge", "Knock Off", "Vital Throw", "WakeUp", "Dual Chop", "Submission", "Bulk Up", "Cross Chop", "Scary Face", "Dynamic Punch"};
+		moves = new String[]{"Leer", "Low Kick", "Focus Energy", "Karate Chop", "Foresight", "Low Sweep", "Seismic Toss", "Revenge", "Knock Off", "Vital Throw", "Wake Up Slap", "Dual Chop", "Submission", "Bulk Up", "Cross Chop", "Scary Face", "Dynamic Punch"};
 		TMs = new String[]{"Strength", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Incinerate", "Payback", "Retaliate", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		eggMoves = new String[]{"Bullet Punch", "Close Combat", "Counter", "Encore", "Fire Punch", "Heavy Slam", "Slam", "Ice Punch", "Knock Off", "Light Screen", "Meditate", "Power Trick", "Trick", "Quick Guard", "Rock Slide", "Rolling Kick", "Smelling Salts", "Thunder Punch", "Tickle"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Dual Chop", "Fire Punch", "Focus Punch", "Helping Hand", "Ice Punch", "Knock Off", "Low Kick", "Magic Coat", "Mega Kick", "Mega Punch", "Metronome", "Role Play", "Sleep Talk", "Snore", "Superpower", "Thunder Punch", "Vacuum Wave", "Work Up"};

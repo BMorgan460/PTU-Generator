@@ -9,6 +9,8 @@ public class Jangmo_o extends Pokemon{
 		bSpd = 5;
 		type1 = "Dragon";
 		type2 = "";
+		abilities = new String[]{"Soundproof", "Bulletproof", "Overcoat", "Battle Armor", "Multiscale"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 65.5;
 		WC = 2;

@@ -9,6 +9,8 @@ public class Cosmoem extends Pokemon{
 		bSpd = 4;
 		type1 = "Psychic";
 		type2 = "";
+		abilities = new String[]{"Sturdy", "Telepathy", "Forewarn", "Deep Sleep", "Battle Armor"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 2204.4;
 		WC = 6;
 		overland = 3;

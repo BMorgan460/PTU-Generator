@@ -9,6 +9,8 @@ public class Tapu_bulu extends Pokemon{
 		bSpd = 8;
 		type1 = "Grass";
 		type2 = "Fairy";
+		abilities = new String[]{"Grassy Surge", "Telepathy", "Pressure", "Celebrate", "Type Aura"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 100.3;
 		WC = 3;

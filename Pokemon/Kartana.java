@@ -9,6 +9,8 @@ public class Kartana extends Pokemon{
 		bSpd = 11;
 		type1 = "Grass";
 		type2 = "Steel";
+		abilities = new String[]{"Beast Boost", "Parry", "Light Metal", "Tough Claws", "Cruelty"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 0.2;
 		WC = 1;

@@ -9,6 +9,8 @@ public class Alolan_geodude extends Pokemon{
 		bSpd = 2;
 		type1 = "Rock";
 		type2 = "Electric";
+		abilities = new String[]{"Levitate", "Magnet Pull", "Sturdy", "Motor Drive", "Galvanize"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 44.8;
 		WC = 2;

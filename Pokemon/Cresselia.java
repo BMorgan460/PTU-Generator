@@ -9,8 +9,8 @@ public class Cresselia extends Pokemon{
 		bSpd = 9;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Serene Grace", "Telepathy", "Magic Bounce"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Levitate", "Serene Grace", "Perception", "Mind Mold", "Magic Bounce"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/11\"";
 		size = "Large";
 		weight = 188.7;

@@ -9,6 +9,8 @@ public class Bewear extends Pokemon{
 		bSpd = 6;
 		type1 = "Normal";
 		type2 = "Fighting";
+		abilities = new String[]{"Fluffy", "Klutz", "Unnerve", "Scrappy", "Hustle"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 297.6;
 		WC = 5;
@@ -34,7 +36,7 @@ public class Bewear extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 10, 14, 19, 23, 30, 36, 43, 49, 56, 62};
-		moves = new String[]{"Tackle", "Leer", "Bide", "Baby_Doll Eyes", "Brutal Swing", "Flail", "Payback", "Take Down", "Hammer Arm", "Thrash", "Pain Split", "Double_Edge", "Superpower"};
+		moves = new String[]{"Tackle", "Leer", "Bide", "Baby_Doll Eyes", "Brutal Swing", "Flail", "Payback", "Take Down", "Hammer Arm", "Thrash", "Pain Split", "DoubleEdge", "Superpower"};
 		TMs = new String[]{"Work Up", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Taunt", "Protect", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Brutal Swing", "Payback", "Swords Dance", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Dual Chop", "Iron Head", "Low Kick", "Thunder Punch", "Ice Punch", "Superpower", "Zen Headbutt", "Headbutt", "Bind", "Snore", "Role Play", "Pain Split", "Drain Punch", "Focus Punch", "Stomping Tantrum"};
 		naturalMoves = new String[]{};

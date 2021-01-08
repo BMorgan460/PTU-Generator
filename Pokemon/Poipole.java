@@ -9,6 +9,8 @@ public class Poipole extends Pokemon{
 		bSpd = 7;
 		type1 = "Poison";
 		type2 = "";
+		abilities = new String[]{"Beast Boost", "Deadly Poison", "Sniper", "Poison Touch", "Corrosive Toxins"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 4.0;
 		WC = 1;

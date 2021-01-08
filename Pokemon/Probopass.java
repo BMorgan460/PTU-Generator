@@ -9,7 +9,7 @@ public class Probopass extends Pokemon{
 		bSpd = 4;
 		type1 = "Rock Steel";
 		type2 = "";
-		abilities = new String[]{"Sturdy", "Magnet Pull", "Sand Force", "MiniNoses", "Targeting System"};
+		abilities = new String[]{"Sturdy", "Magnet Pull", "Sand Force", "Mini-Noses", "Targeting System"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Nosepass();
 		prevReq = 25;

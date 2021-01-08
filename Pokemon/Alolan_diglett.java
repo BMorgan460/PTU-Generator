@@ -9,6 +9,8 @@ public class Alolan_diglett extends Pokemon{
 		bSpd = 9;
 		type1 = "Ground";
 		type2 = "Steel";
+		abilities = new String[]{"Sand Veil", "Tangling Hair", "Sand Force", "Celebrate", "Dig Away"};
+        abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 2.2;
 		WC = 1;

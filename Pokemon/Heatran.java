@@ -9,8 +9,8 @@ public class Heatran extends Pokemon{
 		bSpd = 8;
 		type1 = "Fire";
 		type2 = "Steel";
-		abilities = new String[]{"Flash Fire", "Flame Body", "Magma Armor", "Thermosensitive"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Flash Fire", "Flame Body", "Sun Blanket", "Thermosensitive", "Magma Armor"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "5\'/7\"";
 		size = "Huge";
 		weight = 948;

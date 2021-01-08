@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.*;
@@ -113,7 +114,98 @@ public class Pokemon {
     public Pokemon() {
 
     }
-
+    
+    @SuppressWarnings("unchecked")
+    public void test() {
+        System.out.println(name);
+        System.out.println("ABILITIES");
+        if(abilities.length != 5) {
+            System.out.println("Count Error");
+        }
+        for(String ability: abilities) {
+            String path = System.getProperty("user.dir");
+            path += "\\Abilities\\Processed\\";
+            path += ability + ".txt";
+            File tmpDir = new File(path);
+            if(!tmpDir.exists()) {
+                System.out.println(ability);
+            }
+        }
+        System.out.println("LEVEL MOVES");
+        for(String move : moves) {
+            @SuppressWarnings("unused")
+            Class<Move> moveA;
+            try {
+                moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
+            }
+            catch (Exception e) {
+                System.out.println(move);
+            }
+        }
+        System.out.println("EGG MOVES");
+        try {
+        for(String move : eggMoves) {
+            @SuppressWarnings("unused")
+            Class<Move> moveA;
+            try {
+                moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
+            }
+            catch (Exception e) {
+                System.out.println(move);
+            }
+        }
+        }
+        catch(Exception e) {
+            
+        }
+        System.out.println("TUTOR MOVES");
+        try {
+        for(String move : tutorMoves) {
+            @SuppressWarnings("unused")
+            Class<Move> moveA;
+            try {
+                moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
+            }
+            catch (Exception e) {
+                System.out.println(move);
+            }
+        }
+        }catch(Exception e) {
+            
+        }
+        System.out.println("NATURAL MOVES");
+        try {
+        for(String move : naturalMoves) {
+            @SuppressWarnings("unused")
+            Class<Move> moveA;
+            try {
+                moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
+            }
+            catch (Exception e) {
+                System.out.println(move);
+            }
+        }
+        }catch(Exception e) {
+            
+        }
+        System.out.println("TMS");
+        try {
+        for(String move : TMs) {
+            @SuppressWarnings("unused")
+            Class<Move> moveA;
+            try {
+                moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
+            }
+            catch (Exception e) {
+                System.out.println(move);
+            }
+        }
+        }
+        catch(Exception e) {
+            
+        }
+        System.out.println();
+    }
 
     /**
      * Getter method for previous requirement
@@ -525,36 +617,6 @@ public class Pokemon {
     }
 
 
-    private int getBHP() {
-        return bHP;
-    }
-
-
-    private int getBAtk() {
-        return bAtk;
-    }
-
-
-    private int getBDef() {
-        return bDef;
-    }
-
-
-    private int getBSpAtk() {
-        return bSpAtk;
-    }
-
-
-    private int getBSpDef() {
-        return bSpDef;
-    }
-
-
-    private int getBSpd() {
-        return bSpd;
-    }
-
-
     /**
      * Sets the nature of the Pokemon, and changes the Base Stats accordingly
      * 
@@ -573,78 +635,60 @@ public class Pokemon {
         else {
             switch (up) {
                 case 1:
-                    nHP = getBHP() + 1;
+                    nHP = bHP + 1;
                     break;
                 case 2:
-                    nAtk = getBAtk() + 2;
+                    nAtk = bAtk + 2;
                     break;
                 case 3:
-                    nDef = getBDef() + 2;
+                    nDef = bDef + 2;
                     break;
                 case 4:
-                    nSpAtk = getBSpAtk() + 2;
+                    nSpAtk = bSpAtk + 2;
                     break;
                 case 5:
-                    nSpDef = getBSpDef() + 2;
+                    nSpDef = bSpDef + 2;
                     break;
                 case 6:
-                    nSpd = getBSpd() + 2;
+                    nSpd = bSpd + 2;
                     break;
                 default:
                     System.out.println("Error " + up);
             }
             switch (down) {
                 case 1:
-                    nHP = getBHP() - 1;
+                    nHP = bHP - 1;
                     if (nHP == 0)
                         nHP = 1;
                     break;
                 case 2:
-                    nAtk = getBAtk() - 2;
+                    nAtk = bAtk - 2;
                     if (nAtk <= 0)
                         nAtk = 1;
                     break;
                 case 3:
-                    nDef = getBDef() - 2;
+                    nDef = bDef - 2;
                     if (nDef <= 0)
                         nDef = 1;
                     break;
                 case 4:
-                    nSpAtk = getBSpAtk() - 2;
+                    nSpAtk = bSpAtk - 2;
                     if (nSpAtk <= 0)
                         nSpAtk = 1;
                     break;
                 case 5:
-                    nSpDef = getBSpDef() - 2;
+                    nSpDef = bSpDef - 2;
                     if (nSpDef <= 0)
                         nSpDef = 1;
                     break;
                 case 6:
-                    nSpd = getBSpd() - 2;
+                    nSpd = bSpd - 2;
                     if (nSpd <= 0)
                         nSpd = 1;
                     break;
                 default:
                     System.out.println("Error " + down);
             }
-        }
-        if (nHP == 0) {
-            nHP = bHP;
-        }
-        if (nAtk == 0) {
-            nAtk = bAtk;
-        }
-        if (nDef == 0) {
-            nDef = bDef;
-        }
-        if (nSpAtk == 0) {
-            nSpAtk = bSpAtk;
-        }
-        if (nSpDef == 0) {
-            nSpDef = bSpDef;
-        }
-        if (nSpd == 0) {
-            nSpd = bSpd;
         }
     }
 
@@ -1237,6 +1281,9 @@ public class Pokemon {
         int normalMoves = 1;
         int extraMoves = 7;
         for (int i = 0; i < moveList.length; i++) {
+            if(moveList[i].equals("Façade")) {
+                moveList[i] = "Facade";
+            }
             try {
                 @SuppressWarnings("unchecked")
                 Class<Move> move =

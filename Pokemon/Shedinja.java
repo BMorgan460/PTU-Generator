@@ -9,7 +9,7 @@ public class Shedinja extends Pokemon{
 		bSpd = 4;
 		type1 = "Bug";
 		type2 = "Ghost";
-		abilities = new String[]{"Wonderguard", "Dodge", "Magic Guard", "Wonder Skin", "Pressure"};
+		abilities = new String[]{"Wonder Guard", "Dodge", "Magic Guard", "Wonder Skin", "Pressure"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Nincada();
 		prevReq = 3;

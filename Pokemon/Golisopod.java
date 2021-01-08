@@ -9,6 +9,8 @@ public class Golisopod extends Pokemon{
 		bSpd = 4;
 		type1 = "Bug";
 		type2 = "Water";
+		abilities = new String[]{"Emergency Exit", "Bully", "Shell Armor", "Defiant", "Tough Claws"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 238.1;
 		WC = 4;
@@ -35,7 +37,7 @@ public class Golisopod extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 21, 26, 31, 36, 41, 48};
 		moves = new String[]{"Struggle Bug", "Sand Attack", "Fury Cutter", "Rock Smash", "Bug Bite", "Spite", "Swords Dance", "Slash", "Razor Shell", "Sucker Punch", "Iron Defense", "Pin Missile", "Liquidation"};
-		TMs = new String[]{"Toxic", "Hail", "Bulk Up", "Venoshock", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Leech Life", "Brick Break", "Double Team", "Sludge Wave", "Sludge Bomb", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Focus Blast", "False Swipe", "Scald", "Fling", "Shadow Claw", "Payback", "Giga Impact", "Swords Dance", "Psych Up", "Frost Breath", "Rock Slide", "X_Scissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Snarl", "Dark Pulse", "Waterfall", "Confide"};
+		TMs = new String[]{"Toxic", "Hail", "Bulk Up", "Venoshock", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Leech Life", "Brick Break", "Double Team", "Sludge Wave", "Sludge Bomb", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Focus Blast", "False Swipe", "Scald", "Fling", "Shadow Claw", "Payback", "Giga Impact", "Swords Dance", "Psych Up", "Frost Breath", "Rock Slide", "XScissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Snarl", "Dark Pulse", "Waterfall", "Confide"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Dual Chop", "Iron Head", "Drill Run", "Iron Defense", "Icy Wind", "Snore", "Knock Off", "Pain Split", "Water Pulse", "Spite", "Endeavor", "Liquidation", "Throat Chop", "Laser Focus"};
 		naturalMoves = new String[]{};
 	}

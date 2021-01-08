@@ -9,6 +9,8 @@ public class Crabominable extends Pokemon{
 		bSpd = 4;
 		type1 = "Fighting";
 		type2 = "Ice";
+		abilities = new String[]{"Hyper Cutter", "Iron Fist", "Anger Point", "Rivalry", "Abominable"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 396.8;
 		WC = 5;
@@ -36,7 +38,7 @@ public class Crabominable extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 5, 9, 13, 17, 22, 26, 29, 33, 37, 42, 45, 49};
 		moves = new String[]{"Bubble", "Rock Smash", "Leer", "Pursuit", "Bubble Beam", "Power_Up Punch", "Dizzy Punch", "Avalanche", "Reversal", "Ice Hammer", "Iron Defense", "Dynamic Punch", "Close Combat"};
-		TMs = new String[]{"Work Up", "Toxic", "Hail", "Bulk Up", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Façade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Scald", "Fling", "Brutal Swing", "Payback", "Giga Impact", "Stone Edge", "Bulldoze", "Frost Breath", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		TMs = new String[]{"Work Up", "Toxic", "Hail", "Bulk Up", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Scald", "Fling", "Brutal Swing", "Payback", "Giga Impact", "Stone Edge", "Bulldoze", "Frost Breath", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Dual Chop", "Iron Head", "Thunder Punch", "Ice Punch", "Block", "Iron Defense", "Superpower", "Icy Wind", "Zen Headbutt", "Headbutt", "Snore", "Drain Punch", "Focus Punch", "Endeavor"};
 		naturalMoves = new String[]{};
 	}

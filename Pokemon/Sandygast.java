@@ -9,6 +9,8 @@ public class Sandygast extends Pokemon{
 		bSpd = 2;
 		type1 = "Ghost";
 		type2 = "Ground";
+		abilities = new String[]{"Water Compaction", "Sand Veil", "Arena Trap", "Dry Skin", "Soulstealer"};
+		abilityTypeCount = new int[] {2,2,1};
 		weight = 154.3;
 		WC = 3;
 		overland = 4;
@@ -35,7 +37,7 @@ public class Sandygast extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 5, 9, 14, 18, 23, 27, 32, 36, 41, 45, 50, 54};
 		moves = new String[]{"Harden", "Absorb", "Astonish", "Sand Attack", "Sand Tomb", "Mega Drain", "Bulldoze", "Hypnosis", "Iron Defense", "Giga Drain", "Shadow Ball", "Earth Power", "Shore Up", "Sandstorm"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Protect", "Frustration", "Earthquake", "Return", "Psychic", "Shadow Ball", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "45", "Attract", "Round", "Energy Ball", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Protect", "Frustration", "Earthquake", "Return", "Psychic", "Shadow Ball", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Amnesia", "Destiny Bond", "Ancient Power", "Stockpile", "Spit Up", "Swallow", "Curse"};
 		tutorMoves = new String[]{"Block", "Earth Power", "Gravity", "Iron Defense", "Snore", "Role Play", "Pain Split", "Giga Drain", "Spite", "After You", "Trick", "Recycle", "Stealth Rock", "Skill Swap"};
 		naturalMoves = new String[]{};

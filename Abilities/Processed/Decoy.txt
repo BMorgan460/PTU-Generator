@@ -1,0 +1,1 @@
+"Name":"Decoy","Freq":"Daily - Free Action","Info":"The user uses the Move 'Follow Me' as if it was on their Move List, and their Evasion is raised by +2 until the end of their next turn."

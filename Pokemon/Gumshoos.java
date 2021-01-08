@@ -9,6 +9,8 @@ public class Gumshoos extends Pokemon{
 		bSpd = 5;
 		type1 = "Normal";
 		type2 = "";
+		abilities = new String[]{"Stakeout", "Perception", "Strong Jaw", "Ambush", "Adaptability"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 31.3;
 		WC = 2;
@@ -36,7 +38,7 @@ public class Gumshoos extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 1, 1, 13, 16, 19, 23, 27, 31, 35, 39, 37, 43, 51, 55};
 		moves = new String[]{"Tackle", "Leer", "Pursuit", "Sand Attack", "Odor Sleuth", "Bide", "Bite", "Mud_Slap", "Super Fang", "Take Down", "Scary Face", "Crunch", "Hyper Fang", "Yawn", "Thrash", "Rest"};
-		TMs = new String[]{"Work Up", "Roar", "Toxic", "Hidden Power", "Taunt", "Protect", "Frustration", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Torment", "Façade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Fling", "Payback", "Bulldoze", "Swagger", "Sleep Talk", "U_turn", "Substitute", "Confide"};
+		TMs = new String[]{"Work Up", "Roar", "Toxic", "Hidden Power", "Taunt", "Protect", "Frustration", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Fling", "Payback", "Bulldoze", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Super Fang", "Dual Chop", "Iron Head", "Uproar", "Thunder Punch", "Fire Punch", "Ice Punch", "Block", "Last Resort", "Zen Headbutt", "Headbutt", "Iron Tail", "Snore", "Shock Wave", "Endeavor", "Stomping Tantrum"};
 		naturalMoves = new String[]{};
 	}

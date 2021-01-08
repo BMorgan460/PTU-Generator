@@ -45,7 +45,7 @@ public class Buneary extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 1, 6, 10, 13, 16, 23, 26, 33, 36, 43, 46, 53, 56, 63};
-		moves = new String[]{"Defense Curl", "Foresight", "Pound", "Splash", "Endure", "BabyDoll", "Frustration", "Quick Attack", "Jump Kick", "Baton Pass", "Agility", "Dizzy Punch", "After You", "Charm", "Entrainment", "Bounce", "Healing Wish"};
+		moves = new String[]{"Defense Curl", "Foresight", "Pound", "Splash", "Endure", "Baby Doll Eyes", "Frustration", "Quick Attack", "Jump Kick", "Baton Pass", "Agility", "Dizzy Punch", "After You", "Charm", "Entrainment", "Bounce", "Healing Wish"};
 		TMs = new String[]{"Cut", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Thunderbolt", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Fling", "Charge", "Charge Beam", "Retaliate", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		eggMoves = new String[]{"Attract", "Circle Throw", "Copycat", "Cosmic Power", "Double Hit", "Encore", "Fake Out", "Fake Tears", "Fire Punch", "Flail", "Focus Punch", "Ice Punch", "Low Kick", "Mud Sport", "Sky Uppercut", "Sweet Kiss", "Switcheroo", "Teeter Dance", "Thunder Punch"};
 		tutorMoves = new String[]{"After You", "Bounce", "Covet", "Drain Punch", "Endeavor", "Fire Punch", "Heal Bell", "Helping Hand", "Hyper Voice", "Ice Punch", "Iron Tail", "Last Resort", "Low Kick", "Magic Coat", "Role Play", "Shock Wave", "Sleep Talk", "Snore", "Swift", "Thunder Punch", "Uproar", "Water Pulse", "Work Up"};

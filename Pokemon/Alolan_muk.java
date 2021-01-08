@@ -9,6 +9,8 @@ public class Alolan_muk extends Pokemon{
 		bSpd = 5;
 		type1 = "Poison";
 		type2 = "Dark";
+		abilities = new String[]{"Poison Touch", "Gluttony", "Power of Alchemy", "Defy Death", "Weird Power"};
+        abilityTypeCount = new int[] {2,2,1};
 		weight = 114.6;
 		WC = 4;
 		overland = 5;

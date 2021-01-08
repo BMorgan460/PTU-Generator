@@ -9,6 +9,8 @@ public class Minior extends Pokemon{
 		bSpd = 6;
 		type1 = "Rock";
 		type2 = "Flying";
+		abilities = new String[]{"Shields Down", "Battle Armor", "Starlight", "Rock Head", "Aftermath"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 88.2;
 		WC = 3;
@@ -35,7 +37,7 @@ public class Minior extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 8, 10, 15, 17, 22, 24, 29, 31, 36, 38, 43, 45, 50};
 		moves = new String[]{"Tackle", "Defense Curl", "Rollout", "Confuse Ray", "Swift", "Ancient Power", "Self_Destruct", "Stealth Rock", "Take Down", "Autotomize", "Cosmic Power", "Power Gem", "Double_Edge", "Shell Smash", "Explosion"};
-		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Hyper Beam", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Earthquake", "Return", "Psychic", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Charge Beam", "Acrobatics", "Explosion", "Giga Impact", "Rock Polish", "Stone Edge", "Gyro Ball", "Psych Up", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Uturn", "Substitute", "Dazzling Gleam", "Confide"};
+		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Hyper Beam", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Earthquake", "Return", "Psychic", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Charge Beam", "Acrobatics", "Explosion", "Giga Impact", "Rock Polish", "Stone Edge", "Gyro Ball", "Psych Up", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"Iron Head", "Gravity", "Magnet Rise", "Last Resort", "Zen Headbutt", "Headbutt", "Snore", "Endeavor", "Stealth Rock", "Telekinesis"};
 		naturalMoves = new String[]{};
 	}

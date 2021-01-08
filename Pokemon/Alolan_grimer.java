@@ -9,6 +9,8 @@ public class Alolan_grimer extends Pokemon{
 		bSpd = 3;
 		type1 = "Poison";
 		type2 = "Dark";
+		abilities = new String[]{"Poison Touch", "Gluttony", "Power of Alchemy", "Defy Death", "Weird Power"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 92.6;
 		WC = 3;

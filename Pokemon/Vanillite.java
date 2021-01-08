@@ -9,7 +9,7 @@ public class Vanillite extends Pokemon{
 		bSpd = 5;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Ice Body", "Snow Cloak", "Weak Armor", "Winter's Kiss", "Clear Body"};
+		abilities = new String[]{"Ice Body", "Snow Cloak", "Weak Armor", "Winters Kiss", "Clear Body"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Vanillish", "Vanilluxe"};
 		nextReq = new String[]{"45"};

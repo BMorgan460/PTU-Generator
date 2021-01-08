@@ -9,6 +9,8 @@ public class Stakataka extends Pokemon{
 		bSpd = 1;
 		type1 = "Rock";
 		type2 = "Steel";
+		abilities = new String[]{"Beast Boost", "Battle Armor", "Solid Rock", "Heavy Metal", "Sturdy"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 1807.8;
 		WC = 7;
 		overland = 4;

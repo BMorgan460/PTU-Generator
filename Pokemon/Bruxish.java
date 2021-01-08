@@ -9,6 +9,8 @@ public class Bruxish extends Pokemon{
 		bSpd = 9;
 		type1 = "Water";
 		type2 = "Psychic";
+		abilities = new String[]{"Dazzling", "Strong Jaw", "Wonder Skin", "Magic Guard", "Twisted Power"};
+		abilityTypeCount = new int[] {2,2,1};
 		weight = 41.9;
 		WC = 2;
 		overland = 1;

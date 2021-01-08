@@ -9,6 +9,8 @@ public class Turtonator extends Pokemon{
 		bSpd = 4;
 		type1 = "Fire";
 		type2 = "Dragon";
+		abilities = new String[]{"Shell Armor", "Type Aura", "Sturdy", "Conflagrate", "Aftermath"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 467.4;
 		WC = 5;

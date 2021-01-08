@@ -9,8 +9,8 @@ public class Darkrai extends Pokemon{
 		bSpd = 13;
 		type1 = "Dark";
 		type2 = "";
-		abilities = new String[]{"Bad Dreams", "Insomnia", "Dreamspinner", "Daze"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Bad Dreams", "Insomnia", "Soulstealer", "Dark Art", "Fade Away"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/11\"";
 		size = "Large";
 		weight = 111.3;

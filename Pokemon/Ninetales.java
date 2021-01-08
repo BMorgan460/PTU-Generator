@@ -43,7 +43,7 @@ public class Ninetales extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 2;
 		movesLevels = new int[]{1, 4, 7, 9, 10, 12, 15, 18, 20, 23, 26, 28, 31, 34, 36, 39, 42, 44, 47, 50};
-		moves = new String[]{"Ember", "Tail Whip", "Roar", "BabyDoll", "Quick Attack", "Confuse Ray", "Fire Spin", "Payback", "WillOWisp", "Feint Attack", "Hex", "Flame Burst", "Extrasensory", "Safeguard", "Flamethrower", "Imprison", "Fire Blast", "Grudge", "Captivate", "Inferno"};
+		moves = new String[]{"Ember", "Tail Whip", "Roar", "Baby Doll Eyes", "Quick Attack", "Confuse Ray", "Fire Spin", "Payback", "WillOWisp", "Feint Attack", "Hex", "Flame Burst", "Extrasensory", "Safeguard", "Flamethrower", "Imprison", "Fire Blast", "Grudge", "Captivate", "Inferno"};
 		TMs = new String[]{"Psyshock", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Overheat", "Energy Ball", "Incinerate", "Payback", "Giga Impact", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Dark Pulse", "Fire Spin", "Foul Play", "Heat Wave", "Iron Tail", "Magic Coat", "Ominous Wind", "Pain Split", "Quick Attack", "Role Play", "Sleep Talk", "Snore", "Spite", "Swift", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{"Flamethrower", "Imprison"};

@@ -9,6 +9,8 @@ public class Alolan_exeggutor extends Pokemon{
 		bSpd = 5;
 		type1 = "Grass";
 		type2 = "Dragon";
+		abilities = new String[]{"Chlorophyll", "Cluster Mind", "Solar Power", "Eggscellence", "Harvest"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Huge";
 		weight = 916.2;
 		WC = 6;

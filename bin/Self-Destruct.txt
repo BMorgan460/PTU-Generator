@@ -1,1 +1,0 @@
-Move: Self-Destruct Type: Normal Frequency: Daily AC: 2 Damage Base 20: 6d12+35 / 75 Class: Physical Range: Burst 3 Effect: The user’s Hit Points are set to -50% of their full Hit Point value. This Hit Point loss may not be prevented or reduced in any way. The user’s loyalty toward its trainer may be lowered. Contest Type: Beauty Contest Effect: Big Show 

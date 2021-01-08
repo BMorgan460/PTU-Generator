@@ -9,8 +9,8 @@ public class Victini extends Pokemon{
 		bSpd = 10;
 		type1 = "Psychic";
 		type2 = "Fire";
-		abilities = new String[]{"Victory Star", "Gluttony", "Flash Fire", "Defiant"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Victory Star", "Gluttony", "Competitive", "Defiant", "Flash Fire"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "1\'/4\"";
 		size = "Small";
 		weight = 8.8;

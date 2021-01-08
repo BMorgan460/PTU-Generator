@@ -9,8 +9,8 @@ public class Kyogre extends Pokemon{
 		bSpd = 9;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Drizzle", "Hydration", "Swift Swim", "Gulp"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Drizzle", "Hydration", "Swift Swim", "Water Absorb", "Rain Dish"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "14\'/9\"";
 		weight = 776;
 		WC = 6;

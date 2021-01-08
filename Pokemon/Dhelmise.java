@@ -9,6 +9,8 @@ public class Dhelmise extends Pokemon{
 		bSpd = 4;
 		type1 = "Ghost";
 		type2 = "Grass";
+		abilities = new String[]{"Steelworker", "Leaf Guard", "Hydration", "Water Veil", "Shackle"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 463.0;
 		WC = 6;

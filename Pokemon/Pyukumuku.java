@@ -9,6 +9,8 @@ public class Pyukumuku extends Pokemon{
 		bSpd = 1;
 		type1 = "Water";
 		type2 = "";
+		abilities = new String[]{"Innards Out", "Unaware", "Oblivious", "Filter", "Aftermath"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 2.6;
 		WC = 1;
 		overland = 2;

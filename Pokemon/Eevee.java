@@ -44,7 +44,7 @@ public class Eevee extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45};
-		moves = new String[]{"Helping Hand", "Growl", "Tackle", "Tail Whip", "Sand Attack", "BabyDoll", "Quick Attack", "Bite", "Covet", "Take Down", "Charm", "Baton Pass", "DoubleEdge", "Last Resort", "Trump Card"};
+		moves = new String[]{"Helping Hand", "Growl", "Tackle", "Tail Whip", "Sand Attack", "Baby Doll Eyes", "Quick Attack", "Bite", "Covet", "Take Down", "Charm", "Baton Pass", "DoubleEdge", "Last Resort", "Trump Card"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Retaliate", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Captivate", "Charm", "Covet", "Curse", "Detect", "Endure", "Fake Tears", "Flail", "Natural Gift", "Stored Power", "Synchronoise", "Tickle", "Wish", "Yawn"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Heal Bell", "Helping Hand", "Hyper Voice", "Iron Tail", "Last Resort", "Sleep Talk", "Snore", "Swift", "Work Up"};

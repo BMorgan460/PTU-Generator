@@ -44,7 +44,7 @@ public class Axew extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 4, 7, 10, 13, 16, 20, 24, 28, 32, 36, 41, 46, 51, 56, 61};
-		moves = new String[]{"Scratch", "Leer", "Assurance", "Dragon Rage", "Double", "Scary Face", "Slash", "False Swipe", "Dragon Claw", "Dragon Dance", "Taunt", "Dragon Pulse", "Swords Dance", "Guillotine", "Outrage", "Giga Impact"};
+		moves = new String[]{"Scratch", "Leer", "Assurance", "Dragon Rage", "Double Hit", "Scary Face", "Slash", "False Swipe", "Dragon Claw", "Dragon Dance", "Taunt", "Dragon Pulse", "Swords Dance", "Guillotine", "Outrage", "Giga Impact"};
 		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Fling", "Incinerate", "Payback", "Giga Impact", "Swords Dance", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Counter", "Dragon Pulse", "Endeavor", "Endure", "Focus Energy", "Harden", "Iron Tail", "Night Slash", "Slash", "Razor Wind", "Reversal"};
 		tutorMoves = new String[]{"Aqua Tail", "Draco Meteor", "Dragon Pulse", "Dual Chop", "Endeavor", "Iron Tail", "Outrage", "Sleep Talk", "Snore", "Superpower"};

@@ -9,6 +9,8 @@ public class Drampa extends Pokemon{
 		bSpd = 4;
 		type1 = "Normal";
 		type2 = "Dragon";
+		abilities = new String[]{"Berserk", "Sap Sipper", "Cloud Nine", "Enduring Rage", "Prime Fury"};
+		abilityTypeCount = new int[] {1,2,2};
 		size = "Large";
 		weight = 407.8;
 		WC = 5;

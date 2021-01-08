@@ -9,6 +9,8 @@ public class Alolan_graveler extends Pokemon{
 		bSpd = 4;
 		type1 = "Rock";
 		type2 = "Electric";
+		abilities = new String[]{"Sequence", "Magnet Pull", "Sturdy", "Motor Drive", "Galvanize"};
+        abilityTypeCount = new int[] {1,3,1};
 		weight = 242.5;
 		WC = 5;
 		overland = 5;

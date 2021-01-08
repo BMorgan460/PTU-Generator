@@ -9,6 +9,8 @@ public class Tapu_fini extends Pokemon{
 		bSpd = 9;
 		type1 = "Water";
 		type2 = "Fairy";
+		abilities = new String[]{"Misty Surge", "Telepathy", "Pressure", "Celebrate", "Type Aura"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 46.7;
 		WC = 2;
 		overland = 4;

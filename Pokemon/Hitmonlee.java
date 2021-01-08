@@ -42,7 +42,7 @@ public class Hitmonlee extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 2;
 		movesLevels = new int[]{5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57, 61};
-		moves = new String[]{"Meditate", "Rolling Kick", "Jump Kick", "Brick Break", "Focus Energy", "Feint", "Hi", "Mind Reader", "Foresight", "Wide Guard", "Blaze Kick", "Endure", "Mega Kick", "Close Combat", "Reversal"};
+		moves = new String[]{"Meditate", "Rolling Kick", "Jump Kick", "Brick Break", "Focus Energy", "Feint", "High Jump Kick", "Mind Reader", "Foresight", "Wide Guard", "Blaze Kick", "Endure", "Mega Kick", "Close Combat", "Reversal"};
 		TMs = new String[]{"Strength", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Retaliate", "Stone Edge", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Bounce", "Body Slam", "Slam", "Close Combat", "Counter", "Covet", "Dynamic Punch", "Focus Punch", "Helping Hand", "Knock Off", "Low Kick", "Magic Coat", "Mega Kick", "Mega Punch", "Metronome", "Role Play", "Seismic Toss", "Sleep Talk", "Snore", "Sucker Punch", "Superpower", "Swift", "Vacuum Wave", "Work Up"};
 		naturalMoves = new String[]{"Close Combat", "Mega Kick", "Reversal"};

@@ -43,7 +43,7 @@ public class Golem extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 1;
 		movesLevels = new int[]{4, 6, 10, 12, 16, 18, 22, 24, 30, 34, 40, 44, 50, 54, 60};
-		moves = new String[]{"Mud Sport", "Rock Polish", "Steamroller", "Magnitude", "Rock Throw", "Smack Down", "Bulldoze", "SelfDestruct", "Stealth Rock", "Rock Blast", "Earthquake", "Explosion", "DoubleEdge", "Stone Edge", "Heavy Slam"};
+		moves = new String[]{"Mud Sport", "Rock Polish", "Steamroller", "Magnitude", "Rock Throw", "Smack Down", "Bulldoze", "Self Destruct", "Stealth Rock", "Rock Blast", "Earthquake", "Explosion", "DoubleEdge", "Stone Edge", "Heavy Slam"};
 		TMs = new String[]{"Strength", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Sandstorm", "Fire Blast", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Fling", "Incinerate", "Explosion", "Rock Polish", "Rock Polish", "Stone Edge", "Gyro Ball", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power", "Confide"};
 		tutorMoves = new String[]{"Ancient Power", "Block", "Body Slam", "Slam", "Counter", "Dynamic Punch", "Earth Power", "Fire Punch", "Focus Punch", "Fury Cutter", "Heavy Slam", "Iron Defense", "Iron Head", "Mega Kick", "Mega Punch", "Metronome", "Rollout", "Seismic Toss", "Sleep Talk", "Snore", "Stealth Rock", "Sucker Punch", "Superpower", "Thunder Punch"};
 		naturalMoves = new String[]{"Heavy Slam", "Slam"};

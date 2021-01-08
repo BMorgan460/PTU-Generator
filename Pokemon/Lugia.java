@@ -9,8 +9,8 @@ public class Lugia extends Pokemon{
 		bSpd = 11;
 		type1 = "Psychic";
 		type2 = "Flying";
-		abilities = new String[]{"Pressure", "Multiscale", "Gulp", "Life Force"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Pressure", "Multiscale", "Swift Swim", "Natural Cure", "Full Guard"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "17\'/1\"";
 		size = "Huge";
 		weight = 476.2;

@@ -9,6 +9,8 @@ public class Oranguru extends Pokemon{
 		bSpd = 6;
 		type1 = "Normal";
 		type2 = "Psychic";
+		abilities = new String[]{"Telepathy", "Inner Focus", "Symbiosis", "Discipline", "Bodyguard"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 167.6;
 		WC = 4;

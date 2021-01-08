@@ -42,7 +42,7 @@ public class Makuhita extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46};
-		moves = new String[]{"Focus Energy", "Tackle", "Sand Attack", "Arm Thrust", "Fake Out", "Force Palm", "Whirlwind", "Knock Off", "Vital Throw", "Belly Drum", "Smelling Salts", "Seismic Toss", "WakeUp", "Endure", "Close Combat", "Reversal", "Heavy Slam"};
+		moves = new String[]{"Focus Energy", "Tackle", "Sand Attack", "Arm Thrust", "Fake Out", "Force Palm", "Whirlwind", "Knock Off", "Vital Throw", "Belly Drum", "Smelling Salts", "Seismic Toss", "Wake Up Slap", "Endure", "Close Combat", "Reversal", "Heavy Slam"};
 		TMs = new String[]{"Surf", "Strength", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Retaliate", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		eggMoves = new String[]{"Bullet Punch", "Chip Away", "Counter", "Cross Chop", "Detect", "Dynamic Punch", "Feint Attack", "Feint", "Focus Punch", "Foresight", "Helping Hand", "Revenge", "Wide Guard"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Fire Punch", "Helping Hand", "Ice Punch", "Knock Off", "Low Kick", "Magic Coat", "Mega Kick", "Mega Punch", "Metronome", "Rock Climb", "Role Play", "Sleep Talk", "Snore", "Superpower", "Thunder Punch", "Vacuum Wave", "Work Up"};

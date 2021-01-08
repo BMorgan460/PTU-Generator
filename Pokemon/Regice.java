@@ -9,8 +9,8 @@ public class Regice extends Pokemon{
 		bSpd = 5;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Clear Body", "Ice Body", "Battle Armor", "Adaptability"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Clear Body", "Ice Body", "Battle Armor", "Freezing Point", "Unaware"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "5\'/11\"";
 		size = "Huge";
 		weight = 385.8;

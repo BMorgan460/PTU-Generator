@@ -44,7 +44,7 @@ public class Lillipup extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 8, 10, 12, 15, 19, 22, 26, 29, 33, 36, 40, 45};
-		moves = new String[]{"Leer", "Tackle", "Odor Sleuth", "Bite", "BabyDoll", "Helping Hand", "Take Down", "Work Up", "Crunch", "Roar", "Retaliate", "Reversal", "Last Resort", "Giga Impact", "Play Rough"};
+		moves = new String[]{"Leer", "Tackle", "Odor Sleuth", "Bite", "Baby Doll Eyes", "Helping Hand", "Take Down", "Work Up", "Crunch", "Roar", "Retaliate", "Reversal", "Last Resort", "Giga Impact", "Play Rough"};
 		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Dig", "Shadow Ball", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Retaliate", "Giga Impact", "Thunder", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Snarl", "Confide"};
 		eggMoves = new String[]{"After You", "Charm", "Endure", "Fire Fang", "Howl", "Ice Fang", "Lick", "Pursuit", "Sand Attack", "Thunder Fang", "Yawn"};
 		tutorMoves = new String[]{"Covet", "Helping Hand", "Hyper Voice", "Last Resort", "Sleep Talk", "Snore", "Uproar", "Work Up"};

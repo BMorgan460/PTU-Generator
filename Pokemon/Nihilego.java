@@ -9,6 +9,8 @@ public class Nihilego extends Pokemon{
 		bSpd = 10;
 		type1 = "Rock";
 		type2 = "Poison";
+		abilities = new String[]{"Beast Boost", "Pressure", "Poison Touch", "Shackle", "Memory Wipe"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 122.4;
 		WC = 4;
 		overland = 3;

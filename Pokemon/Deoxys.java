@@ -9,8 +9,8 @@ public class Deoxys extends Pokemon{
 		bSpd = 15;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Pressure", "Download", "Telepathy", "Transporter"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Pressure", "Download", "Perception", "Symbiosis", "Transporter"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "5\'/7\"";
 		weight = 134;
 		WC = 4;

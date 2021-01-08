@@ -44,7 +44,7 @@ public class Pumpkaboo extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 4, 6, 11, 16, 20, 23, 26, 30, 36, 40, 42, 48};
-		moves = new String[]{"Astonish", "Trick", "Confuse Ray", "Scary Face", "TrickorTreat", "Worry Seed", "Razor Leaf", "Leech Seed", "TrickorTreat", "Bullet Seed", "Shadow Sneak", "Shadow Ball", "TrickorTreat", "Pain Split", "Seed Bomb"};
+		moves = new String[]{"Astonish", "Trick", "Confuse Ray", "Scary Face", "Trick or Treat", "Worry Seed", "Razor Leaf", "Leech Seed", "Bullet Seed", "Shadow Sneak", "Shadow Ball", "Pain Split", "Seed Bomb"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Psychic", "Shadow Ball", "Double Team", "Flamethrower", "Sludge", "Sludge Bomb", "Fire Blast", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Charge", "Charge Beam", "Incinerate", "Explosion", "Flash", "Gyro Ball", "Rock Slide", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Rock Smash", "Nature Power", "Dark Pulse", "Confide"};
 		eggMoves = new String[]{"Bestow", "Destiny Bond", "Disable"};
 		tutorMoves = new String[]{"Foul Play", "Giga Drain", "Magic Coat", "Pain Split", "Role Play", "Seed Bomb", "Skill Swap", "Spite", "Synthesis", "Trick", "Worry Seed"};

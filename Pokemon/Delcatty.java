@@ -43,7 +43,7 @@ public class Delcatty extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46};
-		moves = new String[]{"Fake Out", "Growl", "Tackle", "Tail Whip", "Foresight", "Sing", "Attract", "Disarming Voice", "Double Slap", "Copycat", "Feint Attack", "Charm", "WakeUp", "Assist", "Covet", "Heal Bell", "DoubleEdge", "Captivate", "Play Rough"};
+		moves = new String[]{"Fake Out", "Growl", "Tackle", "Tail Whip", "Foresight", "Sing", "Attract", "Disarming Voice", "Double Slap", "Copycat", "Feint Attack", "Charm", "Wake Up Slap", "Assist", "Covet", "Heal Bell", "DoubleEdge", "Captivate", "Play Rough"};
 		TMs = new String[]{"Strength", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Charge", "Charge Beam", "Payback", "Retaliate", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash"};
 		tutorMoves = new String[]{"Covet", "Body Slam", "Slam", "Defense Curl", "Growl", "Heal Bell", "Helping Hand", "Icy Wind", "Iron Tail", "Last Resort", "Rollout", "Sleep Talk", "Snore", "Sucker Punch", "Swift", "Work Up", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};

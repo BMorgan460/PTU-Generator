@@ -9,8 +9,8 @@ public class Wishiwashi extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "";
-		type1 = "Aura";
-		type2 = "";
+		abilities = new String[]{"Schooling", "Swift Swim", "Rattled", "Refreshing Veil", "Type Aura"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 0.7;
 		WC = 1;
@@ -37,8 +37,8 @@ public class Wishiwashi extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 6, 9, 14, 17, 22, 25, 30, 33, 38, 41, 46, 49, 54};
-		moves = new String[]{"Water Gun", "Growl", "Helping Hand", "Feint Attack", "Brine", "Aqua Ring", "Tearful Look", "Take Down", "Dive", "Beat Up", "Aqua Tail", "Double_Edge", "Soak", "Endeavor", "Hydro Pump"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Double Team", "Façade", "Rest", "Attract", "Round", "Scald", "Bulldoze", "Swagger", "Sleep Talk", "U_turn", "Substitute", "Surf", "Waterfall", "Confide"};
+		moves = new String[]{"Water Gun", "Growl", "Helping Hand", "Feint Attack", "Brine", "Aqua Ring", "Tearful Look", "Take Down", "Dive", "Beat Up", "Aqua Tail", "DoubleEdge", "Soak", "Endeavor", "Hydro Pump"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Bulldoze", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Surf", "Waterfall", "Confide"};
 		eggMoves = new String[]{"Muddy Water", "Mist", "Water Pulse", "Water Sport", "Whirlpool"};
 		tutorMoves = new String[]{"Covet", "Aqua Tail", "Iron Tail", "Snore", "Water Pulse", "Helping Hand", "Endeavor"};
 		naturalMoves = new String[]{};

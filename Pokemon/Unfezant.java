@@ -9,7 +9,7 @@ public class Unfezant extends Pokemon{
 		bSpd = 9;
 		type1 = "Normal";
 		type2 = "Flying";
-		abilities = new String[]{"Big Pecks", "Super Luck", "Rivalry", "Klutz", "(Male)"};
+		abilities = new String[]{"Big Pecks", "Super Luck", "Rivalry", "Klutz", "Rocket"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Tranquill();
 		prevReq = 30;

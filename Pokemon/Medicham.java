@@ -42,7 +42,7 @@ public class Medicham extends Pokemon{
 		percepBonus = 3;
 		focusBonus = 4;
 		movesLevels = new int[]{4, 7, 9, 12, 15, 17, 20, 23, 25, 28, 31, 33, 36, 42, 47, 53};
-		moves = new String[]{"Meditate", "Confusion", "Detect", "Endure", "Feint", "Force Palm", "Hidden Power", "Calm Mind", "Mind Reader", "Hi", "Psych Up", "Acupressure", "Power Trick", "Reversal", "Recover", "Counter"};
+		moves = new String[]{"Meditate", "Confusion", "Detect", "Endure", "Feint", "Force Palm", "Hidden Power", "Calm Mind", "Mind Reader", "High Jump Kick", "Psych Up", "Acupressure", "Power Trick", "Reversal", "Recover", "Counter"};
 		TMs = new String[]{"Strength", "Psyshock", "Calm Mind", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Energy Ball", "Fling", "Retaliate", "Giga Impact", "Flash", "Psych Up", "Rock Slide", "Poison Jab", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Drain Punch", "Dynamic Punch", "Focus Punch", "Gravity", "Helping Hand", "Low Kick", "Magic Coat", "Mega Kick", "Mega Punch", "Metronome", "Pain Split", "Recycle", "Role Play", "Secret Power", "Seismic Toss", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Telekinesis", "Thunder", "Trick", "Vacuum Wave", "Work Up", "Zen Headbutt"};
 		naturalMoves = new String[]{"Zen Headbutt", "Headbutt"};

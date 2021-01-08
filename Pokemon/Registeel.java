@@ -9,8 +9,8 @@ public class Registeel extends Pokemon{
 		bSpd = 5;
 		type1 = "Steel";
 		type2 = "";
-		abilities = new String[]{"Clear Body", "Light Metal", "Battle Armor", "Adaptability"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Clear Body", "Light Metal", "Battle Armor", "Unbreakable", "Unaware"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "6\'/3\"";
 		size = "Huge";
 		weight = 451.9;

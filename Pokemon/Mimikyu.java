@@ -9,6 +9,8 @@ public class Mimikyu extends Pokemon{
 		bSpd = 10;
 		type1 = "Ghost";
 		type2 = "Fairy";
+		abilities = new String[]{"Disguise", "Fluffy", "Shadow Tag", "Cute Charm", "Lightning Rod"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 1.5;
 		WC = 1;

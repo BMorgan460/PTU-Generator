@@ -9,6 +9,8 @@ public class Stufful extends Pokemon{
 		bSpd = 5;
 		type1 = "Normal";
 		type2 = "Fighting";
+		abilities = new String[]{"Fluffy", "Klutz", "Cute Charm", "Scrappy", "Pure Power"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 15.0;
 		WC = 1;
@@ -34,7 +36,7 @@ public class Stufful extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 10, 14, 19, 23, 28, 32, 37, 41, 46, 50};
-		moves = new String[]{"Tackle", "Leer", "Bide", "Baby_Doll Eyes", "Brutal Swing", "Flail", "Payback", "Take Down", "Hammer Arm", "Thrash", "Pain Split", "Double_Edge", "Superpower"};
+		moves = new String[]{"Tackle", "Leer", "Bide", "Baby_Doll Eyes", "Brutal Swing", "Flail", "Payback", "Take Down", "Hammer Arm", "Thrash", "Pain Split", "DoubleEdge", "Superpower"};
 		TMs = new String[]{"Work Up", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Taunt", "Protect", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Brutal Swing", "Payback", "Swords Dance", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Ice Punch", "Thunder Punch", "Force Palm", "Endure", "Wide Guard", "Mega Kick", "Stomping Tantrum"};
 		tutorMoves = new String[]{"Dual Chop", "Iron Head", "Thunder Punch", "Ice Punch", "Superpower", "Zen Headbutt", "Headbutt", "Bind", "Snore", "Role Play", "Pain Split", "Focus Punch", "Stomping Tantrum"};

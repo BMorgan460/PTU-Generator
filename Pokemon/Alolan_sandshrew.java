@@ -9,6 +9,8 @@ public class Alolan_sandshrew extends Pokemon{
 		bSpd = 4;
 		type1 = "Ice";
 		type2 = "Steel";
+		abilities = new String[]{"Pickup", "Quick Curl", "Snow Cloak", "Slush Rush", "Permafrost"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 88.2;
 		WC = 3;

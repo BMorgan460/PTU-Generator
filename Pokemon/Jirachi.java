@@ -9,8 +9,8 @@ public class Jirachi extends Pokemon{
 		bSpd = 10;
 		type1 = "Steel";
 		type2 = "Psychic";
-		abilities = new String[]{"Serene Grace", "Wishmaster", "Deep Sleep", "Wonder Skin"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Serene Grace", "Wishmaster", "Deep Sleep", "Life Force", "Wonder Skin"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "1\'/0\"";
 		size = "Small";
 		weight = 2.4;

@@ -9,6 +9,8 @@ public class Alolan_dugtrio extends Pokemon{
 		bSpd = 11;
 		type1 = "Ground";
 		type2 = "Steel";
+		abilities = new String[]{"Sand Veil", "Tangling Hair", "Sand Force", "Polycephaly", "Dig Away"};
+        abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 146.8;
 		WC = 4;

@@ -10,7 +10,7 @@ public class Gourgeist extends Pokemon{
 		type1 = "Ghost";
 		type2 = "Grass";
 		abilities = new String[]{"Pickup", "Frisk", "Insomnia", "Pumpkingrab", "Flash Fire"};
-		abilityTypeCount = new int[] {2,1,1};
+		abilityTypeCount = new int[] {2,2,1};
 		previous = new Pumpkaboo();
 		prevReq = 25;
 		height = "2\'/11’’\"";
@@ -43,7 +43,7 @@ public class Gourgeist extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 4, 6, 11, 16, 20, 23, 26, 30, 36, 40, 42, 48, 57, 63, 70, 75};
-		moves = new String[]{"Astonish", "Trick", "Confuse Ray", "Scary Face", "TrickorTreat", "Worry Seed", "Razor Leaf", "Leech Seed", "TrickorTreat", "Bullet Seed", "Shadow Sneak", "Shadow Ball", "TrickorTreat", "Pain Split", "Seed Bomb", "Phantom Force", "TrickorTreat", "Shadow Ball", "Explosion"};
+		moves = new String[]{"Astonish", "Trick", "Confuse Ray", "Scary Face", "Trick or Treat", "Worry Seed", "Razor Leaf", "Leech Seed", "Bullet Seed", "Shadow Sneak", "Shadow Ball", "Pain Split", "Seed Bomb", "Phantom Force", "Shadow Ball", "Explosion"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Psychic", "Shadow Ball", "Double Team", "Flamethrower", "Sludge", "Sludge Bomb", "Fire Blast", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Charge", "Charge Beam", "Incinerate", "Explosion", "Giga Impact", "Flash", "Gyro Ball", "Rock Slide", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Rock Smash", "Nature Power", "Dark Pulse", "Confide"};
 		tutorMoves = new String[]{"Foul Play", "Giga Drain", "Magic Coat", "Pain Split", "Phantom Force", "Role Play", "Seed Bomb", "Skill Swap", "Spite", "Synthesis", "Trick", "Worry Seed"};
 		naturalMoves = new String[]{"Explosion", "Phantom Force"};

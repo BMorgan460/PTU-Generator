@@ -9,6 +9,8 @@ public class Lycanroc_midday extends Pokemon{
 		bSpd = 11;
 		type1 = "Rock";
 		type2 = "";
+		abilities = new String[]{"Keen Eye", "Sand Rush", "Steadfast", "Guts", "Pack Hunt"};
+        abilityTypeCount = new int[] {2,2,1};
 		weight = 55.1;
 		WC = 3;
 		overland = 8;

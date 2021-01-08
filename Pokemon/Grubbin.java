@@ -9,6 +9,8 @@ public class Grubbin extends Pokemon{
 		bSpd = 5;
 		type1 = "Bug";
 		type2 = "";
+		abilities = new String[]{"Volt Absorb", "Electrodash", "Courage", "Dig Away", "Analytc"};
+		abilityTypeCount = new int[] {1,1,3};
 		size = "Small";
 		weight = 9.7;
 		WC = 1;
@@ -35,8 +37,8 @@ public class Grubbin extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 4, 7, 10, 13, 16, 19, 22, 25, 28};
-		moves = new String[]{"Vice Grip", "String Shot", "Mud_Slap", "Bite", "Bug Bite", "Spark", "Acrobatics", "Crunch", "X_Scissor", "Dig"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Double Team", "Façade", "Rest", "Attract", "Round", "Charge Beam", "Acrobatics", "Volt Switch", "Thunder Wave", "X_Scissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"};
+		moves = new String[]{"Vice Grip", "String Shot", "Mud_Slap", "Bite", "Bug Bite", "Spark", "Acrobatics", "Crunch", "XScissor", "Dig"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Charge Beam", "Acrobatics", "Volt Switch", "Thunder Wave", "XScissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"};
 		eggMoves = new String[]{"Harden", "Electroweb", "Mud Shot", "Endure"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Magnet Rise", "Electroweb", "Snore", "Shock Wave"};
 		naturalMoves = new String[]{};

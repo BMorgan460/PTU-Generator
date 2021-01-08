@@ -44,7 +44,7 @@ public class Linoone extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{5, 7, 11, 12, 13, 17, 19, 24, 27, 32, 35, 40, 43, 48};
-		moves = new String[]{"Tail Whip", "Sand Attack", "Headbutt", "BabyDoll", "Odor Sleuth", "Mud Sport", "Fury Swipes", "Covet", "Bestow", "Slash", "Double", "Rest", "Belly Drum", "Fling"};
+		moves = new String[]{"Tail Whip", "Sand Attack", "Headbutt", "Baby Doll Eyes", "Odor Sleuth", "Mud Sport", "Fury Swipes", "Covet", "Bestow", "Slash", "Double", "Rest", "Belly Drum", "Fling"};
 		TMs = new String[]{"Cut", "Surf", "Strength", "Hone Claws", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Fling", "Charge", "Charge Beam", "Shadow Claw", "Retaliate", "Giga Impact", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Defense Curl", "Fury Cutter", "Gunk Shot", "Helping Hand", "Icy Wind", "Iron Tail", "Last Resort", "Play Rough", "Rollout", "Seed Bomb", "Shock Wave", "Sleep Talk", "Snore", "Super Fang", "Swift", "Trick", "Water Pulse", "Work Up"};
 		naturalMoves = new String[]{"Play Rough", "Rollout", "Rototiller"};

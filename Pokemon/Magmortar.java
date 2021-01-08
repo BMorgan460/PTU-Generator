@@ -9,7 +9,7 @@ public class Magmortar extends Pokemon{
 		bSpd = 8;
 		type1 = "Fire";
 		type2 = "";
-		abilities = new String[]{"Flame Body", "Oblivious", "Vital Spirit", "Flash Fire", "Ignition Boost", "Flame Body", "Oblivious", "Vital Spirit", "Flash Fire", "Ignition Boost"};
+		abilities = new String[]{"Flame Body", "Oblivious", "Vital Spirit", "Flash Fire", "Type Aura"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Magmar();
 		prevReq = 40;

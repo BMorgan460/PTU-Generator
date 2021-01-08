@@ -9,7 +9,7 @@ public class Corsola extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "Rock";
-		abilities = new String[]{"Natural Cure", "Regenerator", "Hustle", "Refreshing Veil"};
+		abilities = new String[]{"Natural Cure", "Regenerator", "Hustle", "Solid Rock", "Refreshing Veil"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "2\'/0\"";
 		size = "Small";

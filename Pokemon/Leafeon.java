@@ -44,7 +44,7 @@ public class Leafeon extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 2;
 		movesLevels = new int[]{5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45};
-		moves = new String[]{"Sand Attack", "Razor Leaf", "Quick Attack", "Grass", "Magical Leaf", "Giga Drain", "Swords Dance", "Synthesis", "Sunny Day", "Last Resort", "Leaf Blade"};
+		moves = new String[]{"Sand Attack", "Razor Leaf", "Quick Attack", "Grasswhistle", "Magical Leaf", "Giga Drain", "Swords Dance", "Synthesis", "Sunny Day", "Last Resort", "Leaf Blade"};
 		TMs = new String[]{"Strength", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Dig", "Shadow Ball", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Retaliate", "Giga Impact", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power"};
 		tutorMoves = new String[]{"Bullet Seed", "Covet", "Fury Cutter", "Giga Drain", "Heal Bell", "Helping Hand", "Hyper Voice", "Iron Tail", "Knock Off", "Last Resort", "Seed Bomb", "Sleep Talk", "Snore", "Swift", "Synthesis", "Work Up", "Worry Seed"};
 		naturalMoves = new String[]{};

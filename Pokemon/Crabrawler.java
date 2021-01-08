@@ -9,6 +9,8 @@ public class Crabrawler extends Pokemon{
 		bSpd = 6;
 		type1 = "Fighting";
 		type2 = "";
+		abilities = new String[]{"Hyper Cutter", "Iron Fist", "Anger Point", "Rivalry", "Discipline"};
+        abilityTypeCount = new int[] {2,2,1};
 		height = "2’00\'/ 0.\"";
 		size = "Small";
 		weight = 15.4;
@@ -36,7 +38,7 @@ public class Crabrawler extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 5, 9, 13, 17, 22, 25, 29, 33, 37, 42, 45, 49};
 		moves = new String[]{"Bubble", "Rock Smash", "Leer", "Pursuit", "Bubble Beam", "Power_Up Punch", "Dizzy Punch", "Payback", "Reversal", "Crabhammer", "Iron Defense", "Dynamic Punch", "Close Combat"};
-		TMs = new String[]{"Work Up", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Façade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Scald", "Fling", "Brutal Swing", "Payback", "Stone Edge", "Bulldoze", "Frost Breath", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		TMs = new String[]{"Work Up", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Scald", "Fling", "Brutal Swing", "Payback", "Stone Edge", "Bulldoze", "Frost Breath", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Wide Guard", "Superpower", "Endeavor", "Amnesia"};
 		tutorMoves = new String[]{"Dual Chop", "Iron Head", "Thunder Punch", "Ice Punch", "Iron Defense", "Superpower", "Zen Headbutt", "Headbutt", "Snore", "Drain Punch", "Focus Punch", "Endeavor"};
 		naturalMoves = new String[]{};

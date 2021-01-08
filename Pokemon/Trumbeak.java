@@ -9,6 +9,8 @@ public class Trumbeak extends Pokemon{
 		bSpd = 8;
 		type1 = "Normal";
 		type2 = "Flying";
+		abilities = new String[]{"Early Bird", "Skill Link", "Pick up", "Keen Eye", "Rocket"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 32.6;
 		WC = 2;
@@ -36,7 +38,7 @@ public class Trumbeak extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 1, 3, 7, 9, 13, 16, 21, 24, 29, 32, 37, 40, 45};
 		moves = new String[]{"Rock Blast", "Peck", "Growl", "Echoed Voice", "Rock Smash", "Supersonic", "Pluck", "Roost", "Fury Attack", "Screech", "Drill Peck", "Bullet Seed", "Feather Dance", "Hyper Voice"};
-		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Roost", "Frustration", "Smack Down", "Return", "Brick Break", "Double Team", "Aerial Ace", "Flame Charge", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Overheat", "Steel Wing", "Swords Dance", "Fly", "Swagger", "Sleep Talk", "U_turn", "Substitute", "Flash Cannon", "Confide"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Roost", "Frustration", "Smack Down", "Return", "Brick Break", "Double Team", "Aerial Ace", "Flame Charge", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Overheat", "Steel Wing", "Swords Dance", "Fly", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Flash Cannon", "Confide"};
 		tutorMoves = new String[]{"Gunk Shot", "Uproar", "Hyper Voice", "Snore", "Knock Off", "Heat Wave", "Tailwind", "Sky Attack", "Defog"};
 		naturalMoves = new String[]{};
 	}

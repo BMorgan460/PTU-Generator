@@ -9,8 +9,8 @@ public class Castform extends Pokemon{
 		bSpd = 7;
 		type1 = "Normal";
 		type2 = "";
-		abilities = new String[]{"Forecast", "Levitate", "Cloud Nine", "Overcoat", " "};
-		abilityTypeCount = new int[] {1,3,1};
+		abilities = new String[]{"Forecast", "Levitate", "Cloud Nine", "Drought", "Drizzle", "Snow Warning", "Sand Stream"};
+		abilityTypeCount = new int[] {1,5,2};
 		height = "1\'/0\"";
 		size = "Small";
 		weight = 1.8;

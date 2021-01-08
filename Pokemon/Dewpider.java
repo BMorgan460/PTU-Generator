@@ -9,6 +9,8 @@ public class Dewpider extends Pokemon{
 		bSpd = 3;
 		type1 = "Water";
 		type2 = "Bug";
+		abilities = new String[]{"Water Bubble", "Water Absorb", "Refreshing Veil", "Suction Cups", "Technician"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 8.8;
 		WC = 1;
@@ -36,7 +38,7 @@ public class Dewpider extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 5, 8, 13, 16, 21, 24, 29, 32, 37, 40, 45, 48};
 		moves = new String[]{"Water Sport", "Bubble", "Infestation", "Spider Web", "Bug Bite", "Bubble Beam", "Bite", "Aqua Ring", "Leech Life", "Crunch", "Lunge", "Mirror Coat", "Liquidation", "Entrainment"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Leech Life", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Frost Breath", "X_Scissor", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Leech Life", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Frost Breath", "XScissor", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall"};
 		eggMoves = new String[]{"Power Split", "Aurora Beam", "Stockpile", "Spit Up", "Sticky Web"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Signal Beam", "Magic Coat", "Iron Defense", "Icy Wind", "Snore", "Giga Drain", "Water Pulse", "Magic Room", "Wonder Room", "Liquidation"};
 		naturalMoves = new String[]{};

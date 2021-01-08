@@ -9,6 +9,8 @@ public class Alolan_vulpix extends Pokemon{
 		bSpd = 7;
 		type1 = "Ice";
 		type2 = "";
+		abilities = new String[]{"Snow Cloak", "Fairy Orbs", "Competitive", "Cute Charm", "Snow Warning"};
+        abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 21.8;
 		WC = 1;

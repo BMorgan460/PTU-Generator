@@ -9,6 +9,8 @@ public class Steenee extends Pokemon{
 		bSpd = 6;
 		type1 = "Grass";
 		type2 = "";
+		abilities = new String[]{"Leaf Guard", "Oblivious", "Sweet Veil", "Aroma Veil", "Cute Charm"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 18.1;
 		WC = 1;

@@ -9,6 +9,8 @@ public class Shiinotic extends Pokemon{
 		bSpd = 3;
 		type1 = "Grass";
 		type2 = "Fairy";
+		abilities = new String[]{"Illuminate", "Effect Spore", "Rain Dish", "Daze", "Root Down"};
+		abilityTypeCount = new int[] {2,2,1};
 		weight = 25.4;
 		WC = 2;
 		overland = 4;

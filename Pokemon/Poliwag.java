@@ -44,7 +44,7 @@ public class Poliwag extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 5, 8, 11, 15, 18, 21, 25, 28, 31, 35, 38, 41};
-		moves = new String[]{"Water Sport", "Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Mud Shot", "Belly Drum", "WakeUp", "Hydro Pump", "Mud Bomb"};
+		moves = new String[]{"Water Sport", "Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Mud Shot", "Belly Drum", "Wake Up Slap", "Hydro Pump", "Mud Bomb"};
 		TMs = new String[]{"Surf", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Psychic", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Bubble Beam", "Encore", "Endeavor", "Endure", "Haze", "Ice Ball", "Mind Reader", "Mist", "Mud Shot", "Refresh", "Splash", "Water Pulse", "Water Sport"};
 		tutorMoves = new String[]{"Dive", "Defense Curl", "Endeavor", "Helping Hand", "Icy Wind", "Sleep Talk", "Snore", "Water Pulse"};

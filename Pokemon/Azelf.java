@@ -9,8 +9,8 @@ public class Azelf extends Pokemon{
 		bSpd = 12;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Inner Focus", "Own Tempo", "Telepathy"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Levitate", "Inner Focus", "Own Tempo", "Sorcery", "Download"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "1\'/0\"";
 		size = "Small";
 		weight = 0.7;

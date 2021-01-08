@@ -9,6 +9,8 @@ public class Alolan_marowak extends Pokemon{
 		bSpd = 5;
 		type1 = "Fire";
 		type2 = "Ghost";
+		abilities = new String[]{"Bone Wielder", "Cursed Body", "Lightning Rod", "Rock Head", "Bone Lord"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 75.0;
 		WC = 3;
 		overland = 6;

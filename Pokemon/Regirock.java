@@ -9,8 +9,8 @@ public class Regirock extends Pokemon{
 		bSpd = 5;
 		type1 = "Rock";
 		type2 = "";
-		abilities = new String[]{"Clear Body", "Sturdy", "Battle Armor", "Adaptability"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Clear Body", "Sturdy", "Battle Armor", "Mountain Peak", "Unaware"};
+		abilityTypeCount = new int[] {1,3,1};
 		height = "5\'/7\"";
 		size = "Huge";
 		weight = 507.1;

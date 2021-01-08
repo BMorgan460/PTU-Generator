@@ -9,6 +9,8 @@ public class Komala extends Pokemon{
 		bSpd = 7;
 		type1 = "Normal";
 		type2 = "";
+		abilities = new String[]{"Comatose", "Forewarn", "Scrappy", "Klutz", "Deep Sleep"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Small";
 		weight = 43.9;
 		WC = 2;

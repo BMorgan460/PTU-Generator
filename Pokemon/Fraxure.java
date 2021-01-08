@@ -43,7 +43,7 @@ public class Fraxure extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 20, 24, 28, 32, 36, 42, 48, 54, 60, 66};
-		moves = new String[]{"Leer", "Assurance", "Dragon Rage", "Double", "Scary Face", "Slash", "False Swipe", "Dragon Claw", "Dragon Dance", "Taunt", "Dragon Pulse", "Swords Dance", "Guillotine", "Outrage", "Giga Impact"};
+		moves = new String[]{"Leer", "Assurance", "Dragon Rage", "Double Hit", "Scary Face", "Slash", "False Swipe", "Dragon Claw", "Dragon Dance", "Taunt", "Dragon Pulse", "Swords Dance", "Guillotine", "Outrage", "Giga Impact"};
 		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Fling", "Incinerate", "Shadow Claw", "Payback", "Giga Impact", "Swords Dance", "Dragon Tail", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		tutorMoves = new String[]{"Aqua Tail", "Draco Meteor", "Dragon Pulse", "Dual Chop", "Endeavor", "Iron Tail", "Low Kick", "Outrage", "Sleep Talk", "Snore", "Superpower"};
 		naturalMoves = new String[]{};

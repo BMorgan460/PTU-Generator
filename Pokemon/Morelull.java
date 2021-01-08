@@ -9,6 +9,8 @@ public class Morelull extends Pokemon{
 		bSpd = 2;
 		type1 = "Grass";
 		type2 = "Fairy";
+		abilities = new String[]{"Illuminate", "Effect Spore", "Rain Dish", "Daze", "Root Down"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 3.3;
 		WC = 1;

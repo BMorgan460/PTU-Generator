@@ -44,7 +44,7 @@ public class Aurorus extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 10, 13, 15, 18, 20, 26, 30, 34, 38, 43, 46, 50, 56, 63, 74, 77};
-		moves = new String[]{"Growl", "Powder Snow", "Thunder Wave", "Rock Throw", "Icy Wind", "Take Down", "Mist", "Aurora Beam", "Ancient Power", "Round", "Avalanche", "Hail", "Nature Power", "Encore", "Light Screen", "Ice Beam", "Hyper Beam", "Blizzard", "FreezeDry"};
+		moves = new String[]{"Growl", "Powder Snow", "Thunder Wave", "Rock Throw", "Icy Wind", "Take Down", "Mist", "Aurora Beam", "Ancient Power", "Round", "Avalanche", "Hail", "Nature Power", "Encore", "Light Screen", "Ice Beam", "Hyper Beam", "Blizzard", "Freeze Dry"};
 		TMs = new String[]{"Calm Mind", "Roar", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Charge", "Charge Beam", "Giga Impact", "Rock Polish", "Flash", "Stone Edge", "Thunder", "Thunder Wave", "Psych Up", "Bulldoze", "Frost Breath", "Rock Slide", "Dragon Tail", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Rock Smash", "Nature Power", "Dark Pulse", "Confide"};
 		tutorMoves = new String[]{"Aqua Tail", "Earth Power", "Hyper Voice", "Icy Wind", "Iron Defense", "Iron Head", "Iron Tail", "Magnet Rise", "Outrage", "Snore", "Stealth Rock", "Water Pulse", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};

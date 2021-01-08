@@ -9,6 +9,8 @@ public class Pallosand extends Pokemon{
 		bSpd = 4;
 		type1 = "Ghost";
 		type2 = "Ground";
+		abilities = new String[]{"Water Compaction", "Sand Veil", "Arena Trap", "Dry Skin", "Soulstealer"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Large";
 		weight = 551.2;
 		WC = 5;

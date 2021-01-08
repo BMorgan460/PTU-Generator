@@ -9,7 +9,7 @@ public class Marshtomp extends Pokemon{
 		bSpd = 5;
 		type1 = "Water";
 		type2 = "Ground";
-		abilities = new String[]{"Mud Dweller", "Torrent", "Damp", "Own Tempo", "High"};
+		abilities = new String[]{"Mud Dweller", "Torrent", "Damp", "Own Tempo", "Regenerator"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Mudkip();
 		prevReq = 15;

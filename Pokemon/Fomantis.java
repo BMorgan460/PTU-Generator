@@ -9,6 +9,8 @@ public class Fomantis extends Pokemon{
 		bSpd = 4;
 		type1 = "Grass";
 		type2 = "";
+		abilities = new String[]{"Leaf Guard", "Chlorophyll", "Contrary", "Flower Veil", "Solar Power"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 3.3;
 		WC = 1;
@@ -36,7 +38,7 @@ public class Fomantis extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 5, 10, 14, 19, 23, 28, 32, 37, 41, 46};
 		moves = new String[]{"Fury Cutter", "Leafage", "Razor Leaf", "Growth", "Ingrain", "Leaf Blade", "Synthesis", "Slash", "Sweet Scent", "Solar Beam", "Sunny Day"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Leech Life", "Double Team", "Façade", "Rest", "Attract", "Round", "Energy Ball", "False Swipe", "Fling", "Payback", "Swords Dance", "X_Scissor", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Leech Life", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "False Swipe", "Fling", "Payback", "Swords Dance", "XScissor", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
 		eggMoves = new String[]{"Weather Ball", "Giga Drain", "Aromatherapy", "Defog", "Leaf Storm"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Dual Chop", "Signal Beam", "Seed Bomb", "Snore", "Synthesis", "Giga Drain", "Worry Seed", "Defog"};
 		naturalMoves = new String[]{};

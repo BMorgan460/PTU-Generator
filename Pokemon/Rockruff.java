@@ -9,6 +9,8 @@ public class Rockruff extends Pokemon{
 		bSpd = 6;
 		type1 = "Rock";
 		type2 = "";
+		abilities = new String[]{"Keen Eye", "Vital Spirit", "Steadfast", "Strong Jaw", "Pack Hunt"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 20.3;
 		WC = 1;
@@ -36,7 +38,7 @@ public class Rockruff extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 7, 12, 15, 18, 23, 26, 29, 34, 37, 40, 45, 48};
 		moves = new String[]{"Tackle", "Leer", "Sand Attack", "Bite", "Howl", "Rock Throw", "Odor Sleuth", "Rock Tomb", "Roar", "Stealth Rock", "Rock Slide", "Scary Face", "Crunch", "Rock Climb", "Stone Edge"};
-		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Taunt", "Protect", "Frustration", "Return", "Double Team", "Rock Tomb", "Façade", "Rest", "Attract", "Round", "Echoed Voice", "Rock Polish", "Stone Edge", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Snarl", "Confide"};
+		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Taunt", "Protect", "Frustration", "Return", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Rock Polish", "Stone Edge", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Snarl", "Confide"};
 		eggMoves = new String[]{"Crush Claw", "Fire Fang", "Thunder Fang", "Sucker Punch", "Thrash"};
 		tutorMoves = new String[]{"Covet", "Iron Head", "Earth Power", "Iron Defense", "Last Resort", "Zen Headbutt", "Headbutt", "Hyper Voice", "Iron Tail", "Snore", "Endeavor", "Stealth Rock", "Stomping Tantrum"};
 		naturalMoves = new String[]{};

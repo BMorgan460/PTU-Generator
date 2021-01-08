@@ -9,7 +9,7 @@ public class Wormadam extends Pokemon{
 		bSpd = 3;
 		type1 = "Bug";
 		type2 = "Ground";
-		abilities = new String[]{"Anticipation", "Overcoat", "Adaptation", "Tolerance", "Sand Veil"};
+		abilities = new String[]{"Anticipation", "Overcoat", "Adaptability", "Tolerance", "Sand Veil"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Burmy();
 		prevReq = 20;

@@ -9,8 +9,8 @@ public class Latios extends Pokemon{
 		bSpd = 11;
 		type1 = "Dragon";
 		type2 = "Psychic";
-		abilities = new String[]{"Levitate", "Rocket", "Keen Eye", "Speed Boost"};
-		abilityTypeCount = new int[] {1,2,1};
+		abilities = new String[]{"Levitate", "Rocket", "Keen Eye", "Telepathy", "Speed Boost"};
+        abilityTypeCount = new int[] {1,3,1};
 		height = "6\'/7\"";
 		size = "Large";
 		weight = 132.3;

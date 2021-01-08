@@ -9,7 +9,7 @@ public class Pansage extends Pokemon{
 		bSpd = 6;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Decoy", "Gluttony", "Grass Pelt", "Sap Sipper", "Overgrowth"};
+		abilities = new String[]{"Decoy", "Gluttony", "Grass Pelt", "Sap Sipper", "Overgrow"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Simisage"};
 		nextReq = new String[]{"20"};

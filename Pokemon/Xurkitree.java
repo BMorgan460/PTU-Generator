@@ -9,6 +9,8 @@ public class Xurkitree extends Pokemon{
 		bSpd = 8;
 		type1 = "Electric";
 		type2 = "";
+		abilities = new String[]{"Beast Boost", "Motor Drive", "Dodge", "Volt Absorb", "Sequence"};
+		abilityTypeCount = new int[] {1,3,1};
 		size = "Large";
 		weight = 220.5;
 		WC = 5;

@@ -1,0 +1,1 @@
+"Name":"Victory Star","Freq":"Static","Info":"Any allied Pokémon in the encounter gain a +2 Bonus to Accuracy Rolls."

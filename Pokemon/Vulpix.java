@@ -45,7 +45,7 @@ public class Vulpix extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 4, 7, 9, 10, 12, 15, 18, 20, 23, 26, 28, 31, 34, 36, 39, 42, 44, 47, 50};
-		moves = new String[]{"Ember", "Tail Whip", "Roar", "BabyDoll", "Quick Attack", "Confuse Ray", "Fire Spin", "Payback", "WillOWisp", "Feint Attack", "Hex", "Flame Burst", "Extrasensory", "Safeguard", "Flamethrower", "Imprison", "Fire Blast", "Grudge", "Captivate", "Inferno"};
+		moves = new String[]{"Ember", "Tail Whip", "Roar", "Baby Doll Eyes", "Quick Attack", "Confuse Ray", "Fire Spin", "Payback", "WillOWisp", "Feint Attack", "Hex", "Flame Burst", "Extrasensory", "Safeguard", "Flamethrower", "Imprison", "Fire Blast", "Grudge", "Captivate", "Inferno"};
 		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Overheat", "Energy Ball", "Incinerate", "Payback", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
 		eggMoves = new String[]{"Captivate", "Disable", "Energy Ball", "Extrasensory", "Feint Attack", "Flail", "Flare Blitz", "Heat Wave", "Hex", "Howl", "Hypnosis", "Power Swap", "Psych Up", "Secret Power", "Spite", "Tail Slap"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Dark Pulse", "Foul Play", "Heat Wave", "Iron Tail", "Magic Coat", "Ominous Wind", "Pain Split", "Role Play", "Sleep Talk", "Snore", "Spite", "Swift", "Zen Headbutt", "Headbutt"};

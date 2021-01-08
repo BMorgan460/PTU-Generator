@@ -45,7 +45,7 @@ public class Minccino extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 7, 9, 13, 15, 19, 21, 25, 27, 31, 33, 37, 39, 43, 45, 49};
-		moves = new String[]{"Pound", "BabyDoll", "Helping Hand", "Tickle", "Double Slap", "Encore", "Swift", "Sing", "Tail Slap", "Charm", "WakeUp", "Echoed Voice", "Slam", "Captivate", "Hyper Voice", "Last Resort", "After You"};
+		moves = new String[]{"Pound", "Baby Doll Eyes", "Helping Hand", "Tickle", "Double Slap", "Encore", "Swift", "Sing", "Tail Slap", "Charm", "WakeUp", "Echoed Voice", "Slam", "Captivate", "Hyper Voice", "Last Resort", "After You"};
 		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Dig", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Fling", "Retaliate", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam"};
 		eggMoves = new String[]{"Aqua Tail", "Endure", "Fake Tears", "Flail", "Iron Tail", "Knock Off", "Sleep Talk", "Tail Whip"};
 		tutorMoves = new String[]{"After You", "Aqua Tail", "Covet", "Gunk Shot", "Helping Hand", "Hyper Voice", "Iron Tail", "Knock Off", "Last Resort", "Seed Bomb", "Sleep Talk", "Snore", "Uproar", "Work Up"};

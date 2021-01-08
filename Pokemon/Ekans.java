@@ -9,7 +9,7 @@ public class Ekans extends Pokemon{
 		bSpd = 6;
 		type1 = "Poison";
 		type2 = "";
-		abilities = new String[]{"Shed Skin", "Intimidate", "Unnnerve", "Keen Eye"};
+		abilities = new String[]{"Shed Skin", "Intimidate", "Unnerve", "Keen Eye"};
 		abilityTypeCount = new int[] {2,1,1};
 		next = new String[]{"Arbok"};
 		nextReq = new String[]{"20"};

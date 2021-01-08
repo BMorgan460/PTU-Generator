@@ -42,7 +42,7 @@ public class Alomomola extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57, 61};
-		moves = new String[]{"Pound", "Water Sport", "Aqua Ring", "Aqua Jet", "Double Slap", "Heal Pulse", "Protect", "Water Pulse", "WakeUp", "Soak", "Wish", "Brine", "Safeguard", "Helping Hand", "Wide Guard", "Healing Wish", "Hydro Pump"};
+		moves = new String[]{"Pound", "Water Sport", "Aqua Ring", "Aqua Jet", "Double Slap", "Heal Pulse", "Protect", "Water Pulse", "Wake Up Slap", "Soak", "Wish", "Brine", "Safeguard", "Helping Hand", "Wide Guard", "Healing Wish", "Hydro Pump"};
 		TMs = new String[]{"Surf", "Waterfall", "Dive", "Calm Mind", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Psych Up", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Endure", "Mirror Coat", "Mist", "Pain Split", "Refresh", "Tickle"};
 		tutorMoves = new String[]{"Bounce", "Healing Wish", "Helping Hand", "Hydro Pump", "Icy Wind", "Knock Off", "Magic Coat", "Pain Split", "Sleep Talk", "Snore", "Wide Guard"};

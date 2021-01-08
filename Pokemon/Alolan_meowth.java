@@ -9,6 +9,8 @@ public class Alolan_meowth extends Pokemon{
 		bSpd = 9;
 		type1 = "Dark";
 		type2 = "";
+		abilities = new String[]{"Pickup", "Technician", "Limber", "Rattled", "Defiant"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 9.3;
 		WC = 1;

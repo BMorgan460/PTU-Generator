@@ -9,6 +9,8 @@ public class Zeraora extends Pokemon{
 		bSpd = 14;
 		type1 = "Electric";
 		type2 = "";
+		abilities = new String[]{"Volt Absorb", "Ambush", "Electrodash", "Quick Feet", "Conqueror"};
+		abilityTypeCount = new int[] {1,3,1};
 		weight = 98.1;
 		WC = 3;
 		overland = 8;

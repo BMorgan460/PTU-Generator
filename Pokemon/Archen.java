@@ -45,7 +45,7 @@ public class Archen extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 1, 5, 8, 11, 15, 18, 21, 25, 28, 31, 35, 38, 41, 45, 48, 51};
-		moves = new String[]{"Leer", "Quick Attack", "Wing Attack", "Rock Throw", "Double Team", "Scary Face", "Pluck", "Ancient Power", "Agility", "Quick Guard", "Acrobatics", "Dragon Breath", "Crunch", "Endeavor", "Uturn", "Rock Slide", "Dragon Claw", "Thrash"};
+		moves = new String[]{"Leer", "Quick Attack", "Wing Attack", "Rock Throw", "Double Team", "Scary Face", "Pluck", "Ancient Power", "Agility", "Quick Guard", "Acrobatics", "Dragon Breath", "Crunch", "Endeavor", "UTurn", "Rock Slide", "Dragon Claw", "Thrash"};
 		TMs = new String[]{"Cut", "Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Taunt", "Protect", "Roost", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Round", "Steel Wing", "Acrobatics", "Shadow Claw", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Ally Switch", "Bite", "Defog", "Dragon Pulse", "Earth Power", "Head Smash", "Knock Off", "Steel Wing", "Switcheroo"};
 		tutorMoves = new String[]{"Aqua Tail", "Bounce", "Dragon Pulse", "Earth Power", "Endeavor", "Heat Wave", "Iron Defense", "Iron Tail", "Pluck", "Roost", "Sleep Talk", "Snore", "Stealth Rock", "Tailwind", "Uproar"};

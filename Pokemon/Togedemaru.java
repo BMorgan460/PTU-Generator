@@ -9,6 +9,8 @@ public class Togedemaru extends Pokemon{
 		bSpd = 10;
 		type1 = "Electric";
 		type2 = "Steel";
+		abilities = new String[]{"Iron Barbs", "Run Up", "Motor Drive", "Lightning Rod", "Sturdy"};
+		abilityTypeCount = new int[] {2,2,1};
 		size = "Small";
 		weight = 7.3;
 		WC = 1;

@@ -9,7 +9,7 @@ public class Squirtle extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Rain Dish", "Torrent", "Shell Armor", "Shell Shield", "Overtcoat"};
+		abilities = new String[]{"Rain Dish", "Torrent", "Shell Armor", "Shell Shield", "Overcoat"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Wartortle", "Blastoise"};
 		nextReq = new String[]{"30"};
