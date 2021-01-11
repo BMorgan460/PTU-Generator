@@ -3,7 +3,7 @@ import os
 file = os.path.join(os.getcwd(), "mass_pokemon.txt")
 f = open(file, "r", encoding="utf8")
 count = 0
-page = 1
+page = 16
 name = ""
 text = ""
 for line in f:

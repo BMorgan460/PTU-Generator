@@ -1,7 +1,3 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
-
 /**
  *  Write a one-sentence summary of your class here.
  *  Follow it with additional details about its purpose, what abstraction

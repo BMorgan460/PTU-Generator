@@ -9,7 +9,7 @@ public class Meowstic extends Pokemon{
 		bSpd = 10;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Keen Eye", "Infiltrator", "Competitive", "Own Tempo", "Telepath"};
+		abilities = new String[]{"Keen Eye", "Infiltrator", "Sorcery", "Own Tempo", "Competitive"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Espurr();
 		prevReq = 25;
@@ -50,7 +50,21 @@ public class Meowstic extends Pokemon{
 		naturalMoves = new String[]{"Magical Leaf", "Me First", "Stored Power"};
 	}
 		Meowstic(){
-
-		super();
+		    super();
 		}
+		
+		@SuppressWarnings("unused")
+        private String gender() {
+	        double dice = (Math.random() * 101) + 1;
+	        if (dice >= maleRatio) {
+	            movesLevels = new int[]{1, 1, 5, 9, 13, 17, 19, 25, 28, 31, 35, 40, 43, 45, 48, 50, 55};
+	            moves = new String[]{"Scratch", "Leer", "Covet", "Confusion", "Light Screen", "Psybeam", "Fake Out", "Psyshock", "Charm", "Miracle Eye", "Reflect", "Psychic", "Role Play", "Imprison", "Sucker Punch", "Misty Terrain", "Quick Guard"};
+	            TMs = new String[]{"Cut", "Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Return", "Psychic", "Double Team", "Reflect", "Torment", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Charge", "Charge Beam", "Payback", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dark Pulse", "Confide"};
+	            tutorMoves = new String[]{"Covet", "Gravity", "Heal Bell", "Helping Hand", "Iron Tail", "Magic Coat", "Magic Room", "Recycle", "Role Play", "Shock Wave", "Signal Beam", "Snatch", "Snore", "Trick", "Wonder Room", "Zen Headbutt", "Headbutt", "Helping Hand", "Mean Look", "Quick Guard"};
+	            naturalMoves = new String[]{"Helping Hand", "Mean Look", "Quick Guard"};
+	            abilities = new String[]{"Keen Eye", "Infiltrator", "Prankster", "Own Tempo", "Magic Guard"};
+	            return "Male";
+	        }
+	        return "Female";
+	    }
 }

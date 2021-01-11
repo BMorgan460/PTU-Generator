@@ -49,7 +49,35 @@ public class Gourgeist extends Pokemon{
 		naturalMoves = new String[]{"Explosion", "Phantom Force"};
 	}
 		Gourgeist(){
-
-		super();
+		    super();
+		    int size = (int)(Math.random()*4);
+		    switch(size) {
+    		    case 0://Small
+    		        bHP--;
+    		        bSpd+=2;
+    		        name += "-Small";
+    		        WC--;
+    		        this.size = "Small";
+    		        break;
+    		    case 1://Average
+    		        name += "-Average";
+    		        this.size = "Small";
+    		        break;
+    		    case 2://Large
+                    bHP++;
+                    bAtk++;
+                    bSpd--;
+                    name += "-Large";
+                    this.size = "Medium";
+                    break;
+                case 3://Super
+                    bHP+=2;
+                    bAtk++;
+                    bSpd-=3;
+                    name += "-Super";
+                    WC++;
+                    this.size = "Large";
+                    break;
+    		}
 		}
 }

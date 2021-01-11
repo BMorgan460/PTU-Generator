@@ -51,7 +51,26 @@ public class Pumpkaboo extends Pokemon{
 		naturalMoves = new String[]{};
 	}
 		Pumpkaboo(){
-
-		super();
+		    super();
+		    int size = (int)(Math.random()*4);
+            switch(size) {
+                case 0://Small
+                    bHP--;
+                    bSpd++;
+                    name += "-Small";
+                    break;
+                case 1://Average
+                    name += "-Average";
+                    break;
+                case 2://Large
+                    name += "-Large";
+                    break;
+                case 3://Super
+                    bHP++;
+                    bSpd--;
+                    name += "-Super";
+                    WC++;
+                    break;
+            }
 		}
 }

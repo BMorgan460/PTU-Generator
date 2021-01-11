@@ -616,7 +616,36 @@ public class Pokemon {
         return moveList;
     }
 
+    private int getBHP() {
+        return bHP;
+    }
 
+
+    private int getBAtk() {
+        return bAtk;
+    }
+
+
+    private int getBDef() {
+        return bDef;
+    }
+
+
+    private int getBSpAtk() {
+        return bSpAtk;
+    }
+
+
+    private int getBSpDef() {
+        return bSpDef;
+    }
+
+
+    private int getBSpd() {
+        return bSpd;
+    }
+    
+    
     /**
      * Sets the nature of the Pokemon, and changes the Base Stats accordingly
      * 
@@ -635,60 +664,78 @@ public class Pokemon {
         else {
             switch (up) {
                 case 1:
-                    nHP = bHP + 1;
+                    nHP = getBHP() + 1;
                     break;
                 case 2:
-                    nAtk = bAtk + 2;
+                    nAtk = getBAtk() + 2;
                     break;
                 case 3:
-                    nDef = bDef + 2;
+                    nDef = getBDef() + 2;
                     break;
                 case 4:
-                    nSpAtk = bSpAtk + 2;
+                    nSpAtk = getBSpAtk() + 2;
                     break;
                 case 5:
-                    nSpDef = bSpDef + 2;
+                    nSpDef = getBSpDef() + 2;
                     break;
                 case 6:
-                    nSpd = bSpd + 2;
+                    nSpd = getBSpd() + 2;
                     break;
                 default:
                     System.out.println("Error " + up);
             }
             switch (down) {
                 case 1:
-                    nHP = bHP - 1;
+                    nHP = getBHP() - 1;
                     if (nHP == 0)
                         nHP = 1;
                     break;
                 case 2:
-                    nAtk = bAtk - 2;
+                    nAtk = getBAtk() - 2;
                     if (nAtk <= 0)
                         nAtk = 1;
                     break;
                 case 3:
-                    nDef = bDef - 2;
+                    nDef = getBDef() - 2;
                     if (nDef <= 0)
                         nDef = 1;
                     break;
                 case 4:
-                    nSpAtk = bSpAtk - 2;
+                    nSpAtk = getBSpAtk() - 2;
                     if (nSpAtk <= 0)
                         nSpAtk = 1;
                     break;
                 case 5:
-                    nSpDef = bSpDef - 2;
+                    nSpDef = getBSpDef() - 2;
                     if (nSpDef <= 0)
                         nSpDef = 1;
                     break;
                 case 6:
-                    nSpd = bSpd - 2;
+                    nSpd = getBSpd() - 2;
                     if (nSpd <= 0)
                         nSpd = 1;
                     break;
                 default:
                     System.out.println("Error " + down);
             }
+        }
+        if (nHP == 0) {
+            nHP = bHP;
+        }
+        if (nAtk == 0) {
+            nAtk = bAtk;
+        }
+        if (nDef == 0) {
+            nDef = bDef;
+        }
+        if (nSpAtk == 0) {
+            nSpAtk = bSpAtk;
+        }
+        if (nSpDef == 0) {
+            nSpDef = bSpDef;
+        }
+        if (nSpd == 0) {
+            nSpd = bSpd;
         }
     }
 
@@ -1207,7 +1254,7 @@ public class Pokemon {
         if (maleRatio == -1) {
             return "Genderless";
         }
-        int dice = (int)(Math.random() * 101) + 1;
+        double dice = (Math.random() * 101) + 1;
         if (dice >= maleRatio) {
             return "Male";
         }
@@ -1328,8 +1375,8 @@ public class Pokemon {
                     && contains(fist, genned.getName())) {
                     genned.increaseDB(2);
                 }
-                String json = genned.toString();
-                if (!json.contains("strike")) {
+               String json = genned.toString();
+               if (!json.contains("strike")) {
                     result +=
                         String.format("\"Move%d\":{%s},", normalMoves, json);
                     normalMoves++;
