@@ -37,7 +37,7 @@ public class Charjabug extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 4, 7, 10, 13, 16, 19, 25, 31, 37, 43, 49};
-		moves = new String[]{"Helping Hand", "Charge", "Vice Grip", "String Shot", "MudSlap", "Bite", "Bug Bite", "Spark", "Acrobatics", "Crunch", "XScissor", "Dig", "Discharge", "Iron Defense"};
+		moves = new String[]{"Helping Hand", "Charge", "Vice Grip", "String Shot", "Mud_Slap", "Bite", "Bug Bite", "Spark", "Acrobatics", "Crunch", "XScissor", "Dig", "Discharge", "Iron Defense"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Charge Beam", "Acrobatics", "Volt Switch", "Thunder Wave", "XScissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Magnet Rise", "Iron Defense", "Electroweb", "Snore", "Shock Wave"};
 		naturalMoves = new String[]{};

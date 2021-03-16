@@ -1,4 +1,5 @@
-IvysaurBase Stats:
+Ivysaur
+Base Stats:
 HP: 6
 Attack: 6
 Defense: 6

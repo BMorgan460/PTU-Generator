@@ -1,4 +1,5 @@
-VenusaurBase Stats:
+Venusaur
+Base Stats:
 HP: 8
 Attack: 8
 Defense: 8

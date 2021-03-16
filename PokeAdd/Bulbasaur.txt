@@ -1,4 +1,5 @@
-BulbasaurBase Stats:
+Bulbasaur
+Base Stats:
 HP: 5
 Attack: 5
 Defense: 5

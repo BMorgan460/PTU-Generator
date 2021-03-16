@@ -9,9 +9,9 @@ public class Driver {
 		String name = args[0];
 		
 		//GET RID OF THIS LATER
-		//Scanner scan = new Scanner(System.in);
-		//name = scan.nextLine();
-		//scan.close();
+		Scanner scan = new Scanner(System.in);
+		name = scan.nextLine();
+		scan.close();
 		//GET RID OF THIS LATER
 		
 		int minLevel = Integer.valueOf(args[1]);
