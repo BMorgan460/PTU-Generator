@@ -324,7 +324,7 @@ public class Pokemon {
         String[] swim3 = { "Dive" };
         String[] fountain = { "Water_Gun", "Water_Sport" };
         if (contains(thread, moveList)) {
-            nOthers += "Threaded";
+            nOthers += "Threaded ";
         }
         if (contains(glow, moveList)) {
             nOthers += "Glow ";

@@ -11,8 +11,8 @@ public class Raichu extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Static", "Motor Drive", "Lightning Rod", "Sprint", "Sequence"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Pikachu();
-		prevReq = 50;
+		//previous = new Pikachu();
+		//prevReq = 50;
 		height = "2\'/7\"";
 		size = "Small";
 		weight = 66.1;

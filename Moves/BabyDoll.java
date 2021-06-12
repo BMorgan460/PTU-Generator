@@ -1,4 +1,4 @@
-public class Baby_Doll_Eyes extends Move{
+public class BabyDoll extends Move{
 		{
 		name = "Baby-Doll Eyes";
 		type = "Fairy";
