@@ -1,607 +1,421 @@
-/Abomasnow.class
-/Abra.class
-/Absol.class
-/Accelgor.class
-/Aegislash.class
-/Aerodactyl.class
-/Aipom.class
-/Alakazam.class
-/Alolan_diglett.class
-/Alolan_dugtrio.class
-/Alolan_exeggutor.class
-/Alolan_geodude.class
-/Alolan_golem.class
-/Alolan_graveler.class
-/Alolan_grimer.class
-/Alolan_marowak.class
-/Alolan_meowth.class
-/Alolan_muk.class
-/Alolan_ninetales.class
-/Alolan_persian.class
-/Alolan_raichu.class
-/Alolan_raticate.class
-/Alolan_rattata.class
-/Alolan_sandshrew.class
-/Alolan_sandslash.class
-/Alolan_vulpix.class
-/Alomomola.class
-/Altaria.class
-/Amaura.class
-/Ambipom.class
-/Amoonguss.class
-/Ampharos.class
-/Anorith.class
-/Araquanid.class
-/Arbok.class
-/Arcanine.class
-/Archen.class
-/Archeops.class
-/Ariados.class
-/Armaldo.class
-/Aromatisse.class
-/Aron.class
-/Articuno.class
-/Audino.class
-/Aurorus.class
-/Avalugg.class
-/Axew.class
-/Azelf.class
-/Azumarill.class
-/Azurill.class
-/Bagon.class
-/Baltoy.class
-/Banette.class
-/Barbaracle.class
-/Barboach.class
-/Basculin.class
-/Bastiodon.class
-/Bayleef.class
-/Beartic.class
-/Beautifly.class
-/Beedrill.class
-/Beheeyem.class
-/Beldum.class
-/Bellossom.class
-/Bellsprout.class
-/Bergmite.class
-/Bewear.class
-/Bibarel.class
-/Bidoof.class
-/Binacle.class
-/Bisharp.class
-/Blacephalon.class
-/Blastoise.class
-/Blaziken.class
-/Blissey.class
-/Blitzle.class
-/Boldore.class
-/Bonsly.class
-/Bouffalant.class
-/Bounsweet.class
-/Braixen.class
-/Braviary.class
-/Breloom.class
-/Brionne.class
-/Bronzong.class
-/Bronzor.class
-/Bruxish.class
-/Budew.class
-/Buizel.class
-/Bulbasaur.class
-/Buneary.class
-/Bunnelby.class
-/Burmy.class
-/Butterfree.class
-/Cacnea.class
-/Cacturne.class
-/Camerupt.class
-/Carbink.class
-/Carnivine.class
-/Carracosta.class
-/Carvanha.class
-/Cascoon.class
-/Castform.class
-/Caterpie.class
-/Celebi.class
-/Celesteela.class
-/Chandelure.class
-/Chansey.class
-/Charizard.class
-/Charjabug.class
-/Charmander.class
-/Charmeleon.class
-/Chatot.class
-/Cherrim.class
-/Cherubi.class
-/Chesnaught.class
-/Chespin.class
-/Chikorita.class
-/Chimchar.class
-/Chimecho.class
-/Chinchou.class
-/Chingling.class
-/Cinccino.class
-/Clamperl.class
-/Clauncher.class
-/Clawitzer.class
-/Claydol.class
-/Clefable.class
-/Clefairy.class
-/Cleffa.class
-/Cloyster.class
-/Cobalion.class
-/Cofagrigus.class
-/Combee.class
-/Combusken.class
-/Comfey.class
-/Conkeldurr.class
-/Corphish.class
-/Corsola.class
-/Cosmoem.class
-/Cosmog.class
-/Cottonee.class
-/Crabominable.class
-/Crabrawler.class
-/Cradily.class
-/Cranidos.class
-/Crawdaunt.class
-/Cresselia.class
-/Croagunk.class
-/Crobat.class
-/Croconaw.class
-/Crustle.class
-/Cryogonal.class
-/Cubchoo.class
-/Cubone.class
-/Cutiefly.class
-/Cyndaquil.class
-/Darkrai.class
-/Darmanitan.class
-/Dartrix.class
-/Darumaka.class
-/Decidueye.class
-/Dedenne.class
-/Deerling.class
-/Deino.class
-/Delcatty.class
-/Delibird.class
-/Delphox.class
-/Deoxys.class
-/Dewgong.class
-/Dewott.class
-/Dewpider.class
-/Dhelmise.class
-/Diancie.class
-/Diggersby.class
-/Diglett.class
-/Ditto.class
-/Dodrio.class
-/Doduo.class
-/Donphan.class
-/Doublade.class
-/Dragalge.class
-/Dragonair.class
-/Dragonite.class
-/Drampa.class
-/Drapion.class
-/Dratini.class
-/Drifblim.class
-/Drifloon.class
-/Drilbur.class
-/Driver.class
-/Drowzee.class
-/Druddigon.class
-/Ducklett.class
-/Dugtrio.class
-/Dunsparce.class
-/Duosion.class
-/Durant.class
-/Dusclops.class
-/Dusknoir.class
-/Duskull.class
-/Dustox.class
-/Dwebble.class
-/Eelektrik.class
-/Eelektross.class
-/Eevee.class
-/Ekans.class
-/Electabuzz.class
-/Electivire.class
-/Electrike.class
-/Electrode.class
-/Elekid.class
-/Elgyem.class
-/Emboar.class
-/Emolga.class
-/Empoleon.class
-/Entei.class
-/EnviroDriver.class
-/Escavalier.class
-/Espeon.class
-/Espurr.class
-/Excadrill.class
-/Exeggcute.class
-/Exeggutor.class
-/Exploud.class
-/Farfetch_d.class
-/Fearow.class
-/Feebas.class
-/Fennekin.class
-/Feraligatr.class
-/Ferroseed.class
-/Ferrothorn.class
-/Finneon.class
-/Flaaffy.class
-/Flabebe.class
-/Flareon.class
-/Fletchinder.class
-/Fletchling.class
-/Floatzel.class
-/Floette.class
-/Florges.class
-/Flygon.class
-/Fomantis.class
-/Foongus.class
-/Forretress.class
-/Fraxure.class
-/Frillish.class
-/Froakie.class
-/Frogadier.class
-/Froslass.class
-/Furfrou.class
-/Furret.class
-/Gabite.class
-/Gallade.class
-/Galvantula.class
-/Garbodor.class
-/Garchomp.class
-/Gardevoir.class
-/Gastly.class
-/Gastrodon.class
-/Generator.class
-/Genesect.class
-/Gengar.class
-/Geodude.class
-/Gible.class
-/Gigalith.class
-/Girafarig.class
-/Glaceon.class
-/Glalie.class
-/Glameow.class
-/Gligar.class
-/Gliscor.class
-/Gloom.class
-/Gogoat.class
-/Golbat.class
-/Goldeen.class
-/Golduck.class
-/Golem.class
-/Golett.class
-/Golisopod.class
-/Golurk.class
-/Goodra.class
-/Goomy.class
-/Gorebyss.class
-/Gothita.class
-/Gothitelle.class
-/Gothorita.class
-/Gourgeist.class
-/Granbull.class
-/Graveler.class
-/Greninja.class
-/Grimer.class
-/Grotle.class
-/Groudon.class
-/Grovyle.class
-/Growlithe.class
-/Grubbin.class
-/Grumpig.class
-/Gulpin.class
-/Gumshoos.class
-/Gurdurr.class
-/Guzzlord.class
-/Gyarados.class
-/Hakamo_o.class
-/Happiny.class
-/Hariyama.class
-/Haunter.class
-/Hawlucha.class
-/Haxorus.class
-/Heatmor.class
-/Heatran.class
-/Heliolisk.class
-/Helioptile.class
-/Heracross.class
-/Herdier.class
-/Hippopotas.class
-/Hippowdon.class
-/Hitmonchan.class
-/Hitmonlee.class
-/Hitmontop.class
-/Ho_oh.class
-/Honchkrow.class
-/Honedge.class
-/Hoothoot.class
-/Hoppip.class
-/Horsea.class
-/Houndoom.class
-/Houndour.class
-/Huntail.class
-/Hydreigon.class
-/Hypno.class
-/Igglybuff.class
-/Illumise.class
-/Incineroar.class
-/Infernape.class
-/Inkay.class
-/Ivysaur.class
-/Jangmo_o.class
-/Jellicent.class
-/Jigglypuff.class
-/Jirachi.class
-/Jolteon.class
-/Joltik.class
-/Jumpluff.class
-/Jynx.class
-/Kabuto.class
-/Kabutops.class
-/Kadabra.class
-/Kakuna.class
-/Kangaskhan.class
-/Karrablast.class
-/Kartana.class
-/Kecleon.class
-/Keldeo.class
-/Kingdra.class
-/Kingler.class
-/Kirlia.class
-/Klang.class
-/Klefki.class
-/Klink.class
-/Klinklang.class
-/Koffing.class
-/Komala.class
-/Kommo_o.class
-/Krabby.class
-/Kricketot.class
-/Kricketune.class
-/Krokorok.class
-/Krookodile.class
-/Kyogre.class
-/Lairon.class
-/Lampent.class
-/Landorus.class
-/Lanturn.class
-/Lapras.class
-/Larvesta.class
-/Larvitar.class
-/Latias.class
-/Latios.class
-/Leafeon.class
-/Leavanny.class
-/Ledian.class
-/Ledyba.class
-/Lickilicky.class
-/Lickitung.class
-/Liepard.class
-/Lileep.class
-/Lilligant.class
-/Lillipup.class
-/Linoone.class
-/Litleo.class
-/Litten.class
-/Litwick.class
-/Lombre.class
-/Lotad.class
-/Loudred.class
-/Lucario.class
-/Ludicolo.class
-/Lugia.class
-/Lumineon.class
-/Lunala.class
-/Lunatone.class
-/Lurantis.class
-/Luvdisc.class
-/Luxio.class
-/Luxray.class
-/Lycanroc_dusk.class
-/Lycanroc_midday.class
-/Lycanroc_midnight.class
-/Machamp.class
-/Machoke.class
-/Machop.class
-/Magby.class
-/Magcargo.class
-/Magearna.class
-/Magikarp.class
-/Magmar.class
-/Magmortar.class
-/Magnemite.class
-/Magneton.class
-/Magnezone.class
-/Makuhita.class
-/Malamar.class
-/Mamoswine.class
-/Manaphy.class
-/Mandibuzz.class
-/Manectric.class
-/Mankey.class
-/Mantine.class
-/Mantyke.class
-/Maractus.class
-/Mareanie.class
-/Mareep.class
-/Marill.class
-/Marowak.class
-/Marshadow.class
-/Marshtomp.class
-/Masquerain.class
-/Mawile.class
-/Medicham.class
-/Meditite.class
-/Meganium.class
-/Meloetta.class
-/Meowstic.class
-/Meowstic_m.class
-/Meowth.class
-/Mesprit.class
-/Metagross.class
-/Metang.class
-/Metapod.class
-/Mewtwo.class
-/Mienfoo.class
-/Mienshao.class
-/Mightyena.class
-/Milotic.class
-/Miltank.class
-/Mime_jr.class
-/Mimikyu.class
-/Minccino.class
-/Minior.class
-/Minun.class
+/.idea/
+/Absorb.txt
+/Accelrock.txt
+/Acid Armor.txt
+/Acid Spray.txt
+/Acid.txt
+/Acrobatics.txt
+/Acupressure.txt
+/Aerial Ace.txt
+/Aeroblast.txt
+/After You.txt
+/Agility.txt
+/Air Cutter.txt
+/Air Slash.txt
+/Ally Switch.txt
+/Amnesia.txt
+/Anchor Shot.txt
+/Ancient Power.txt
+/Aqua Jet.txt
+/Aqua Ring.txt
+/Aqua Tail.txt
+/Arm Thrust.txt
+/Aromatherapy.txt
+/Aromatic Mist.txt
+/Assist.txt
+/Assurance.txt
+/Astonish.txt
+/Attack Order.txt
+/Attract.txt
+/Aura Sphere.txt
+/Aurora Beam.txt
+/Aurora Veil.txt
+/Autotomize.txt
+/Avalanche.txt
+/Baby-Doll Eyes.txt
+/Baneful Bunker.txt
+/Barrage.txt
+/Barrier.txt
+/Baton Pass.txt
+/Beak Blast.txt
+/Beat Up.txt
+/Belch.txt
+/Belly Drum.txt
+/Bestow.txt
+/Bide.txt
+/Bind.txt
+/Bite.txt
+/Blast Burn.txt
+/Blaze Kick.txt
+/Blizzard.txt
+/Block.txt
+/Blue Flare.txt
+/Body Slam.txt
+/Bolt Strike.txt
+/Bone Club.txt
+/Bone Rush.txt
+/Bonemerang.txt
+/Boomburst.txt
+/Bounce.txt
+/Brave Bird.txt
+/Brick Break.txt
+/Brine.txt
+/Brutal Swing.txt
+/Bubble Beam.txt
+/Bubble.txt
+/Bug Bite.txt
+/Bug Buzz.txt
+/Bulk Up.txt
+/Bulldoze.txt
+/Bullet Punch.txt
+/Bullet Seed.txt
+/Burn Up.txt
+/Calm Mind.txt
+/Camouflage.txt
+/Captivate.txt
+/Charge Beam.txt
+/Charge.txt
+/Charm.txt
+/Chatter.txt
+/Chip Away.txt
+/Circle Throw.txt
+/Clamp.txt
+/Clanging Scales.txt
+/Clear Smog.txt
+/Close Combat.txt
+/Coil.txt
+/Comet Punch.txt
+/Confide.txt
+/Confuse Ray.txt
+/Confusion.txt
+/Constrict.txt
+/Conversion.txt
+/Conversion2.txt
+/Copycat.txt
+/Core Enforcer.txt
+/Cosmic Power.txt
+/Cotton Guard.txt
+/Cotton Spore.txt
+/Counter.txt
+/Covet.txt
+/Crabhammer.txt
+/Crafty Shield.txt
+/Cross Chop.txt
+/Cross Poison.txt
+/Crunch.txt
+/Crush Claw.txt
+/Crush Grip.txt
+/Curse.txt
+/Cut.txt
+/Dark Pulse.txt
+/Dark Void.txt
+/Darkest Lariat.txt
+/Dazzling Gleam.txt
+/Defend Order.txt
+/Defense Curl.txt
+/Defog.txt
+/Destiny Bond.txt
+/Detect.txt
+/Diamond Storm.txt
+/Dig.txt
+/Disable.txt
+/Disarming Voice.txt
+/Discharge.txt
+/Dive.txt
+/Dizzy Punch.txt
+/Doom Desire.txt
+/Double Hit.txt
+/Double Kick.txt
+/Double Slap.txt
+/Double Team.txt
+/Double-Edge.txt
+/Draco Meteor.txt
+/Dragon Ascent.txt
+/Dragon Breath.txt
+/Dragon Claw.txt
+/Dragon Dance.txt
+/Dragon Hammer.txt
+/Dragon Pulse.txt
+/Dragon Rage.txt
+/Dragon Rush.txt
+/Dragon Tail.txt
+/Drain Punch.txt
+/Draining Kiss.txt
+/Dream Eater.txt
+/Drill Peck.txt
+/Drill Run.txt
+/Dual Chop.txt
+/Dynamic Punch.txt
+/Earth Power.txt
+/Earthquake.txt
+/Echoed Voice.txt
+/Eerie Impulse.txt
+/Egg Bomb.txt
+/Electric Terrain.txt
+/Electrify.txt
+/Electro Ball.txt
+/Electroweb.txt
+/Embargo.txt
+/Ember.txt
+/Encore.txt
+/Endeavor.txt
+/Endure.txt
+/Energy Ball.txt
+/Entrainment.txt
+/Eruption.txt
+/Explosion.txt
+/Extrasensory.txt
+/Extreme Speed.txt
+/Fairy Lock.txt
+/Fairy Wind.txt
+/Fake Out.txt
+/Fake Tears.txt
+/False Swipe.txt
+/FaÃ§ade.txt
+/Feather Dance.txt
+/Feint Attack.txt
+/Feint.txt
+/Fell Stinger.txt
+/Fiery Dance.txt
+/Final Gambit.txt
+/Fire Blast.txt
+/Fire Fang.txt
+/Fire Lash.txt
+/Fire Pledge.txt
+/Fire Punch.txt
+/Fire Spin.txt
+/First Impression.txt
+/Fissure.txt
+/Flail.txt
+/Flame Burst.txt
+/Flame Charge.txt
+/Flame Wheel.txt
+/Flamethrower.txt
+/Flare Blitz.txt
+/Flash Cannon.txt
+/Flash.txt
+/Flatter.txt
+/Fleur Cannon.txt
+/Fling.txt
+/Floral Healing.txt
+/Flower Shield.txt
+/Fly.txt
+/Flying Press.txt
+/Focus Blast.txt
+/Focus Energy.txt
+/Focus Punch.txt
+/Follow Me.txt
+/Force Palm.txt
+/Foresight.txt
+/Forestâ€™s Curse.txt
+/Foul Play.txt
+/Freeze Shock.txt
+/Freeze-Dry.txt
+/Frenzy Plant.txt
+/Frost Breath.txt
+/Frustration.txt
+/Fury Attack.txt
+/Fury Cutter.txt
+/Fury Swipes.txt
+/Fusion Bolt.txt
+/Fusion Flare.txt
+/Future Sight.txt
+/Gastro Acid.txt
+/Gear Grind.txt
+/Gear Up.txt
+/Geomancy.txt
+/Giga Drain.txt
+/Giga Impact.txt
+/Glaciate.txt
+/Glare.txt
+/Grass Knot.txt
+/Grass Pledge.txt
+/Grass Whistle.txt
+/Grassy Terrain.txt
+/Gravity.txt
+/Growl.txt
+/Growth.txt
+/Grudge.txt
+/Guard Split.txt
+/Guard Swap.txt
+/Guillotine.txt
+/Gunk Shot.txt
+/Gust.txt
+/Gyro Ball.txt
+/Hail.txt
+/Hammer Arm.txt
+/Harden.txt
+/Haze.txt
+/Head Charge.txt
+/Head Smash.txt
+/Headbutt.txt
+/Heal Bell.txt
+/Heal Block.txt
+/Heal Order.txt
+/Heal Pulse.txt
+/Healing Wish.txt
+/Heart Stamp.txt
+/Heart Swap.txt
+/Heat Crash.txt
+/Heat Wave.txt
+/Heavy Slam.txt
+/Helping Hand.txt
+/Hex.txt
+/Hidden Power.txt
+/High Horsepower.txt
+/High Jump Kick.txt
+/Hold Hands.txt
+/Hone Claws.txt
+/Horn Attack.txt
+/Horn Drill.txt
+/Horn Leech.txt
+/Howl.txt
+/Hurricane.txt
+/Hydro Cannon.txt
+/Hydro Pump.txt
+/Hyper Beam.txt
+/Hyper Fang.txt
+/Hyper Voice.txt
+/Hypnosis.txt
+/Ice Ball.txt
+/Ice Beam.txt
+/Ice Burn.txt
+/Ice Fang.txt
+/Ice Hammer.txt
+/Ice Punch.txt
+/Ice Shard.txt
+/Icicle Crash.txt
+/Icicle Spear.txt
+/Icy Wind.txt
+/Imprison.txt
+/Incinerate.txt
+/Inferno.txt
+/Infestation.txt
+/Ingrain.txt
+/Instruct.txt
+/Ion Deluge.txt
+/Iron Defense.txt
+/Iron Head.txt
+/Iron Tail.txt
+/Judgment.txt
+/Jump Kick.txt
+/Karate Chop.txt
+/Kinesis.txt
+/Kingâ€™s Shield.txt
+/Knock Off.txt
+/Landâ€™s Wrath.txt
+/Laser Focus.txt
+/Last Resort.txt
+/Lava Plume.txt
+/Leaf Blade.txt
+/Leaf Storm.txt
+/Leaf Tornado.txt
+/Leafage.txt
+/Leech Life.txt
+/Leech Seed.txt
+/Leer.txt
+/Lick.txt
+/Light Screen.txt
+/Light of Ruin.txt
+/Liquidation.txt
+/Lock-On.txt
+/Lovely Kiss.txt
+/Low Kick.txt
+/Low Sweep.txt
+/Lucky Chant.txt
+/Lunar Dance.txt
+/Lunge.txt
+/Luster Purge.txt
+/Mach Punch.txt
+/Magic Coat.txt
+/Magic Room.txt
+/Magical Leaf.txt
+/Magma Storm.txt
+/Magnet Bomb.txt
+/Magnet Rise.txt
+/Magnetic Flux.txt
+/Magnitude.txt
+/MassMoveReader.py
+/Mat Block.txt
+/Me First.txt
+/Mean Look.txt
+/Meditate.txt
+/Mega Drain.txt
+/Mega Kick.txt
+/Mega Punch.txt
+/Megahorn.txt
+/Memento.txt
+/Metal Burst.txt
+/Metal Claw.txt
+/Metal Sound.txt
+/Meteor Mash.txt
+/Metronome.txt
+/Milk Drink.txt
+/Mimic.txt
+/Mind Blown.txt
+/Mind Reader.txt
+/Minimize.txt
+/Miracle Eye.txt
+/Mirror Coat.txt
+/Mirror Move.txt
 /Mirror Shot.txt
-/Misdreavus.class
-/Mismagius.class
 /Mist Ball.txt
 /Mist.txt
 /Misty Terrain.txt
-/Moltres.class
-/Monferno.class
 /Moonblast.txt
 /Moongeist Beam.txt
 /Moonlight.txt
-/Morelull.class
 /Morning Sun.txt
-/Mothim.class
 /MoveAdder.py
-/Mr_mime.class
 /Mud Bomb.txt
 /Mud Shot.txt
 /Mud Sport.txt
 /MudSlap.txt
-/Mudbray.class
 /Muddy Water.txt
-/Mudkip.class
-/Mudsdale.class
-/Muk.class
 /Multi-Attack.txt
-/MultiDriver.class
-/Munchlax.class
-/Munna.class
-/Murkrow.class
-/Musharna.class
 /Mystical Fire.txt
-/Nagandel.class
 /Nasty Plot.txt
-/Natu.class
 /Natural Gift.txt
 /Nature Power.txt
 /Natureâ€™s Madness.txt
-/Necrozma.class
 /Needle Arm.txt
-/Nidoking.class
-/Nidoqueen.class
-/Nidoran_f.class
-/Nidoran_m.class
-/Nidorina.class
-/Nidorino.class
 /Night Daze.txt
 /Night Shade.txt
 /Night Slash.txt
 /Nightmare.txt
-/Nihilego.class
-/Nincada.class
-/Ninetales.class
-/Ninjask.class
 /Noble Roar.txt
-/Noctowl.class
-/Noibat.class
-/Noivern.class
-/Nosepass.class
-/Numel.class
-/Nuzleaf.class
 /Nuzzle.txt
 /Oblivion Wing.txt
 /Octazooka.txt
-/Octillery.class
-/Oddish.class
 /Odor Sleuth.txt
-/Omanyte.class
-/Omastar.class
 /Ominous Wind.txt
-/Onix.class
-/Oranguru.class
 /Origin Pulse.txt
-/Oshawott.class
 /Outrage.txt
 /Overheat.txt
-/Pachirisu.class
 /Pain Split.txt
-/Pallosand.class
-/Palpitoad.class
-/Pancham.class
-/Pangoro.class
-/Panpour.class
-/Pansage.class
-/Pansear.class
 /Parabolic Charge.txt
-/Paras.class
-/Parasect.class
 /Parting Shot.txt
-/Passimian.class
-/Patrat.class
-/Pawniard.class
 /Pay Day.txt
 /Payback.txt
 /Peck.txt
-/Pelipper.class
 /Perish Song.txt
-/Persian.class
 /Petal Blizzard.txt
 /Petal Dance.txt
-/Petilil.class
-/Phanpy.class
 /Phantom Force.txt
-/Phantump.class
-/Pheromosa.class
-/Phione.class
 /Photon Geyser.txt
-/Pichu.class
-/Pidgeot.class
-/Pidgeotto.class
-/Pidgey.class
-/Pidove.class
-/Pignite.class
-/Pikipek.class
-/Piloswine.class
 /Pin Missile.txt
-/Pineco.class
-/Pinsir.class
-/Piplup.class
 /Plasma Fists.txt
 /Play Nice.txt
 /Play Rough.txt
 /Pluck.txt
-/Plusle.class
-/Poipole.class
 /Poison Fang.txt
 /Poison Gas.txt
 /Poison Jab.txt
 /Poison Powder.txt
 /Poison Sting.txt
 /Poison Tail.txt
-/Pokemon.class
-/Politoed.class
-/Poliwag.class
-/Poliwhirl.class
-/Poliwrath.class
+/Pokemon.txt
 /Pollen Puff.txt
-/Ponyta.class
-/Poochyena.class
-/Popplio.class
-/Porygon.class
-/Porygon2.class
-/Porygon_z.class
 /Pound.txt
 /Powder Snow.txt
 /Powder.txt
@@ -614,11 +428,7 @@
 /Power-Up Punch.txt
 /Precipice Blades.txt
 /Present.txt
-/Primarina.class
-/Primeape.class
-/Prinplup.class
 /Prismatic Laser.txt
-/Probopass.class
 /Protect.txt
 /Psybeam.txt
 /Psych Up.txt
@@ -628,38 +438,20 @@
 /Psycho Boost.txt
 /Psycho Cut.txt
 /Psycho Shift.txt
-/Psyduck.class
 /Psyshock.txt
 /Psystrike.txt
 /Psywave.txt
-/Pumpkaboo.class
 /Punishment.txt
-/Pupitar.class
 /Purify.txt
-/Purrloin.class
 /Pursuit.txt
-/Purugly.class
-/Pyroar.class
-/Pyukumuku.class
-/Quagsire.class
 /Quash.txt
 /Quick Attack.txt
 /Quick Guard.txt
-/Quilava.class
-/Quilladin.class
 /Quiver Dance.txt
-/Qwilfish.class
 /Rage Powder.txt
 /Rage.txt
-/Raichu.class
-/Raikou.class
 /Rain Dance.txt
-/Ralts.class
-/Rampardos.class
 /Rapid Spin.txt
-/Rapidash.class
-/Raticate.class
-/Rattata.class
 /Razor Leaf.txt
 /Razor Shell.txt
 /Razor Wind.txt
@@ -668,1129 +460,10 @@
 /Reflect Type.txt
 /Reflect.txt
 /Refresh.txt
-/Regice.class
-/Regigigas.class
-/Regirock.class
-/Registeel.class
 /Relic Song.txt
-/Relicanth.class
-/Remoraid.class
 /Rest.txt
 /Retaliate.txt
 /Return.txt
-/Reuniclus.class
 /Revelation Dance.txt
 /Revenge.txt
 /Reversal.txt
-/Rhydon.class
-/Rhyhorn.class
-/Rhyperior.class
-/Ribombee.class
-/Riolu.class
-/Roar of Time.txt
-/Roar.txt
-/Rock Blast.txt
-/Rock Climb.txt
-/Rock Polish.txt
-/Rock Slide.txt
-/Rock Smash.txt
-/Rock Throw.txt
-/Rock Tomb.txt
-/Rock Wrecker.txt
-/Rockruff.class
-/Roggenrola.class
-/Role Play.txt
-/Rolling Kick.txt
-/Rollout.txt
-/Roost.txt
-/Roselia.class
-/Roserade.class
-/Rotom.class
-/Rototiller.txt
-/Round.txt
-/Rowlet.class
-/Rufflet.class
-/Sableye.class
-/Sacred Fire.txt
-/Sacred Sword.txt
-/Safeguard.txt
-/Salamence.class
-/Salandit.class
-/Salazzle.class
-/Samurott.class
-/Sand Attack.txt
-/Sand Tomb.txt
-/Sandile.class
-/Sandshrew.class
-/Sandslash.class
-/Sandstorm.txt
-/Sandygast.class
-/Sawk.class
-/Sawsbuck.class
-/Scald.txt
-/Scary Face.txt
-/Scatterbug.class
-/Sceptile.class
-/Scizor.class
-/Scolipede.class
-/Scrafty.class
-/Scraggy.class
-/Scratch.txt
-/Screech.txt
-/Scyther.class
-/Seadra.class
-/Seaking.class
-/Sealeo.class
-/Searing Shot.txt
-/Secret Power.txt
-/Secret Sword.txt
-/Seed Bomb.txt
-/Seed Flare.txt
-/Seedot.class
-/Seel.class
-/Seismic Toss.txt
-/Seismitoad.class
-/SelfDestruct.txt
-/Sentret.class
-/Serperior.class
-/Shadow Ball.txt
-/Shadow Bone.txt
-/Shadow Claw.txt
-/Shadow Force.txt
-/Shadow Punch.txt
-/Shadow Sneak.txt
-/Sharpen.txt
-/Sheer Cold.txt
-/Shell Smash.txt
-/Shell Trap.txt
-/Shift Gear.txt
-/Shock Wave.txt
-/Shore Up.txt
-/Signal Beam.txt
-/Silver Wind.txt
-/Simple Beam.txt
-/Sing.txt
-/Sketch.txt
-/Skill Swap.txt
-/Skull Bash.txt
-/Sky Attack.txt
-/Sky Drop.txt
-/Sky Uppercut.txt
-/Slack Off.txt
-/Slam.txt
-/Slash.txt
-/Sleep Powder.txt
-/Sleep Talk.txt
-/Sludge Bomb.txt
-/Sludge Wave.txt
-/Sludge.txt
-/Smack Down.txt
-/Smart Strike.txt
-/Smelling Salts.txt
-/Smog.txt
-/Smokescreen.txt
-/Snarl.txt
-/Snatch.txt
-/Snore.txt
-/Soak.txt
-/Soft-Boiled.txt
-/Solar Beam.txt
-/Solar Blade.txt
-/Sonic Boom.txt
-/Spacial Rend.txt
-/Spark.txt
-/Sparkling Aria.txt
-/Spectral Thief.txt
-/Speed Swap.txt
-/Spider Web.txt
-/Spike Cannon.txt
-/Spikes.txt
-/Spiky Shield.txt
-/Spirit Shackle.txt
-/Spit Up.txt
-/Spite.txt
-/Splash.txt
-/Spore.txt
-/Spotlight.txt
-/Stealth Rock.txt
-/Steam Eruption.txt
-/Steamroller.txt
-/Steel Wing.txt
-/Sticky Web.txt
-/Stockpile.txt
-/Stomp.txt
-/Stomping Tantrum.txt
-/Stone Edge.txt
-/Stored Power.txt
-/Storm Throw.txt
-/Strength Sap.txt
-/Strength.txt
-/String Shot.txt
-/Struggle Bug.txt
-/Stun Spore.txt
-/Submission.txt
-/Substitute.txt
-/Sucker Punch.txt
-/Sunny Day.txt
-/Sunsteel Strike.txt
-/Super Fang.txt
-/Superpower.txt
-/Supersonic.txt
-/Surf.txt
-/Swagger.txt
-/Swallow.txt
-/Sweet Kiss.txt
-/Sweet Scent.txt
-/Swift.txt
-/Switcheroo.txt
-/Sword Dance.txt
-/Swords Dance.txt
-/Synchronoise.txt
-/Synthesis.txt
-/Tackle.txt
-/Tail Glow.txt
-/Tail Slap.txt
-/Tail Whip.txt
-/Tailwind.txt
-/Take Down.txt
-/Taunt.txt
-/Tearful Look.txt
-/Techno Blast.txt
-/Teeter Dance.txt
-/Telekinesis.txt
-/Teleport.txt
-/Test.class
-/Thief.txt
-/Thrash.txt
-/Throat Chop.txt
-/Thunder Fang.txt
-/Thunder Punch.txt
-/Thunder Shock.txt
-/Thunder Wave.txt
-/Thunder.txt
-/Thunderbolt.txt
-/Tickle.txt
-/Topsy-Turvy.txt
-/Torment.txt
-/Toxic Spikes.txt
-/Toxic Thread.txt
-/Toxic.txt
-/Transform.txt
-/Tri Attack.txt
-/Trick-or-Treat.txt
-/Trick.txt
-/Triple Kick.txt
-/Trop Kick.txt
-/Trump Card.txt
-/Twineedle.txt
-/Twister.txt
-/U-Turn.txt
-/Uproar.txt
-/V-Create.txt
-/Vacuum Wave.txt
-/Venom Drench.txt
-/Venoshock.txt
-/Vice Grip.txt
-/Vine Whip.txt
-/Vital Throw.txt
-/Volt Switch.txt
-/Volt Tackle.txt
-/Wake-Up Slap.txt
-/Water Gun.txt
-/Water Pledge.txt
-/Water Pulse.txt
-/Water Shuriken.txt
-/Water Sport.txt
-/Water Spout.txt
-/Waterfall.txt
-/Weather Ball.txt
-/Whirlpool.txt
-/Whirlwind.txt
-/Wide Guard.txt
-/Wild Charge.txt
-/Will-O-Wisp.txt
-/Wing Attack.txt
-/Wish.txt
-/Withdraw.txt
-/Wood Hammer.txt
-/Work Up.txt
-/Worry Seed.txt
-/Wrap.txt
-/Wring Out.txt
-/X-Scissor.txt
-/Yawn.txt
-/Zap Cannon.txt
-/Zing Zap.txt
-/mass_moves.txt
-/Absorb.class
-/Accelrock.class
-/Acid.class
-/Acid_Armor.class
-/Acid_Spray.class
-/Acrobatics.class
-/Acupressure.class
-/Aerial_Ace.class
-/Aeroblast.class
-/After_You.class
-/Agility.class
-/Air_Cutter.class
-/Air_Slash.class
-/Ally_Switch.class
-/Amnesia.class
-/Anchor_Shot.class
-/Ancient_Power.class
-/Aqua_Jet.class
-/Aqua_Ring.class
-/Aqua_Tail.class
-/Arm_Thrust.class
-/Aromatherapy.class
-/Aromatic_Mist.class
-/Assist.class
-/Assurance.class
-/Astonish.class
-/Attack_Order.class
-/Attract.class
-/Aura_Sphere.class
-/Aurora_Beam.class
-/Aurora_Veil.class
-/Autotomize.class
-/Avalanche.class
-/BabyDoll.class
-/Baneful_Bunker.class
-/Barrage.class
-/Barrier.class
-/Baton_Pass.class
-/Beak_Blast.class
-/Beat_Up.class
-/Belch.class
-/Belly_Drum.class
-/Bestow.class
-/Bide.class
-/Bind.class
-/Bite.class
-/Blast_Burn.class
-/Blaze_Kick.class
-/Blizzard.class
-/Block.class
-/Blue_Flare.class
-/Body_Slam.class
-/Bolt_Strike.class
-/Bone_Club.class
-/Bone_Rush.class
-/Bonemerang.class
-/Boomburst.class
-/Bounce.class
-/Brave_Bird.class
-/Brick_Break.class
-/Brine.class
-/Brutal_Swing.class
-/Bubble.class
-/Bubble_Beam.class
-/Bug_Bite.class
-/Bug_Buzz.class
-/Bulk_Up.class
-/Bulldoze.class
-/Bullet_Punch.class
-/Bullet_Seed.class
-/Burn_Up.class
-/Calm_Mind.class
-/Camouflage.class
-/Captivate.class
-/Charge.class
-/Charge_Beam.class
-/Charm.class
-/Chatter.class
-/Chip_Away.class
-/Circle_Throw.class
-/Clamp.class
-/Clanging_Scales.class
-/Clear_Smog.class
-/Close_Combat.class
-/Coil.class
-/Comet_Punch.class
-/Confide.class
-/Confuse_Ray.class
-/Confusion.class
-/Constrict.class
-/Conversion.class
-/Conversion2.class
-/Copycat.class
-/Core_Enforcer.class
-/Cosmic_Power.class
-/Cotton_Guard.class
-/Cotton_Spore.class
-/Counter.class
-/Covet.class
-/Crabhammer.class
-/Crafty_Shield.class
-/Cross_Chop.class
-/Cross_Poison.class
-/Crunch.class
-/Crush_Claw.class
-/Crush_Grip.class
-/Curse.class
-/Cut.class
-/Dark_Pulse.class
-/Dark_Void.class
-/Darkest_Lariat.class
-/Dazzling_Gleam.class
-/Defend_Order.class
-/Defense_Curl.class
-/Defog.class
-/Destiny_Bond.class
-/Detect.class
-/Diamond_Storm.class
-/Dig.class
-/Disable.class
-/Disarming_Voice.class
-/Discharge.class
-/Dive.class
-/Dizzy_Punch.class
-/Doom_Desire.class
-/DoubleEdge.class
-/Double_Hit.class
-/Double_Kick.class
-/Double_Slap.class
-/Double_Team.class
-/Draco_Meteor.class
-/Dragon_Ascent.class
-/Dragon_Breath.class
-/Dragon_Claw.class
-/Dragon_Dance.class
-/Dragon_Hammer.class
-/Dragon_Pulse.class
-/Dragon_Rage.class
-/Dragon_Rush.class
-/Dragon_Tail.class
-/Drain_Punch.class
-/Draining_Kiss.class
-/Dream_Eater.class
-/Drill_Peck.class
-/Drill_Run.class
-/Dual_Chop.class
-/Dynamic_Punch.class
-/Earth_Power.class
-/Earthquake.class
-/Echoed_Voice.class
-/Eerie_Impulse.class
-/Egg_Bomb.class
-/Electric_Terrain.class
-/Electrify.class
-/Electro_Ball.class
-/Electroweb.class
-/Embargo.class
-/Ember.class
-/Encore.class
-/Endeavor.class
-/Endure.class
-/Energy_Ball.class
-/Entrainment.class
-/Eruption.class
-/Explosion.class
-/Extrasensory.class
-/Extreme_Speed.class
-/Facade.class
-/Fairy_Lock.class
-/Fairy_Wind.class
-/Fake_Out.class
-/Fake_Tears.class
-/False_Swipe.class
-/Feather_Dance.class
-/Feint.class
-/Feint_Attack.class
-/Fell_Stinger.class
-/Fiery_Dance.class
-/Final_Gambit.class
-/Fire_Blast.class
-/Fire_Fang.class
-/Fire_Lash.class
-/Fire_Pledge.class
-/Fire_Punch.class
-/Fire_Spin.class
-/First_Impression.class
-/Fissure.class
-/Flail.class
-/Flame_Burst.class
-/Flame_Charge.class
-/Flame_Wheel.class
-/Flamethrower.class
-/Flare_Blitz.class
-/Flash.class
-/Flash_Cannon.class
-/Flatter.class
-/Fleur_Cannon.class
-/Fling.class
-/Floral_Healing.class
-/Flower_Shield.class
-/Fly.class
-/Flying_Press.class
-/Focus_Blast.class
-/Focus_Energy.class
-/Focus_Punch.class
-/Follow_Me.class
-/Force_Palm.class
-/Foresight.class
-/Forest_s_Curse.class
-/Foul_Play.class
-/Freeze_Dry.class
-/Freeze_Shock.class
-/Frenzy_Plant.class
-/Frost_Breath.class
-/Frustration.class
-/Fury_Attack.class
-/Fury_Cutter.class
-/Fury_Swipes.class
-/Fusion_Bolt.class
-/Fusion_Flare.class
-/Future_Sight.class
-/Gastro_Acid.class
-/Gear_Grind.class
-/Gear_Up.class
-/Geomancy.class
-/Giga_Drain.class
-/Giga_Impact.class
-/Glaciate.class
-/Glare.class
-/Grass_Knot.class
-/Grass_Pledge.class
-/Grass_Whistle.class
-/Grassy_Terrain.class
-/Gravity.class
-/Growl.class
-/Growth.class
-/Grudge.class
-/Guard_Split.class
-/Guard_Swap.class
-/Guillotine.class
-/Gunk_Shot.class
-/Gust.class
-/Gyro_Ball.class
-/Hail.class
-/Hammer_Arm.class
-/Harden.class
-/Haze.class
-/Head_Charge.class
-/Head_Smash.class
-/Headbutt.class
-/Heal_Bell.class
-/Heal_Block.class
-/Heal_Order.class
-/Heal_Pulse.class
-/Healing_Wish.class
-/Heart_Stamp.class
-/Heart_Swap.class
-/Heat_Crash.class
-/Heat_Wave.class
-/Heavy_Slam.class
-/Helping_Hand.class
-/Hex.class
-/Hidden_Power.class
-/High_Horsepower.class
-/High_Jump_Kick.class
-/Hold_Hands.class
-/Hone_Claws.class
-/Horn_Attack.class
-/Horn_Drill.class
-/Horn_Leech.class
-/Howl.class
-/Hurricane.class
-/Hydro_Cannon.class
-/Hydro_Pump.class
-/Hyper_Beam.class
-/Hyper_Fang.class
-/Hyper_Voice.class
-/Hypnosis.class
-/Ice_Ball.class
-/Ice_Beam.class
-/Ice_Burn.class
-/Ice_Fang.class
-/Ice_Hammer.class
-/Ice_Punch.class
-/Ice_Shard.class
-/Icicle_Crash.class
-/Icicle_Spear.class
-/Icy_Wind.class
-/Imprison.class
-/Incinerate.class
-/Inferno.class
-/Infestation.class
-/Ingrain.class
-/Instruct.class
-/Ion_Deluge.class
-/Iron_Defense.class
-/Iron_Head.class
-/Iron_Tail.class
-/Judgment.class
-/Jump_Kick.class
-/Karate_Chop.class
-/Kinesis.class
-/King_s_Shield.class
-/Knock_Off.class
-/Land_s_Wrath.class
-/Laser_Focus.class
-/Last_Resort.class
-/Lava_Plume.class
-/Leaf_Blade.class
-/Leaf_Storm.class
-/Leaf_Tornado.class
-/Leafage.class
-/Leech_Life.class
-/Leech_Seed.class
-/Leer.class
-/Lick.class
-/Light_Screen.class
-/Light_of_Ruin.class
-/Liquidation.class
-/LockOn.class
-/Lovely_Kiss.class
-/Low_Kick.class
-/Low_Sweep.class
-/Lucky_Chant.class
-/Lunar_Dance.class
-/Lunge.class
-/Luster_Purge.class
-/Mach_Punch.class
-/Magic_Coat.class
-/Magic_Room.class
-/Magical_Leaf.class
-/Magma_Storm.class
-/Magnet_Bomb.class
-/Magnet_Rise.class
-/Magnetic_Flux.class
-/Magnitude.class
-/Mat_Block.class
-/Me_First.class
-/Mean_Look.class
-/Meditate.class
-/Mega_Drain.class
-/Mega_Kick.class
-/Mega_Punch.class
-/Megahorn.class
-/Memento.class
-/Metal_Burst.class
-/Metal_Claw.class
-/Metal_Sound.class
-/Meteor_Mash.class
-/Metronome.class
-/Milk_Drink.class
-/Mimic.class
-/Mind_Blown.class
-/Mind_Reader.class
-/Minimize.class
-/Miracle_Eye.class
-/Mirror_Coat.class
-/Mirror_Move.class
-/Mirror_Shot.class
-/Mist.class
-/Mist_Ball.class
-/Misty_Terrain.class
-/Moonblast.class
-/Moongeist_Beam.class
-/Moonlight.class
-/Morning_Sun.class
-/Move.class
-/Mud_Bomb.class
-/Mud_Shot.class
-/Mud_Slap.class
-/Mud_Sport.class
-/Muddy_Water.class
-/Multi_Attack.class
-/Mystical_Fire.class
-/Nasty_Plot.class
-/Natural_Gift.class
-/Nature_Power.class
-/Nature_s_Madness.class
-/Needle_Arm.class
-/Night_Daze.class
-/Night_Shade.class
-/Night_Slash.class
-/Nightmare.class
-/Noble_Roar.class
-/Nuzzle.class
-/Oblivion_Wing.class
-/Octazooka.class
-/Odor_Sleuth.class
-/Ominous_Wind.class
-/Origin_Pulse.class
-/Outrage.class
-/Overheat.class
-/Pain_Split.class
-/Parabolic_Charge.class
-/Parting_Shot.class
-/Pay_Day.class
-/Payback.class
-/Peck.class
-/Perish_Song.class
-/Petal_Blizzard.class
-/Petal_Dance.class
-/Phantom_Force.class
-/Photon_Geyser.class
-/Pin_Missile.class
-/Plasma_Fists.class
-/Play_Nice.class
-/Play_Rough.class
-/Pluck.class
-/Poison_Fang.class
-/Poison_Gas.class
-/Poison_Jab.class
-/Poison_Powder.class
-/Poison_Sting.class
-/Poison_Tail.class
-/Pollen_Puff.class
-/Pound.class
-/Powder.class
-/Powder_Snow.class
-/Power_Gem.class
-/Power_Split.class
-/Power_Swap.class
-/Power_Trick.class
-/Power_Trip.class
-/Power_Up_Punch.class
-/Power_Whip.class
-/Precipice_Blades.class
-/Present.class
-/Prismatic_Laser.class
-/Protect.class
-/Psybeam.class
-/Psych_Up.class
-/Psychic.class
-/Psychic_Fangs.class
-/Psychic_Terrain.class
-/Psycho_Boost.class
-/Psycho_Cut.class
-/Psycho_Shift.class
-/Psyshock.class
-/Psystrike.class
-/Psywave.class
-/Punishment.class
-/Purify.class
-/Pursuit.class
-/Quash.class
-/Quick_Attack.class
-/Quick_Guard.class
-/Quiver_Dance.class
-/Rage.class
-/Rage_Powder.class
-/Rain_Dance.class
-/Rapid_Spin.class
-/Razor_Leaf.class
-/Razor_Shell.class
-/Razor_Wind.class
-/Recover.class
-/Recycle.class
-/Reflect.class
-/Reflect_Type.class
-/Refresh.class
-/Relic_Song.class
-/Rest.class
-/Retaliate.class
-/Return.class
-/Revelation_Dance.class
-/Revenge.class
-/Reversal.class
-/Roar.class
-/Roar_of_Time.class
-/Rock_Blast.class
-/Rock_Climb.class
-/Rock_Polish.class
-/Rock_Slide.class
-/Rock_Smash.class
-/Rock_Throw.class
-/Rock_Tomb.class
-/Rock_Wrecker.class
-/Role_Play.class
-/Rolling_Kick.class
-/Rollout.class
-/Roost.class
-/Rototiller.class
-/Round.class
-/Sacred_Fire.class
-/Sacred_Sword.class
-/Safeguard.class
-/Sand_Attack.class
-/Sand_Tomb.class
-/Sandstorm.class
-/Scald.class
-/Scary_Face.class
-/Scratch.class
-/Screech.class
-/Searing_Shot.class
-/Secret_Power.class
-/Secret_Sword.class
-/Seed_Bomb.class
-/Seed_Flare.class
-/Seismic_Toss.class
-/Self_Destruct.class
-/Servine.class
-/Seviper.class
-/Sewaddle.class
-/Shadow_Ball.class
-/Shadow_Bone.class
-/Shadow_Claw.class
-/Shadow_Force.class
-/Shadow_Punch.class
-/Shadow_Sneak.class
-/Sharpedo.class
-/Sharpen.class
-/Shaymin.class
-/Shedinja.class
-/Sheer_Cold.class
-/Shelgon.class
-/Shell_Smash.class
-/Shell_Trap.class
-/Shellder.class
-/Shellos.class
-/Shelmet.class
-/Shieldon.class
-/Shift_Gear.class
-/Shiftry.class
-/Shiinotic.class
-/Shinx.class
-/Shock_Wave.class
-/Shore_Up.class
-/Shroomish.class
-/Shuckle.class
-/Shuppet.class
-/Sigilyph.class
-/Signal_Beam.class
-/Silcoon.class
-/Silvally.class
-/Silver_Wind.class
-/Simipour.class
-/Simisage.class
-/Simisear.class
-/Simple_Beam.class
-/Sing.class
-/Skarmory.class
-/Sketch.class
-/Skiddo.class
-/Skill_Swap.class
-/Skiploom.class
-/Skitty.class
-/Skorupi.class
-/Skrelp.class
-/Skull_Bash.class
-/Skuntank.class
-/Sky_Attack.class
-/Sky_Drop.class
-/Sky_Uppercut.class
-/Slack_Off.class
-/Slaking.class
-/Slakoth.class
-/Slam.class
-/Slash.class
-/Sleep_Powder.class
-/Sleep_Talk.class
-/Sliggoo.class
-/Sligoo.class
-/Slowbro.class
-/Slowking.class
-/Slowpoke.class
-/Sludge.class
-/Sludge_Bomb.class
-/Sludge_Wave.class
-/Slugma.class
-/Slurpuff.class
-/Smack_Down.class
-/Smart_Strike.class
-/Smeargle.class
-/Smelling_Salts.class
-/Smog.class
-/Smokescreen.class
-/Smoochum.class
-/Snarl.class
-/Snatch.class
-/Sneasel.class
-/Snivy.class
-/Snore.class
-/Snorlax.class
-/Snorunt.class
-/Snover.class
-/Snubbull.class
-/Soak.class
-/SoftBoiled.class
-/Solar_Beam.class
-/Solar_Blade.class
-/Solgaleo.class
-/Solosis.class
-/Solrock.class
-/Sonic_Boom.class
-/Spacial_Rend.class
-/Spark.class
-/Sparkling_Aria.class
-/Spearow.class
-/Spectral_Thief.class
-/Speed_Swap.class
-/Spewpa.class
-/Spheal.class
-/Spider_Web.class
-/Spike_Cannon.class
-/Spikes.class
-/Spiky_Shield.class
-/Spinarak.class
-/Spinda.class
-/Spirit_Shackle.class
-/Spiritomb.class
-/Spit_Up.class
-/Spite.class
-/Splash.class
-/Spoink.class
-/Spore.class
-/Spotlight.class
-/Spritzee.class
-/Squirtle.class
-/Stakataka.class
-/Stantler.class
-/Staraptor.class
-/Staravia.class
-/Starly.class
-/Starmie.class
-/Staryu.class
-/Stealth_Rock.class
-/Steam_Eruption.class
-/Steamroller.class
-/Steel_Wing.class
-/Steelix.class
-/Steenee.class
-/Sticky_Web.class
-/Stockpile.class
-/Stomp.class
-/Stomping_Tantrum.class
-/Stone_Edge.class
-/Stored_Power.class
-/Storm_Throw.class
-/Stoutland.class
-/Strength.class
-/Strength_Sap.class
-/String_Shot.class
-/Struggle_Bug.class
-/Stufful.class
-/Stun_Spore.class
-/Stunfisk.class
-/Stunky.class
-/Submission.class
-/Substitute.class
-/Sucker_Punch.class
-/Sudowoodo.class
-/Suicune.class
-/Sunflora.class
-/Sunkern.class
-/Sunny_Day.class
-/Sunsteel_Strike.class
-/Super_Fang.class
-/Superpower.class
-/Supersonic.class
-/Surf.class
-/Surskit.class
-/Swablu.class
-/Swadloon.class
-/Swagger.class
-/Swallow.class
-/Swalot.class
-/Swampert.class
-/Swanna.class
-/Sweet_Kiss.class
-/Sweet_Scent.class
-/Swellow.class
-/Swift.class
-/Swinub.class
-/Swirlix.class
-/Switcheroo.class
-/Swoobat.class
-/Sword_Dance.class
-/Swords_Dance.class
-/Sylveon.class
-/Synchronoise.class
-/Synthesis.class
-/Tackle.class
-/Tail_Glow.class
-/Tail_Slap.class
-/Tail_Whip.class
-/Taillow.class
-/Tailwind.class
-/Take_Down.class
-/Talonflame.class
-/Tangela.class
-/Tangrowth.class
-/Tapu_bulu.class
-/Tapu_fini.class
-/Tapu_koko.class
-/Tapu_lele.class
-/Taunt.class
-/Tauros.class
-/Tearful_Look.class
-/Techno_Blast.class
-/Teddiursa.class
-/Teeter_Dance.class
-/Telekinesis.class
-/Teleport.class
-/Tentacool.class
-/Tentacruel.class
-/Tepig.class
-/Terrakion.class
-/Thief.class
-/Thrash.class
-/Throat_Chop.class
-/Throh.class
-/Thunder.class
-/Thunder_Fang.class
-/Thunder_Punch.class
-/Thunder_Shock.class
-/Thunder_Wave.class
-/Thunderbolt.class
-/Thundurus.class
-/Tickle.class
-/Timburr.class
-/Tirtouga.class
-/Togedemaru.class
-/Togekiss.class
-/Togepi.class
-/Togetic.class
-/Topsy_Turvy.class
-/Torchic.class
-/Torkoal.class
-/Torment.class
-/Tornadus.class
-/Torracat.class
-/Torterra.class
-/Totodile.class
-/Toucannon.class
-/Toxapex.class
-/Toxic.class
-/Toxic_Spikes.class
-/Toxic_Thread.class
-/Toxicroak.class
-/Tranquill.class
-/Transform.class
-/Trapinch.class
-/Treecko.class
-/Trevenant.class
-/Tri_Attack.class
-/Trick.class
-/Trick_Room.class
-/Trick_or_Treat.class
-/Triple_Kick.class
-/Trop_Kick.class
-/Tropius.class
-/Trubbish.class
-/Trumbeak.class
-/Trump_Card.class
-/Tsareena.class
-/Turtonator.class
-/Turtwig.class
-/Twineedle.class
-/Twister.class
-/Tympole.class
-/Tynamo.class
-/Type_null.class
-/Typhlosion.class
-/Tyranitar.class
-/Tyrantrum.class
-/Tyrogue.class
-/Tyrunt.class
-/UTurn.class
-/Umbreon.class
-/Unfezant.class
-/Unown.class
-/Uproar.class
-/Ursaring.class
-/Uxie.class
-/V_Create.class
-/Vacuum_Wave.class
-/Vanillish.class
-/Vanillite.class
-/Vanilluxe.class
-/Vaporeon.class
-/Venipede.class
-/Venom_Drench.class
-/Venomoth.class
-/Venonat.class
-/Venoshock.class
-/Venusaur.class
-/Vespiquen.class
-/Vibrava.class
-/Vice_Grip.class
-/Victini.class
-/Victreebel.class
-/Vigoroth.class
-/Vikavolt.class
-/Vileplume.class
-/Vine_Whip.class
-/Virizion.class
-/Vital_Throw.class
-/Vivillon.class
-/Volbeat.class
-/Volcanion.class
-/Volcarona.class
-/Volt_Switch.class
-/Volt_Tackle.class
-/Voltorb.class
-/Vullaby.class
-/Vulpix.class
-/Wailmer.class
-/Wailord.class
-/Wake_Up_Slap.class
-/Walrein.class
-/Wartortle.class
-/Watchog.class
-/Water_Gun.class
-/Water_Pledge.class
-/Water_Pulse.class
-/Water_Shuriken.class
-/Water_Sport.class
-/Water_Spout.class
-/Waterfall.class
-/Weather_Ball.class
-/Weavile.class
-/Weedle.class
-/Weepinbell.class
-/Weezing.class
-/Whimsicott.class
-/Whirlipede.class
-/Whirlpool.class
-/Whirlwind.class
-/Whiscash.class
-/Whismur.class
-/Wide_Guard.class
-/Wigglytuff.class
-/Wild_Charge.class
-/WillOWisp.class
-/Wimpod.class
-/Wing_Attack.class
-/Wingull.class
-/Wish.class
-/Wishiwashi.class
-/Withdraw.class
-/Wobbuffet.class
-/Wonder_Room.class
-/Woobat.class
-/Wood_Hammer.class
-/Wooper.class
-/Work_Up.class
-/Wormadam.class
-/Worry_Seed.class
-/Wrap.class
-/Wring_Out.class
-/Wurmple.class
-/Wynaut.class
-/XScissor.class
-/Xatu.class
-/Xurkitree.class
-/Yamask.class
-/Yanma.class
-/Yanmega.class
-/Yawn.class
-/Yungoos.class
-/Zangoose.class
-/Zap_Cannon.class
-/Zapdos.class
-/Zebstrika.class
-/Zen_Headbutt.class
-/Zeraora.class
-/Zigzagoon.class
-/Zing_Zap.class
-/Zoroark.class
-/Zorua.class
-/Zubat.class
-/Zweilous.class
-/mass_moves.class

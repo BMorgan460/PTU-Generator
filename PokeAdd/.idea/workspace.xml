@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1507ddd3-8c46-4dba-a0fe-1c4cd7a14523" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Gourgeist_10.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Gourgeist_11.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Gourgeist_12.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Gourgeist_13.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Gourgeist_14.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Gourgeist_15.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Gourgeist_16.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sableye_0.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sableye_1.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sableye_2.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sableye_3.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sableye_4.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sableye_5.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sableye_6.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sableye_7.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sharpedo_8.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSON/temp/Sharpedo_9.pokemon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulbasaur.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulbasaur.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ivysaur.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ivysaur.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Venusaur.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Venusaur.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mass_poke_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/mass_poke_converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pokemon/Charjabug.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/Charjabug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/Charjabug.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Charjabug.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Driver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bin/EnviroDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/EnviroDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/EnviroDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/EnviroDriver.java" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="1507ddd3-8c46-4dba-a0fe-1c4cd7a14523" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,23 +22,17 @@
   </component>
   <component name="ProjectId" id="1UdHVHwoiwHPISxSA3v8zIsV8zu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Program Files/Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.mass_poke_converter">
+  <component name="RunManager" selected="Python.poke_to_java_class">
     <configuration name="mass_poke_converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PokeAdd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,12 +98,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mass_poke_converter" />
         <item itemvalue="Python.poke_to_java_class" />
+        <item itemvalue="Python.mass_poke_converter" />
         <item itemvalue="Python.sort_by_habitat" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -156,12 +123,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
