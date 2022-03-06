@@ -1,5 +1,5 @@
 public class Totodile extends Pokemon{
-	{
+{
 		name = "Totodile";
 		bHP = 5;
 		bAtk = 7;
@@ -9,7 +9,7 @@ public class Totodile extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Hyper Cutter", "Torrent", "Frisk", "Sheer Force", "Strong Jaw"};
+		abilities = new String[]{"Hyper Cutter", "Torrent", "Frisk", "Sheer Force", "Jaw"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Croconaw", "Feraligatr"};
 		nextReq = new String[]{"30"};
@@ -25,13 +25,12 @@ public class Totodile extends Pokemon{
 		overland = 6;
 		swim = 6;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 2;
-		natureWalk = new String[]{"Wetlands"};
-		underdog = true;
-		other = new String[]{"Fountain"};
+		underdog = false;
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -46,11 +45,11 @@ public class Totodile extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 6, 8, 13, 15, 20, 22, 27, 29, 34, 36, 41, 43, 48, 50};
 		moves = new String[]{"Leer", "Scratch", "Water Gun", "Rage", "Bite", "Scary Face", "Ice Fang", "Flail", "Crunch", "Chip Away", "Slash", "Screech", "Thrash", "Aqua Tail", "Superpower", "Hydro Pump"};
-		TMs = new String[]{"Cut", "Surf", "Waterfall", "Dive", "Hone Claws", "Dragon Claw", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Scald", "Fling", "Shadow Claw", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		TMs = new String[]{"Hone Claws", "Dragon Claw", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Scald", "Fling", "Shadow Claw", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "PowerUp", "Confide"};
 		eggMoves = new String[]{"Ancient Power", "Crunch", "Dragon Claw", "Dragon Dance", "Flatter", "Hydro Pump", "Ice Punch", "Metal Claw", "Mud Sport", "Rock Slide", "Thrash", "Water Sport"};
 		tutorMoves = new String[]{"Ancient Power", "Aqua Tail", "Block", "Body Slam", "Slam", "Counter", "Dive", "Dynamic Punch", "Focus Punch", "Ice Punch", "Icy Wind", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Seismic Toss", "Sleep Talk", "Snore", "Spite", "Superpower", "Uproar", "Water Pledge"};
 		naturalMoves = new String[]{};
-	}
+}
 		Totodile(){
 
 		super();

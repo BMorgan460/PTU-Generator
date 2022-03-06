@@ -1,5 +1,5 @@
 public class Vanillish extends Pokemon{
-	{
+{
 		name = "Vanillish";
 		bHP = 5;
 		bAtk = 7;
@@ -9,7 +9,7 @@ public class Vanillish extends Pokemon{
 		bSpd = 6;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Ice Body", "Snow Cloak", "Weak Armor", "Winters Kiss", "Clear Body"};
+		abilities = new String[]{"Ice Body", "Snow Cloak", "Weak Armor", "Winter’s", "Body"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Vanillite();
 		prevReq = 35;
@@ -18,21 +18,20 @@ public class Vanillish extends Pokemon{
 		height = "3\'/7\"";
 		weight = 90.4;
 		WC = 3;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Mineral";
-		egg2 = "Terravore";
+		egg2 = "Diet";
 		habitats = new String[]{"Cave", "Taiga", "Tundra"};
 		overland = 3;
 		swim = 2;
 		levitate = 5;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 2;
-		natureWalk = new String[]{"Tundra"};
-		underdog = true;
-		other = new String[]{"Chilled","Freezer"};
+		underdog = false;
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -47,10 +46,10 @@ public class Vanillish extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 26, 31, 36, 42, 47, 53, 58};
 		moves = new String[]{"Harden", "Astonish", "Uproar", "Icy Wind", "Mist", "Avalanche", "Taunt", "Mirror Shot", "Acid Armor", "Ice Beam", "Hail", "Mirror Coat", "Blizzard", "Sheer Cold"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Explosion", "Frost Breath", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Explosion", "Frost Breath", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon"};
 		tutorMoves = new String[]{"Icy Wind", "Iron Defense", "Magic Coat", "Magnet Rise", "Signal Beam", "Sleep Talk", "Snore", "Uproar"};
 		naturalMoves = new String[]{};
-	}
+}
 		Vanillish(){
 
 		super();

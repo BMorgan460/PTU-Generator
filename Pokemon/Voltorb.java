@@ -1,5 +1,5 @@
 public class Voltorb extends Pokemon{
-	{
+{
 		name = "Voltorb";
 		bHP = 4;
 		bAtk = 3;
@@ -20,17 +20,17 @@ public class Voltorb extends Pokemon{
 		maleRatio = -1;
 		femaleRatio = -1;
 		egg1 = "Mineral";
-		egg2 = "";
-		habitats = new String[]{"Urban"};
+		egg2 = "Average";
+		habitats = new String[]{"Urban", "Capability", "List"};
 		overland = 6;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 2;
-		underdog = true;
-		other = new String[]{"Shrinkable","Volatile Bomb","Zapper"};
+		underdog = false;
 		athl = 3;
 		acro = 2;
 		combat = 1;
@@ -45,10 +45,10 @@ public class Voltorb extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 4, 6, 9, 11, 13, 16, 20, 22, 26, 29, 34, 37, 41, 46, 48};
 		moves = new String[]{"Charge", "Tackle", "Sonic Boom", "Eerie Impulse", "Spark", "Rollout", "Screech", "Charge Beam", "Swift", "Electro Ball", "SelfDestruct", "Light Screen", "Magnet Rise", "Discharge", "Explosion", "Gyro Ball", "Mirror Coat"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Taunt", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Torment", "Facade", "Rest", "Thief", "Round", "Charge", "Charge Beam", "Explosion", "Flash", "Volt Switch", "Thunder", "Thunder Wave", "Gyro Ball", "Swagger", "Sleep Talk", "Substitute", "Wild Charge"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Taunt", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Torment", "Facade", "Rest", "Thief", "Round", "Charge Beam", "Explosion", "Flash", "Volt Switch", "Thunder Wave", "Gyro Ball", "Swagger", "Sleep Talk", "Substitute", "Wild Charge"};
 		tutorMoves = new String[]{"Foul Play", "Magic Coat", "Magnet Rise", "Role Play", "Rollout", "Shock Wave", "Signal Beam", "Sleep Talk", "Snore", "Sucker Punch", "Swift"};
 		naturalMoves = new String[]{};
-	}
+}
 		Voltorb(){
 
 		super();

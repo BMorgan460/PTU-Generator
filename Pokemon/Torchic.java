@@ -1,5 +1,5 @@
 public class Torchic extends Pokemon{
-	{
+{
 		name = "Torchic";
 		bHP = 5;
 		bAtk = 6;
@@ -20,18 +20,17 @@ public class Torchic extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "";
-		habitats = new String[]{"Grassland"};
+		egg2 = "Average";
+		habitats = new String[]{"Grassland", "Capability", "List"};
 		overland = 6;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 1;
-		natureWalk = new String[]{"Grasslands"};
-		underdog = true;
-		other = new String[]{"Heater"};
+		underdog = false;
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -46,11 +45,11 @@ public class Torchic extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 10, 14, 19, 23, 28, 32, 37, 41, 46};
 		moves = new String[]{"Growl", "Scratch", "Ember", "Sand Attack", "Peck", "Fire Spin", "Quick Attack", "Flame Burst", "Focus Energy", "Slash", "Mirror Move", "Flamethrower"};
-		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Incinerate", "Shadow Claw", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
+		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Incinerate", "WillOWisp", "Shadow Claw", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
 		eggMoves = new String[]{"Agility", "Baton Pass", "Counter", "Crush Claw", "Curse", "Endure", "Feather Dance", "Feint", "Flame Burst", "Last Resort", "Low Kick", "Night Slash", "Slash", "Reversal", "Rock Slide", "Smelling Salts", "Swagger"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Heat Wave", "Helping Hand", "Fire Pledge", "Last Resort", "Low Kick", "Mega Kick", "Mega Punch", "Seismic Toss", "Sleep Talk", "Snore", "Swift"};
 		naturalMoves = new String[]{};
-	}
+}
 		Torchic(){
 
 		super();

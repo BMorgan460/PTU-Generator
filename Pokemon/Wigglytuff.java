@@ -1,5 +1,5 @@
 public class Wigglytuff extends Pokemon{
-	{
+{
 		name = "Wigglytuff";
 		bHP = 14;
 		bAtk = 7;
@@ -8,28 +8,30 @@ public class Wigglytuff extends Pokemon{
 		bSpDef = 5;
 		bSpd = 5;
 		type1 = "Normal";
-		type2 = "Fairy";
+		type2 = "";
 		abilities = new String[]{"Cute Charm", "Lullaby", "Frisk", "Competitive", "Exploit"};
 		abilityTypeCount = new int[] {2,2,1};
+		previous = new Igglybuff();
+		prevReq = 10;
 		previous = new Jigglypuff();
-		prevReq = 20;
+		prevReq = 10;
 		height = "3\'/3\"";
 		weight = 26.5;
 		WC = 2;
-		maleRatio = 25.0;
-		femaleRatio = 75.0;
+		maleRatio = 25;
+		femaleRatio = 75;
 		egg1 = "Fairy";
-		egg2 = "Herbivore";
+		egg2 = "Diet";
+		habitats = new String[]{"Cave", "Grassland", "Capability"};
 		overland = 6;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 3;
-		natureWalk = new String[]{"Grassland", "Urban"};
-		underdog = true;
-		other = new String[]{"Inflatable"};
+		underdog = false;
 		athl = 3;
 		acro = 4;
 		combat = 2;
@@ -43,11 +45,11 @@ public class Wigglytuff extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 3;
 		movesLevels = new int[]{5, 9, 10, 13, 15, 18, 21, 24, 28, 32, 35, 37, 40, 44, 49};
-		moves = new String[]{"Defense Curl", "Pound", "Play Nice", "Disarming Voice", "Disable", "Double Slap", "Rollout", "Round", "Wake Up Slap", "Rest", "Body Slam", "Mimic", "Gyro Ball", "Hyper Voice", "DoubleEdge"};
-		TMs = new String[]{"Strength", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Dig", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Flamethrower", "Fire Blast", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Focus Blast", "Fling", "Charge", "Charge Beam", "Incinerate", "Retaliate", "Giga Impact", "Flash", "Thunder", "Thunder Wave", "Gyro Ball", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"};
+		moves = new String[]{"Defense Curl", "Pound", "Play Nice", "Disarming Voice", "Disable", "Double Slap", "Rollout", "Round", "WakeUp", "Rest", "Body Slam", "Mimic", "Gyro Ball", "Hyper Voice", "DoubleEdge"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Dig", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Flamethrower", "Fire Blast", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Focus Blast", "Fling", "Charge Beam", "Incinerate", "Retaliate", "Giga Impact", "Flash", "Thunder Wave", "Gyro Ball", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "PowerUp", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Counter", "Covet", "Drain Punch", "Dynamic Punch", "Endeavor", "Fire Punch", "Focus Punch", "Gravity", "Heal Bell", "Helping Hand", "Hyper Voice", "Ice Punch", "Icy Wind", "Knock Off", "Last Resort", "Magic Coat", "Magic Room", "Mega Kick", "Mega Punch", "Mimic", "Pain Split", "Recycle", "Role Play", "Rollout", "Seismic Toss", "Shock Wave", "Signal Beam", "Sleep Talk", "Snatch", "Snore", "Stealth Rock", "Thunder Punch", "Uproar", "Water Pulse", "Work Up"};
 		naturalMoves = new String[]{};
-	}
+}
 		Wigglytuff(){
 
 		super();

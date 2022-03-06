@@ -1,5 +1,5 @@
 public class Vullaby extends Pokemon{
-	{
+{
 		name = "Vullaby";
 		bHP = 7;
 		bAtk = 6;
@@ -8,7 +8,7 @@ public class Vullaby extends Pokemon{
 		bSpDef = 7;
 		bSpd = 6;
 		type1 = "Dark";
-		type2 = "Flying";
+		type2 = "";
 		abilities = new String[]{"Big Pecks", "Overcoat", "Weak Armor", "Lunchbox", "Frighten"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Mandibuzz"};
@@ -17,20 +17,20 @@ public class Vullaby extends Pokemon{
 		size = "Small";
 		weight = 19.8;
 		WC = 1;
-		maleRatio = 0.0;
-		femaleRatio = 100.0;
+		maleRatio = 0;
+		femaleRatio = 100;
 		egg1 = "Flying";
-		egg2 = "";
+		egg2 = "Average";
 		habitats = new String[]{"Cave", "Desert", "Mountain"};
 		overland = 3;
 		swim = 1;
 		levitate = 0;
+		sky = 5;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 1;
-		underdog = true;
-		other = new String[]{"Darkvision","Guster"};
+		underdog = false;
 		athl = 3;
 		acro = 2;
 		combat = 1;
@@ -45,11 +45,11 @@ public class Vullaby extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 10, 14, 19, 23, 28, 32, 34, 41, 46, 50, 55, 59, 64};
 		moves = new String[]{"Gust", "Leer", "Fury Attack", "Pluck", "Nasty Plot", "Flatter", "Feint Attack", "Punishment", "Defog", "Tailwind", "Air Slash", "Dark Pulse", "Embargo", "Whirlwind", "Brave Bird", "Mirror Move"};
-		TMs = new String[]{"Cut", "Fly", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Shadow Ball", "Double Team", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Incinerate", "Embargo", "Payback", "Retaliate", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Snarl", "Dark Pulse"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Shadow Ball", "Double Team", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Incinerate", "Embargo", "Payback", "Retaliate", "Psych Up", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Rock Smash", "Snarl", "Dark Pulse"};
 		eggMoves = new String[]{"Fake Tears", "Foul Play", "Knock Off", "Mean Look", "Roost", "Scary Face", "Steel Wing"};
 		tutorMoves = new String[]{"Block", "Dark Pulse", "Foul Play", "Heat Wave", "Iron Defense", "Knock Off", "Pluck", "Roost", "Sleep Talk", "Snatch", "Snore", "Tailwind"};
 		naturalMoves = new String[]{};
-	}
+}
 		Vullaby(){
 
 		super();

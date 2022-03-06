@@ -1,5 +1,5 @@
 public class Whirlipede extends Pokemon{
-	{
+{
 		name = "Whirlipede";
 		bHP = 4;
 		bAtk = 6;
@@ -8,8 +8,8 @@ public class Whirlipede extends Pokemon{
 		bSpDef = 8;
 		bSpd = 5;
 		type1 = "Bug";
-		type2 = "Poison";
-		abilities = new String[]{"Poison Point", "Vanguard", "Swarm", "Speed Boost", "Rock Head"};
+		type2 = "";
+		abilities = new String[]{"Poison Point", "Vanguard", "Swarm", "Speed Boost", "Head"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Venipede();
 		prevReq = 15;
@@ -18,21 +18,22 @@ public class Whirlipede extends Pokemon{
 		height = "3\'/11\"";
 		weight = 129;
 		WC = 4;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Bug";
-		egg2 = "Herbivore";
-		habitats = new String[]{"Forest"};
+		egg2 = "Diet";
+		habitats = new String[]{"Forest", "Capability", "List"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]{};
+		other = new String[] {};
 		athl = 3;
 		acro = 1;
 		combat = 2;
@@ -47,10 +48,10 @@ public class Whirlipede extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{5, 8, 12, 15, 19, 22, 23, 28, 32, 37, 41, 46, 50};
 		moves = new String[]{"Poison Sting", "Screech", "Pursuit", "Protect", "Poison Tail", "Iron Defense", "Bug Bite", "Venoshock", "Agility", "Steamroller", "Toxic", "Rock Climb", "DoubleEdge"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Payback", "Gyro Ball", "Struggle Bug", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Payback", "Gyro Ball", "Struggle Bug", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Endeavor", "Iron Defense", "Sleep Talk", "Snore"};
 		naturalMoves = new String[]{};
-	}
+}
 		Whirlipede(){
 
 		super();
