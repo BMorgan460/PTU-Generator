@@ -1,5 +1,5 @@
 public class Poochyena extends Pokemon{
-	{
+{
 		name = "Poochyena";
 		bHP = 4;
 		bAtk = 6;
@@ -9,7 +9,7 @@ public class Poochyena extends Pokemon{
 		bSpd = 4;
 		type1 = "Dark";
 		type2 = "";
-		abilities = new String[]{"Run Away", "Teamwork", "Rattled", "Quick Feet", "Pack Hunt"};
+		abilities = new String[]{"Run Away", "Teamwork", "Rattled", "Quick Feet", "Hunt"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Mightyena"};
 		nextReq = new String[]{"15"};
@@ -17,20 +17,20 @@ public class Poochyena extends Pokemon{
 		size = "Small";
 		weight = 30;
 		WC = 2;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
-		egg2 = "";
+		egg2 = "Average";
+		habitats = new String[]{"Forest", "Grassland", "Capability"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 2;
-		natureWalk = new String[]{"Grassland", "Forest"};
-		underdog = true;
-		other = new String[]{"Darkvision","Tracker"};
+		underdog = false;
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -49,7 +49,7 @@ public class Poochyena extends Pokemon{
 		eggMoves = new String[]{"Astonish", "Covet", "Fire Fang", "Ice Fang", "Leer", "Me First", "Play Rough", "Poison Fang", "Sleep Talk", "Snatch", "Sucker Punch", "Thunder Fang", "Yawn"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Covet", "Dark Pulse", "Foul Play", "Hyper Voice", "Iron Tail", "Psych Up", "Sleep Talk", "Snatch", "Snore", "Spite", "Sucker Punch", "Super Fang", "Uproar"};
 		naturalMoves = new String[]{};
-	}
+}
 		Poochyena(){
 
 		super();

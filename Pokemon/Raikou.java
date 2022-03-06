@@ -1,5 +1,5 @@
 public class Raikou extends Pokemon{
-	{
+{
 		name = "Raikou";
 		bHP = 9;
 		bAtk = 9;
@@ -9,7 +9,7 @@ public class Raikou extends Pokemon{
 		bSpd = 12;
 		type1 = "Electric";
 		type2 = "";
-		abilities = new String[]{"Pressure", "Volt Absorb", "Sprint", "Run Away", "Speed Boost"};
+		abilities = new String[]{"Pressure", "Volt Absorb", "Sprint", "Run Away", "Boost"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "6\'/3\"";
 		size = "Large";
@@ -19,16 +19,16 @@ public class Raikou extends Pokemon{
 		femaleRatio = -1;
 		egg1 = "Monster";
 		egg2 = "Ground";
+		habitats = new String[]{"Grassland", "Mountain", "Capability"};
 		overland = 13;
 		swim = 6;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 3 ;
+		lJump = 3;
 		hJump = 3;
 		power = 8;
-		natureWalk = new String[]{"Grassland"};
 		underdog = false;
-		other = new String[]{"Tracker","Zapper","Mountable 2"};
 		athl = 4;
 		acro = 5;
 		combat = 4;
@@ -43,10 +43,10 @@ public class Raikou extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, 78, 85};
 		moves = new String[]{"Bite", "Leer", "Thunder Shock", "Roar", "Quick Attack", "Spark", "Reflect", "Crunch", "Thunder Fang", "Discharge", "Extrasensory", "Rain Dance", "Calm Mind", "Thunder"};
-		TMs = new String[]{"Cut", "Strength", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Reflect", "Sandstorm", "Facade", "Rest", "Round", "Charge", "Charge Beam", "Quash", "Giga Impact", "Flash", "Volt Switch", "Thunder", "Thunder Wave", "Psych Up", "Bulldoze", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Snarl"};
+		TMs = new String[]{"Calm Mind", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Reflect", "Sandstorm", "Facade", "Rest", "Round", "Charge Beam", "Quash", "Giga Impact", "Flash", "Volt Switch", "Thunder Wave", "Psych Up", "Bulldoze", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Snarl"};
 		tutorMoves = new String[]{"Aura Sphere", "Body Slam", "Slam", "Extreme Speed", "Iron Head", "Iron Tail", "Magnet Rise", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Weather Ball", "Zap Cannon"};
 		naturalMoves = new String[]{"Slam", "Discharge", "Extrasensory"};
-	}
+}
 		Raikou(){
 
 		super();

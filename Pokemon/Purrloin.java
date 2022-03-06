@@ -1,5 +1,5 @@
 public class Purrloin extends Pokemon{
-	{
+{
 		name = "Purrloin";
 		bHP = 4;
 		bAtk = 5;
@@ -17,21 +17,20 @@ public class Purrloin extends Pokemon{
 		size = "Small";
 		weight = 22.3;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
-		egg2 = "";
+		egg2 = "Average";
 		habitats = new String[]{"Forest", "Grassland", "Rainforest"};
 		overland = 5;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Urban"};
-		underdog = true;
-		other = new String[]{"Darkvision","Stealth"};
+		underdog = false;
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -46,11 +45,11 @@ public class Purrloin extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 6, 10, 12, 15, 19, 21, 24, 28, 30, 33, 37, 39, 42, 46, 49};
 		moves = new String[]{"Scratch", "Growl", "Assist", "Sand Attack", "Fury Swipes", "Pursuit", "Torment", "Fake Out", "Hone Claws", "Assurance", "Slash", "Captivate", "Night Slash", "Snatch", "Nasty Plot", "Sucker Punch", "Play Rough"};
-		TMs = new String[]{"Cut", "Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Return", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Embargo", "Shadow Claw", "Payback", "Thunder", "Thunder Wave", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Snarl", "Dark Pulse"};
+		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Return", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Embargo", "Shadow Claw", "Payback", "Thunder Wave", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Snarl", "Dark Pulse"};
 		eggMoves = new String[]{"Charm", "Copycat", "Covet", "Encore", "Feint Attack", "Fake Tears", "Pay Day", "Foul Play", "Yawn"};
 		tutorMoves = new String[]{"Covet", "Dark Pulse", "Foul Play", "Gunk Shot", "Hyper Voice", "Iron Tail", "Knock Off", "Role Play", "Seed Bomb", "Sleep Talk", "Snatch", "Snore", "Spite", "Trick"};
 		naturalMoves = new String[]{};
-	}
+}
 		Purrloin(){
 
 		super();

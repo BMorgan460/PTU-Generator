@@ -1,5 +1,5 @@
 public class Pansear extends Pokemon{
-	{
+{
 		name = "Pansear";
 		bHP = 5;
 		bAtk = 5;
@@ -12,7 +12,7 @@ public class Pansear extends Pokemon{
 		abilities = new String[]{"Decoy", "Gluttony", "Flame Body", "Flash Fire", "Blaze"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Simisear"};
-		nextReq = new String[]{"20"};
+		nextReq = new String[]{"Stone"};
 		height = "2\'/0\"";
 		size = "Small";
 		weight = 24.3;
@@ -20,17 +20,19 @@ public class Pansear extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "";
+		egg2 = "Average";
+		habitats = new String[]{"Forest", "Rainforest", "Capability"};
 		overland = 4;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 3;
 		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[]{};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -45,11 +47,11 @@ public class Pansear extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43};
 		moves = new String[]{"Scratch", "Play Nice", "Leer", "Lick", "Incinerate", "Fury Swipes", "Yawn", "Bite", "Flame Burst", "Amnesia", "Fling", "Acrobatics", "Fire Blast", "Recycle", "Natural Gift", "Crunch"};
-		TMs = new String[]{"Cut", "Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Solar Beam", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Flame Charge", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Overheat", "Fling", "Incinerate", "Acrobatics", "Shadow Claw", "Payback", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Solar Beam", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Flame Charge", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Overheat", "Fling", "Incinerate", "WillOWisp", "Acrobatics", "Shadow Claw", "Payback", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Astonish", "Covet", "Disarming Voice", "Fire Punch", "Fire Spin", "Heat Wave", "Low Kick", "Nasty Plot", "Role Play", "Sleep Talk", "Tickle"};
 		tutorMoves = new String[]{"Covet", "Endeavor", "Fire Punch", "Gunk Shot", "Heat Wave", "Helping Hand", "Iron Tail", "Knock Off", "Low Kick", "Recycle", "Role Play", "Sleep Talk", "Snore", "Uproar", "Work Up"};
 		naturalMoves = new String[]{};
-	}
+}
 		Pansear(){
 
 		super();

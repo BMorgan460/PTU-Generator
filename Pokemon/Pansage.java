@@ -1,5 +1,5 @@
 public class Pansage extends Pokemon{
-	{
+{
 		name = "Pansage";
 		bHP = 5;
 		bAtk = 5;
@@ -9,10 +9,10 @@ public class Pansage extends Pokemon{
 		bSpd = 6;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Decoy", "Gluttony", "Grass Pelt", "Sap Sipper", "Overgrow"};
+		abilities = new String[]{"Decoy", "Gluttony", "Grass Pelt", "Sap Sipper", "Overgrowth"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Simisage"};
-		nextReq = new String[]{"20"};
+		nextReq = new String[]{"Stone"};
 		height = "2\'/0\"";
 		size = "Small";
 		weight = 23.1;
@@ -20,17 +20,19 @@ public class Pansage extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "";
+		egg2 = "Average";
+		habitats = new String[]{"Forest", "Rainforest", "Capability"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 3;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]{};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -45,11 +47,11 @@ public class Pansage extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43};
 		moves = new String[]{"Scratch", "Play Nice", "Leer", "Lick", "Vine Whip", "Fury Swipes", "Leech Seed", "Bite", "Seed Bomb", "Torment", "Fling", "Acrobatics", "Grass Knot", "Recycle", "Natural Gift", "Crunch"};
-		TMs = new String[]{"Cut", "Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Solar Beam", "Return", "Dig", "Double Team", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Energy Ball", "Fling", "Acrobatics", "Shadow Claw", "Payback", "Flash", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power"};
+		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Solar Beam", "Return", "Dig", "Double Team", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Energy Ball", "Fling", "Acrobatics", "Shadow Claw", "Payback", "Flash", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power"};
 		eggMoves = new String[]{"Astonish", "Bullet Seed", "Covet", "Disarming Voice", "Leaf Storm", "Low Kick", "Magical Leaf", "Nasty Plot", "Role Play", "Tickle"};
 		tutorMoves = new String[]{"Covet", "Endeavor", "Giga Drain", "Gunk Shot", "Helping Hand", "Iron Tail", "Knock Off", "Low Kick", "Recycle", "Role Play", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Uproar", "Work Up", "Worry Seed"};
 		naturalMoves = new String[]{};
-	}
+}
 		Pansage(){
 
 		super();

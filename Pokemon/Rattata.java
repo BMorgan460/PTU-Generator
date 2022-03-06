@@ -1,5 +1,5 @@
 public class Rattata extends Pokemon{
-	{
+{
 		name = "Rattata";
 		bHP = 3;
 		bAtk = 6;
@@ -17,21 +17,20 @@ public class Rattata extends Pokemon{
 		size = "Small";
 		weight = 7.7;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
-		egg2 = "";
+		egg2 = "Average";
 		habitats = new String[]{"Cave", "Forest", "Grassland"};
 		overland = 6;
 		swim = 4;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 2 ;
+		lJump = 2;
 		hJump = 2;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Urban"};
-		underdog = true;
-		other = new String[]{"Stealth"};
+		underdog = false;
 		athl = 1;
 		acro = 3;
 		combat = 2;
@@ -46,11 +45,11 @@ public class Rattata extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34};
 		moves = new String[]{"Tackle", "Tail Whip", "Quick Attack", "Focus Energy", "Bite", "Pursuit", "Hyper Fang", "Sucker Punch", "Crunch", "Assurance", "Super Fang", "DoubleEdge", "Endeavor"};
-		TMs = new String[]{"Cut", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge", "Charge Beam", "Retaliate", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge Beam", "Retaliate", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Wild Charge", "Rock Smash"};
 		eggMoves = new String[]{"Bite", "Counter", "Final Gambit", "Flame Wheel", "Fury Swipes", "Last Resort", "Me First", "Revenge", "Reversal", "Screech", "Swagger", "Uproar"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Defense Curl", "Endeavor", "Icy Wind", "Iron Tail", "Last Resort", "Pluck", "Shock Wave", "Sleep Talk", "Snore", "Sucker Punch", "Super Fang", "Superpower", "Swift", "Uproar", "Work Up", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-	}
+}
 		Rattata(){
 
 		super();

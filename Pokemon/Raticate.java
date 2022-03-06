@@ -1,5 +1,5 @@
 public class Raticate extends Pokemon{
-	{
+{
 		name = "Raticate";
 		bHP = 6;
 		bAtk = 8;
@@ -17,21 +17,20 @@ public class Raticate extends Pokemon{
 		size = "Small";
 		weight = 40.8;
 		WC = 2;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
-		egg2 = "Omnivore";
+		egg2 = "Diet";
 		habitats = new String[]{"Cave", "Forest", "Grassland"};
 		overland = 7;
 		swim = 6;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 2 ;
+		lJump = 2;
 		hJump = 2;
 		power = 3;
-		natureWalk = new String[]{"Grassland", "Urban"};
-		underdog = true;
-		other = new String[]{"Tracker","Stealth"};
+		underdog = false;
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -46,10 +45,10 @@ public class Raticate extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 20, 24, 29, 34, 39, 44};
 		moves = new String[]{"Quick Attack", "Focus Energy", "Bite", "Pursuit", "Hyper Fang", "Sucker Punch", "Scary Face", "Crunch", "Assurance", "Super Fang", "DoubleEdge", "Endeavor"};
-		TMs = new String[]{"Cut", "Strength", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge", "Charge Beam", "Retaliate", "Giga Impact", "Thunder", "Thunder Wave", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash"};
+		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge Beam", "Retaliate", "Giga Impact", "Thunder Wave", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Wild Charge", "Rock Smash"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Covet", "Defense Curl", "Endeavor", "Icy Wind", "Iron Tail", "Last Resort", "Pluck", "Shock Wave", "Sleep Talk", "Snore", "Sucker Punch", "Super Fang", "Superpower", "Swift", "Uproar", "Work Up", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-	}
+}
 		Raticate(){
 
 		super();

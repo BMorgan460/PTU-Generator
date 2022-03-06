@@ -1,5 +1,5 @@
 public class Poliwhirl extends Pokemon{
-	{
+{
 		name = "Poliwhirl";
 		bHP = 7;
 		bAtk = 7;
@@ -18,20 +18,20 @@ public class Poliwhirl extends Pokemon{
 		height = "3\'/3\"";
 		weight = 44.1;
 		WC = 2;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Water";
-		egg2 = "Diet";
+		egg2 = "1";
+		habitats = new String[]{"Freshwater", "Marsh", "Capability"};
 		overland = 4;
 		swim = 5;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 4;
-		natureWalk = new String[]{"Wetlands"};
-		underdog = true;
-		other = new String[]{"Fountain","Gilled"};
+		underdog = false;
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -45,11 +45,11 @@ public class Poliwhirl extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 2;
 		movesLevels = new int[]{5, 8, 11, 15, 18, 21, 27, 32, 37, 43, 48, 53};
-		moves = new String[]{"Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Mud Shot", "Belly Drum", "Wake Up Slap", "Hydro Pump", "Mud Bomb"};
-		TMs = new String[]{"Surf", "Strength", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Psychic", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Fling", "Bulldoze", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
+		moves = new String[]{"Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Mud Shot", "Belly Drum", "WakeUp", "Hydro Pump", "Mud Bomb"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Psychic", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Scald", "Fling", "Bulldoze", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
 		tutorMoves = new String[]{"Counter", "Dive", "Defense Curl", "Endeavor", "Focus Punch", "Helping Hand", "Ice Punch", "Icy Wind", "Mega Kick", "Mega Punch", "Metronome", "Seismic Toss", "Sleep Talk", "Snore", "Water Pulse"};
 		naturalMoves = new String[]{};
-	}
+}
 		Poliwhirl(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Pidgeotto extends Pokemon{
-	{
+{
 		name = "Pidgeotto";
 		bHP = 6;
 		bAtk = 6;
@@ -8,7 +8,7 @@ public class Pidgeotto extends Pokemon{
 		bSpDef = 5;
 		bSpd = 7;
 		type1 = "Normal";
-		type2 = "Flying";
+		type2 = "";
 		abilities = new String[]{"Keen Eye", "Tangled Feet", "Big Pecks", "Blow Away", "Competitive"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Pidgey();
@@ -18,20 +18,21 @@ public class Pidgeotto extends Pokemon{
 		height = "3\'/7\"";
 		weight = 66.1;
 		WC = 3;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Flying";
-		egg2 = "Carnivore";
-		habitats = new String[]{"Forest"};
+		egg2 = "Diet";
+		habitats = new String[]{"Forest", "Capability", "List"};
 		overland = 3;
 		swim = 2;
 		levitate = 0;
+		sky = 7;
 		burrow = 0;
-		lJump = 2 ;
+		lJump = 2;
 		hJump = 2;
 		power = 3;
 		underdog = true;
-		other = new String[]{};
+		other = new String[] {};
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -46,10 +47,10 @@ public class Pidgeotto extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 13, 17, 22, 27, 32, 37, 42, 47, 52, 57, 62};
 		moves = new String[]{"Sand Attack", "Gust", "Quick Attack", "Whirlwind", "Twister", "Feather Dance", "Agility", "Wing Attack", "Roost", "Tailwind", "Mirror Move", "Air Slash", "Hurricane"};
-		TMs = new String[]{"Fly", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Swagger", "Sleep Talk", "Substitute"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Swagger", "Sleep Talk", "UTurn", "Substitute"};
 		tutorMoves = new String[]{"Air Cutter", "Defog", "Heat Wave", "Ominous Wind", "Pluck", "Roost", "Sky Attack", "Sleep Talk", "Snore", "Steel Wing", "Swift", "Tailwind", "Twister", "Uproar", "Work Up"};
 		naturalMoves = new String[]{};
-	}
+}
 		Pidgeotto(){
 
 		super();

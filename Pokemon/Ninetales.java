@@ -1,5 +1,5 @@
 public class Ninetales extends Pokemon{
-	{
+{
 		name = "Ninetales";
 		bHP = 7;
 		bAtk = 8;
@@ -16,20 +16,20 @@ public class Ninetales extends Pokemon{
 		height = "3\'/7\"";
 		weight = 43.9;
 		WC = 2;
-		maleRatio = 25.0;
-		femaleRatio = 75.0;
+		maleRatio = 25;
+		femaleRatio = 75;
 		egg1 = "Field";
-		egg2 = "Omnivore";
+		egg2 = "Diet";
+		habitats = new String[]{"Grassland", "Mountain", "Capability"};
 		overland = 6;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 4;
-		natureWalk = new String[]{"Forest", "Mountain"};
 		underdog = false;
-		other = new String[]{"Firestarter","Tracker"};
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -43,11 +43,11 @@ public class Ninetales extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 2;
 		movesLevels = new int[]{1, 4, 7, 9, 10, 12, 15, 18, 20, 23, 26, 28, 31, 34, 36, 39, 42, 44, 47, 50};
-		moves = new String[]{"Ember", "Tail Whip", "Roar", "Baby Doll Eyes", "Quick Attack", "Confuse Ray", "Fire Spin", "Payback", "WillOWisp", "Feint Attack", "Hex", "Flame Burst", "Extrasensory", "Safeguard", "Flamethrower", "Imprison", "Fire Blast", "Grudge", "Captivate", "Inferno"};
-		TMs = new String[]{"Psyshock", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Overheat", "Energy Ball", "Incinerate", "Payback", "Giga Impact", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
+		moves = new String[]{"Ember", "Tail Whip", "Roar", "BabyDoll", "Quick Attack", "Confuse Ray", "Fire Spin", "Payback", "WillOWisp", "Feint Attack", "Hex", "Flame Burst", "Extrasensory", "Safeguard", "Flamethrower", "Imprison", "Fire Blast", "Grudge", "Captivate", "Inferno"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Overheat", "Energy Ball", "Incinerate", "WillOWisp", "Payback", "Giga Impact", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Dark Pulse", "Fire Spin", "Foul Play", "Heat Wave", "Iron Tail", "Magic Coat", "Ominous Wind", "Pain Split", "Quick Attack", "Role Play", "Sleep Talk", "Snore", "Spite", "Swift", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{"Flamethrower", "Imprison"};
-	}
+}
 		Ninetales(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Quilava extends Pokemon{
-	{
+{
 		name = "Quilava";
 		bHP = 6;
 		bAtk = 6;
@@ -9,7 +9,7 @@ public class Quilava extends Pokemon{
 		bSpd = 8;
 		type1 = "Fire";
 		type2 = "";
-		abilities = new String[]{"Blaze", "Flame Body", "Run Away", "Celebrate", "Flash Fire"};
+		abilities = new String[]{"Blaze", "Flame Body", "Run Away", "Celebrate", "Fire"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Cyndaquil();
 		prevReq = 15;
@@ -22,17 +22,17 @@ public class Quilava extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "Carnivore";
+		egg2 = "Diet";
+		habitats = new String[]{"Cave", "Mountain", "Capability"};
 		overland = 7;
 		swim = 4;
 		levitate = 0;
-		burrow = 3;
-		lJump = 2 ;
+		sky = 0;
+		burrow = 0;
+		lJump = 2;
 		hJump = 2;
-		power = 3;
-		natureWalk = new String[]{"Grasslands"};
-		underdog = true;
-		other = new String[]{"Firestarter","Heater","Glow"};
+		power = 0;
+		underdog = false;
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -47,10 +47,10 @@ public class Quilava extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{6, 10, 13, 20, 24, 31, 35, 42, 46, 53, 57, 64, 68};
 		moves = new String[]{"Smokescreen", "Ember", "Quick Attack", "Flame Wheel", "Defense Curl", "Swift", "Flame Charge", "Lava Plume", "Flamethrower", "Inferno", "Rollout", "DoubleEdge", "Eruption"};
-		TMs = new String[]{"Cut", "Strength", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Overheat", "Incinerate", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Nature Power"};
+		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Overheat", "Incinerate", "WillOWisp", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Nature Power"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Fire Pledge", "Focus Punch", "Fury Cutter", "Heat Wave", "Rollout", "Sleep Talk", "Snore"};
 		naturalMoves = new String[]{};
-	}
+}
 		Quilava(){
 
 		super();

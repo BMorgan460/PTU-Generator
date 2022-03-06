@@ -1,5 +1,5 @@
 public class Ponyta extends Pokemon{
-	{
+{
 		name = "Ponyta";
 		bHP = 5;
 		bAtk = 9;
@@ -16,21 +16,20 @@ public class Ponyta extends Pokemon{
 		height = "3\'/3\"";
 		weight = 66.1;
 		WC = 3;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
-		egg2 = "";
-		habitats = new String[]{"Grassland"};
+		egg2 = "Average";
+		habitats = new String[]{"Grassland", "Capability", "List"};
 		overland = 7;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 3;
-		natureWalk = new String[]{"Grassland"};
-		underdog = true;
-		other = new String[]{"Egg Warmer","Firestarter","Glow","Heater","Mountable 1"};
+		underdog = false;
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -45,11 +44,11 @@ public class Ponyta extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 4, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49};
 		moves = new String[]{"Tackle", "Growl", "Tail Whip", "Ember", "Flame Wheel", "Stomp", "Flame Charge", "Fire Spin", "Take Down", "Inferno", "Agility", "Fire Blast", "Bounce", "Flare Blitz"};
-		TMs = new String[]{"Strength", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Incinerate", "Swagger", "Sleep Talk", "Substitute", "Wild Charge"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Incinerate", "WillOWisp", "Swagger", "Sleep Talk", "Substitute", "Wild Charge"};
 		eggMoves = new String[]{"Ally Switch", "Captivate", "Charm", "Double Kick", "Flame Wheel", "Horn Drill", "Hypnosis", "Iron Tail", "Low Kick", "Morning Sun", "Thrash"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Heat Wave", "Iron Tail", "Low Kick", "Sleep Talk", "Snore", "Swift", "Quick Attack"};
 		naturalMoves = new String[]{};
-	}
+}
 		Ponyta(){
 
 		super();
