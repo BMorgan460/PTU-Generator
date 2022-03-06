@@ -1,5 +1,5 @@
 public class Flabebe extends Pokemon{
-	{
+{
 		name = "Flabebe";
 		bHP = 4;
 		bAtk = 4;
@@ -9,28 +9,26 @@ public class Flabebe extends Pokemon{
 		bSpd = 4;
 		type1 = "Fairy";
 		type2 = "";
-		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Flower Power"};
+		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Power"};
 		abilityTypeCount = new int[] {1,3,1};
-		next = new String[]{"Floette", "Florges"};
-		nextReq = new String[]{"Stone"};
 		height = "0\'/04\"";
 		size = "Small";
 		weight = 0.2;
 		WC = 1;
-		maleRatio = 0.0;
-		femaleRatio = 100.0;
+		maleRatio = 0;
+		femaleRatio = 100;
 		egg1 = "Fairy";
-		egg2 = "";
+		egg2 = "Average";
+		habitats = new String[]{"Forest", "Grassland", "Capability"};
 		overland = 2;
 		swim = 2;
 		levitate = 4;
+		sky = 0;
 		burrow = 0;
-		lJump = 0 ;
+		lJump = 0;
 		hJump = 1;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Forest"};
-		underdog = true;
-		other = new String[]{"Alluring"};
+		underdog = false;
 		athl = 1;
 		acro = 3;
 		combat = 1;
@@ -49,7 +47,7 @@ public class Flabebe extends Pokemon{
 		eggMoves = new String[]{"Camouflage", "Captivate", "Copycat"};
 		tutorMoves = new String[]{"After You", "Covet", "Endeavor", "Giga Drain", "Heal Bell", "Helping Hand", "Magic Coat", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-	}
+}
 		Flabebe(){
 
 		super();

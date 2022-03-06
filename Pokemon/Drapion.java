@@ -1,5 +1,5 @@
 public class Drapion extends Pokemon{
-	{
+{
 		name = "Drapion";
 		bHP = 7;
 		bAtk = 9;
@@ -8,7 +8,7 @@ public class Drapion extends Pokemon{
 		bSpDef = 8;
 		bSpd = 10;
 		type1 = "Poison";
-		type2 = "Dark";
+		type2 = "";
 		abilities = new String[]{"Battle Armor", "Sniper", "Keen Eye", "Strong Jaw", "Vicious"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Skorupi();
@@ -16,21 +16,22 @@ public class Drapion extends Pokemon{
 		height = "4\'/3\"";
 		weight = 135.6;
 		WC = 4;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Bug";
 		egg2 = "Water";
 		habitats = new String[]{"Forest", "Marsh", "Rainforest"};
 		overland = 6;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 7;
 		natureWalk = new String[]{"Forest"};
 		underdog = false;
-		other = new String[]{"Darkvision"};
+		other = new String[] {};
 		athl = 4;
 		acro = 1;
 		combat = 4;
@@ -45,10 +46,10 @@ public class Drapion extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 13, 16, 20, 23, 27, 30, 34, 38, 43, 49, 53, 57};
 		moves = new String[]{"Knock Off", "Pin Missile", "Acupressure", "Pursuit", "Bug Bite", "Poison Fang", "Venoshock", "Hone Claws", "Toxic Spikes", "Night Slash", "Scary Face", "Crunch", "Fell Stinger", "Cross Poison"};
-		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Roar", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Shadow Ball", "Brick Break", "Double Team", "Sludge", "Sludge Bomb", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "False Swipe", "Fling", "Payback", "Retaliate", "Giga Impact", "Flash", "Swords Dance", "Struggle Bug", "Bulldoze", "Rock Slide", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Snarl", "Dark Pulse"};
+		TMs = new String[]{"Hone Claws", "Roar", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Shadow Ball", "Brick Break", "Double Team", "Sludge Bomb", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "False Swipe", "Fling", "Payback", "Retaliate", "Giga Impact", "Flash", "Swords Dance", "Struggle Bug", "Bulldoze", "Rock Slide", "XScissor", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Snarl", "Dark Pulse"};
 		tutorMoves = new String[]{"Aqua Tail", "Bite", "Bug Bite", "Bite", "Dark Pulse", "Fury Cutter", "Iron Tail", "Knock Off", "Pin Missile", "Rock Climb", "Sleep Talk", "Snore", "Thunder"};
 		naturalMoves = new String[]{};
-	}
+}
 		Drapion(){
 
 		super();

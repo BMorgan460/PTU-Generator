@@ -1,5 +1,5 @@
 public class Eelektross extends Pokemon{
-	{
+{
 		name = "Eelektross";
 		bHP = 9;
 		bAtk = 12;
@@ -9,27 +9,30 @@ public class Eelektross extends Pokemon{
 		bSpd = 5;
 		type1 = "Electric";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Twisted Power", "Storm Drain", "Lightning Rod", "Run Up"};
+		abilities = new String[]{"Levitate", "Twisted Power", "Storm Drain", "Lightning Rod", "Up"};
 		abilityTypeCount = new int[] {1,3,1};
+		//previous = new Tynamo();
+		prevReq = 30;
 		previous = new Eelektrik();
-		prevReq = 40;
+		prevReq = 30;
 		height = "6\'/11\"";
 		size = "Large";
 		weight = 177.5;
 		WC = 4;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Indeterminate";
-		egg2 = "Carnivore";
+		egg2 = "Diet";
+		habitats = new String[]{"Cave", "Freshwater", "Capability"};
 		overland = 5;
-		swim = 5;
+		swim = 0;
 		levitate = 5;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
-		hJump = 1;
-		power = 6;
+		lJump = 0;
+		hJump = 0;
+		power = 0;
 		underdog = false;
-		other = new String[]{"Zapper","Glow","Gilled","Mountable 1"};
 		athl = 4;
 		acro = 2;
 		combat = 4;
@@ -44,10 +47,10 @@ public class Eelektross extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{19, 29, 39, 44, 49, 54, 59, 64, 69, 74};
 		moves = new String[]{"Acid", "Discharge", "Crunch", "Thunderbolt", "Acid Spray", "Coil", "Wild Charge", "Gastro Acid", "Zap Cannon", "Thrash"};
-		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Brick Break", "Double Team", "Flamethrower", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Charge", "Charge Beam", "Acrobatics", "Giga Impact", "Flash", "Volt Switch", "Thunder", "Thunder Wave", "Rock Slide", "Dragon Tail", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Wild Charge", "Rock Smash", "Confide"};
+		TMs = new String[]{"Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Brick Break", "Double Team", "Flamethrower", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Charge Beam", "Acrobatics", "Giga Impact", "Flash", "Volt Switch", "Thunder Wave", "Rock Slide", "Dragon Tail", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Flash Cannon", "Wild Charge", "Rock Smash", "PowerUp", "Confide"};
 		tutorMoves = new String[]{"Aqua Tail", "Bind", "Bounce", "Charge", "Drain Punch", "Fire Punch", "Gastro Acid", "Acid", "Giga Drain", "Ion Deluge", "Iron Tail", "Knock Off", "Magnet Rise", "Signal Beam", "Sleep Talk", "Snore", "Super Fang", "Superpower", "Thunder", "Zap Cannon"};
 		naturalMoves = new String[]{"Coil", "Ion Deluge", "Zap Cannon"};
-	}
+}
 		Eelektross(){
 
 		super();

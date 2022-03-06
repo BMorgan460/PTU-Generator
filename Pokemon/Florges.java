@@ -1,5 +1,5 @@
 public class Florges extends Pokemon{
-	{
+{
 		name = "Florges";
 		bHP = 8;
 		bAtk = 7;
@@ -9,27 +9,29 @@ public class Florges extends Pokemon{
 		bSpd = 8;
 		type1 = "Fairy";
 		type2 = "";
-		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Flower Power"};
+		abilities = new String[]{"Flower Veil", "Symbiosis", "Gardener", "Perception", "Power"};
 		abilityTypeCount = new int[] {1,3,1};
+		previous = new Flabebe();
+		prevReq = 15;
 		previous = new Floette();
-		prevReq = 25;
+		prevReq = 15;
 		height = "3\'/07\"";
 		weight = 22;
-		WC = 1;
-		maleRatio = 0.0;
-		femaleRatio = 100.0;
+		WC = 2;
+		maleRatio = 0;
+		femaleRatio = 100;
 		egg1 = "Fairy";
-		egg2 = "Herbivore";
+		egg2 = "Diet";
+		habitats = new String[]{"Forest", "Grassland", "Capability"};
 		overland = 4;
 		swim = 2;
 		levitate = 6;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 2;
-		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
-		other = new String[]{"Alluring"};
 		athl = 3;
 		acro = 4;
 		combat = 3;
@@ -47,7 +49,7 @@ public class Florges extends Pokemon{
 		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Psychic", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Giga Impact", "Flash", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"After You", "Covet", "Disarming Voice", "Endeavor", "Flower Shield", "Giga Drain", "Grass Knot", "Heal Bell", "Helping Hand", "Magic Coat", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{"Disarming Voice", "Flower Shield", "Grass Knot"};
-	}
+}
 		Florges(){
 
 		super();

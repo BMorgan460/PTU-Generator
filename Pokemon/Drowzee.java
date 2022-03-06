@@ -1,5 +1,5 @@
 public class Drowzee extends Pokemon{
-	{
+{
 		name = "Drowzee";
 		bHP = 6;
 		bAtk = 5;
@@ -16,20 +16,20 @@ public class Drowzee extends Pokemon{
 		height = "3\'/3\"";
 		weight = 71.4;
 		WC = 3;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Humanshape";
-		egg2 = "";
+		egg2 = "Average";
+		habitats = new String[]{"Grassland", "Marsh", "Capability"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 4;
-		natureWalk = new String[]{"Grassland"};
-		underdog = true;
-		other = new String[]{"Mind Lock"};
+		underdog = false;
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -44,11 +44,11 @@ public class Drowzee extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57, 61};
 		moves = new String[]{"Hypnosis", "Pound", "Disable", "Confusion", "Headbutt", "Poison Gas", "Meditate", "Psybeam", "Headbutt", "Psych Up", "Synchronoise", "Zen Headbutt", "Swagger", "Psychic", "Nasty Plot", "Psyshock", "Future Sight"};
-		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Fling", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dazzling Gleam", "Confide"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Fling", "Flash", "Thunder Wave", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "PowerUp", "Dazzling Gleam", "Confide"};
 		eggMoves = new String[]{"Assist", "Barrier", "Fire Punch", "Flatter", "Guard Swap", "Ice Punch", "Nasty Plot", "Psycho Cut", "Cut", "Role Play", "Secret Power", "Skill Swap", "Thunder Punch"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Drain Punch", "Dynamic Punch", "Fire Punch", "Focus Punch", "Foul Play", "Ice Punch", "Low Kick", "Magic Coat", "Magic Room", "Mega Kick", "Mega Punch", "Metronome", "Mimic", "Recycle", "Role Play", "Seismic Toss", "Signal Beam", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Telekinesis", "Thunder Punch", "Trick", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-	}
+}
 		Drowzee(){
 
 		super();

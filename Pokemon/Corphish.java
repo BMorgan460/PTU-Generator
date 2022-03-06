@@ -1,5 +1,5 @@
 public class Corphish extends Pokemon{
-	{
+{
 		name = "Corphish";
 		bHP = 4;
 		bAtk = 8;
@@ -17,19 +17,20 @@ public class Corphish extends Pokemon{
 		size = "Small";
 		weight = 25.4;
 		WC = 2;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Water";
-		egg2 = " ";
+		egg2 = "1";
+		habitats = new String[]{"Marsh", "Ocean", "Capability"};
 		overland = 4;
-		swim = 3;
+		swim = 0;
 		levitate = 0;
+		sky = 0;
 		burrow = 1;
-		lJump = 1 ;
-		hJump = 1;
-		power = 2;
-		underdog = true;
-		other = new String[]{"Gilled"};
+		lJump = 0;
+		hJump = 0;
+		power = 0;
+		underdog = false;
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -43,12 +44,12 @@ public class Corphish extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 5, 7, 10, 14, 17, 20, 23, 26, 31, 34, 37, 39, 43, 48};
-		moves = new String[]{"Bubble", "Harden", "Vice Grip", "Leer", "Bubble Beam", "Protect", "Double Hit", "Knock Off", "Night Slash", "Razor Shell", "Taunt", "Swords Dance", "Crunch", "Crabhammer", "Guillotine"};
-		TMs = new String[]{"Cut", "Surf", "Strength", "Waterfall", "Hone Claws", "Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Sludge", "Sludge Bomb", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Scald", "Fling", "Payback", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		moves = new String[]{"Bubble", "Harden", "Vice", "Leer", "Bubble Beam", "Protect", "Double Hit", "Knock Off", "Night Slash", "Razor Shell", "Taunt", "Swords Dance", "Crunch", "Crabhammer", "Guillotine"};
+		TMs = new String[]{"Hone Claws", "Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Sludge Bomb", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Scald", "Fling", "Payback", "Swords Dance", "Rock Slide", "XScissor", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Ancient Power", "Aqua Jet", "Body Slam", "Slam", "Chip Away", "Dragon Dance", "Endeavor", "Knock Off", "Metal Claw", "Mud Sport", "Superpower", "Switcheroo", "Trump Card"};
 		tutorMoves = new String[]{"Ancient Power", "Counter", "Endeavor", "Fury Cutter", "Icy Wind", "Iron Defense", "Knock Off", "Sleep Talk", "Snore", "Spite", "Superpower", "Water Pulse", "Whirlpool"};
 		naturalMoves = new String[]{};
-	}
+}
 		Corphish(){
 
 		super();

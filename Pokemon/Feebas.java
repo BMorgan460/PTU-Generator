@@ -1,5 +1,5 @@
 public class Feebas extends Pokemon{
-	{
+{
 		name = "Feebas";
 		bHP = 2;
 		bAtk = 2;
@@ -17,21 +17,21 @@ public class Feebas extends Pokemon{
 		size = "Small";
 		weight = 16.3;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Water";
-		egg2 = " ";
-		habitats = new String[]{"Freshwater"};
+		egg2 = "1";
+		habitats = new String[]{"Freshwater", "Capability", "List"};
 		overland = 1;
 		swim = 5;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 4 ;
+		lJump = 4;
 		hJump = 4;
 		power = 1;
 		natureWalk = new String[]{"Ocean"};
-		underdog = true;
-		other = new String[]{"Fountain","Gilled"};
+		underdog = false;
 		athl = 1;
 		acro = 2;
 		combat = 1;
@@ -46,11 +46,11 @@ public class Feebas extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 15, 30};
 		moves = new String[]{"Splash", "Tackle", "Flail"};
-		TMs = new String[]{"Surf", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Swagger", "Sleep Talk", "Substitute"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Brine", "Captivate", "Confuse Ray", "Dragon Pulse", "Dragon Breath", "Haze", "Hypnosis", "Iron Tail", "Light Screen", "Mirror Coat", "Mist", "Mud Sport", "Tickle"};
 		tutorMoves = new String[]{"Dive", "Dragon Pulse", "Icy Wind", "Iron Tail", "Sleep Talk", "Snore", "Swift", "Water Pulse", "Whirlpool"};
 		naturalMoves = new String[]{};
-	}
+}
 		Feebas(){
 
 		super();
