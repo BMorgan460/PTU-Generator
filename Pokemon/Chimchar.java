@@ -1,5 +1,5 @@
 public class Chimchar extends Pokemon{
-	{
+{
 		name = "Chimchar";
 		bHP = 4;
 		bAtk = 6;
@@ -21,16 +21,16 @@ public class Chimchar extends Pokemon{
 		femaleRatio = 12.5;
 		egg1 = "Field";
 		egg2 = "Humanshape";
+		habitats = new String[]{"Cave", "Mountain", "Capability"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 2;
-		natureWalk = new String[]{"Forest", "Mountain"};
-		underdog = true;
-		other = new String[]{"Firestarter","Glow"};
+		underdog = false;
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -45,11 +45,11 @@ public class Chimchar extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 7, 9, 15, 17, 23, 25, 31, 33, 39, 41, 47};
 		moves = new String[]{"Leer", "Scratch", "Ember", "Taunt", "Fury Swipes", "Flame Wheel", "Nasty Plot", "Torment", "Facade", "Fire Spin", "Acrobatics", "Slack Off", "Flamethrower"};
-		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Aerial Ace", "Torment", "Facade", "Flame Charge", "Rest", "Attract", "Low Sweep", "Round", "Overheat", "Fling", "Incinerate", "Acrobatics", "Shadow Claw", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
+		TMs = new String[]{"Hone Claws", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Aerial Ace", "Torment", "Facade", "Flame Charge", "Rest", "Attract", "Low Sweep", "Round", "Overheat", "Fling", "Incinerate", "WillOWisp", "Acrobatics", "Shadow Claw", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Rock Smash", "PowerUp", "Confide"};
 		eggMoves = new String[]{"Assist", "Blaze Kick", "Counter", "Double Kick", "Encore", "Fake Out", "Quick Guard", "Fire Punch", "Focus Energy", "Focus Punch", "Heat Wave", "Helping Hand", "Submission", "Thunder Punch"};
 		tutorMoves = new String[]{"Covet", "Endeavor", "Fire Pledge", "Fire Punch", "Gunk Shot", "Heat Wave", "Helping Hand", "Iron Tail", "Low Kick", "Magic Coat", "Rock Climb", "Role Play", "Rollout", "Sleep Talk", "Snore", "Stealth Rock", "Swift", "Thunder Punch", "Uproar", "Vacuum Wave"};
 		naturalMoves = new String[]{};
-	}
+}
 		Chimchar(){
 
 		super();

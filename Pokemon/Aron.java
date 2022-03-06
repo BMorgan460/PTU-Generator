@@ -1,5 +1,5 @@
 public class Aron extends Pokemon{
-	{
+{
 		name = "Aron";
 		bHP = 5;
 		bAtk = 7;
@@ -8,8 +8,8 @@ public class Aron extends Pokemon{
 		bSpDef = 4;
 		bSpd = 3;
 		type1 = "Steel";
-		type2 = "Rock";
-		abilities = new String[]{"Bulletproof", "Sturdy", "Rock Head", "Solid Rock", "Heavy Metal"};
+		type2 = "";
+		abilities = new String[]{"Bulletproof", "Sturdy", "Rock Head", "Solid Rock", "Metal"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Lairon", "Aggron"};
 		nextReq = new String[]{"40"};
@@ -17,20 +17,22 @@ public class Aron extends Pokemon{
 		size = "Small";
 		weight = 132.3;
 		WC = 4;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Monster";
-		egg2 = "";
+		egg2 = "Average";
+		habitats = new String[]{"Cave", "Mountain", "Capability"};
 		overland = 3;
 		swim = 1;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 0 ;
+		lJump = 0;
 		hJump = 0;
 		power = 5;
 		natureWalk = new String[]{"Cave"};
 		underdog = true;
-		other = new String[]{};
+		other = new String[] {};
 		athl = 3;
 		acro = 1;
 		combat = 2;
@@ -45,11 +47,11 @@ public class Aron extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49};
 		moves = new String[]{"Tackle", "Harden", "MudSlap", "Headbutt", "Metal Claw", "Rock Tomb", "Protect", "Roar", "Iron Head", "Rock Slide", "Take Down", "Metal Sound", "Iron Tail", "Iron Defense", "DoubleEdge", "Autotomize", "Heavy Slam", "Metal Burst"};
-		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Shadow Claw", "Rock Polish", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
+		TMs = new String[]{"Hone Claws", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Shadow Claw", "Rock Polish", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
 		eggMoves = new String[]{"Body Slam", "Slam", "Curse", "Dragon Rush", "Endeavor", "Head Smash", "Iron Head", "Reversal", "Screech", "Smelling Salts", "Stealth Rock", "Stomp", "Superpower"};
 		tutorMoves = new String[]{"Ancient Power", "Defense Curl", "Earth Power", "Endeavor", "Fury Cutter", "Iron Defense", "Iron Head", "Iron Tail", "Magnet Rise", "Rollout", "Shock Wave", "Sleep Talk", "Snore", "Spite", "Stealth Rock", "Superpower", "Uproar", "Water Pulse"};
 		naturalMoves = new String[]{};
-	}
+}
 		Aron(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Arbok extends Pokemon{
-	{
+{
 		name = "Arbok";
 		bHP = 6;
 		bAtk = 9;
@@ -9,28 +9,27 @@ public class Arbok extends Pokemon{
 		bSpd = 8;
 		type1 = "Poison";
 		type2 = "";
-		abilities = new String[]{"Shed Skin", "Intimidate", "Serpents Mark", "Serpents Mark"};
+		abilities = new String[]{"Shed Skin", "Intimidate", "Serpent’s", "Mark*"};
 		abilityTypeCount = new int[] {2,1,1};
 		previous = new Ekans();
 		prevReq = 20;
 		height = "11\'/6\"";
 		weight = 143.3;
 		WC = 4;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
 		egg2 = "Dragon";
-		habitats = new String[]{"Grassland"};
+		habitats = new String[]{"Grassland", "Capability", "List"};
 		overland = 6;
 		swim = 4;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 3;
-		natureWalk = new String[]{"Grassland"};
-		underdog = true;
-		other = new String[]{"Darkvision","Stealth"};
+		underdog = false;
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -45,10 +44,10 @@ public class Arbok extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{4, 9, 12, 17, 20, 22, 27, 27, 27, 34, 39, 44, 48, 51, 56, 63};
 		moves = new String[]{"Poison Sting", "Bite", "Glare", "Screech", "Acid", "Crunch", "Spit Up", "Stockpile", "Swallow", "Acid Spray", "Mud Bomb", "Gastro Acid", "Belch", "Haze", "Coil", "Gunk Shot"};
-		TMs = new String[]{"Strength", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Payback", "Giga Impact", "Bulldoze", "Rock Slide", "Dragon Tail", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Sludge Wave", "Sludge Bomb", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Payback", "Giga Impact", "Bulldoze", "Rock Slide", "Dragon Tail", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse"};
 		tutorMoves = new String[]{"Aqua Tail", "Bind", "Body Slam", "Slam", "Dark Pulse", "Gastro Acid", "Acid", "Giga Drain", "Gunk Shot", "Iron Tail", "Seed Bomb", "Sleep Talk", "Snatch", "Snore", "Spite", "Thunder"};
 		naturalMoves = new String[]{};
-	}
+}
 		Arbok(){
 
 		super();

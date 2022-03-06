@@ -1,5 +1,5 @@
 public class Barboach extends Pokemon{
-	{
+{
 		name = "Barboach";
 		bHP = 5;
 		bAtk = 5;
@@ -8,7 +8,7 @@ public class Barboach extends Pokemon{
 		bSpDef = 4;
 		bSpd = 6;
 		type1 = "Water";
-		type2 = "Ground";
+		type2 = "";
 		abilities = new String[]{"Oblivious", "Anticipation", "Gulp", "Mud Dweller", "Hydration"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Whiscash"};
@@ -17,20 +17,20 @@ public class Barboach extends Pokemon{
 		size = "Small";
 		weight = 4.2;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Water";
-		egg2 = "Average";
+		egg2 = "2";
+		habitats = new String[]{"Freshwater", "Marsh", "Capability"};
 		overland = 2;
-		swim = 4;
+		swim = 0;
 		levitate = 0;
+		sky = 0;
 		burrow = 2;
-		lJump = 2 ;
-		hJump = 2;
-		power = 1;
-		natureWalk = new String[]{"Wetlands"};
-		underdog = true;
-		other = new String[]{"Gilled","Fountain"};
+		lJump = 0;
+		hJump = 0;
+		power = 0;
+		underdog = false;
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -45,11 +45,11 @@ public class Barboach extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 6, 6, 9, 13, 15, 17, 20, 25, 25, 28, 32, 35, 39, 44};
 		moves = new String[]{"MudSlap", "Mud Sport", "Water Sport", "Water Gun", "Mud Bomb", "Amnesia", "Water Pulse", "Magnitude", "Rest", "Snore", "Aqua Tail", "Earthquake", "Muddy Water", "Future Sight", "Fissure"};
-		TMs = new String[]{"Surf", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Scald", "Bulldoze", "Swagger", "Sleep Talk", "Substitute"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Scald", "Bulldoze", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Dragon Dance", "Earth Power", "Flail", "Hydro Pump", "Mud Shot", "Muddy Water", "Spark", "Take Down", "Thrash", "Whirlpool"};
 		tutorMoves = new String[]{"Aqua Tail", "Bounce", "Dive", "Earth Power", "Icy Wind", "Sleep Talk", "Snore"};
 		naturalMoves = new String[]{};
-	}
+}
 		Barboach(){
 
 		super();
