@@ -1,5 +1,5 @@
 public class Growlithe extends Pokemon{
-	{
+{
 		name = "Growlithe";
 		bHP = 6;
 		bAtk = 7;
@@ -12,25 +12,25 @@ public class Growlithe extends Pokemon{
 		abilities = new String[]{"Intimidate", "Flash Fire", "Justified", "Bodyguard", "Conqueror"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Arcanine"};
-		nextReq = new String[]{"20"};
+		nextReq = new String[]{"Stone"};
 		height = "2\'/4\"";
 		size = "Small";
 		weight = 41.9;
 		WC = 2;
-		maleRatio = 75.0;
-		femaleRatio = 25.0;
+		maleRatio = 75;
+		femaleRatio = 25;
 		egg1 = "Field";
-		egg2 = "";
+		egg2 = "Average";
+		habitats = new String[]{"Grassland", "Mountain", "Capability"};
 		overland = 5;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 3;
-		natureWalk = new String[]{"Grassland", "Mountain"};
-		underdog = true;
-		other = new String[]{"Tracker"};
+		underdog = false;
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -45,11 +45,11 @@ public class Growlithe extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 6, 8, 10, 12, 17, 19, 21, 23, 28, 30, 32, 34, 39, 41, 43, 45};
 		moves = new String[]{"Bite", "Roar", "Ember", "Leer", "Odor Sleuth", "Helping Hand", "Flame Wheel", "Reversal", "Fire Fang", "Take Down", "Flame Burst", "Agility", "Retaliate", "Flamethrower", "Crunch", "Heat Wave", "Outrage", "Flare Blitz"};
-		TMs = new String[]{"Strength", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Attract", "Thief", "Round", "Overheat", "Incinerate", "Retaliate", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Snarl"};
+		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Return", "Dig", "Double Team", "Flamethrower", "Fire Blast", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Attract", "Thief", "Round", "Overheat", "Incinerate", "WillOWisp", "Retaliate", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash", "Snarl"};
 		eggMoves = new String[]{"Body Slam", "Slam", "Close Combat", "Covet", "Crunch", "Double Kick", "Fire Spin", "Flare Blitz", "Heat Wave", "Howl", "Iron Tail", "Morning Sun", "Safeguard", "Thrash"};
 		tutorMoves = new String[]{"Covet", "Heat Wave", "Helping Hand", "Iron Tail", "Outrage", "Sleep Talk", "Snore", "Swift"};
 		naturalMoves = new String[]{};
-	}
+}
 		Growlithe(){
 
 		super();

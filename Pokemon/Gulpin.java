@@ -1,5 +1,5 @@
 public class Gulpin extends Pokemon{
-	{
+{
 		name = "Gulpin";
 		bHP = 7;
 		bAtk = 4;
@@ -9,7 +9,7 @@ public class Gulpin extends Pokemon{
 		bSpd = 4;
 		type1 = "Poison";
 		type2 = "";
-		abilities = new String[]{"Sticky Hold", "Liquid Ooze", "Gluttony", "Limber", "Big Swallow"};
+		abilities = new String[]{"Sticky Hold", "Liquid Ooze", "Gluttony", "Limber", "Swallow"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Swalot"};
 		nextReq = new String[]{"25"};
@@ -17,20 +17,20 @@ public class Gulpin extends Pokemon{
 		size = "Small";
 		weight = 22.7;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Indeterminate";
-		egg2 = "";
+		egg2 = "Average";
 		habitats = new String[]{"Grassland", "Marsh", "Urban"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 1;
-		underdog = true;
-		other = new String[]{"Amorphous","Amorphous","Inflatable","Wallclimber"};
+		underdog = false;
 		athl = 2;
 		acro = 1;
 		combat = 2;
@@ -45,11 +45,11 @@ public class Gulpin extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 5, 8, 10, 12, 17, 20, 25, 28, 28, 28, 33, 36, 41, 44, 49};
 		moves = new String[]{"Pound", "Yawn", "Poison Gas", "Sludge", "Amnesia", "Acid Spray", "Encore", "Toxic", "Stockpile", "Swallow", "Spit Up", "Sludge Bomb", "Gastro Acid", "Belch", "Wring Out", "Gunk Shot"};
-		TMs = new String[]{"Strength", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Ice Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Explosion", "Infestation", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Ice Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Explosion", "Infestation", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
 		eggMoves = new String[]{"Acid Armor", "Curse", "Destiny Bond", "Dream Eater", "Gunk Shot", "Pain Split", "Smog", "Venom Drench"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bullet Seed", "Counter", "Defense Curl", "Dynamic Punch", "Fire Punch", "Gastro Acid", "Acid", "Giga Drain", "Gunk Shot", "Ice Punch", "Pain Split", "Rollout", "Seed Bomb", "Shock Wave", "Sleep Talk", "Snatch", "Snore", "Thunder Punch", "Water Pulse"};
 		naturalMoves = new String[]{};
-	}
+}
 		Gulpin(){
 
 		super();

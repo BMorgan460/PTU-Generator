@@ -1,5 +1,5 @@
 public class Kecleon extends Pokemon{
-	{
+{
 		name = "Kecleon";
 		bHP = 6;
 		bAtk = 9;
@@ -14,20 +14,20 @@ public class Kecleon extends Pokemon{
 		height = "3\'/3\"";
 		weight = 48.5;
 		WC = 2;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
-		egg2 = "";
-		habitats = new String[]{"Forest"};
+		egg2 = "Average";
+		habitats = new String[]{"Forest", "Capability", "List"};
 		overland = 5;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 2 ;
+		lJump = 2;
 		hJump = 2;
 		power = 2;
-		underdog = true;
-		other = new String[]{"Stealth"};
+		underdog = false;
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -42,11 +42,11 @@ public class Kecleon extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 1, 4, 7, 10, 13, 16, 18, 21, 25, 30, 33, 38, 42, 46, 50};
 		moves = new String[]{"Lick", "Scratch", "Tail Whip", "Bind", "Shadow Sneak", "Feint", "Fury Swipes", "Feint Attack", "Psybeam", "Ancient Power", "Slash", "Camouflage", "Shadow Claw", "Screech", "Substitute", "Sucker Punch", "Synchronoise"};
-		TMs = new String[]{"Cut", "Strength", "Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Charge", "Charge Beam", "Incinerate", "Shadow Claw", "Retaliate", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Rock Smash", "Confide"};
+		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Charge Beam", "Incinerate", "Shadow Claw", "Retaliate", "Flash", "Thunder Wave", "Psych Up", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Rock Smash", "PowerUp", "Confide"};
 		eggMoves = new String[]{"Camouflage", "Disable", "Dizzy Punch", "Fake Out", "Foul Play", "Magic Coat", "Nasty Plot", "Recover", "Skill Swap", "Snatch", "Trick"};
 		tutorMoves = new String[]{"After You", "Ancient Power", "Aqua Tail", "Bind", "Body Slam", "Slam", "Counter", "Defense Curl", "Drain Punch", "Dynamic Punch", "Fire Punch", "Focus Punch", "Foul Play", "Fury Cutter", "Ice Punch", "Icy Wind", "Iron Tail", "Knock Off", "Last Resort", "Low Kick", "Magic Coat", "Mega Kick", "Mega Punch", "Metronome", "Recycle", "Role Play", "Rollout", "Seismic Toss", "Shock Wave", "Skill Swap", "Sleep Talk", "Snore", "Stealth Rock", "Sucker Punch", "Swift", "Thunder Punch", "Trick", "Water Pulse", "Wonder Room", "Work Up"};
 		naturalMoves = new String[]{};
-	}
+}
 		Kecleon(){
 
 		super();
