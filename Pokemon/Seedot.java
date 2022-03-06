@@ -1,5 +1,5 @@
 public class Seedot extends Pokemon{
-	{
+{
 		name = "Seedot";
 		bHP = 4;
 		bAtk = 4;
@@ -17,20 +17,22 @@ public class Seedot extends Pokemon{
 		size = "Small";
 		weight = 8.8;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
 		egg2 = "Plant";
+		habitats = new String[]{"Forest", "Rainforest", "Capability"};
 		overland = 3;
 		swim = 1;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 2 ;
+		lJump = 2;
 		hJump = 2;
 		power = 1;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = true;
-		other = new String[]{};
+		other = new String[] {};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -49,7 +51,7 @@ public class Seedot extends Pokemon{
 		eggMoves = new String[]{"Amnesia", "Beat Up", "Bullet Seed", "Defog", "False Swipe", "Foul Play", "Grassy Terrain", "Leech Seed", "Nasty Plot", "Power Swap", "Quick Attack", "Razor Wind", "Take Down", "Worry Seed"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Foul Play", "Giga Drain", "Rollout", "Seed Bomb", "Sleep Talk", "Snore", "Spite", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-	}
+}
 		Seedot(){
 
 		super();

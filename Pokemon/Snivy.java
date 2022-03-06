@@ -1,5 +1,5 @@
 public class Snivy extends Pokemon{
-	{
+{
 		name = "Snivy";
 		bHP = 5;
 		bAtk = 5;
@@ -21,16 +21,18 @@ public class Snivy extends Pokemon{
 		femaleRatio = 12.5;
 		egg1 = "Field";
 		egg2 = "Plant";
+		habitats = new String[]{"Forest", "Rainforest", "Capability"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 2;
 		natureWalk = new String[]{"Grassland", "Forest"};
-		underdog = true;
-		other = new String[]{"Stealth"};
+		underdog = false;
+		other = new String[]{"Underdog"};
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -45,11 +47,11 @@ public class Snivy extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43};
 		moves = new String[]{"Tackle", "Leer", "Vine Whip", "Wrap", "Growth", "Leaf Tornado", "Leech Seed", "Mega Drain", "Slam", "Leaf Blade", "Coil", "Giga Drain", "Wring Out", "Gastro Acid", "Leaf Storm"};
-		TMs = new String[]{"Cut", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power"};
+		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power"};
 		eggMoves = new String[]{"Captivate", "Glare", "Grassy Terrain", "Iron Tail", "Magical Leaf", "Mean Look", "Mirror Coat", "Natural Gift", "Pursuit", "Sweet Scent", "Twister"};
 		tutorMoves = new String[]{"Aqua Tail", "Bind", "Gastro Acid", "Acid", "Giga Drain", "Grass Pledge", "Iron Tail", "Knock Off", "Seed Bomb", "Sleep Talk", "Snatch", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-	}
+}
 		Snivy(){
 
 		super();

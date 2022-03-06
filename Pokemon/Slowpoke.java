@@ -1,5 +1,5 @@
 public class Slowpoke extends Pokemon{
-	{
+{
 		name = "Slowpoke";
 		bHP = 9;
 		bAtk = 7;
@@ -8,7 +8,7 @@ public class Slowpoke extends Pokemon{
 		bSpDef = 4;
 		bSpd = 2;
 		type1 = "Water";
-		type2 = "Psychic";
+		type2 = "";
 		abilities = new String[]{"Oblivious", "Own Tempo", "Delayed Reaction", "Truant", "Regenerator"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Slowbro"};
@@ -16,20 +16,20 @@ public class Slowpoke extends Pokemon{
 		height = "3\'/11\"";
 		weight = 79.4;
 		WC = 3;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Monster";
 		egg2 = "Water";
+		habitats = new String[]{"Beach", "Freshwater", "Capability"};
 		overland = 1;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 2;
-		natureWalk = new String[]{"Wetlands"};
-		underdog = true;
-		other = new String[]{"Fountain"};
+		underdog = false;
 		athl = 2;
 		acro = 1;
 		combat = 1;
@@ -44,11 +44,11 @@ public class Slowpoke extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 5, 9, 14, 19, 23, 28, 32, 36, 41, 45, 49, 54, 58};
 		moves = new String[]{"Curse", "Tackle", "Yawn", "Growl", "Water Gun", "Confusion", "Disable", "Headbutt", "Water Pulse", "Zen Headbutt", "Slack Off", "Amnesia", "Psychic", "Rain Dance", "Psych Up", "Heal Pulse"};
-		TMs = new String[]{"Surf", "Strength", "Dive", "Psyshock", "Calm Mind", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Earthquake", "Return", "Dig", "Psychic", "Shadow Ball", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Incinerate", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Bulldoze", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Earthquake", "Return", "Dig", "Psychic", "Shadow Ball", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Incinerate", "Flash", "Thunder Wave", "Psych Up", "Bulldoze", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick Room"};
 		eggMoves = new String[]{"Belch", "Belly Drum", "Block", "Future Sight", "Me First", "Mud Sport", "Safeguard", "Sleep Talk", "Snore", "Stomp", "Wonder Room", "Zen Headbutt", "Headbutt"};
 		tutorMoves = new String[]{"After You", "Aqua Tail", "Block", "Body Slam", "Slam", "Brine", "Dive", "Ice Punch", "Icy Wind", "Iron Tail", "Magic Coat", "Recycle", "Role Play", "Signal Beam", "Skill Swap", "Sleep Talk", "Snore", "Swift", "Telekinesis", "Trick", "Wonder Room", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-	}
+}
 		Slowpoke(){
 
 		super();

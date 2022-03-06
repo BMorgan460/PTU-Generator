@@ -1,5 +1,5 @@
 public class Serperior extends Pokemon{
-	{
+{
 		name = "Serperior";
 		bHP = 8;
 		bAtk = 8;
@@ -9,10 +9,12 @@ public class Serperior extends Pokemon{
 		bSpd = 11;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Sol Veil", "Overgrow", "Contrary", "Leaf Rush", "Regal Challenge"};
+		abilities = new String[]{"Sol Veil", "Overgrow", "Contrary", "Leaf Rush", "Challenge"};
 		abilityTypeCount = new int[] {2,2,1};
+		previous = new Snivy();
+		prevReq = 15;
 		previous = new Servine();
-		prevReq = 30;
+		prevReq = 15;
 		height = "10\'/10\"";
 		size = "Large";
 		weight = 138.9;
@@ -21,16 +23,18 @@ public class Serperior extends Pokemon{
 		femaleRatio = 12.5;
 		egg1 = "Field";
 		egg2 = "Plant";
+		habitats = new String[]{"Forest", "Rainforest", "Capability"};
 		overland = 8;
 		swim = 5;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 3 ;
+		lJump = 3;
 		hJump = 2;
 		power = 5;
 		natureWalk = new String[]{"Grassland", "Forest"};
 		underdog = false;
-		other = new String[]{"Stealth"};
+		other = new String[] {};
 		athl = 3;
 		acro = 4;
 		combat = 4;
@@ -45,10 +49,10 @@ public class Serperior extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 20, 24, 28, 32, 38, 44, 50, 56, 62};
 		moves = new String[]{"Leer", "Vine Whip", "Wrap", "Growth", "Leaf Tornado", "Leech Seed", "Mega Drain", "Slam", "Leaf Blade", "Coil", "Giga Drain", "Wring Out", "Gastro Acid", "Leaf Storm"};
-		TMs = new String[]{"Cut", "Strength", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Giga Impact", "Flash", "Swords Dance", "Dragon Tail", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power"};
+		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Giga Impact", "Flash", "Swords Dance", "Dragon Tail", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power"};
 		tutorMoves = new String[]{"Aqua Tail", "Bind", "Dragon Pulse", "Frenzy Plant", "Gastro Acid", "Acid", "Giga Drain", "Grass Pledge", "Iron Tail", "Knock Off", "Outrage", "Seed Bomb", "Sleep Talk", "Snatch", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-	}
+}
 		Serperior(){
 
 		super();

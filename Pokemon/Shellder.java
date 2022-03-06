@@ -1,5 +1,5 @@
 public class Shellder extends Pokemon{
-	{
+{
 		name = "Shellder";
 		bHP = 3;
 		bAtk = 7;
@@ -9,29 +9,28 @@ public class Shellder extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Shell Armor", "Shell Shield", "Overcoat", "Wonder Skin", "Skill Link"};
+		abilities = new String[]{"Shell Armor", "Shell Shield", "Overcoat", "Wonder Skin", "Link"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Cloyster"};
-		nextReq = new String[]{"50"};
+		nextReq = new String[]{"Stone"};
 		height = "1\'/0\"";
 		size = "Small";
 		weight = 8.8;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Water";
-		egg2 = "Average";
-		habitats = new String[]{"Ocean"};
+		egg2 = "3";
+		habitats = new String[]{"Ocean", "Capability", "List"};
 		overland = 1;
 		swim = 3;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 0 ;
+		lJump = 0;
 		hJump = 0;
 		power = 1;
-		natureWalk = new String[]{"Ocean"};
-		underdog = true;
-		other = new String[]{"Gilled","Fountain"};
+		underdog = false;
 		athl = 1;
 		acro = 1;
 		combat = 1;
@@ -46,11 +45,11 @@ public class Shellder extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 4, 8, 13, 16, 20, 25, 28, 32, 37, 40, 44, 49, 52, 56, 61};
 		moves = new String[]{"Tackle", "Withdraw", "Supersonic", "Icicle Spear", "Protect", "Leer", "Clamp", "Ice Shard", "Razor Shell", "Aurora Beam", "Whirlpool", "Brine", "Iron Defense", "Ice Beam", "Shell Smash", "Hydro Pump"};
-		TMs = new String[]{"Surf", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Explosion", "Payback", "Swagger", "Sleep Talk", "Substitute"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Explosion", "Payback", "Swagger", "Sleep Talk", "Substitute"};
 		eggMoves = new String[]{"Aqua Ring", "Avalanche", "Barrier", "Bubble Beam", "Icicle Spear", "Mud Shot", "Rapid Spin", "Rock Blast", "Screech", "Take Down", "Twineedle", "Water Pulse"};
 		tutorMoves = new String[]{"Dive", "Icy Wind", "Iron Defense", "Sleep Talk", "Snore", "Swift"};
 		naturalMoves = new String[]{};
-	}
+}
 		Shellder(){
 
 		super();

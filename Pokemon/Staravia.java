@@ -1,5 +1,5 @@
 public class Staravia extends Pokemon{
-	{
+{
 		name = "Staravia";
 		bHP = 6;
 		bAtk = 8;
@@ -8,7 +8,7 @@ public class Staravia extends Pokemon{
 		bSpDef = 4;
 		bSpd = 8;
 		type1 = "Normal";
-		type2 = "Flying";
+		type2 = "";
 		abilities = new String[]{"Keen Eye", "Intimidate", "Big Pecks", "Rivalry", "Reckless"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Starly();
@@ -19,20 +19,21 @@ public class Staravia extends Pokemon{
 		size = "Small";
 		weight = 34.2;
 		WC = 2;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Flying";
-		egg2 = "Carnivore";
+		egg2 = "Diet";
 		habitats = new String[]{"Forest", "Grassland", "Urban"};
 		overland = 3;
 		swim = 2;
 		levitate = 0;
+		sky = 7;
 		burrow = 0;
-		lJump = 2 ;
+		lJump = 2;
 		hJump = 2;
 		power = 3;
-		underdog = true;
-		other = new String[]{};
+		underdog = false;
+		other = new String[]{"derdog"};
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -47,10 +48,10 @@ public class Staravia extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 13, 18, 23, 28, 33, 38, 43, 48};
 		moves = new String[]{"Quick Attack", "Wing Attack", "Double Team", "Endeavor", "Whirlwind", "Aerial Ace", "Take Down", "Agility", "Brave Bird", "Final Gambit"};
-		TMs = new String[]{"Fly", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "Retaliate", "Swagger", "Sleep Talk", "Substitute"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "Retaliate", "Swagger", "Sleep Talk", "UTurn", "Substitute"};
 		tutorMoves = new String[]{"Air Cutter", "Defog", "Endeavor", "Heat Wave", "Ominous Wind", "Pluck", "Roost", "Sleep Talk", "Snore", "Steel Wing", "Swift", "Tailwind", "Twister", "Work Up"};
 		naturalMoves = new String[]{};
-	}
+}
 		Staravia(){
 
 		super();

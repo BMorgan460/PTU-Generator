@@ -1,5 +1,5 @@
 public class Seadra extends Pokemon{
-	{
+{
 		name = "Seadra";
 		bHP = 6;
 		bAtk = 7;
@@ -9,7 +9,7 @@ public class Seadra extends Pokemon{
 		bSpd = 9;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Sniper", "Damp", "Poison Point", "Multiscale", "Spray Down"};
+		abilities = new String[]{"Sniper", "Damp", "Poison Point", "Multiscale", "Down"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Horsea();
 		prevReq = 30;
@@ -18,21 +18,20 @@ public class Seadra extends Pokemon{
 		height = "3\'/11\"";
 		weight = 55.1;
 		WC = 2;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Water";
-		egg2 = " ";
-		habitats = new String[]{"Ocean"};
+		egg2 = "1";
+		habitats = new String[]{"Ocean", "Capability", "List"};
 		overland = 3;
 		swim = 6;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 3;
-		natureWalk = new String[]{"Ocean"};
 		underdog = false;
-		other = new String[]{"Fountain","Gilled"};
 		athl = 3;
 		acro = 2;
 		combat = 3;
@@ -47,10 +46,10 @@ public class Seadra extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{5, 9, 13, 17, 21, 26, 31, 38, 45, 52, 60};
 		moves = new String[]{"Smokescreen", "Leer", "Water Gun", "Twister", "Bubble Beam", "Focus Energy", "Brine", "Agility", "Dragon Pulse", "Dragon Dance", "Hydro Pump"};
-		TMs = new String[]{"Surf", "Waterfall", "Dive", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Giga Impact", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Giga Impact", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon"};
 		tutorMoves = new String[]{"Bounce", "Dive", "Dragon Pulse", "Hydro Pump", "Icy Wind", "Outrage", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Twister", "Water Pulse"};
 		naturalMoves = new String[]{"Hydro Pump"};
-	}
+}
 		Seadra(){
 
 		super();
