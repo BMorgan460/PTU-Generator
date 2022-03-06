@@ -1,5 +1,5 @@
 public class Misdreavus extends Pokemon{
-	{
+{
 		name = "Misdreavus";
 		bHP = 6;
 		bAtk = 6;
@@ -9,28 +9,28 @@ public class Misdreavus extends Pokemon{
 		bSpd = 9;
 		type1 = "Ghost";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Frighten", "Magician", "Omen", "Fade Away"};
+		abilities = new String[]{"Levitate", "Frighten", "Magician", "Omen", "Away"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Mismagius"};
-		nextReq = new String[]{"20"};
+		nextReq = new String[]{"Stone"};
 		height = "2\'/4\"";
 		size = "Small";
 		weight = 2.2;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Indeterminate";
-		egg2 = "";
+		egg2 = "Average";
 		habitats = new String[]{"Cave", "Forest", "Urban"};
 		overland = 1;
 		swim = 2;
-		levitate = 3;
+		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
-		power = 2;
-		underdog = true;
-		other = new String[]{"Darkvision","Dead Silent","Invisibility","Invisibility","Phasing"};
+		power = 0;
+		underdog = false;
 		athl = 1;
 		acro = 1;
 		combat = 2;
@@ -45,11 +45,11 @@ public class Misdreavus extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 10, 14, 19, 23, 28, 32, 37, 41, 46, 50, 55};
 		moves = new String[]{"Growl", "Psywave", "Spite", "Astonish", "Confuse Ray", "Mean Look", "Hex", "Psybeam", "Pain Split", "Payback", "Shadow Ball", "Perish Song", "Grudge", "Power Gem"};
-		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Charge", "Charge Beam", "Embargo", "Payback", "Flash", "Thunder", "Thunder Wave", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dark Pulse"};
+		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Charge Beam", "WillOWisp", "Embargo", "Payback", "Flash", "Thunder Wave", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Dark Pulse"};
 		eggMoves = new String[]{"Curse", "Destiny Bond", "Imprison", "Me First", "Memento", "Nasty Plot", "Ominous Wind", "Psych Up", "Screech", "Shadow Sneak", "Skill Swap", "Spite", "Sucker Punch", "Wonder Room"};
 		tutorMoves = new String[]{"Dark Pulse", "Defense Curl", "Foul Play", "Heal Bell", "Hyper Voice", "Icy Wind", "Magic Coat", "Magic Room", "Ominous Wind", "Pain Split", "Role Play", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Spite", "Sucker Punch", "Swift", "Telekinesis", "Trick", "Uproar", "Wonder Room"};
 		naturalMoves = new String[]{};
-	}
+}
 		Misdreavus(){
 
 		super();

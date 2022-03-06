@@ -1,5 +1,5 @@
 public class Manaphy extends Pokemon{
-	{
+{
 		name = "Manaphy";
 		bHP = 10;
 		bAtk = 10;
@@ -9,7 +9,7 @@ public class Manaphy extends Pokemon{
 		bSpd = 10;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Hydration", "Rain Dish", "Swift Swim", "Damp", "Absorb Force"};
+		abilities = new String[]{"Hydration", "Rain Dish", "Swift Swim", "Gulp", "Damp"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "1\'/0\"";
 		size = "Small";
@@ -18,18 +18,18 @@ public class Manaphy extends Pokemon{
 		maleRatio = -1;
 		femaleRatio = -1;
 		egg1 = "Water";
-		egg2 = " ";
-		habitats = new String[]{"Ocean"};
+		egg2 = "1";
+		habitats = new String[]{"Ocean", "Capability", "List"};
 		overland = 5;
 		swim = 8;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 2 ;
+		lJump = 2;
 		hJump = 2;
 		power = 2;
 		natureWalk = new String[]{"Ocean"};
 		underdog = false;
-		other = new String[]{"Amorphous","Amorphous","Fountain","Gilled","Telepath"};
 		athl = 4;
 		acro = 5;
 		combat = 3;
@@ -44,10 +44,10 @@ public class Manaphy extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 9, 16, 24, 31, 39, 46, 54, 61, 69, 76};
 		moves = new String[]{"Bubble", "Tail Glow", "Water Sport", "Charm", "Supersonic", "Bubble Beam", "Acid Armor", "Whirlpool", "Water Pulse", "Aqua Ring", "Dive", "Rain Dance", "Heart Swap"};
-		TMs = new String[]{"Surf", "Waterfall", "Dive", "Calm Mind", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Facade", "Rest", "Round", "Energy Ball", "Scald", "Fling", "Giga Impact", "Flash", "Psych Up", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam"};
+		TMs = new String[]{"Calm Mind", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Facade", "Rest", "Round", "Energy Ball", "Scald", "Fling", "Giga Impact", "Flash", "Psych Up", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Dazzling Gleam"};
 		tutorMoves = new String[]{"Ancient Power", "Bounce", "Covet", "Dive", "Heal Bell", "Helping Hand", "Icy Wind", "Knock Off", "Last Resort", "Signal Beam", "Skill Swap", "Sleep Talk", "Snore", "Swift", "Uproar"};
 		naturalMoves = new String[]{};
-	}
+}
 		Manaphy(){
 
 		super();

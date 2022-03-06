@@ -1,5 +1,5 @@
 public class Mandibuzz extends Pokemon{
-	{
+{
 		name = "Mandibuzz";
 		bHP = 11;
 		bAtk = 7;
@@ -8,7 +8,7 @@ public class Mandibuzz extends Pokemon{
 		bSpDef = 10;
 		bSpd = 8;
 		type1 = "Dark";
-		type2 = "Flying";
+		type2 = "";
 		abilities = new String[]{"Big Pecks", "Overcoat", "Weak Armor", "Cruelty", "Frighten"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Vullaby();
@@ -16,19 +16,21 @@ public class Mandibuzz extends Pokemon{
 		height = "3\'/11\"";
 		weight = 87.1;
 		WC = 3;
-		maleRatio = 0.0;
-		femaleRatio = 100.0;
+		maleRatio = 0;
+		femaleRatio = 100;
 		egg1 = "Flying";
-		egg2 = "Carnivore";
+		egg2 = "Diet";
+		habitats = new String[]{"Desert", "Mountain", "Capability"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
+		sky = 7;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 3;
 		underdog = false;
-		other = new String[]{"Darkvision","Guster"};
+		other = new String[]{"Guster"};
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -43,10 +45,10 @@ public class Mandibuzz extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 10, 14, 19, 23, 28, 32, 37, 41, 46, 50, 51, 57, 63, 70};
 		moves = new String[]{"Fury Attack", "Pluck", "Nasty Plot", "Flatter", "Feint Attack", "Punishment", "Defog", "Tailwind", "Air Slash", "Dark Pulse", "Embargo", "Bone Rush", "Whirlwind", "Brave Bird", "Mirror Move"};
-		TMs = new String[]{"Cut", "Fly", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Shadow Ball", "Double Team", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Incinerate", "Embargo", "Payback", "Retaliate", "Giga Impact", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Snarl", "Dark Pulse"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Shadow Ball", "Double Team", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Incinerate", "Embargo", "Payback", "Retaliate", "Giga Impact", "Psych Up", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Rock Smash", "Snarl", "Dark Pulse"};
 		tutorMoves = new String[]{"Block", "Bone Rush", "Brave Bird", "Dark Pulse", "Foul Play", "Heat Wave", "Iron Defense", "Knock Off", "Mirror Move", "Pluck", "Roost", "Sky Attack", "Sleep Talk", "Snatch", "Snore", "Tailwind"};
 		naturalMoves = new String[]{"Bone Rush", "Brave Bird", "Mirror Move", "Tailwind", "Whirlwind"};
-	}
+}
 		Mandibuzz(){
 
 		super();

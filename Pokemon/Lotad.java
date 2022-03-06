@@ -1,5 +1,5 @@
 public class Lotad extends Pokemon{
-	{
+{
 		name = "Lotad";
 		bHP = 4;
 		bAtk = 3;
@@ -8,7 +8,7 @@ public class Lotad extends Pokemon{
 		bSpDef = 5;
 		bSpd = 3;
 		type1 = "Water";
-		type2 = "Grass";
+		type2 = "";
 		abilities = new String[]{"Swift Swim", "Rain Dish", "Own Tempo", "Hydration", "Rattled"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Lombre", "Ludicolo"};
@@ -17,21 +17,20 @@ public class Lotad extends Pokemon{
 		size = "Small";
 		weight = 5.7;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Water";
-		egg2 = " ";
-		habitats = new String[]{"Freshwater"};
+		egg2 = "1";
+		habitats = new String[]{"Freshwater", "Capability", "List"};
 		overland = 3;
 		swim = 4;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Forest"};
-		underdog = true;
-		other = new String[]{"Fountain"};
+		underdog = false;
 		athl = 2;
 		acro = 1;
 		combat = 1;
@@ -46,11 +45,11 @@ public class Lotad extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 6, 9, 12, 15, 18, 21, 24, 27, 33, 36};
 		moves = new String[]{"Astonish", "Growl", "Absorb", "Bubble", "Natural Gift", "Mist", "Mega Drain", "Bubble Beam", "Nature Power", "Rain Dance", "Zen Headbutt", "Energy Ball"};
-		TMs = new String[]{"Surf", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Energy Ball", "Scald", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Energy Ball", "Scald", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
 		eggMoves = new String[]{"Counter", "Flail", "Giga Drain", "Leech Seed", "Razor Leaf", "Sweet Scent", "Synthesis", "Teeter Dance", "Tickle", "Water Gun"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bullet Seed", "Giga Drain", "Icy Wind", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Uproar", "Water Pulse", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-	}
+}
 		Lotad(){
 
 		super();

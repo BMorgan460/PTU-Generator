@@ -1,5 +1,5 @@
 public class Luxio extends Pokemon{
-	{
+{
 		name = "Luxio";
 		bHP = 6;
 		bAtk = 9;
@@ -18,20 +18,20 @@ public class Luxio extends Pokemon{
 		height = "2\'/11\"";
 		weight = 67.2;
 		WC = 3;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Field";
-		egg2 = "Carnivore";
+		egg2 = "Diet";
+		habitats = new String[]{"Cave", "Grassland", "Capability"};
 		overland = 7;
 		swim = 4;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 2;
 		power = 4;
-		natureWalk = new String[]{"Grassland", "Cave"};
-		underdog = true;
-		other = new String[]{"Tracker","Zapper"};
+		underdog = false;
 		athl = 4;
 		acro = 2;
 		combat = 3;
@@ -46,10 +46,10 @@ public class Luxio extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 13, 18, 23, 28, 33, 38, 43, 48, 53};
 		moves = new String[]{"Leer", "Charge", "Spark", "Bite", "Roar", "Swagger", "Thunder Fang", "Crunch", "Scary Face", "Discharge", "Wild Charge"};
-		TMs = new String[]{"Strength", "Roar", "Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge", "Charge Beam", "Flash", "Volt Switch", "Thunder", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Snarl"};
+		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge Beam", "Flash", "Volt Switch", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Snarl"};
 		tutorMoves = new String[]{"Fury Cutter", "Iron Tail", "Magnet Rise", "Signal Beam", "Shock Wave", "Sleep Talk", "Snore", "Swift"};
 		naturalMoves = new String[]{};
-	}
+}
 		Luxio(){
 
 		super();

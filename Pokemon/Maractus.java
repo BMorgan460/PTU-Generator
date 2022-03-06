@@ -1,5 +1,5 @@
 public class Maractus extends Pokemon{
-	{
+{
 		name = "Maractus";
 		bHP = 8;
 		bAtk = 9;
@@ -9,25 +9,26 @@ public class Maractus extends Pokemon{
 		bSpd = 6;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Water Absorb", "Storm Drain", "Own Tempo", "Desert Weather", "Spinning Dance"};
+		abilities = new String[]{"Water Absorb", "Storm Drain", "Own Tempo", "Desert Weather", "Dance"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "3\'/3\"";
 		weight = 61.7;
 		WC = 3;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Plant";
-		egg2 = "";
+		egg2 = "Average";
+		habitats = new String[]{"Desert", "Mountain", "Capability"};
 		overland = 5;
 		swim = 2;
 		levitate = 0;
+		sky = 0;
 		burrow = 0;
-		lJump = 1 ;
+		lJump = 1;
 		hJump = 1;
 		power = 4;
 		natureWalk = new String[]{"Desert"};
 		underdog = false;
-		other = new String[]{};
 		athl = 4;
 		acro = 3;
 		combat = 3;
@@ -46,7 +47,7 @@ public class Maractus extends Pokemon{
 		eggMoves = new String[]{"Bounce", "Bullet Seed", "Grassy Terrain", "Leech Seed", "Seed Bomb", "Spikes", "Wood Hammer", "Worry Seed"};
 		tutorMoves = new String[]{"After You", "Bounce", "Cotton Guard", "Drain Punch", "Endeavor", "Giga Drain", "Helping Hand", "Hyper Voice", "Knock Off", "Seed Bomb", "Sleep Talk", "Snore", "Spiky Shield", "Synthesis", "Uproar", "Worry Seed"};
 		naturalMoves = new String[]{"After You", "Cotton Guard", "Spiky Shield"};
-	}
+}
 		Maractus(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Masquerain extends Pokemon{
-	{
+{
 		name = "Masquerain";
 		bHP = 7;
 		bAtk = 6;
@@ -8,7 +8,7 @@ public class Masquerain extends Pokemon{
 		bSpDef = 8;
 		bSpd = 6;
 		type1 = "Bug";
-		type2 = "Flying";
+		type2 = "";
 		abilities = new String[]{"Intimidate", "Dodge", "Instinct", "Frighten", "Unnerve"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Surskit();
@@ -16,20 +16,21 @@ public class Masquerain extends Pokemon{
 		height = "2\'/7\"";
 		weight = 7.9;
 		WC = 1;
-		maleRatio = 50.0;
-		femaleRatio = 50.0;
+		maleRatio = 50;
+		femaleRatio = 50;
 		egg1 = "Water";
-		egg2 = " ";
-		habitats = new String[]{"Freshwater"};
+		egg2 = "1";
+		habitats = new String[]{"Freshwater", "Capability", "List"};
 		overland = 2;
 		swim = 3;
 		levitate = 0;
+		sky = 5;
 		burrow = 0;
-		lJump = 2 ;
+		lJump = 2;
 		hJump = 2;
 		power = 1;
 		underdog = true;
-		other = new String[]{};
+		other = new String[] {};
 		athl = 2;
 		acro = 4;
 		combat = 1;
@@ -47,7 +48,7 @@ public class Masquerain extends Pokemon{
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Scald", "Giga Impact", "Flash", "Struggle Bug", "Psych Up", "Infestation", "Swagger", "Sleep Talk", "Substitute"};
 		tutorMoves = new String[]{"Air Cutter", "Bug Bite", "Bite", "Bug Buzz", "Defog", "Giga Drain", "Icy Wind", "Ominous Wind", "Roost", "Signal Beam", "Sleep Talk", "Snore", "String Shot", "Swift", "Tailwind", "Twister", "Water Pulse"};
 		naturalMoves = new String[]{"Bug Buzz", "Ominous Wind", "Whirlwind"};
-	}
+}
 		Masquerain(){
 
 		super();
