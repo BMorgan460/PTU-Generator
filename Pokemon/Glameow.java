@@ -1,5 +1,5 @@
 public class Glameow extends Pokemon{
-{
+	{
 		name = "Glameow";
 		bHP = 5;
 		bAtk = 6;
@@ -17,20 +17,21 @@ public class Glameow extends Pokemon{
 		size = "Small";
 		weight = 8.6;
 		WC = 1;
-		maleRatio = 25;
-		femaleRatio = 75;
+		maleRatio = 25.0;
+		femaleRatio = 75.0;
 		egg1 = "Field";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Forest", "Grassland", "Urban"};
 		overland = 6;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 3;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Grassland"};
+		underdog = true;
+		other = new String[]{"Stealth"};
 		athl = 1;
 		acro = 3;
 		combat = 2;
@@ -45,11 +46,11 @@ public class Glameow extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 5, 8, 13, 17, 20, 25, 29, 32, 37, 41, 44, 48, 50};
 		moves = new String[]{"Fake Out", "Scratch", "Growl", "Hypnosis", "Feint Attack", "Fury Swipes", "Charm", "Assist", "Captivate", "Slash", "Sucker Punch", "Attract", "Hone Claws", "Play Rough"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Payback", "Retaliate", "Flash", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "UTurn", "Substitute"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Payback", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Assurance", "Bite", "Fake Tears", "Flail", "Last Resort", "Quick Attack", "Sand Attack", "Snatch", "Tail Whip"};
-		tutorMoves = new String[]{"Covet", "Foul Play", "Fury Cutter", "Hyper Voice", "Iron Tail", "Knock Off", "Last Resort", "Shock Wave", "Sleep Talk", "Snatch", "Snore", "Sucker Punch", "Swift", "Super Fang", "Water Pulse", "Work Up"};
+		tutorMoves = new String[]{"Covet", "Foul Play", "Fury Cutter", "Hyper Voice", "Iron Tail", "Knock Off", "Last Resort", "Shock Wave", "Snatch", "Snore", "Sucker Punch", "Swift", "Super Fang", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Glameow(){
 
 		super();

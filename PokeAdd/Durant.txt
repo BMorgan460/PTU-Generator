@@ -1,0 +1,64 @@
+Durant
+Base Stats:
+HP: 6
+Attack: 11
+Defense: 11
+Special Attack: 5
+Special Defense: 5
+Speed: 11
+Basic Information
+Type: Bug / Steel
+Basic Ability 1: Hustle
+Basic Ability 2: Swarm
+Adv Ability 1: Truant
+Adv Ability 2: Oblivious
+High Ability: Teamwork
+Evolution:
+1 - Durant
+Size Information
+Height: 1’ 0” / 0.3m (Small)
+Weight: 72.8 lbs / 33kg (3)
+Breeding Information
+Gender Ratio: 50% M / 50% F
+Egg Group: Bug
+Average Hatch Rate: 10 Days
+Diet: Carnivore
+Habitat: Cave, Desert, Mountain
+Capability List
+Overland 5, Swim 2, Jump 1/1, Power 5, Naturewalk
+(Forest, Grassland)
+Skill List
+Athl 4d6+2, Acro 2d6, Combat 4d6, Stealth 3d6+2,
+Percep 3d6+2, Focus 4d6+2
+Move List
+Level Up Move List
+1 Sand Attack - Ground
+1 Vice Grip - Normal
+1 Fury Cutter - Bug
+1 Bite - Dark
+6 Agility - Psychic
+11 Metal Claw - Steel
+16 Bug Bite - Bug
+21 Crunch - Dark
+26 Iron Head - Steel
+31 Dig - Ground
+36 Entrainment - Normal
+41 X-Scissor - Bug
+46 Iron Defense - Steel
+51 Guillotine - Normal
+56 Metal Sound - Steel
+TM Move List
+06 Toxic, 10 Hidden Power, 17 Protect, 21
+Frustration, 27 Return, 32 Double Team, 37
+Sandstorm, 39 Rock Tomb, 40 Aerial Ace, 42 Facade,
+44 Rest, 45 Attract, 48 Round, 53 Energy Ball, 65
+Shadow Claw, 68 Giga Impact, 69 Rock Polish, 71
+Stone Edge, 73 Thunder Wave, 80 Rock Slide, 81 XScissor, 87 Swagger, 88 Sleep Talk, 90 Substitute, 91
+Flash Cannon, 100 Confide
+Egg Move List
+Baton Pass, Endure, Feint Attack, Rock Climb,
+Screech, Thunder Fang
+Tutor Move List
+Bug Bite, Endeavor, Fury Cutter (N), Guillotine (N),
+Iron Defense, Iron Head, Metal Sound (N), Rock
+Climb, Snore, Superpower

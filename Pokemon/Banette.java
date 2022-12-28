@@ -1,5 +1,5 @@
 public class Banette extends Pokemon{
-{
+	{
 		name = "Banette";
 		bHP = 6;
 		bAtk = 12;
@@ -9,27 +9,26 @@ public class Banette extends Pokemon{
 		bSpd = 7;
 		type1 = "Ghost";
 		type2 = "";
-		abilities = new String[]{"Frisk", "Insomnia", "Cursed Body", "Mojo", "Doll"};
+		abilities = new String[]{"Frisk", "Insomnia", "Cursed Body", "Mojo", "Voodoo Doll"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Shuppet();
 		prevReq = 35;
 		height = "3\'/7\"";
 		weight = 27.6;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Indeterminate";
-		egg2 = "Diet";
-		habitats = new String[]{"Cave", "Urban", "Capability"};
+		egg2 = "Nullivore";
 		overland = 5;
-		swim = 0;
+		swim = 3;
 		levitate = 6;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 2;
-		underdog = false;
+		underdog = true;
+		other = new String[]{"Darkvision","Dead Silent","Invisibility","Invisibility","Phasing","Stealth"};
 		athl = 3;
 		acro = 2;
 		combat = 4;
@@ -42,12 +41,12 @@ public class Banette extends Pokemon{
 		stealthBonus = 3;
 		percepBonus = 1;
 		focusBonus = 2;
-		movesLevels = new int[]{1, 4, 7, 10, 13, 16, 19, 22, 26, 30, 34, 40, 46, 52, 58, 64};
-		moves = new String[]{"Knock Off", "Screech", "Night Shade", "Spite", "Shadow Sneak", "WillOWisp", "Feint Attack", "Hex", "Curse", "Shadow Ball", "Embargo", "Sucker Punch", "Snatch", "Grudge", "Trick", "Phantom Force"};
-		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Shadow Ball", "Double Team", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Charge Beam", "WillOWisp", "Embargo", "Shadow Claw", "Payback", "Giga Impact", "Flash", "Thunder Wave", "Psych Up", "Infestation", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Dark Pulse", "Dazzling Gleam"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Dark Pulse", "Foul Play", "Icy Wind", "Knock Off", "Magic Coat", "Magic Room", "Metronome", "Ominous Wind", "Pain Split", "Role Play", "Shock Wave", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Spite", "Sucker Punch", "Telekinesis", "Trick"};
-		naturalMoves = new String[]{};
-}
+		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 26, 30, 34, 40, 46, 52, 58, 64};
+		moves = new String[]{"Screech", "Night Shade", "Spite", "Shadow Sneak", "WillOWisp", "Feint Attack", "Hex", "Curse", "Shadow Ball", "Embargo", "Sucker Punch", "Snatch", "Grudge", "Trick", "Phantom Force"};
+		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Shadow Ball", "Double Team", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Charge", "Charge Beam", "Embargo", "Shadow Claw", "Payback", "Giga Impact", "Thunder", "Thunder Wave", "Psych Up", "Infestation", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dark Pulse", "Dazzling Gleam", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Body Slam", "Slam", "Foul Play", "Gunk Shot", "Icy Wind", "Knock Off", "Magic Coat", "Magic Room", "Metronome", "Ominous Wind", "Pain Split", "Phantom Force", "Role Play", "Shock Wave", "Skill Swap", "Snatch", "Snore", "Spite", "Sucker Punch", "Telekinesis", "Throat Chop", "Trick"};
+		naturalMoves = new String[]{"Knock Off", "Phantom Force"};
+	}
 		Banette(){
 
 		super();

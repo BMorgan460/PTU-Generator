@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 
 def construct(file, name):  # creates the base constructor class and writes the begining info and name
     n = open(file, "w+")  # Opens the new file
-    n.write("public class " + name + " extends Pokemon{\n")  # Creates the public class with pokeomon name
+    n.write("public class " + name.replace(" ", "_").replace(".", "_").replace("-", "_") + " extends Pokemon{\n")  # Creates the public class with pokeomon name
     n.write("\t{\n")
-    n.write("\t\t" + 'name = "' + name + '";\n')  # Provides the name var in the constructor
+    n.write("\t\t" + 'name = "' + name.replace(" ", "_").replace(".", "_").replace("-", "_") + '";\n')  # Provides the name var in the constructor
 
 
 def check_if_int(checkVar):
@@ -212,7 +212,7 @@ for subdir, dirs, files in os.walk('./'):  # Checks for each file in a folder th
             # print(file) #debug
             print("Starting " + file)
             f = open(file, "r")  # allows python to read data in the file
-            name = file[:-4]  # Pulls the Pokemon name
+            name = file[:-4].replace(" ", "_").replace(".", "_").replace("-", "_")  # Pulls the Pokemon name
             file = name + ".java"  # Creates a name for the new java file
             n = open(file, "a+")  # Creates a java file for the Pokemon
             construct(file, name)  # calls the function providing file name and pokemon name

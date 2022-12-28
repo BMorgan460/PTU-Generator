@@ -1,5 +1,5 @@
 public class Bibarel extends Pokemon{
-{
+	{
 		name = "Bibarel";
 		bHP = 8;
 		bAtk = 9;
@@ -8,7 +8,7 @@ public class Bibarel extends Pokemon{
 		bSpDef = 6;
 		bSpd = 7;
 		type1 = "Normal";
-		type2 = "";
+		type2 = "Water";
 		abilities = new String[]{"Simple", "Unaware", "Deep Sleep", "Oblivious", "Moody"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Bidoof();
@@ -16,20 +16,21 @@ public class Bibarel extends Pokemon{
 		height = "3\'/3\"";
 		weight = 69.4;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
+		egg2 = " ";
 		habitats = new String[]{"Forest", "Grassland", "Marsh"};
 		overland = 7;
 		swim = 5;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 3;
 		power = 3;
-		underdog = false;
+		natureWalk = new String[]{"Grassland", "Wetlands"};
+		underdog = true;
+		other = new String[]{"Fountain"};
 		athl = 4;
 		acro = 2;
 		combat = 2;
@@ -42,12 +43,12 @@ public class Bibarel extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{5, 9, 13, 15, 18, 23, 28, 33, 38, 43, 48, 53};
-		moves = new String[]{"Growl", "Defense Curl", "Rollout", "Water Gun", "Headbutt", "Hyper Fang", "Yawn", "Amnesia", "Take Down", "Super Fang", "Superpower", "Curse"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Scald", "Fling", "Charge Beam", "Retaliate", "Giga Impact", "Thunder Wave", "Bulldoze", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		tutorMoves = new String[]{"Aqua Tail", "Covet", "Dive", "Fury Cutter", "Icy Wind", "Iron Tail", "Last Resort", "Pluck", "Rollout", "Sleep Talk", "Snore", "Swift", "Super Fang", "Superpower", "Work Up"};
-		naturalMoves = new String[]{"Rollout", "Rototiller"};
-}
+		movesLevels = new int[]{5, 9, 13, 18, 23, 28, 33, 38, 43, 48, 53, 58};
+		moves = new String[]{"Defense Curl", "Rollout", "Headbutt", "Hyper Fang", "Yawn", "Crunch", "Take Down", "Super Fang", "Swords Dance", "Amnesia", "Superpower", "Curse"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Scald", "Fling", "Charge", "Charge Beam", "Giga Impact", "Thunder", "Thunder Wave", "Swords Dance", "Bulldoze", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"};
+		tutorMoves = new String[]{"Aqua Jet", "Aqua Tail", "Covet", "Dive", "Focus Punch", "Fury Cutter", "Icy Wind", "Iron Tail", "Last Resort", "Liquidation", "Pluck", "Rock Climb", "Rollout", "Shock Wave", "Snore", "Stealth Rock", "Stomping Tantrum", "Swift", "Super Fang", "Superpower", "Water Pulse"};
+		naturalMoves = new String[]{"Aqua Jet", "Rollout", "Rototiller"};
+	}
 		Bibarel(){
 
 		super();

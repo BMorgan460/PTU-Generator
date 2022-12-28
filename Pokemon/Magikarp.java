@@ -9,7 +9,7 @@ public class Magikarp extends Pokemon{
 		bSpd = 8;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Gulp", "Simple", "Decoy", "Swift Swim", "Rattled"};
+		abilities = new String[]{"Bulletproof", "Simple", "Decoy", "Swift Swim", "Rattled"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Gyarados"};
 		nextReq = new String[]{"20"};

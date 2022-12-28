@@ -1,5 +1,5 @@
 public class Bagon extends Pokemon{
-{
+	{
 		name = "Bagon";
 		bHP = 5;
 		bAtk = 8;
@@ -9,7 +9,7 @@ public class Bagon extends Pokemon{
 		bSpd = 5;
 		type1 = "Dragon";
 		type2 = "";
-		abilities = new String[]{"Steadfast", "Moxie", "Sheer Force", "Sturdy", "Head"};
+		abilities = new String[]{"Steadfast", "Moxie", "Sheer Force", "Sturdy", "Rock Head"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Shelgon", "Salamence"};
 		nextReq = new String[]{"50"};
@@ -17,21 +17,19 @@ public class Bagon extends Pokemon{
 		size = "Small";
 		weight = 92.8;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Dragon";
-		egg2 = "Average";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
+		egg2 = "";
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 4;
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -46,11 +44,11 @@ public class Bagon extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 4, 7, 10, 13, 17, 21, 25, 29, 34, 39, 44, 49};
 		moves = new String[]{"Rage", "Ember", "Leer", "Bite", "Dragon Breath", "Headbutt", "Focus Energy", "Crunch", "Dragon Claw", "Zen Headbutt", "Scary Face", "Flamethrower", "DoubleEdge"};
-		TMs = new String[]{"Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Return", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Incinerate", "Shadow Claw", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		eggMoves = new String[]{"Defense Curl", "Dragon Dance", "Dragon Pulse", "Dragon Rage", "Rage", "Dragon Rush", "Endure", "Fire Fang", "Hydro Pump", "Shadow Claw", "Thrash", "Twister"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Draco Meteor", "Dragon Pulse", "Fury Cutter", "Hyper Voice", "Outrage", "Sleep Talk", "Snore", "Twister", "Zen Headbutt", "Headbutt"};
+		TMs = new String[]{"Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Return", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Shadow Claw", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		eggMoves = new String[]{"Defense Curl", "Dragon Dance", "Dragon Pulse", "Dragon Rage", "Rage", "Dragon Rush", "Endure", "Fire Fang", "Hydro Pump", "Thrash", "Twister"};
+		tutorMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Draco Meteor", "Dragon Pulse", "Fury Cutter", "Hyper Voice", "Outrage", "Snore", "Twister", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Bagon(){
 
 		super();

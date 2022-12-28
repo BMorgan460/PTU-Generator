@@ -1,5 +1,5 @@
 public class Squirtle extends Pokemon{
-{
+	{
 		name = "Squirtle";
 		bHP = 4;
 		bAtk = 5;
@@ -9,7 +9,7 @@ public class Squirtle extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Rain Dish", "Torrent", "Shell Armor", "Shell Shield", "Overtcoat"};
+		abilities = new String[]{"Rain Dish", "Torrent", "Shell Armor", "Shell Shield", "Overcoat"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Wartortle", "Blastoise"};
 		nextReq = new String[]{"30"};
@@ -25,12 +25,13 @@ public class Squirtle extends Pokemon{
 		overland = 6;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Wetlands"};
+		underdog = true;
+		other = new String[]{"Fountain"};
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -44,12 +45,12 @@ public class Squirtle extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 3;
 		movesLevels = new int[]{1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40};
-		moves = new String[]{"Tackle", "Tail Whip", "Bubble", "Withdraw", "Water Gun", "Bite", "Rapid Spin", "Protect", "Water Pulse", "Aqua Tail", "Skull Bash", "Iron Defense", "Rain Dance", "Hydro Pump"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Scald", "Fling", "Gyro Ball", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
+		moves = new String[]{"Tackle", "Tail Whip", "Water Gun", "Withdraw", "Bubble", "Bite", "Rapid Spin", "Protect", "Water Pulse", "Aqua Tail", "Skull Bash", "Iron Defense", "Rain Dance", "Hydro Pump"};
+		TMs = new String[]{"Work Up", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Scald", "Fling", "Gyro Ball", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"};
 		eggMoves = new String[]{"Aqua Jet", "Aqua Ring", "Aura Sphere", "Brine", "Dragon Pulse", "Fake Out", "Flail", "Foresight", "Haze", "Mirror Coat", "Mist", "Mud Sport", "Muddy Water", "Refresh", "Water Spout", "Yawn"};
-		tutorMoves = new String[]{"Aqua Tail", "Body Slam", "Slam", "Counter", "Defense Curl", "Dive", "Dynamic Punch", "Focus Punch", "Ice Punch", "Icy Wind", "Iron Defense", "Iron Tail", "Mega Kick", "Mega Punch", "Rollout", "Seismic Toss", "Sleep Talk", "Snore", "Water Pledge", "Zen Headbutt", "Headbutt"};
+		tutorMoves = new String[]{"Aqua Tail", "Body Slam", "Slam", "Counter", "Defense Curl", "Dive", "Dragon Pulse", "Dynamic Punch", "Focus Punch", "Ice Punch", "Icy Wind", "Iron Defense", "Iron Tail", "Mega Kick", "Mega Punch", "Rollout", "Seismic Toss", "Snore", "Water Pledge", "Water Pulse", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Squirtle(){
 
 		super();

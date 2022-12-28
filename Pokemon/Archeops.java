@@ -1,5 +1,5 @@
 public class Archeops extends Pokemon{
-{
+	{
 		name = "Archeops";
 		bHP = 8;
 		bAtk = 14;
@@ -8,7 +8,7 @@ public class Archeops extends Pokemon{
 		bSpDef = 7;
 		bSpd = 11;
 		type1 = "Rock";
-		type2 = "";
+		type2 = "Flying";
 		abilities = new String[]{"Defeatist", "Frighten", "Early Bird", "Dodge", "Conqueror"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Archen();
@@ -20,18 +20,16 @@ public class Archeops extends Pokemon{
 		femaleRatio = 12.5;
 		egg1 = "Flying";
 		egg2 = "Water";
-		habitats = new String[]{"Mountain", "Capability", "List"};
 		overland = 8;
 		swim = 3;
 		levitate = 0;
-		sky = 5;
 		burrow = 0;
-		lJump = 4;
+		lJump = 4 ;
 		hJump = 4;
 		power = 4;
 		natureWalk = new String[]{"Mountain"};
 		underdog = false;
-		other = new String[]{"1"};
+		other = new String[]{"Mountable 1"};
 		athl = 3;
 		acro = 4;
 		combat = 4;
@@ -46,10 +44,10 @@ public class Archeops extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{5, 8, 11, 15, 18, 21, 25, 28, 31, 35, 40, 45, 51, 56, 61};
 		moves = new String[]{"Rock Throw", "Double Team", "Scary Face", "Pluck", "Ancient Power", "Agility", "Quick Guard", "Acrobatics", "Dragon Breath", "Crunch", "Endeavor", "Uturn", "Rock Slide", "Dragon Claw", "Thrash"};
-		TMs = new String[]{"Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Taunt", "Hyper Beam", "Protect", "Roost", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Round", "Steel Wing", "Focus Blast", "Acrobatics", "Shadow Claw", "Giga Impact", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Dragon Tail", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Rock Smash"};
-		tutorMoves = new String[]{"Aqua Tail", "Bounce", "Dragon Pulse", "Earth Power", "Endeavor", "Heat Wave", "Iron Defense", "Iron Tail", "Outrage", "Pluck", "Roost", "Sky Attack", "Sleep Talk", "Snore", "Stealth Rock", "Tailwind", "Uproar"};
+		TMs = new String[]{"Dragon Claw", "Roar", "Toxic", "Hidden Power", "Taunt", "Hyper Beam", "Protect", "Roost", "Frustration", "Smack Down", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Round", "Steel Wing", "Focus Blast", "Acrobatics", "Shadow Claw", "Giga Impact", "Rock Polish", "Stone Edge", "Fly", "Bulldoze", "Rock Slide", "Dragon Tail", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Ancient Power", "Aqua Tail", "Bounce", "Defog", "Dragon Pulse", "Earth Power", "Endeavor", "Heat Wave", "Iron Defense", "Iron Tail", "Knock Off", "Outrage", "Pluck", "Sky Attack", "Snore", "Stealth Rock", "Tailwind", "Uproar", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Archeops(){
 
 		super();

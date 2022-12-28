@@ -1,0 +1,66 @@
+Lopunny
+Base Stats:
+HP: 7
+Attack: 8
+Defense: 8
+Special Attack: 5
+Special Defense: 10
+Speed: 11
+Basic Information
+Type: Normal
+Basic Ability 1: Cute Charm
+Basic Ability 2: Klutz
+Adv Ability 1: Limber
+Adv Ability 2: Vigor
+High Ability: Nimble Strikes
+Evolution:
+1 - Buneary
+2 - Lopunny Minimum 20
+Size Information
+Height: 3’ 11” / 1.2m (Medium)
+Weight: 73.4 lbs / 33.3kg (3)
+Breeding Information
+Gender Ratio: 50% M / 50% F
+Egg Group: Field / Humanshape
+Diet: Herbivore
+Habitat: Forest, Grassland, Urban
+Capability List
+Overland 7, Swim 4, Jump 5/4, Power 2, Naturewalk
+(Grassland)
+Skill List
+Athl 4d6, Acro 3d6, Combat 3d6+2, Stealth 2d6,
+Percep 4d6, Focus 3d6
+Move List
+Level Up Move List
+Evo Return - Normal
+6 Endure - Normal
+13 Baby-Doll Eyes - Fairy
+16 Quick Attack - Normal
+23 Jump Kick - Fighting
+26 Baton Pass - Normal
+33 Agility - Psychic
+36 Dizzy Punch - Normal
+43 After You - Normal
+46 Charm - Fairy
+50 Entrainment - Normal
+56 Bounce - Flying
+63 Healing Wish - Psychic
+66 High Jump Kick - Fighting
+TM Move List
+01 Work Up, 06 Toxic, 10 Hidden Power, 11 Sunny
+Day, 13 Ice Beam, 14 Blizzard, 15 Hyper Beam, 17
+Protect, 18 Rain Dance, 21 Frustration, 22 Solar
+Beam, 24 Thunderbolt, 25 Thunder, 27 Return, 30
+Shadow Ball, 32 Double Team, 42 Facade, 44 Rest,
+45 Attract, 47 Low Sweep, 48 Round, 52 Focus Blast,
+56 Fling, 57 Charge Beam, 59 Brutal Swing, 68 Giga
+Impact, 73 Thunder Wave, 86 Grass Knot, 87
+Swagger, 88 Sleep Talk, 90 Substitute, 100 Confide
+Tutor Move List
+After You, Bounce (N), Covet, Drain Punch,
+Endeavor, Fire Punch, Focus Punch, Frustration (N),
+Heal Bell, Healing Wish (N), Helping Hand, Hyper
+Voice, Ice Punch, Iron Tail, Laser Focus, Last Resort,
+Low Kick, Magic Coat (N), Mirror Coat (N), Mud-Slap,
+Role Play, Rototiller (N), Shock Wave, Snore, Swift,
+Thunder Punch, Uproar, Water Pulse

@@ -1,6 +1,6 @@
 public class Nidoran_f extends Pokemon{
-{
-		name = "Nidoran-f";
+	{
+		name = "Nidoran_f";
 		bHP = 6;
 		bAtk = 5;
 		bDef = 5;
@@ -15,22 +15,21 @@ public class Nidoran_f extends Pokemon{
 		size = "Small";
 		weight = 15.4;
 		WC = 1;
-		maleRatio = 0;
-		femaleRatio = 100;
+		maleRatio = 0.0;
+		femaleRatio = 100.0;
 		egg1 = "Monster";
 		egg2 = "Field";
-		habitats = new String[]{"Grassland", "Capability", "List"};
+		habitats = new String[]{"Grassland"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 2;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
 		natureWalk = new String[]{"Grassland"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 2;
 		combat = 3;
@@ -45,11 +44,11 @@ public class Nidoran_f extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 7, 9, 13, 19, 21, 25, 31, 33, 37, 43, 45};
 		moves = new String[]{"Growl", "Scratch", "Tail Whip", "Double Kick", "Poison Sting", "Fury Swipes", "Bite", "Helping Hand", "Toxic Spikes", "Flatter", "Crunch", "Captivate", "Poison Fang"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Double Team", "Sludge Bomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Shadow Claw", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		eggMoves = new String[]{"Beat Up", "Charm", "Chip Away", "Counter", "Disable", "Endure", "Focus Energy", "Iron Tail", "Poison Tail", "Pursuit", "Supersonic", "Take Down", "Venom Drench"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Helping Hand", "Iron Tail", "Shock Wave", "Sleep Talk", "Snore", "Super Fang", "Water Pulse"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Sludge", "Sludge Bomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		eggMoves = new String[]{"Beat Up", "Charm", "Chip Away", "Counter", "Disable", "Endure", "Focus Energy", "Iron Tail", "Poison Tail", "Pursuit", "Skull Bash", "Supersonic", "Take Down", "Venom Drench"};
+		tutorMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Helping Hand", "Iron Tail", "Shock Wave", "Snore", "Super Fang", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Nidoran_f(){
 
 		super();

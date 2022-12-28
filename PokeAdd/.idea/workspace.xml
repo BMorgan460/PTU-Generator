@@ -29,8 +29,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Program Files/Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alask\Documents\GitHub\PTU-Generator\PokeAdd\Done" />
+      <recent name="C:\Users\alask\Documents\GitHub\PTU-Generator\PokeAdd\Java classes" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.poke_to_java_class">
     <configuration name="mass_poke_converter" type="PythonConfigurationType" factoryName="Python" temporary="true">

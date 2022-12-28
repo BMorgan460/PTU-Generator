@@ -1,5 +1,5 @@
 public class Dustox extends Pokemon{
-{
+	{
 		name = "Dustox";
 		bHP = 6;
 		bAtk = 5;
@@ -8,31 +8,28 @@ public class Dustox extends Pokemon{
 		bSpDef = 9;
 		bSpd = 7;
 		type1 = "Bug";
-		type2 = "";
-		abilities = new String[]{"Shield Dust", "Compound Eyes", "Dust Cloud", "Flutter", "Spore"};
+		type2 = "Poison";
+		abilities = new String[]{"Shield Dust", "Compound Eyes", "Dust Cloud", "Flutter", "Effect Spore"};
 		abilityTypeCount = new int[] {1,3,1};
-		//previous = new Wurmple();
-		prevReq = 5;
-		//previous = new Cascoon();
-		prevReq = 5;
+		previous = new Cascoon();
+		prevReq = 10;
 		height = "3\'/11\"";
 		weight = 69.7;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Bug";
-		egg2 = "Diet";
-		habitats = new String[]{"Forest", "Rainforest", "Capability"};
+		egg2 = "Herbivore";
 		overland = 2;
 		swim = 2;
 		levitate = 0;
-		sky = 9;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -45,12 +42,12 @@ public class Dustox extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 3;
 		focusBonus = 0;
-		movesLevels = new int[]{10, 12, 15, 17, 20, 22, 25, 27, 30, 32, 35, 37, 40};
-		moves = new String[]{"Gust", "Confusion", "Poison Powder", "Moonlight", "Venoshock", "Psybeam", "Silver Wind", "Light Screen", "Whirlwind", "Toxic", "Bug Buzz", "Protect", "Quiver Dance"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Roost", "Frustration", "Solar Beam", "Return", "Psychic", "Shadow Ball", "Double Team", "Sludge Bomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Acrobatics", "Giga Impact", "Flash", "Struggle Bug", "Infestation", "Swagger", "Sleep Talk", "UTurn", "Substitute"};
-		tutorMoves = new String[]{"Air Cutter", "Bug Bite", "Bite", "Defog", "Electroweb", "Giga Drain", "Ominous Wind", "Roost", "Signal Beam", "Sleep Talk", "Snore", "String Shot", "Swift", "Tailwind", "Twister"};
+		movesLevels = new int[]{12, 15, 17, 20, 22, 25, 27, 30, 32, 35, 37, 40};
+		moves = new String[]{"Confusion", "Poison Powder", "Moonlight", "Venoshock", "Psybeam", "Silver Wind", "Light Screen", "Whirlwind", "Toxic", "Bug Buzz", "Protect", "Quiver Dance"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Roost", "Frustration", "Solar Beam", "Return", "Psychic", "Shadow Ball", "Double Team", "Sludge", "Sludge Bomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Acrobatics", "Giga Impact", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		tutorMoves = new String[]{"Air Cutter", "Bug Bite", "Bite", "Defog", "Electroweb", "Giga Drain", "Laser Focus", "Ominous Wind", "Roost", "Signal Beam", "Snore", "String Shot", "Swift", "Tailwind", "Twister"};
 		naturalMoves = new String[]{};
-}
+	}
 		Dustox(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Cherubi extends Pokemon{
-{
+	{
 		name = "Cherubi";
 		bHP = 5;
 		bAtk = 4;
@@ -9,7 +9,7 @@ public class Cherubi extends Pokemon{
 		bSpd = 4;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Cherry Power", "Chlorophyll", "Photosynthesis", "Sun Blanket", "Regenerator"};
+		abilities = new String[]{"Cherry Power", "Chlorophyll", "Flower Power", "Sun Blanket", "Regenerator"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Cherrim"};
 		nextReq = new String[]{"25"};
@@ -17,22 +17,20 @@ public class Cherubi extends Pokemon{
 		size = "Small";
 		weight = 7.3;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Fairy";
 		egg2 = "Plant";
-		habitats = new String[]{"Forest", "Rainforest", "Capability"};
 		overland = 3;
 		swim = 1;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Forest"};
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 2;
 		combat = 1;
@@ -47,11 +45,11 @@ public class Cherubi extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 1, 7, 10, 13, 19, 22, 28, 31, 37, 40, 47};
 		moves = new String[]{"Tackle", "Morning Sun", "Growth", "Leech Seed", "Helping Hand", "Magical Leaf", "Sunny Day", "Worry Seed", "Take Down", "Solar Beam", "Lucky Chant", "Petal Blizzard"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Flash", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam"};
-		eggMoves = new String[]{"Aromatherapy", "Defense Curl", "Flower Shield", "Heal Pulse", "Healing Wish", "Wish", "Natural Gift", "Nature Power", "Razor Leaf", "Rollout", "Seed Bomb", "Sweet Scent", "Tickle", "Weather Ball"};
-		tutorMoves = new String[]{"Bullet Seed", "Giga Drain", "Helping Hand", "Natural Gift", "Rollout", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Worry Seed"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
+		eggMoves = new String[]{"Aromatherapy", "Defense Curl", "Flower Shield", "Grassy Terrain", "Heal Pulse", "Healing Wish", "Wish", "Natural Gift", "Razor Leaf", "Rollout", "Seed Bomb", "Sweet Scent", "Tickle", "Weather Ball"};
+		tutorMoves = new String[]{"Bullet Seed", "Giga Drain", "Helping Hand", "Natural Gift", "Rollout", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Cherubi(){
 
 		super();

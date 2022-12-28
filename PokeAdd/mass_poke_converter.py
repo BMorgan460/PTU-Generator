@@ -3,12 +3,14 @@ import os
 file = os.path.join(os.getcwd(), "mass_pokemon.txt")
 f = open(file, "r", encoding="utf8")
 count = 0
-page = 16
+page = 1
 name = ""
 text = ""
 for line in f:
     if count == 0:
         name = line[0] + line[1:].lower()
+        if "alola" in name:
+            name = "Alolan " + name.split(" ")[0].lower()
         print(name)
         count += 1
         text = name
@@ -19,7 +21,9 @@ for line in f:
         count = 0
         page += 1
     else:
-        text += line
+        text += line.replace("", "")
 
-
+output = open(os.path.join(os.getcwd(), name.strip() + ".txt"), "wt")
+output.write(text)
+output.close()
 f.close()

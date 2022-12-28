@@ -9,10 +9,10 @@ public class Tynamo extends Pokemon{
 		bSpd = 6;
 		type1 = "Electric";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Twisted Power", "Storm Drain", "Lightning Rod", "Run Up"};
+		abilities = new String[]{"Levitate", "Electrodash", "Sequence", "Storm Drain", "Lightning Rod"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Eelektrik", "Eelektross"};
-		nextReq = new String[]{"Minimum"};
+		nextReq = new String[]{"40"};
 		height = "0\'/8\"";
 		size = "Small";
 		weight = 0.7;
@@ -29,7 +29,7 @@ public class Tynamo extends Pokemon{
 		hJump = 1;
 		power = 1;
 		underdog = true;
-		other = new String[]{"Zapper","Glow"};
+		other = new String[]{"Gilled","Glow","Zapper"};
 		athl = 2;
 		acro = 2;
 		combat = 1;
@@ -44,6 +44,7 @@ public class Tynamo extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 1};
 		moves = new String[]{"Charge Beam", "Spark", "Tackle", "Thunder Wave"};
+		TMs = new String[]{"Charge", "Charge Beam", "Thunder", "Thunder Wave"};
 		tutorMoves = new String[]{"Magnet Rise"};
 		naturalMoves = new String[]{};
 	}

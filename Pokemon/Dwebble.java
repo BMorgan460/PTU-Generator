@@ -1,5 +1,5 @@
 public class Dwebble extends Pokemon{
-{
+	{
 		name = "Dwebble";
 		bHP = 5;
 		bAtk = 7;
@@ -17,22 +17,21 @@ public class Dwebble extends Pokemon{
 		size = "Small";
 		weight = 32;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Bug";
 		egg2 = "Mineral";
 		habitats = new String[]{"Cave", "Desert", "Grassland"};
 		overland = 4;
 		swim = 1;
 		levitate = 0;
-		sky = 0;
 		burrow = 4;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
 		natureWalk = new String[]{"Desert", "Mountain"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -47,11 +46,11 @@ public class Dwebble extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 5, 7, 11, 13, 17, 19, 23, 24, 29, 31, 35, 37, 41, 43};
 		moves = new String[]{"Fury Cutter", "Rock Blast", "Withdraw", "Sand Attack", "Feint Attack", "Smack Down", "Rock Polish", "Bug Bite", "Stealth Rock", "Rock Slide", "Slash", "XScissor", "Shell Smash", "Flail", "Rock Wrecker"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Smack Down", "Earthquake", "Return", "Dig", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Shadow Claw", "Giga Impact", "Rock Polish", "Stone Edge", "Swords Dance", "Struggle Bug", "Bulldoze", "Rock Slide", "XScissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Protect", "Frustration", "Solar Beam", "Smack Down", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Shadow Claw", "Rock Polish", "Stone Edge", "Swords Dance", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
 		eggMoves = new String[]{"Block", "Counter", "Curse", "Endure", "Iron Defense", "Night Slash", "Slash", "Rototiller", "Sand Tomb", "Spikes", "Wide Guard"};
-		tutorMoves = new String[]{"Block", "Bug Bite", "Bite", "Iron Defense", "Knock Off", "Sleep Talk", "Snore", "Stealth Rock"};
+		tutorMoves = new String[]{"Block", "Bug Bite", "Bite", "Iron Defense", "Knock Off", "Snore", "Stealth Rock"};
 		naturalMoves = new String[]{};
-}
+	}
 		Dwebble(){
 
 		super();

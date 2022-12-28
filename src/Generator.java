@@ -1,6 +1,8 @@
 import java.lang.Class;
 import java.lang.reflect.InvocationTargetException;
 
+import javax.swing.JOptionPane;
+
 /**
  * Creates the actual Pokemon that is used Author : MageMan460/GrandMage460
  */
@@ -39,10 +41,12 @@ public class Generator {
             }
             catch (Exception e) {
                 e.printStackTrace();
+                System.out.println(name);
             }
         }
         catch (ClassNotFoundException e) {
-            System.out.println("Not a Pokemon name");
+            JOptionPane.showMessageDialog(null, "Not a Pokemon");
+            System.out.println(name);
         }
         catch (IllegalAccessException e1) {
             

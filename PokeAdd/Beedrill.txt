@@ -1,0 +1,65 @@
+Beedrill
+Base Stats:
+HP: 7
+Attack: 9
+Defense: 4
+Special Attack: 5
+Special Defense: 8
+Speed: 8
+Basic Information
+Type: Bug / Poison
+Basic Ability 1: Sniper
+Adv Ability 1: Poison Touch
+Adv Ability 2: Technician
+Adv Ability 3: Swarm
+High Ability: Vanguard
+Evolution:
+1 - Weedle
+2 - Kakuna Minimum 5
+3 - Beedrill Minimum 10
+Size Information
+Height: 3’ 3” / 1m (Medium)
+Weight: 65 lbs / 29.5kg (3)
+Breeding Information
+Gender Ratio: 50% M / 50% F
+Egg Group: Bug
+Diet: Herbivore
+Habitat: Forest
+Capability List
+Overland 2, Swim 2, Sky 8, Jump 3/4, Power 4,
+Underdog
+Skill List
+Athl 3d6+2, Acro 5d6+3, Combat 2d6, Stealth 4d6+1,
+Percep 3d6+3, Focus 3d6+3
+Move List
+Level Up Move List
+Evo Twineedle - Bug
+11 Fury Attack - Normal
+14 Rage - Normal
+17 Pursuit - Dark
+20 Focus Energy - Normal
+23 Venoshock - Poison
+26 Assurance - Dark
+29 Toxic Spikes - Poison
+32 Pin Missile - Bug
+35 Poison Jab - Poison
+38 Agility - Psychic
+41 Endeavor - Normal
+44 Fell Stinger - Bug
+TM Move List
+06 Toxic, 09 Venoshock, 10 Hidden Power, 11 Sunny
+Day, 15 Hyper Beam, 17 Protect, 19 Roost, 21
+Frustration, 22 Solar Beam, 27 Return, 31 Brick
+Break, 32 Double Team, 36 Sludge Bomb, 40 Aerial
+Ace, 42 Facade, 44 Rest, 45 Attract, 46 Thief, 48
+Round, 54 False Swipe, 59 Brutal Swing, 62
+Acrobatics, 66 Payback, 68 Giga Impact, 75 Swords
+Dance, 81 X-Scissor, 83 Infestation, 84 Poison Jab,
+87 Swagger, 88 Sleep Talk, 89 U-Turn, 90 Substitute,
+100 Confide
+Tutor Move List
+Air Cutter, Bug Bite, Defog, Double-Edge, Drill Run,
+Electroweb, Endeavor, Fury Cutter, Giga Drain,
+Knock Off, Laser Focus, Ominous Wind, Roost, Silver
+Wind, Snore, String Shot, Swift, Tailwind, Throat
+Chop

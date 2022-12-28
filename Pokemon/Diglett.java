@@ -1,5 +1,5 @@
 public class Diglett extends Pokemon{
-{
+	{
 		name = "Diglett";
 		bHP = 1;
 		bAtk = 6;
@@ -9,7 +9,7 @@ public class Diglett extends Pokemon{
 		bSpd = 10;
 		type1 = "Ground";
 		type2 = "";
-		abilities = new String[]{"Sand Veil", "Arena Trap", "Sand Force", "Celebrate", "Away"};
+		abilities = new String[]{"Sand Veil", "Arena Trap", "Sand Force", "Celebrate", "Dig Away"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Dugtrio"};
 		nextReq = new String[]{"25"};
@@ -17,21 +17,19 @@ public class Diglett extends Pokemon{
 		size = "Small";
 		weight = 1.8;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Average";
-		habitats = new String[]{"Cave", "Grassland", "Capability"};
+		egg2 = "";
 		overland = 1;
-		swim = 0;
+		swim = 1;
 		levitate = 0;
-		sky = 0;
 		burrow = 7;
-		lJump = 0;
+		lJump = 0 ;
 		hJump = 0;
 		power = 1;
-		underdog = false;
-		other = new String[]{"Underdog"};
+		underdog = true;
+		other = new String[]{"Tremorsense"};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -44,13 +42,13 @@ public class Diglett extends Pokemon{
 		stealthBonus = 2;
 		percepBonus = 1;
 		focusBonus = 1;
-		movesLevels = new int[]{1, 1, 4, 7, 12, 15, 18, 23, 26, 29, 34, 37, 40, 45};
+		movesLevels = new int[]{1, 1, 4, 7, 10, 14, 18, 22, 25, 28, 31, 35, 39, 43};
 		moves = new String[]{"Sand Attack", "Scratch", "Growl", "Astonish", "MudSlap", "Magnitude", "Bulldoze", "Sucker Punch", "Mud Bomb", "Earth Power", "Dig", "Slash", "Earthquake", "Fissure"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Sludge Bomb", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		eggMoves = new String[]{"Ancient Power", "Astonish", "Beat Up", "Endure", "Feint Attack", "Final Gambit", "Headbutt", "Memento", "Mud Bomb", "Pursuit", "Reversal", "Rock Slide", "Screech", "Uproar"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Earth Power", "Fury Swipes", "Sleep Talk", "Snore", "Stealth Rock", "Sucker Punch", "Uproar"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Earthquake", "Return", "Dig", "Double Team", "Sludge", "Sludge Bomb", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		eggMoves = new String[]{"Ancient Power", "Beat Up", "Endure", "Feint Attack", "Final Gambit", "Headbutt", "Memento", "Pursuit", "Reversal", "Screech", "Uproar"};
+		tutorMoves = new String[]{"Ancient Power", "Body Slam", "Slam", "Earth Power", "Snore", "Stealth Rock", "Stomping Tantrum", "Sucker Punch", "Uproar"};
 		naturalMoves = new String[]{};
-}
+	}
 		Diglett(){
 
 		super();

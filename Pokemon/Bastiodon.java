@@ -1,5 +1,5 @@
 public class Bastiodon extends Pokemon{
-{
+	{
 		name = "Bastiodon";
 		bHP = 6;
 		bAtk = 5;
@@ -8,7 +8,7 @@ public class Bastiodon extends Pokemon{
 		bSpDef = 14;
 		bSpd = 3;
 		type1 = "Rock";
-		type2 = "";
+		type2 = "Steel";
 		abilities = new String[]{"Sturdy", "Rock Head", "Bodyguard", "Soundproof", "Vigor"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Shieldon();
@@ -19,19 +19,17 @@ public class Bastiodon extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Monster";
-		egg2 = "Diet";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
+		egg2 = "Herbivore";
 		overland = 4;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 0;
+		lJump = 0 ;
 		hJump = 1;
 		power = 8;
-		natureWalk = new String[]{"Mountain", "Cave"};
+		natureWalk = new String[]{"Cave", "Mountain"};
 		underdog = false;
-		other = new String[]{"1"};
+		other = new String[]{"Mountable 1"};
 		athl = 4;
 		acro = 1;
 		combat = 4;
@@ -44,12 +42,12 @@ public class Bastiodon extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 1;
-		movesLevels = new int[]{6, 10, 15, 19, 24, 28, 30, 36, 43, 52, 58};
-		moves = new String[]{"Taunt", "Metal Sound", "Take Down", "Iron Defense", "Swagger", "Ancient Power", "Block", "Endure", "Metal Burst", "Iron Head", "Heavy Slam"};
-		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Thunderbolt", "Thunder", "Earthquake", "Return", "Dig", "Double Team", "Flamethrower", "Sandstorm", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Round", "Incinerate", "Giga Impact", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon", "Rock Smash"};
-		tutorMoves = new String[]{"Ancient Power", "Avalanche", "Block", "Earth Power", "Iron Defense", "Iron Head", "Iron Tail", "Magic Coat", "Magnet Rise", "Outrage", "Role Play", "Shock Wave", "Sleep Talk", "Snore", "Stealth Rock"};
+		movesLevels = new int[]{6, 10, 15, 19, 24, 28, 36, 43, 51, 58};
+		moves = new String[]{"Taunt", "Metal Sound", "Take Down", "Iron Defense", "Swagger", "Ancient Power", "Endure", "Metal Burst", "Iron Head", "Heavy Slam"};
+		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Thunderbolt", "Thunder", "Earthquake", "Return", "Double Team", "Flamethrower", "Sandstorm", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Round", "Giga Impact", "Rock Polish", "Stone Edge", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Confide"};
+		tutorMoves = new String[]{"Ancient Power", "Block", "Body Slam", "Slam", "Counter", "Earth Power", "Iron Defense", "Iron Head", "Iron Tail", "Magic Coat", "Magnet Rise", "Outrage", "Shock Wave", "Snore", "Stealth Rock", "Stomping Tantrum"};
 		naturalMoves = new String[]{};
-}
+	}
 		Bastiodon(){
 
 		super();

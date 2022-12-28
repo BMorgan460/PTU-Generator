@@ -1,5 +1,5 @@
 public class Kingler extends Pokemon{
-{
+	{
 		name = "Kingler";
 		bHP = 6;
 		bAtk = 13;
@@ -16,21 +16,20 @@ public class Kingler extends Pokemon{
 		height = "4\'/3\"";
 		weight = 132.3;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "3";
-		habitats = new String[]{"Beach", "Capability", "List"};
+		egg2 = "Diet";
+		habitats = new String[]{"Beach"};
 		overland = 6;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 1;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 6;
 		underdog = false;
-		other = new String[] {};
+		other = new String[]{"Gilled"};
 		athl = 4;
 		acro = 2;
 		combat = 4;
@@ -44,11 +43,11 @@ public class Kingler extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 11, 15, 19, 21, 25, 32, 37, 44, 51, 56, 63};
-		moves = new String[]{"Vice", "Leer", "Harden", "Bubble Beam", "Mud Shot", "Metal Claw", "Stomp", "Protect", "Guillotine", "Slam", "Brine", "Crabhammer", "Flail"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "False Swipe", "Scald", "Fling", "Quash", "Giga Impact", "Swords Dance", "Rock Slide", "XScissor", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		tutorMoves = new String[]{"Ancient Power", "Body Slam", "Slam", "Dive", "Fury Cutter", "Icy Wind", "Iron Defense", "Knock Off", "Sleep Talk", "Snore", "Superpower", "Water Pulse"};
-		naturalMoves = new String[]{};
-}
+		moves = new String[]{"Vice Grip", "Leer", "Harden", "Bubble Beam", "Mud Shot", "Metal Claw", "Stomp", "Protect", "Guillotine", "Slam", "Brine", "Crabhammer", "Flail"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Round", "False Swipe", "Scald", "Fling", "Quash", "Giga Impact", "Swords Dance", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Surf", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Ancient Power", "Body Slam", "Slam", "Brine", "Dive", "Fury Cutter", "Icy Wind", "Iron Defense", "Knock Off", "Liquidation", "Snore", "Stomping Tantrum", "Superpower", "Water Pulse", "Wide Guard"};
+		naturalMoves = new String[]{"Wide Guard"};
+	}
 		Kingler(){
 
 		super();

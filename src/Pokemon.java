@@ -1254,6 +1254,9 @@ public class Pokemon {
         if (maleRatio == -1) {
             return "Genderless";
         }
+        if (maleRatio == 0) {
+        	return "Female";
+        }
         double dice = (Math.random() * 101) + 1;
         if (dice >= maleRatio) {
             return "Male";

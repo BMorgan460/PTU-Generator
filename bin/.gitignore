@@ -1,53 +1,3 @@
-/.idea/
-/Absorb.txt
-/Accelrock.txt
-/Acid Armor.txt
-/Acid Spray.txt
-/Acid.txt
-/Acrobatics.txt
-/Acupressure.txt
-/Aerial Ace.txt
-/Aeroblast.txt
-/After You.txt
-/Agility.txt
-/Air Cutter.txt
-/Air Slash.txt
-/Ally Switch.txt
-/Amnesia.txt
-/Anchor Shot.txt
-/Ancient Power.txt
-/Aqua Jet.txt
-/Aqua Ring.txt
-/Aqua Tail.txt
-/Arm Thrust.txt
-/Aromatherapy.txt
-/Aromatic Mist.txt
-/Assist.txt
-/Assurance.txt
-/Astonish.txt
-/Attack Order.txt
-/Attract.txt
-/Aura Sphere.txt
-/Aurora Beam.txt
-/Aurora Veil.txt
-/Autotomize.txt
-/Avalanche.txt
-/Baby-Doll Eyes.txt
-/Baneful Bunker.txt
-/Barrage.txt
-/Barrier.txt
-/Baton Pass.txt
-/Beak Blast.txt
-/Beat Up.txt
-/Belch.txt
-/Belly Drum.txt
-/Bestow.txt
-/Bide.txt
-/Bind.txt
-/Bite.txt
-/Blast Burn.txt
-/Blaze Kick.txt
-/Blizzard.txt
 /Block.txt
 /Blue Flare.txt
 /Body Slam.txt
@@ -414,7 +364,6 @@
 /Poison Powder.txt
 /Poison Sting.txt
 /Poison Tail.txt
-/Pokemon.txt
 /Pollen Puff.txt
 /Pound.txt
 /Powder Snow.txt
@@ -467,3 +416,51 @@
 /Revelation Dance.txt
 /Revenge.txt
 /Reversal.txt
+/Roar of Time.txt
+/Roar.txt
+/PTUGeneratorGUI$1.class
+/PTUGeneratorGUI$2.class
+/PTUGeneratorGUI$3.class
+/PTUGeneratorGUI$4.class
+/PTUGeneratorGUI$5.class
+/PTUGeneratorGUI$6.class
+/Forest_s Curse.txt
+/Land_s Wrath.txt
+/Baby_Doll_Eyes.class
+/Aggron.class
+/Arceus.class
+/Buzzwole.class
+/Dialga.class
+/Giratina.class
+/Giratina_origin.class
+/Hoopa_confined.class
+/Kyurem.class
+/Kyurem_black.class
+/Kyurem_white.class
+/Landorus_incarnate.class
+/Landorus_therian.class
+/Lopunny.class
+/Meloetta_aria.class
+/Meloetta_step.class
+/Mime_jr_.class
+/Mr__mime.class
+/Naganadel.class
+/Necrozma_dawn_wings.class
+/Necrozma_dusk_mane.class
+/Palkia.class
+/Palossand.class
+/Pikachu.class
+/Rayquaza.class
+/Reshiram.class
+/Roggenrolla.class
+/Shaymin_sky.class
+/Thundurus_incarnate.class
+/Thundurus_therian.class
+/Tornadus_incarnate.class
+/Tornadus_therian.class
+/Wishiwashi_schooling.class
+/Wishiwashi_solo.class
+/Xerneas.class
+/Yveltal.class
+/Zekrom.class
+/Zygarde.class

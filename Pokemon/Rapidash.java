@@ -1,5 +1,5 @@
 public class Rapidash extends Pokemon{
-{
+	{
 		name = "Rapidash";
 		bHP = 7;
 		bAtk = 10;
@@ -17,20 +17,21 @@ public class Rapidash extends Pokemon{
 		size = "Large";
 		weight = 209.4;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Grassland", "Capability", "List"};
+		egg2 = "Herbivore";
+		habitats = new String[]{"Grassland"};
 		overland = 10;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 3;
 		power = 6;
+		natureWalk = new String[]{"Grassland"};
 		underdog = false;
+		other = new String[]{"Egg Warmer","Firestarter","Glow","Heater","Mountable 2"};
 		athl = 6;
 		acro = 4;
 		combat = 2;
@@ -43,12 +44,12 @@ public class Rapidash extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 2;
 		focusBonus = 2;
-		movesLevels = new int[]{4, 9, 13, 17, 21, 25, 29, 33, 37, 40, 41, 45, 49};
-		moves = new String[]{"Tail Whip", "Ember", "Flame Wheel", "Stomp", "Flame Charge", "Fire Spin", "Take Down", "Inferno", "Agility", "Fury Attack", "Fire Blast", "Bounce", "Flare Blitz"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Incinerate", "WillOWisp", "Giga Impact", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Wild Charge"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Drill Run", "Heat Wave", "Iron Tail", "Low Kick", "Sleep Talk", "Snore", "Swift", "Tackle", "Quick Attack"};
-		naturalMoves = new String[]{};
-}
+		movesLevels = new int[]{4, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49};
+		moves = new String[]{"Tail Whip", "Ember", "Flame Wheel", "Stomp", "Flame Charge", "Fire Spin", "Take Down", "Inferno", "Agility", "Fire Blast", "Bounce", "Flare Blitz"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Smart Strike", "Giga Impact", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Body Slam", "Slam", "Bounce", "Drill Run", "Heat Wave", "Iron Tail", "Low Kick", "Poison Jab", "Snore", "Swift", "Throat Chop"};
+		naturalMoves = new String[]{"Megahorn", "Poison Jab"};
+	}
 		Rapidash(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Samurott extends Pokemon{
-{
+	{
 		name = "Samurott";
 		bHP = 10;
 		bAtk = 10;
@@ -11,10 +11,8 @@ public class Samurott extends Pokemon{
 		type2 = "";
 		abilities = new String[]{"Inner Focus", "Torrent", "Shell Armor", "Water Absorb", "Parry"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Oshawott();
-		prevReq = 15;
 		previous = new Dewott();
-		prevReq = 15;
+		prevReq = 30;
 		height = "4\'/11\"";
 		size = "Large";
 		weight = 208.6;
@@ -22,17 +20,17 @@ public class Samurott extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Beach", "Ocean", "Capability"};
+		egg2 = "Herbivore";
 		overland = 5;
 		swim = 8;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 3;
 		power = 7;
+		natureWalk = new String[]{"Ocean"};
 		underdog = false;
+		other = new String[]{"Fountain","Wielder"};
 		athl = 5;
 		acro = 4;
 		combat = 5;
@@ -45,12 +43,12 @@ public class Samurott extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 2;
-		movesLevels = new int[]{5, 7, 11, 13, 17, 20, 25, 28, 33, 36, 38, 45, 50, 57, 62};
-		moves = new String[]{"Tail Whip", "Water Gun", "Water Sport", "Focus Energy", "Razor Shell", "Fury Cutter", "Water Pulse", "Revenge", "Aqua Jet", "Slash", "Encore", "Aqua Tail", "Retaliate", "Swords Dance", "Hydro Pump"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Scald", "Fling", "Retaliate", "Giga Impact", "Swords Dance", "XScissor", "Dragon Tail", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		tutorMoves = new String[]{"Aqua Tail", "Block", "Covet", "Helping Hand", "Icy Wind", "Iron Tail", "Knock Off", "Sleep Talk", "Snore", "Superpower", "Water Pledge"};
-		naturalMoves = new String[]{};
-}
+		movesLevels = new int[]{5, 7, 11, 13, 18, 21, 26, 29, 34, 39, 46, 51, 58, 63};
+		moves = new String[]{"Tail Whip", "Water Gun", "Water Sport", "Focus Energy", "Razor Shell", "Fury Cutter", "Water Pulse", "Revenge", "Aqua Jet", "Encore", "Aqua Tail", "Retaliate", "Swords Dance", "Hydro Pump"};
+		TMs = new String[]{"Work Up", "Toxic", "Hail", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Scald", "Fling", "Smart Strike", "Giga Impact", "Swords Dance", "Dragon Tail", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"};
+		tutorMoves = new String[]{"Aqua Tail", "Block", "Covet", "Helping Hand", "Hydro Cannon", "Icy Wind", "Iron Tail", "Knock Off", "Liquidation", "Snore", "Superpower", "Water Pledge", "Water Pulse"};
+		naturalMoves = new String[]{"Liquidation", "Megahorn"};
+	}
 		Samurott(){
 
 		super();

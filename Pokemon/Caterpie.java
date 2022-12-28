@@ -29,9 +29,9 @@ public class Caterpie extends Pokemon{
 		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Forest"};
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[]{"Wallclimber","Threaded"};
+		other = new String[]{"Threaded","Wallclimber"};
 		athl = 3;
 		acro = 1;
 		combat = 2;
@@ -44,9 +44,9 @@ public class Caterpie extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 1, 15};
-		moves = new String[]{"String Shot", "Tackle", "Bug Bite"};
-		tutorMoves = new String[]{"Bug Bite", "Bite", "Electroweb", "Snore", "Bug Bite", "Bite", "String Shot"};
+		movesLevels = new int[]{1, 1, 9};
+		moves = new String[]{"Tackle", "String Shot", "Bug Bite"};
+		tutorMoves = new String[]{"Bug Bite", "Bite", "Electroweb", "Snore"};
 		naturalMoves = new String[]{};
 	}
 		Caterpie(){

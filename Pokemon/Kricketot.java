@@ -28,7 +28,7 @@ public class Kricketot extends Pokemon{
 		lJump = 2 ;
 		hJump = 3;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Forest"};
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
 		other = new String[]{};
 		athl = 2;
@@ -45,7 +45,7 @@ public class Kricketot extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 1, 6, 16};
 		moves = new String[]{"Bide", "Growl", "Struggle Bug", "Bug Bite"};
-		tutorMoves = new String[]{"Bug Bite", "Bite", "Endeavor", "Snore", "Uproar", "Bug Bite", "Bite", "String Shot"};
+		tutorMoves = new String[]{"Bug Bite", "Bite", "Endeavor", "Snore", "String Shot", "Uproar"};
 		naturalMoves = new String[]{};
 	}
 		Kricketot(){

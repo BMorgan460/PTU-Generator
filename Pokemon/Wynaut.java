@@ -29,7 +29,7 @@ public class Wynaut extends Pokemon{
 		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = true;
+		underdog = false;
 		other = new String[]{};
 		athl = 2;
 		acro = 2;
@@ -43,6 +43,9 @@ public class Wynaut extends Pokemon{
 		stealthBonus = 1;
 		percepBonus = 0;
 		focusBonus = 1;
+		movesLevels = new int[]{1, 1, 1, 15, 15, 15, 15};
+		moves = new String[]{"Charm", "Encore", "Splash", "Counter", "Destiny Bond", "Mirror Coat", "Safeguard"};
+		TMs = new String[]{"Safeguard"};
 	}
 		Wynaut(){
 

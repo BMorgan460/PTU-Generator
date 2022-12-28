@@ -1,5 +1,5 @@
 public class Carnivine extends Pokemon{
-{
+	{
 		name = "Carnivine";
 		bHP = 7;
 		bAtk = 10;
@@ -9,27 +9,25 @@ public class Carnivine extends Pokemon{
 		bSpd = 5;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Flying", "Ambush", "Gluttony", "Technician", "Swallow"};
+		abilities = new String[]{"Flying", "Ambush", "Empower", "Weird Power", "Big Swallow"};
 		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/7\"";
 		weight = 59.5;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Plant";
-		egg2 = "Average";
-		habitats = new String[]{"Marsh", "Rainforest", "Capability"};
+		egg2 = "";
 		overland = 3;
 		swim = 2;
-		levitate = 5;
-		sky = 0;
+		levitate = 6;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 4;
-		natureWalk = new String[]{"Grassland", "Forest"};
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -42,13 +40,13 @@ public class Carnivine extends Pokemon{
 		stealthBonus = 2;
 		percepBonus = 2;
 		focusBonus = 2;
-		movesLevels = new int[]{1, 1, 7, 11, 17, 21, 27, 31, 37, 37, 37, 40, 47, 51};
+		movesLevels = new int[]{1, 1, 7, 11, 17, 21, 27, 31, 37, 37, 37, 40, 47, 50};
 		moves = new String[]{"Bind", "Growth", "Bite", "Vine Whip", "Sweet Scent", "Ingrain", "Feint Attack", "Leaf Tornado", "Spit Up", "Stockpile", "Swallow", "Crunch", "Wring Out", "Power Whip"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Fling", "Payback", "Giga Impact", "Flash", "Swords Dance", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power"};
-		eggMoves = new String[]{"Giga Drain", "Leech Seed", "Magical Leaf", "Rage Powder", "Powder", "Razor Leaf", "Slam", "Sleep Powder", "Powder", "Stun Spore", "Spore", "Synthesis", "Worry Seed"};
-		tutorMoves = new String[]{"Bind", "Bug Bite", "Bite", "Bullet Seed", "Fury Cutter", "Gastro Acid", "Acid", "Knock Off", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Worry Seed"};
-		naturalMoves = new String[]{};
-}
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Fling", "Payback", "Giga Impact", "Swords Dance", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
+		eggMoves = new String[]{"Acid Spray", "Giga Drain", "Leech Seed", "Magical Leaf", "Rage Powder", "Powder", "Razor Leaf", "Slam", "Sleep Powder", "Powder", "Stun Spore", "Spore", "Synthesis", "Worry Seed"};
+		tutorMoves = new String[]{"Bug Bite", "Bite", "Bullet Seed", "Defog", "Fury Cutter", "Giga Drain", "Gastro Acid", "Acid", "Knock Off", "Seed Bomb", "Snore", "Synthesis", "Throat Chop", "Worry Seed"};
+		naturalMoves = new String[]{"Bind"};
+	}
 		Carnivine(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Grovyle extends Pokemon{
-{
+	{
 		name = "Grovyle";
 		bHP = 5;
 		bAtk = 7;
@@ -22,16 +22,17 @@ public class Grovyle extends Pokemon{
 		femaleRatio = 12.5;
 		egg1 = "Monster";
 		egg2 = "Dragon";
-		habitats = new String[]{"Rainforest", "Capability", "List"};
+		habitats = new String[]{"Rainforest"};
 		overland = 8;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 3;
+		lJump = 3 ;
 		hJump = 3;
 		power = 3;
-		underdog = false;
+		natureWalk = new String[]{"Grassland", "Forest"};
+		underdog = true;
+		other = new String[]{"Wallclimber"};
 		athl = 4;
 		acro = 4;
 		combat = 3;
@@ -44,12 +45,12 @@ public class Grovyle extends Pokemon{
 		stealthBonus = 3;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 5, 9, 13, 16, 18, 23, 28, 33, 38, 43, 48, 53, 58, 63};
-		moves = new String[]{"Leer", "Absorb", "Quick Attack", "Mega Drain", "Fury Cutter", "Pursuit", "Leaf Blade", "Agility", "Slam", "Detect", "XScissor", "False Swipe", "Quick Guard", "Leaf Storm", "Screech"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Energy Ball", "False Swipe", "Fling", "Acrobatics", "Flash", "Swords Dance", "Rock Slide", "XScissor", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Nature Power", "PowerUp", "Confide"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Bullet Seed", "Counter", "Drain Punch", "Dynamic Punch", "Endeavor", "Focus Punch", "Fury Cutter", "Giga Drain", "Grass Pledge", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Secret Power", "Seed Bomb", "Seismic Toss", "Sleep Talk", "Snore", "Swift", "Synthesis", "Thunder Punch", "Worry Seed"};
+		movesLevels = new int[]{3, 5, 9, 13, 18, 23, 28, 33, 38, 43, 48, 53, 58, 63};
+		moves = new String[]{"Leer", "Absorb", "Quick Attack", "Mega Drain", "Pursuit", "Leaf Blade", "Agility", "Slam", "Detect", "XScissor", "False Swipe", "Quick Guard", "Leaf Storm", "Screech"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Energy Ball", "False Swipe", "Fling", "Acrobatics", "Swords Dance", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
+		tutorMoves = new String[]{"Body Slam", "Slam", "Bullet Seed", "Counter", "Drain Punch", "Dynamic Punch", "Endeavor", "Focus Punch", "Fury Cutter", "Giga Drain", "Grass Pledge", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Secret Power", "Seed Bomb", "Seismic Toss", "Snore", "Swift", "Synthesis", "Thunder Punch", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Grovyle(){
 
 		super();

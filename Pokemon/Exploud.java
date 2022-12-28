@@ -1,5 +1,5 @@
 public class Exploud extends Pokemon{
-{
+	{
 		name = "Exploud";
 		bHP = 10;
 		bAtk = 9;
@@ -9,30 +9,28 @@ public class Exploud extends Pokemon{
 		bSpd = 7;
 		type1 = "Normal";
 		type2 = "";
-		abilities = new String[]{"Soundproof", "Scrappy", "Drown Out", "Intimidate", "Spirit"};
+		abilities = new String[]{"Soundproof", "Scrappy", "Drown Out", "Intimidate", "Vital Spirit"};
 		abilityTypeCount = new int[] {1,3,1};
-		previous = new Whismur();
-		prevReq = 20;
 		previous = new Loudred();
-		prevReq = 20;
+		prevReq = 40;
 		height = "4\'/11\"";
 		weight = 185.2;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Monster";
 		egg2 = "Field";
-		habitats = new String[]{"Cave", "Capability", "List"};
+		habitats = new String[]{"Cave"};
 		overland = 6;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 6;
 		natureWalk = new String[]{"Cave"};
 		underdog = false;
+		other = new String[]{};
 		athl = 4;
 		acro = 2;
 		combat = 4;
@@ -45,12 +43,12 @@ public class Exploud extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{4, 9, 11, 15, 18, 20, 23, 27, 32, 36, 40, 42, 47, 53, 58, 64};
-		moves = new String[]{"Echoed Voice", "Astonish", "Howl", "Screech", "Supersonic", "Bite", "Stomp", "Uproar", "Roar", "Rest", "Crunch", "Sleep Talk", "Hyper Voice", "Synchronoise", "Boomburst", "Hyper Beam"};
-		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Smack Down", "Earthquake", "Return", "Shadow Ball", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Focus Blast", "Fling", "Incinerate", "Retaliate", "Giga Impact", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
-		tutorMoves = new String[]{"Avalanche", "Body Slam", "Slam", "Counter", "Dynamic Punch", "Endeavor", "Fire Punch", "Hyper Voice", "Ice Punch", "Icy Wind", "Low Kick", "Mega Kick", "Mega Punch", "Outrage", "Psych Up", "Rock Climb", "Rollout", "Seismic Toss", "Shock Wave", "Sleep Talk", "Snore", "Thunder", "Thunder Punch", "Uproar", "Water Pulse", "Work Up", "Zen Headbutt", "Headbutt"};
-		naturalMoves = new String[]{"Slam", "Boomburst"};
-}
+		movesLevels = new int[]{4, 9, 11, 15, 18, 23, 27, 32, 36, 42, 47, 53, 58, 64};
+		moves = new String[]{"Echoed Voice", "Astonish", "Howl", "Screech", "Supersonic", "Stomp", "Uproar", "Roar", "Rest", "Sleep Talk", "Hyper Voice", "Synchronoise", "Boomburst", "Hyper Beam"};
+		TMs = new String[]{"Work Up", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Smack Down", "Earthquake", "Return", "Shadow Ball", "Brick Break", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Focus Blast", "Fling", "Giga Impact", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Surf", "Confide"};
+		tutorMoves = new String[]{"Avalanche", "Body Slam", "Slam", "Counter", "Defense Curl", "Dynamic Punch", "Endeavor", "Fire Fang", "Fire Punch", "Hyper Voice", "Ice Fang", "Ice Punch", "Icy Wind", "Low Kick", "Mega Kick", "Mega Punch", "Outrage", "Rock Climb", "Seismic Toss", "Shock Wave", "Snore", "Stomping Tantrum", "Thunder Fang", "Thunder Punch", "Uproar", "Water Pulse", "Zen Headbutt", "Headbutt"};
+		naturalMoves = new String[]{"Avalanche", "Bite", "Slam", "Boomburst", "Fire Fang", "Ice Fang", "Thunder Fang"};
+	}
 		Exploud(){
 
 		super();

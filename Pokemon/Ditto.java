@@ -9,7 +9,7 @@ public class Ditto extends Pokemon{
 		bSpd = 5;
 		type1 = "Normal";
 		type2 = "";
-		abilities = new String[]{"Imposter", "Limber", "Sticky Hold", "Discipline", "Sturdy"};
+		abilities = new String[]{"Imposter", "Limber", "Discipline", "Trace", "Sturdy"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "1\'/0\"";
 		size = "Small";

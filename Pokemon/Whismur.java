@@ -1,5 +1,5 @@
 public class Whismur extends Pokemon{
-{
+	{
 		name = "Whismur";
 		bHP = 6;
 		bAtk = 5;
@@ -9,7 +9,7 @@ public class Whismur extends Pokemon{
 		bSpd = 3;
 		type1 = "Normal";
 		type2 = "";
-		abilities = new String[]{"Soundproof", "Rattled", "Drown Out", "Cute Charm", "Spirit"};
+		abilities = new String[]{"Soundproof", "Rattled", "Drown Out", "Cute Charm", "Vital Spirit"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Loudred", "Exploud"};
 		nextReq = new String[]{"40"};
@@ -17,22 +17,21 @@ public class Whismur extends Pokemon{
 		size = "Small";
 		weight = 35.9;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Monster";
 		egg2 = "Field";
-		habitats = new String[]{"Cave", "Capability", "List"};
+		habitats = new String[]{"Cave"};
 		overland = 3;
 		swim = 1;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
 		natureWalk = new String[]{"Cave"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 1;
 		acro = 2;
 		combat = 1;
@@ -47,11 +46,11 @@ public class Whismur extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 4, 8, 11, 15, 18, 22, 25, 29, 32, 36, 39, 43};
 		moves = new String[]{"Pound", "Echoed Voice", "Astonish", "Howl", "Screech", "Supersonic", "Stomp", "Uproar", "Roar", "Rest", "Sleep Talk", "Hyper Voice", "Synchronoise"};
-		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Fling", "Incinerate", "Retaliate", "Swagger", "Sleep Talk", "Substitute", "Confide"};
-		eggMoves = new String[]{"Circle Throw", "Disarming Voice", "Endeavor", "Extrasensory", "Fake Tears", "Hammer Arm", "Smelling Salts", "Smokescreen", "Snore", "Swagger", "Take Down"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Defense Curl", "Dynamic Punch", "Fire Punch", "Hyper Voice", "Ice Punch", "Icy Wind", "Mega Kick", "Mega Punch", "Psych Up", "Rollout", "Seismic Toss", "Shock Wave", "Sleep Talk", "Snore", "Thunder Punch", "Uproar", "Water Pulse", "Work Up", "Zen Headbutt", "Headbutt"};
+		TMs = new String[]{"Work Up", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Flamethrower", "Fire Blast", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Fling", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		eggMoves = new String[]{"Circle Throw", "Disarming Voice", "Endeavor", "Extrasensory", "Fake Tears", "Hammer Arm", "Smelling Salts", "Smokescreen", "Take Down", "Whirlwind"};
+		tutorMoves = new String[]{"Body Slam", "Slam", "Counter", "Defense Curl", "Dynamic Punch", "Fire Punch", "Hyper Voice", "Ice Punch", "Icy Wind", "Mega Kick", "Mega Punch", "Seismic Toss", "Shock Wave", "Snore", "Thunder Punch", "Uproar", "Water Pulse", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Whismur(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Skiploom extends Pokemon{
-{
+	{
 		name = "Skiploom";
 		bHP = 6;
 		bAtk = 5;
@@ -8,8 +8,8 @@ public class Skiploom extends Pokemon{
 		bSpDef = 7;
 		bSpd = 5;
 		type1 = "Grass";
-		type2 = "";
-		abilities = new String[]{"Infiltrator", "Photosynthesis", "Chlorophyll", "Leaf Guard", "Vanguard"};
+		type2 = "Flying";
+		abilities = new String[]{"Infiltrator", "Windveiled", "Chlorophyll", "Leaf Guard", "Flutter"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Hoppip();
 		prevReq = 15;
@@ -19,22 +19,20 @@ public class Skiploom extends Pokemon{
 		size = "Small";
 		weight = 2.2;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Fairy";
 		egg2 = "Plant";
-		habitats = new String[]{"Forest", "Grassland", "Capability"};
 		overland = 3;
 		swim = 3;
 		levitate = 0;
-		sky = 5;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 3;
 		power = 2;
-		natureWalk = new String[]{"Grassland", "Forest"};
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -47,12 +45,12 @@ public class Skiploom extends Pokemon{
 		stealthBonus = 1;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{4, 7, 8, 10, 12, 14, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60};
+		movesLevels = new int[]{4, 6, 8, 10, 12, 14, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60};
 		moves = new String[]{"Synthesis", "Tail Whip", "Tackle", "Fairy Wind", "Poison Powder", "Stun Spore", "Sleep Powder", "Bullet Seed", "Leech Seed", "Mega Drain", "Acrobatics", "Rage Powder", "Cotton Spore", "UTurn", "Worry Seed", "Giga Drain", "Bounce", "Memento"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Acrobatics", "Flash", "Swords Dance", "Psych Up", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Dazzling Gleam", "Confide"};
-		tutorMoves = new String[]{"Bounce", "Defense Curl", "Giga Drain", "Helping Hand", "Seed Bomb", "Silver Wind", "Sleep Talk", "Snore", "Synthesis", "Worry Seed"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Acrobatics", "Swords Dance", "Psych Up", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
+		tutorMoves = new String[]{"Bounce", "Bullet Seed", "Defense Curl", "Giga Drain", "Helping Hand", "Seed Bomb", "Silver Wind", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Skiploom(){
 
 		super();

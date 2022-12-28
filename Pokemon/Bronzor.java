@@ -1,5 +1,5 @@
 public class Bronzor extends Pokemon{
-{
+	{
 		name = "Bronzor";
 		bHP = 6;
 		bAtk = 2;
@@ -8,9 +8,9 @@ public class Bronzor extends Pokemon{
 		bSpDef = 9;
 		bSpd = 2;
 		type1 = "Steel";
-		type2 = "";
-		abilities = new String[]{"Levitate", "Heatproof", "Heavy Metal", "Magic Guard", "Bodyguard"};
-		abilityTypeCount = new int[] {1,3,1};
+		type2 = "Psychic";
+		abilities = new String[]{"Heatproof", "Levitate", "Heavy Metal", "Magic Guard", "Bodyguard"};
+		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Bronzong"};
 		nextReq = new String[]{"30"};
 		height = "1\'/8\"";
@@ -20,17 +20,17 @@ public class Bronzor extends Pokemon{
 		maleRatio = -1;
 		femaleRatio = -1;
 		egg1 = "Mineral";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Cave", "Forest", "Mountain"};
 		overland = 1;
 		swim = 2;
 		levitate = 4;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 4;
-		underdog = false;
+		underdog = true;
+		other = new String[]{"Dead Silent"};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -45,10 +45,10 @@ public class Bronzor extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{1, 1, 5, 9, 11, 15, 19, 21, 25, 29, 31, 35, 39, 41, 45, 49};
 		moves = new String[]{"Confusion", "Tackle", "Hypnosis", "Imprison", "Confuse Ray", "Psywave", "Iron Defense", "Feint Attack", "Safeguard", "Future Sight", "Metal Sound", "Gyro Ball", "Extrasensory", "Payback", "Heal Block", "Heavy Slam"};
-		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Earthquake", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Round", "Charge Beam", "Payback", "Rock Polish", "Flash", "Gyro Ball", "Psych Up", "Bulldoze", "Rock Slide", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon", "Trick Room"};
-		tutorMoves = new String[]{"Ancient Power", "Gravity", "Iron Defense", "Recycle", "Rollout", "Signal Beam", "Skill Swap", "Sleep Talk", "Snore", "Stealth Rock", "Telekinesis", "Trick", "Wonder Room"};
+		TMs = new String[]{"Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Earthquake", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Round", "Charge", "Charge Beam", "Payback", "Rock Polish", "Gyro Ball", "Psych Up", "Bulldoze", "Rock Slide", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Trick", "Trick Room", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Ancient Power", "Gravity", "Iron Defense", "Recycle", "Rollout", "Signal Beam", "Skill Swap", "Snore", "Stealth Rock", "Telekinesis", "Trick", "Wonder Room"};
 		naturalMoves = new String[]{};
-}
+	}
 		Bronzor(){
 
 		super();

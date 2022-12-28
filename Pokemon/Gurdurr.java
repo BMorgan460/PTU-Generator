@@ -1,5 +1,5 @@
 public class Gurdurr extends Pokemon{
-{
+	{
 		name = "Gurdurr";
 		bHP = 9;
 		bAtk = 11;
@@ -9,26 +9,24 @@ public class Gurdurr extends Pokemon{
 		bSpd = 4;
 		type1 = "Fighting";
 		type2 = "";
-		abilities = new String[]{"Guts", "Sheer Force", "Thrust", "Hustle", "Fist"};
+		abilities = new String[]{"Guts", "Sheer Force", "Huge Power", "Hustle", "Iron Fist"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Timburr();
-		prevReq = 25;
+		prevReq = 20;
 		next = new String[]{"Conkeldurr"};
 		nextReq = new String[]{"40"};
 		height = "3\'/11\"";
 		weight = 88.2;
 		WC = 3;
-		maleRatio = 75;
-		femaleRatio = 25;
+		maleRatio = 75.0;
+		femaleRatio = 25.0;
 		egg1 = "Humanshape";
-		egg2 = "Diet";
-		habitats = new String[]{"Mountain", "Urban", "Capability"};
+		egg2 = "Omnivore";
 		overland = 4;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 8;
 		natureWalk = new String[]{"Mountain", "Urban"};
@@ -48,10 +46,10 @@ public class Gurdurr extends Pokemon{
 		focusBonus = 3;
 		movesLevels = new int[]{4, 8, 12, 16, 20, 24, 29, 33, 37, 41, 45, 49, 53, 57};
 		moves = new String[]{"Focus Energy", "Bide", "Low Kick", "Rock Throw", "WakeUp", "Chip Away", "Bulk Up", "Rock Slide", "Dynamic Punch", "Scary Face", "Hammer Arm", "Stone Edge", "Focus Punch", "Superpower"};
-		TMs = new String[]{"Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Dig", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Payback", "Retaliate", "Stone Edge", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
-		tutorMoves = new String[]{"Block", "Drain Punch", "Fire Punch", "Helping Hand", "Ice Punch", "Knock Off", "Low Kick", "Sleep Talk", "Snore", "Superpower", "Thunder Punch", "Work Up"};
+		TMs = new String[]{"Work Up", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Brutal Swing", "Payback", "Stone Edge", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		tutorMoves = new String[]{"Block", "Drain Punch", "Fire Punch", "Focus Punch", "Helping Hand", "Ice Punch", "Knock Off", "Low Kick", "Snore", "Superpower", "Thunder Punch"};
 		naturalMoves = new String[]{};
-}
+	}
 		Gurdurr(){
 
 		super();

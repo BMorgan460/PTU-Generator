@@ -1,0 +1,63 @@
+Dodrio
+Base Stats:
+HP: 6
+Attack: 11
+Defense: 7
+Special Attack: 6
+Special Defense: 6
+Speed: 11
+Basic Information
+Type: Normal / Flying
+Basic Ability 1: Early Bird
+Basic Ability 2: Run Away
+Adv Ability 1: Trinity
+Adv Ability 2: Polycephaly
+High Ability: Vanguard
+Evolution:
+1 - Doduo
+2 - Dodrio Minimum 25
+Size Information
+Height: 5’ 11” / 1.8m (Medium)
+Weight: 187.8 lbs / 85.2kg (4)
+Breeding Information
+Gender Ratio: 50% M / 50% F
+Egg Group: Flying
+Diet: Herbivore
+Habitat: Desert, Grassland
+Capability List
+Overland 9, Swim 4, Sky 2, Jump 5/7, Power 6,
+Mountable 1
+Skill List
+Athl 4d6, Acro 4d6, Combat 3d6, Stealth 2d6, Percep
+6d6, Focus 2d6-3
+Move List
+Level Up Move List
+Evo Tri Attack - Normal
+5 Quick Attack - Normal
+8 Rage - Normal
+12 Fury Attack - Normal
+15 Pursuit - Dark
+19 Pluck - Flying
+22 Double Hit - Normal
+26 Agility - Psychic
+29 Uproar - Normal
+34 Acupressure - Normal
+38 Swords Dance - Normal
+43 Drill Peck - Flying
+47 Jump Kick - Fighting
+52 Endeavor - Normal
+56 Thrash - Normal
+6
+TM Move List
+01 Work Up, 06 Toxic, 10 Hidden Power, 11 Sunny
+Day, 12 Taunt, 15 Hyper Beam, 17 Protect, 19 Roost,
+21 Frustration, 27 Return, 32 Double Team, 40
+Aerial Ace, 41 Torment, 42 Facade, 44 Rest, 45
+Attract, 46 Thief, 48 Round, 49 Echoed Voice, 51
+Steel Wing, 66 Payback, 68 Giga Impact, 75 Swords
+Dance, 76 Fly, 87 Swagger, 88 Sleep Talk, 90
+Substitute, 100 Confide
+Tutor Move List
+Air Cutter, Body Slam, Double-Edge, Endeavor,
+Knock Off, Mud-Slap, Pluck, Sky Attack, Snore,
+Stomping Tantrum, Swift, Uproar

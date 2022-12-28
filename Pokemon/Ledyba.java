@@ -1,5 +1,5 @@
 public class Ledyba extends Pokemon{
-{
+	{
 		name = "Ledyba";
 		bHP = 4;
 		bAtk = 2;
@@ -8,31 +8,29 @@ public class Ledyba extends Pokemon{
 		bSpDef = 8;
 		bSpd = 6;
 		type1 = "Bug";
-		type2 = "";
-		abilities = new String[]{"Early Bird", "Infiltrator", "Rattled", "Swarm", "Starlight"};
-		abilityTypeCount = new int[] {1,3,1};
+		type2 = "Flying";
+		abilities = new String[]{"Early Bird", "Rattled", "Infiltrator", "Swarm", "Starlight"};
+		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Ledian"};
 		nextReq = new String[]{"15"};
 		height = "3\'/3\"";
 		size = "Small";
 		weight = 23.8;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Bug";
-		egg2 = "Average";
-		habitats = new String[]{"Forest", "Rainforest", "Capability"};
+		egg2 = "";
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 3;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 2;
-		natureWalk = new String[]{"Grassland", "Forest"};
-		underdog = false;
-		other = new String[]{"Underdog"};
+		natureWalk = new String[]{"Forest", "Grassland"};
+		underdog = true;
+		other = new String[]{"Wallclimber"};
 		athl = 2;
 		acro = 3;
 		combat = 2;
@@ -45,13 +43,13 @@ public class Ledyba extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 1;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 6, 9, 14, 14, 14, 17, 22, 25, 30, 33, 38, 41};
-		moves = new String[]{"Tackle", "Supersonic", "Comet Punch", "Light Screen", "Reflect", "Safeguard", "Mach Punch", "Baton Pass", "Silver Wind", "Agility", "Swift", "DoubleEdge", "Bug Buzz"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Roost", "Safeguard", "Frustration", "Solar Beam", "Return", "Dig", "Brick Break", "Double Team", "Reflect", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Acrobatics", "Flash", "Swords Dance", "Struggle Bug", "Infestation", "Swagger", "Sleep Talk", "UTurn", "Substitute", "PowerUp", "Confide"};
-		eggMoves = new String[]{"Bide", "Bug Bite", "Bite", "Bug Buzz", "Dizzy Punch", "Drain Punch", "Encore", "Focus Punch", "Knock Off", "Psybeam", "Screech", "Silver Wind", "Tailwind"};
-		tutorMoves = new String[]{"Air Cutter", "Bug Bite", "Bite", "Drain Punch", "Dynamic Punch", "Giga Drain", "Ice Punch", "Knock Off", "Mega Punch", "Ominous Wind", "Rollout", "Roost", "Sleep Talk", "Snore", "String Shot", "Swift", "Tailwind", "Thunder Punch", "Uproar"};
+		movesLevels = new int[]{1, 5, 8, 12, 12, 12, 15, 19, 22, 26, 29, 33, 36, 38};
+		moves = new String[]{"Tackle", "Supersonic", "Swift", "Light Screen", "Reflect", "Safeguard", "Mach Punch", "Silver Wind", "Comet Punch", "Baton Pass", "Agility", "Bug Buzz", "Air Slash", "DoubleEdge"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Roost", "Safeguard", "Frustration", "Solar Beam", "Return", "Brick Break", "Double Team", "Reflect", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Fling", "Acrobatics", "Swords Dance", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		eggMoves = new String[]{"Bide", "Bug Bite", "Bite", "Counter", "Dizzy Punch", "Drain Punch", "Encore", "Endure", "Focus Punch", "Knock Off", "Psybeam", "Screech", "Tailwind"};
+		tutorMoves = new String[]{"Air Cutter", "Bug Bite", "Bite", "Drain Punch", "Dynamic Punch", "Focus Punch", "Giga Drain", "Ice Punch", "Knock Off", "Mega Punch", "Ominous Wind", "Rollout", "Silver Wind", "Snore", "String Shot", "Swift", "Tailwind", "Thunder Punch", "Uproar"};
 		naturalMoves = new String[]{};
-}
+	}
 		Ledyba(){
 
 		super();

@@ -1,5 +1,5 @@
 public class Mantyke extends Pokemon{
-{
+	{
 		name = "Mantyke";
 		bHP = 5;
 		bAtk = 2;
@@ -8,28 +8,29 @@ public class Mantyke extends Pokemon{
 		bSpDef = 12;
 		bSpd = 5;
 		type1 = "Water";
-		type2 = "";
-		abilities = new String[]{"Water Absorb", "Wonder Skin", "Serene Grace", "Swift Swim", "Veil"};
+		type2 = "Flying";
+		abilities = new String[]{"Water Absorb", "Wonder Skin", "Serene Grace", "Swift Swim", "Water Veil"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Mantine"};
-		nextReq = new String[]{"wiht"};
+		nextReq = new String[]{"10"};
 		height = "3\'/3\"";
 		weight = 143.3;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Ocean", "Capability", "List"};
+		egg2 = "Average";
+		habitats = new String[]{"Ocean"};
 		overland = 1;
 		swim = 5;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Ocean"};
+		underdog = true;
+		other = new String[]{"Fountain","Gilled"};
 		athl = 2;
 		acro = 3;
 		combat = 1;
@@ -44,11 +45,11 @@ public class Mantyke extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 3, 7, 11, 14, 16, 19, 23, 27, 32, 36, 39, 46, 49};
 		moves = new String[]{"Bubble", "Tackle", "Supersonic", "Bubble Beam", "Confuse Ray", "Wing Attack", "Headbutt", "Water Pulse", "Wide Guard", "Take Down", "Agility", "Air Slash", "Aqua Ring", "Bounce", "Hydro Pump"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Scald", "Acrobatics", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute"};
-		eggMoves = new String[]{"Amnesia", "Haze", "Hydro Pump", "Mirror Coat", "Mud Sport", "Rock Slide", "Signal Beam", "Slam", "Splash", "Tailwind", "Twister", "Water Sport", "Wide Guard"};
-		tutorMoves = new String[]{"Air Cutter", "Bounce", "Dive", "Helping Hand", "Icy Wind", "Signal Beam", "Sleep Talk", "Snore", "Swift", "Whirlpool"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Scald", "Acrobatics", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"};
+		eggMoves = new String[]{"Amnesia", "Haze", "Mirror Coat", "Mud Sport", "Signal Beam", "Slam", "Splash", "Tailwind", "Twister", "Water Sport"};
+		tutorMoves = new String[]{"Air Cutter", "Aqua Ring", "Bounce", "Dive", "Helping Hand", "Icy Wind", "Signal Beam", "Snore", "Swift", "Tailwind", "Twister", "Water Pulse", "Whirlpool"};
 		naturalMoves = new String[]{};
-}
+	}
 		Mantyke(){
 
 		super();

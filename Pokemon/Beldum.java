@@ -9,7 +9,7 @@ public class Beldum extends Pokemon{
 		bSpd = 3;
 		type1 = "Steel";
 		type2 = "Psychic";
-		abilities = new String[]{"Clear Body", "Light Metal", "Run Up", "Klutz", "Thrust"};
+		abilities = new String[]{"Clear Body", "Light Metal", "Keen Eye", "Klutz", "Unaware"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Metang", "Metagross"};
 		nextReq = new String[]{"45"};

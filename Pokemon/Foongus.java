@@ -1,5 +1,5 @@
 public class Foongus extends Pokemon{
-{
+	{
 		name = "Foongus";
 		bHP = 7;
 		bAtk = 6;
@@ -8,7 +8,7 @@ public class Foongus extends Pokemon{
 		bSpDef = 6;
 		bSpd = 2;
 		type1 = "Grass";
-		type2 = "";
+		type2 = "Poison";
 		abilities = new String[]{"Effect Spore", "Spinning Dance", "Liquid Ooze", "Root Down", "Regenerator"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Amoonguss"};
@@ -17,21 +17,21 @@ public class Foongus extends Pokemon{
 		size = "Small";
 		weight = 2.2;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Plant";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Cave", "Forest", "Grassland"};
 		overland = 4;
 		swim = 1;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		natureWalk = new String[]{"Grassland", "Forest"};
-		underdog = false;
+		natureWalk = new String[]{"Forest", "Grassland"};
+		underdog = true;
+		other = new String[]{"Mushroom Harvest","Shrinkable"};
 		athl = 2;
 		acro = 1;
 		combat = 1;
@@ -46,11 +46,11 @@ public class Foongus extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 6, 8, 12, 15, 18, 20, 24, 28, 32, 35, 39, 43, 45, 50};
 		moves = new String[]{"Absorb", "Growth", "Astonish", "Bide", "Mega Drain", "Ingrain", "Feint Attack", "Sweet Scent", "Giga Drain", "Toxic", "Synthesis", "Clear Smog", "Solar Beam", "Rage Powder", "Spore"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Payback", "Flash", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power"};
-		eggMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Endure", "Gastro Acid", "Acid", "Growth", "Poison Powder", "Powder", "Rollout", "Stun Spore", "Spore"};
-		tutorMoves = new String[]{"After You", "Foul Play", "Gastro Acid", "Acid", "Giga Drain", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Worry Seed"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Payback", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
+		eggMoves = new String[]{"Body Slam", "Slam", "Defense Curl", "Endure", "Gastro Acid", "Acid", "Poison Powder", "Powder", "Rollout", "Stun Spore", "Spore"};
+		tutorMoves = new String[]{"After You", "Foul Play", "Gastro Acid", "Acid", "Giga Drain", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Foongus(){
 
 		super();

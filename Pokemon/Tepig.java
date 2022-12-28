@@ -1,5 +1,5 @@
 public class Tepig extends Pokemon{
-{
+	{
 		name = "Tepig";
 		bHP = 7;
 		bAtk = 6;
@@ -20,17 +20,18 @@ public class Tepig extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Field";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Forest", "Grassland", "Mountain"};
 		overland = 5;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Grassland"};
+		underdog = true;
+		other = new String[]{"Firestarter","Heater","Tracker"};
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -45,11 +46,11 @@ public class Tepig extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 3, 7, 9, 13, 15, 19, 21, 25, 27, 31, 33, 37, 39, 43};
 		moves = new String[]{"Tackle", "Tail Whip", "Ember", "Odor Sleuth", "Defense Curl", "Flame Charge", "Smog", "Rollout", "Take Down", "Heat Crash", "Assurance", "Flamethrower", "Head Smash", "Roar", "Flare Blitz"};
-		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Incinerate", "WillOWisp", "Gyro Ball", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Rock Smash"};
-		eggMoves = new String[]{"Body Slam", "Slam", "Covet", "Curse", "Endeavor", "Heavy Slam", "Slam", "Magnitude", "Sleep Talk", "Sucker Punch", "Superpower", "Thrash", "Yawn"};
-		tutorMoves = new String[]{"Covet", "Endeavor", "Fire Pledge", "Heat Wave", "Helping Hand", "Iron Tail", "Sleep Talk", "Snore", "Superpower"};
+		TMs = new String[]{"Work Up", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Flamethrower", "Fire Blast", "Rock Tomb", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Echoed Voice", "Overheat", "Gyro Ball", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"};
+		eggMoves = new String[]{"Body Slam", "Slam", "Burn Up", "Covet", "Curse", "Endeavor", "Heavy Slam", "Slam", "Magnitude", "Sleep Talk", "Sucker Punch", "Superpower", "Thrash", "Yawn"};
+		tutorMoves = new String[]{"Covet", "Endeavor", "Fire Pledge", "Heat Wave", "Helping Hand", "Iron Tail", "Snore", "Stomping Tantrum", "Superpower", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Tepig(){
 
 		super();

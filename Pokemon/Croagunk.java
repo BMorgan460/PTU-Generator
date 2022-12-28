@@ -1,5 +1,5 @@
 public class Croagunk extends Pokemon{
-{
+	{
 		name = "Croagunk";
 		bHP = 5;
 		bAtk = 6;
@@ -8,8 +8,8 @@ public class Croagunk extends Pokemon{
 		bSpDef = 4;
 		bSpd = 5;
 		type1 = "Poison";
-		type2 = "";
-		abilities = new String[]{"Dry Skin", "Anticipation", "Poison Touch", "Dodge", "Poison"};
+		type2 = "Fighting";
+		abilities = new String[]{"Dry Skin", "Poison Touch", "Anticipation", "Dodge", "Deadly Poison"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Toxicroak"};
 		nextReq = new String[]{"35"};
@@ -17,21 +17,19 @@ public class Croagunk extends Pokemon{
 		size = "Small";
 		weight = 50.7;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Humanshape";
-		egg2 = "Average";
-		habitats = new String[]{"Freshwater", "Marsh", "Capability"};
+		egg2 = "";
 		overland = 5;
-		swim = 5;
+		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 3;
 		power = 3;
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -46,11 +44,11 @@ public class Croagunk extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 3, 8, 10, 15, 17, 22, 24, 29, 31, 36, 38, 43, 45, 47, 50};
 		moves = new String[]{"Astonish", "MudSlap", "Poison Sting", "Taunt", "Pursuit", "Feint Attack", "Revenge", "Swagger", "Mud Bomb", "Sucker Punch", "Venoshock", "Nasty Plot", "Poison Jab", "Sludge Bomb", "Belch", "Flatter"};
-		TMs = new String[]{"Toxic", "Bulk Up", "Venoshock", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Shadow Ball", "Brick Break", "Double Team", "Sludge Wave", "Sludge Bomb", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Embargo", "Payback", "Retaliate", "Bulldoze", "Rock Slide", "XScissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Dark Pulse", "PowerUp", "Confide"};
+		TMs = new String[]{"Work Up", "Toxic", "Bulk Up", "Venoshock", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Shadow Ball", "Brick Break", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Embargo", "Payback", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse", "Confide"};
 		eggMoves = new String[]{"Acupressure", "Bullet Punch", "Counter", "Cross Chop", "Drain Punch", "Dynamic Punch", "Fake Out", "Feint", "Headbutt", "Me First", "Meditate", "Quick Guard", "Smelling Salts", "Vacuum Wave"};
-		tutorMoves = new String[]{"Bounce", "Dark Pulse", "Drain Punch", "Dual Chop", "Fury Cutter", "Focus Punch", "Foul Play", "Gunk Shot", "Helping Hand", "Ice Punch", "Icy Wind", "Knock Off", "Low Kick", "Magic Coat", "Rock Climb", "Role Play", "Sleep Talk", "Snatch", "Snore", "Spite", "Sucker Punch", "Super Fang", "Thunder Punch", "Vacuum Wave", "Work Up"};
+		tutorMoves = new String[]{"Bounce", "Drain Punch", "Dual Chop", "Dynamic Punch", "Fury Cutter", "Focus Punch", "Foul Play", "Gunk Shot", "Helping Hand", "Ice Punch", "Icy Wind", "Knock Off", "Low Kick", "Rock Climb", "Role Play", "Snatch", "Snore", "Spite", "Sucker Punch", "Super Fang", "Thunder Punch", "Vacuum Wave"};
 		naturalMoves = new String[]{};
-}
+	}
 		Croagunk(){
 
 		super();

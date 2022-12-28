@@ -1,5 +1,5 @@
 public class Snover extends Pokemon{
-{
+	{
 		name = "Snover";
 		bHP = 6;
 		bAtk = 6;
@@ -8,28 +8,29 @@ public class Snover extends Pokemon{
 		bSpDef = 6;
 		bSpd = 4;
 		type1 = "Grass";
-		type2 = "";
-		abilities = new String[]{"Abominable", "Snow Warning", "Soundproof", "Photosynthesis", "Body"};
+		type2 = "Ice";
+		abilities = new String[]{"Soundproof", "Ice Body", "Full Guard", "Snow Warning", "Abominable"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Abomasnow"};
-		nextReq = new String[]{"40"};
+		nextReq = new String[]{"30"};
 		height = "3\'/3\"";
 		weight = 111.3;
 		WC = 4;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Monster";
 		egg2 = "Plant";
-		habitats = new String[]{"Taiga", "Capability", "List"};
+		habitats = new String[]{"Taiga"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Forest", "Grassland", "Tundra"};
+		underdog = true;
+		other = new String[]{"Chilled"};
 		athl = 2;
 		acro = 2;
 		combat = 2;
@@ -44,11 +45,11 @@ public class Snover extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 9, 13, 17, 21, 26, 31, 36, 41, 46};
 		moves = new String[]{"Leer", "Powder Snow", "Razor Leaf", "Icy Wind", "Grass", "Swagger", "Mist", "Ice Shard", "Ingrain", "Wood Hammer", "Blizzard", "Sheer Cold"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Flash", "Swords Dance", "Frost Breath", "Grass Knot", "Swagger", "Sleep Talk", "Substitute"};
-		eggMoves = new String[]{"Avalanche", "Bullet Seed", "Growth", "Leech Seed", "Magical Leaf", "Mist", "Natural Gift", "Seed Bomb", "Skull Bash", "Stomp"};
-		tutorMoves = new String[]{"Giga Drain", "Ice Punch", "Icy Wind", "Iron Tail", "Magic Coat", "Role Play", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Water Pulse", "Worry Seed"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Swords Dance", "Frost Breath", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		eggMoves = new String[]{"Avalanche", "Bullet Seed", "Growth", "Leech Seed", "Magical Leaf", "Natural Gift", "Seed Bomb", "Skull Bash", "Stomp"};
+		tutorMoves = new String[]{"Bullet Seed", "Giga Drain", "Ice Punch", "Icy Wind", "Iron Tail", "Role Play", "Seed Bomb", "Snore", "Synthesis", "Water Pulse", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Snover(){
 
 		super();

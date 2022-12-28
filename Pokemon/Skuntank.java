@@ -1,5 +1,5 @@
 public class Skuntank extends Pokemon{
-{
+	{
 		name = "Skuntank";
 		bHP = 10;
 		bAtk = 9;
@@ -8,7 +8,7 @@ public class Skuntank extends Pokemon{
 		bSpDef = 6;
 		bSpd = 8;
 		type1 = "Poison";
-		type2 = "";
+		type2 = "Dark";
 		abilities = new String[]{"Stench", "Keen Eye", "Odious Spray", "Pickup", "Aftermath"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Stunky();
@@ -16,20 +16,20 @@ public class Skuntank extends Pokemon{
 		height = "3\'/3\"";
 		weight = 83.8;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Forest", "Grassland", "Capability"};
+		egg2 = "Herbivore";
 		overland = 6;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 6;
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = false;
+		other = new String[]{"Darkvision"};
 		athl = 4;
 		acro = 1;
 		combat = 3;
@@ -42,12 +42,12 @@ public class Skuntank extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 1;
 		focusBonus = 0;
-		movesLevels = new int[]{4, 7, 10, 14, 18, 22, 27, 32, 35, 41, 51, 56, 61};
-		moves = new String[]{"Poison Gas", "Screech", "Fury Swipes", "Smokescreen", "Feint", "Slash", "Toxic", "Acid Spray", "Flamethrower", "Night Slash", "Memento", "Belch", "Explosion"};
-		TMs = new String[]{"Hone Claws", "Roar", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Shadow Ball", "Double Team", "Flamethrower", "Sludge Bomb", "Fire Blast", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Incinerate", "Explosion", "Shadow Claw", "Payback", "Giga Impact", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Snarl", "Dark Pulse"};
-		tutorMoves = new String[]{"Dark Pulse", "Defog", "Foul Play", "Fury Cutter", "Iron Tail", "Sleep Talk", "Snatch", "Snore", "Sucker Punch", "Swift"};
+		movesLevels = new int[]{3, 7, 9, 13, 15, 19, 21, 25, 27, 31, 33, 37, 39, 43, 45};
+		moves = new String[]{"Poison Gas", "Screech", "Fury Swipes", "Smokescreen", "Feint", "Acid Spray", "Bite", "Slash", "Toxic", "Night Slash", "Memento", "Venom Drench", "Sucker Punch", "Belch", "Explosion"};
+		TMs = new String[]{"Roar", "Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Shadow Ball", "Double Team", "Flamethrower", "Sludge", "Sludge Bomb", "Fire Blast", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Explosion", "Shadow Claw", "Payback", "Giga Impact", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Snarl", "Dark Pulse", "Confide"};
+		tutorMoves = new String[]{"Defog", "Foul Play", "Fury Cutter", "Iron Tail", "Snatch", "Snore", "Sucker Punch", "Swift", "Throat Chop"};
 		naturalMoves = new String[]{};
-}
+	}
 		Skuntank(){
 
 		super();

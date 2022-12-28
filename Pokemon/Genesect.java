@@ -1,5 +1,5 @@
 public class Genesect extends Pokemon{
-{
+	{
 		name = "Genesect";
 		bHP = 7;
 		bAtk = 12;
@@ -8,7 +8,7 @@ public class Genesect extends Pokemon{
 		bSpDef = 10;
 		bSpd = 10;
 		type1 = "Bug";
-		type2 = "";
+		type2 = "Steel";
 		abilities = new String[]{"Download", "Infiltrator", "Pressure", "Targeting System", "Analytic"};
 		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/11\"";
@@ -18,17 +18,16 @@ public class Genesect extends Pokemon{
 		maleRatio = -1;
 		femaleRatio = -1;
 		egg1 = "None";
-		egg2 = "Average";
-		habitats = new String[]{"Cave", "Urban", "Capability"};
+		egg2 = "";
 		overland = 7;
 		swim = 5;
 		levitate = 0;
-		sky = 7;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 8;
 		underdog = false;
+		other = new String[]{};
 		athl = 3;
 		acro = 4;
 		combat = 4;
@@ -42,11 +41,11 @@ public class Genesect extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 1, 7, 11, 18, 22, 29, 33, 40, 44, 51, 55, 62, 66, 73, 77};
-		moves = new String[]{"Quick Attack", "Screech", "Techno Blast", "Fell Stinger", "Fury Cutter", "LockOn", "Flame Charge", "Magnet Bomb", "Slash", "Metal Sound", "Signal Beam", "Tri Attack", "XScissor", "Bug Buzz", "Simple Beam", "Zap Cannon", "Hyper Beam", "SelfDestruct"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Psychic", "Double Team", "Reflect", "Flamethrower", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Round", "Energy Ball", "Charge Beam", "Explosion", "Shadow Claw", "Giga Impact", "Rock Polish", "Flash", "Thunder Wave", "Struggle Bug", "XScissor", "Infestation", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Flash Cannon", "Dark Pulse"};
-		tutorMoves = new String[]{"Bug Bite", "Bite", "Dark Pulse", "Electroweb", "Giga Drain", "Gravity", "Gunk Shot", "Iron Defense", "Iron Head", "Last Resort", "Magic Coat", "Magnet Rise", "Metal Claw", "Recycle", "Signal Beam", "Sleep Talk", "Snore", "Zen Headbutt", "Headbutt"};
-		naturalMoves = new String[]{};
-}
+		moves = new String[]{"Quick Attack", "Screech", "Magnet Rise", "Metal Claw", "Fury Cutter", "LockOn", "Flame Charge", "Magnet Bomb", "Slash", "Metal Sound", "Signal Beam", "Tri Attack", "XScissor", "Bug Buzz", "Simple Beam", "Zap Cannon", "Hyper Beam", "SelfDestruct"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Psychic", "Double Team", "Reflect", "Flamethrower", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Round", "Energy Ball", "Charge", "Charge Beam", "Explosion", "Shadow Claw", "Giga Impact", "Rock Polish", "Thunder", "Thunder Wave", "Fly", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Dark Pulse", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Bug Bite", "Bite", "Electroweb", "Fell Stinger", "Fury Cutter", "Giga Drain", "Gravity", "Gunk Shot", "Iron Defense", "Iron Head", "Last Resort", "Magic Coat", "Magnet Rise", "Recycle", "Shock Wave", "Signal Beam", "Snore", "Techno Blast", "Telekinesis", "Zen Headbutt", "Headbutt"};
+		naturalMoves = new String[]{"Fell Stinger", "Techno Blast"};
+	}
 		Genesect(){
 
 		super();

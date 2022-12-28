@@ -1,5 +1,5 @@
 public class Meowth extends Pokemon{
-{
+	{
 		name = "Meowth";
 		bHP = 4;
 		bAtk = 5;
@@ -9,7 +9,7 @@ public class Meowth extends Pokemon{
 		bSpd = 9;
 		type1 = "Normal";
 		type2 = "";
-		abilities = new String[]{"Pickup", "Technician", "Unnerve", "Limber", "Defiant"};
+		abilities = new String[]{"Pickup", "Limber", "Technician", "Unnerve", "Defiant"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Persian"};
 		nextReq = new String[]{"25"};
@@ -17,20 +17,20 @@ public class Meowth extends Pokemon{
 		size = "Small";
 		weight = 9.3;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Average";
-		habitats = new String[]{"Forest", "Urban", "Capability"};
+		egg2 = "";
 		overland = 5;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Urban"};
+		underdog = true;
+		other = new String[]{"Fortune","Tracker","Stealth"};
 		athl = 1;
 		acro = 3;
 		combat = 2;
@@ -43,13 +43,13 @@ public class Meowth extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 1, 6, 9, 14, 17, 22, 25, 30, 33, 38, 41, 46, 49, 54};
+		movesLevels = new int[]{1, 1, 6, 9, 14, 17, 22, 25, 30, 33, 38, 41, 46, 49, 50};
 		moves = new String[]{"Growl", "Scratch", "Bite", "Fake Out", "Fury Swipes", "Screech", "Feint Attack", "Taunt", "Pay Day", "Slash", "Nasty Plot", "Assurance", "Captivate", "Night Slash", "Feint"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Payback", "Retaliate", "Flash", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Dark Pulse"};
-		eggMoves = new String[]{"Amnesia", "Assist", "Charm", "Flail", "Foul Play", "Hypnosis", "Iron Tail", "Last Resort", "Odor Sleuth", "Psych Up", "Punishment", "Snatch", "Spite", "Tail Whip"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Dark Pulse", "Defense Curl", "Foul Play", "Gunk Shot", "Hyper Voice", "Icy Wind", "Iron Tail", "Knock Off", "Last Resort", "Seed Bomb", "Shock Wave", "Sleep Talk", "Snatch", "Snore", "Spite", "Swift", "Uproar", "Water Pulse", "Work Up"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Shadow Claw", "Payback", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse", "Confide"};
+		eggMoves = new String[]{"Amnesia", "Assist", "Charm", "Flail", "Foul Play", "Hypnosis", "Iron Tail", "Last Resort", "Odor Sleuth", "Punishment", "Snatch", "Spite", "Tail Whip"};
+		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Defense Curl", "Foul Play", "Gunk Shot", "Hyper Voice", "Icy Wind", "Iron Tail", "Knock Off", "Last Resort", "Seed Bomb", "Shock Wave", "Snatch", "Snore", "Spite", "Swift", "Throat Chop", "Uproar", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Meowth(){
 
 		super();

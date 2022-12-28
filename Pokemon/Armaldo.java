@@ -1,5 +1,5 @@
 public class Armaldo extends Pokemon{
-{
+	{
 		name = "Armaldo";
 		bHP = 8;
 		bAtk = 13;
@@ -8,8 +8,8 @@ public class Armaldo extends Pokemon{
 		bSpDef = 8;
 		bSpd = 5;
 		type1 = "Rock";
-		type2 = "";
-		abilities = new String[]{"Battle Armor", "Sturdy", "Swift Swim", "Overcoat", "Skin"};
+		type2 = "Bug";
+		abilities = new String[]{"Battle Armor", "Sturdy", "Swift Swim", "Overcoat", "Rough Skin"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Anorith();
 		prevReq = 40;
@@ -19,17 +19,17 @@ public class Armaldo extends Pokemon{
 		maleRatio = 87.5;
 		femaleRatio = 12.5;
 		egg1 = "Water";
-		egg2 = "3";
-		habitats = new String[]{"Cave", "Capability", "List"};
+		egg2 = "Diet";
 		overland = 6;
 		swim = 6;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 6;
+		natureWalk = new String[]{"Cave", "Ocean"};
 		underdog = false;
+		other = new String[]{"Gilled"};
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -44,10 +44,10 @@ public class Armaldo extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{4, 7, 10, 13, 17, 21, 25, 29, 34, 39, 46, 53, 61};
 		moves = new String[]{"Mud Sport", "Water Gun", "Fury Cutter", "Smack Down", "Metal Claw", "Ancient Power", "Bug Bite", "Brine", "Slash", "Crush Claw", "XScissor", "Protect", "Rock Blast"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Smack Down", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Giga Impact", "Rock Polish", "Stone Edge", "Swords Dance", "Struggle Bug", "Bulldoze", "Rock Slide", "XScissor", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon", "Rock Smash"};
-		tutorMoves = new String[]{"Ancient Power", "Aqua Tail", "Block", "Body Slam", "Slam", "Bug Bite", "Bite", "Crush Claw", "Earth Power", "Fury Cutter", "Iron Defense", "Iron Tail", "Knock Off", "Low Kick", "Seismic Toss", "Sleep Talk", "Snore", "Stealth Rock", "String Shot", "Superpower", "Water Pulse"};
-		naturalMoves = new String[]{"Crush Claw"};
-}
+		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Smack Down", "Earthquake", "Return", "Brick Break", "Double Team", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Brutal Swing", "Giga Impact", "Rock Polish", "Stone Edge", "Swords Dance", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Confide"};
+		tutorMoves = new String[]{"Ancient Power", "Aqua Tail", "Block", "Body Slam", "Slam", "Brine", "Bug Bite", "Bite", "Earth Power", "Fury Cutter", "Iron Defense", "Iron Tail", "Knock Off", "Liquidation", "Low Kick", "Seismic Toss", "Snore", "Stealth Rock", "Stomping Tantrum", "String Shot", "Superpower", "Water Pulse"};
+		naturalMoves = new String[]{};
+	}
 		Armaldo(){
 
 		super();

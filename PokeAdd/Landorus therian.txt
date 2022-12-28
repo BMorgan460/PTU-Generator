@@ -1,0 +1,67 @@
+Landorus therian
+Base Stats:
+HP: 9
+Attack: 15
+Defense: 9
+Special Attack: 11
+Special Defense: 8
+Speed: 9
+Basic Information
+Type: Ground / Flying
+Basic Ability 1: Intimidate
+Adv Ability 1: Frisk
+Adv Ability 2: Defiant
+Adv Ability 3: Run Away
+High Ability: Healer
+Evolution:
+1 - Landorus
+Size Information
+Height: 4’ 3” / 1.3m (Large)
+Weight: 149.9 lbs / 68kg (4)
+Breeding Information
+Gender Ratio: 100% M / 0% F
+Egg Group: None
+Average Hatch Rate: 40 Days
+Diet: Omnivore
+Habitat: Mountain
+Capability List
+Overland 8, Swim 6, Jump 3/3, Power 8, Forme
+Change, Groundshaper, Mountable 1, Therian
+Forme, Tremorsense
+Skill List
+Athl 6d6+3, Acro 3d6, Combat 5d6+3, Stealth 4d6+3,
+Percep 5d6, Focus 3d6
+Move List
+Level Up Move List
+1 Mud Shot - Ground
+1 Rock Tomb - Rock
+1 Imprison - Psychic
+7 Punishment - Dark
+13 Bulldoze - Ground
+19 Rock Throw- Rock
+25 Extrasensory - Psychic
+31 Swords Dance - Normal
+37 Earth Power - Ground
+43 Rock Slide - Rock
+  49 Earthquake - Ground
+55 Sandstorm - Rock
+  61 Fissure - Ground
+67 Stone Edge - Rock
+73 Hammer Arm - Fighting
+79 Outrage - Dragon
+TM Move List
+04 Calm Mind, 06 Toxic, 08 Bulk Up, 10 Hidden
+Power, 15 Hyper Beam, 17 Protect, 21 Frustration,
+23 Smack Down, 26 Earthquake, 27 Return, 29
+Psychic, 31 Brick Break, 32 Double Team, 34 Sludge
+Wave, 36 Sludge Bomb, 37 Sandstorm, 39 Rock
+Tomb, 42 Facade, 44 Rest, 45 Attract, 48 Round, 52
+Focus Blast, 56 Fling, 59 Brutal Swing, 64 Explosion,
+66 Payback, 68 Giga Impact, 69 Rock Polish, 71 Stone
+Edge, 75 Swords Dance, 76 Fly, 78 Bulldoze, 80 Rock
+Slide, 86 Grass Knot, 87 Swagger, 88 Sleep Talk, 89
+U-Turn, 90 Substitute, 100 Confide
+Tutor Move List
+Block (N), Defog, Earth Power, Fissure (N), Gravity,
+Hammer Arm (N), Iron Tail, Knock Off, Outrage (N),
+Role Play, Snore, Stealth Rock, Superpower

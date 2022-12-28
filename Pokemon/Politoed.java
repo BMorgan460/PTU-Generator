@@ -1,5 +1,5 @@
 public class Politoed extends Pokemon{
-{
+	{
 		name = "Politoed";
 		bHP = 9;
 		bAtk = 8;
@@ -9,29 +9,27 @@ public class Politoed extends Pokemon{
 		bSpd = 7;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Damp", "Water Absorb", "Wash Away", "Drizzle", "Hypnotic"};
+		abilities = new String[]{"Swift Swim", "Water Absorb", "Drizzle", "Hypnotic", "Rain Dish"};
 		abilityTypeCount = new int[] {2,2,1};
-		previous = new Poliwag();
-		prevReq = 25;
 		previous = new Poliwhirl();
-		prevReq = 25;
+		prevReq = 30;
 		height = "3\'/7\"";
 		weight = 74.7;
-		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		WC = 2;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Freshwater", "Marsh", "Capability"};
+		egg2 = "Diet";
 		overland = 5;
 		swim = 8;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 3;
+		lJump = 3 ;
 		hJump = 4;
 		power = 4;
+		natureWalk = new String[]{"Wetlands"};
 		underdog = false;
+		other = new String[]{"Fountain","Gilled","Pack Mon"};
 		athl = 4;
 		acro = 5;
 		combat = 3;
@@ -44,12 +42,12 @@ public class Politoed extends Pokemon{
 		stealthBonus = 1;
 		percepBonus = 1;
 		focusBonus = 2;
-		movesLevels = new int[]{5, 8, 11, 15, 18, 21, 27, 27, 32, 37, 37, 43, 48, 48, 53};
-		moves = new String[]{"Bubble", "Hypnosis", "Water Gun", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Swagger", "Mud Shot", "Belly Drum", "Bounce", "WakeUp", "Hydro Pump", "Hyper Voice", "Mud Bomb"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Dig", "Psychic", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Focus Blast", "Scald", "Fling", "Payback", "Giga Impact", "Bulldoze", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Bubble", "Counter", "Dive", "Defense Curl", "Dynamic Punch", "Endeavor", "Focus Punch", "Helping Hand", "Hyper Voice", "Ice Punch", "Icy Wind", "Mega Kick", "Mega Punch", "Metronome", "Seismic Toss", "Sleep Talk", "Snore", "Water Gun", "Water Pulse"};
-		naturalMoves = new String[]{};
-}
+		movesLevels = new int[]{5, 8, 11, 15, 18, 21, 27, 32, 37, 43, 48, 53};
+		moves = new String[]{"Water Gun", "Hypnosis", "Bubble", "Double Slap", "Rain Dance", "Body Slam", "Swagger", "Mud Shot", "Bounce", "WakeUp", "Hyper Voice", "Mud Bomb"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Psychic", "Brick Break", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Focus Blast", "Scald", "Fling", "Payback", "Giga Impact", "Bulldoze", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"};
+		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Counter", "Defense Curl", "Dive", "Dynamic Punch", "Endeavor", "Focus Punch", "Helping Hand", "Hyper Voice", "Ice Punch", "Icy Wind", "Mega Kick", "Mega Punch", "Metronome", "Perish Song", "Seismic Toss", "Snore", "Water Pulse"};
+		naturalMoves = new String[]{"Perish Song"};
+	}
 		Politoed(){
 
 		super();

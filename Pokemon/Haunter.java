@@ -1,5 +1,5 @@
 public class Haunter extends Pokemon{
-{
+	{
 		name = "Haunter";
 		bHP = 5;
 		bAtk = 5;
@@ -8,7 +8,7 @@ public class Haunter extends Pokemon{
 		bSpDef = 6;
 		bSpd = 10;
 		type1 = "Ghost";
-		type2 = "";
+		type2 = "Poison";
 		abilities = new String[]{"Levitate", "Frighten", "Intimidate", "Spiteful Intervention", "Prankster"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Gastly();
@@ -18,20 +18,19 @@ public class Haunter extends Pokemon{
 		height = "5\'/3\"";
 		weight = 0.2;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Indeterminate";
-		egg2 = "Diet";
-		habitats = new String[]{"Cave", "Urban", "Capability"};
+		egg2 = "Nullivore";
 		overland = 2;
 		swim = 2;
 		levitate = 4;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 3;
-		underdog = false;
+		underdog = true;
+		other = new String[]{"Darkvision","Dead Silent","Invisibility","Invisibility","Phasing"};
 		athl = 1;
 		acro = 4;
 		combat = 3;
@@ -44,12 +43,12 @@ public class Haunter extends Pokemon{
 		stealthBonus = 2;
 		percepBonus = 0;
 		focusBonus = 2;
-		movesLevels = new int[]{5, 8, 12, 15, 19, 22, 25, 28, 33, 39, 44, 50, 55, 61};
-		moves = new String[]{"Spite", "Mean Look", "Curse", "Night Shade", "Confuse Ray", "Sucker Punch", "Shadow Punch", "Payback", "Shadow Ball", "Dream Eater", "Dark Pulse", "Destiny Bond", "Hex", "Nightmare"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Psychic", "Shadow Ball", "Double Team", "Sludge Bomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Fling", "WillOWisp", "Embargo", "Explosion", "Shadow Claw", "Payback", "Psych Up", "Infestation", "Poison Jab", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Dark Pulse", "Dazzling Gleam", "Confide"};
-		tutorMoves = new String[]{"Dark Pulse", "Fire Punch", "Foul Play", "Giga Drain", "Ice Punch", "Icy Wind", "Knock Off", "Ominous Wind", "Pain Split", "Skill Swap", "Sleep Talk", "Snatch", "Snore", "Spite", "Sucker Punch", "Telekinesis", "Thunder Punch", "Trick", "Uproar", "Wonder Room"};
+		movesLevels = new int[]{5, 8, 12, 15, 19, 22, 28, 33, 39, 44, 50, 55, 61};
+		moves = new String[]{"Spite", "Mean Look", "Curse", "Night Shade", "Confuse Ray", "Sucker Punch", "Payback", "Shadow Ball", "Dream Eater", "Dark Pulse", "Destiny Bond", "Hex", "Nightmare"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Return", "Psychic", "Shadow Ball", "Double Team", "Sludge", "Sludge Bomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Fling", "Embargo", "Explosion", "Shadow Claw", "Payback", "Psych Up", "Infestation", "Poison Jab", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dark Pulse", "Dazzling Gleam", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Fire Punch", "Foul Play", "Giga Drain", "Ice Punch", "Icy Wind", "Knock Off", "Ominous Wind", "Pain Split", "Skill Swap", "Snatch", "Snore", "Spite", "Sucker Punch", "Telekinesis", "Thunder Punch", "Trick", "Uproar", "Wonder Room"};
 		naturalMoves = new String[]{};
-}
+	}
 		Haunter(){
 
 		super();

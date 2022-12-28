@@ -1,5 +1,5 @@
 public class Watchog extends Pokemon{
-{
+	{
 		name = "Watchog";
 		bHP = 6;
 		bAtk = 9;
@@ -16,20 +16,20 @@ public class Watchog extends Pokemon{
 		height = "3\'/7\"";
 		weight = 59.5;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Diet";
-		habitats = new String[]{"Forest", "Grassland", "Capability"};
+		egg2 = "Herbivore";
 		overland = 7;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 3;
+		lJump = 3 ;
 		hJump = 4;
 		power = 3;
-		underdog = false;
+		natureWalk = new String[]{"Grassland"};
+		underdog = true;
+		other = new String[]{"Tracker"};
 		athl = 3;
 		acro = 3;
 		combat = 3;
@@ -42,12 +42,12 @@ public class Watchog extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{3, 6, 8, 11, 13, 16, 18, 20, 22, 25, 29, 32, 36, 39, 43};
-		moves = new String[]{"Leer", "Bite", "Bide", "Detect", "Sand Attack", "Crunch", "Hypnosis", "Confuse Ray", "Super Fang", "After You", "Psych Up", "Hyper Fang", "Mean Look", "Baton Pass", "Slam"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Flamethrower", "Facade", "Rest", "Attract", "Round", "Focus Blast", "Fling", "Retaliate", "Giga Impact", "Flash", "Thunder Wave", "Swords Dance", "Psych Up", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "PowerUp", "Confide"};
-		tutorMoves = new String[]{"After You", "Aqua Tail", "Covet", "Endeavor", "Fire Punch", "Gunk Shot", "Helping Hand", "Ice Punch", "Iron Tail", "Knock Off", "Last Resort", "Seed Bomb", "Signal Beam", "Sleep Talk", "Snore", "Super Fang", "Thunder Punch", "Work Up", "Zen Headbutt", "Headbutt"};
-		naturalMoves = new String[]{"Rototiller"};
-}
+		movesLevels = new int[]{3, 6, 8, 11, 13, 16, 18, 22, 25, 29, 32, 36, 39, 43, 46, 50};
+		moves = new String[]{"Leer", "Bite", "Bide", "Detect", "Sand Attack", "Crunch", "Hypnosis", "Super Fang", "After You", "Focus Energy", "Psych Up", "Hyper Fang", "Nasty Plot", "Mean Look", "Baton Pass", "Slam"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Double Team", "Flamethrower", "Facade", "Rest", "Attract", "Round", "Focus Blast", "Fling", "Giga Impact", "Thunder", "Thunder Wave", "Swords Dance", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		tutorMoves = new String[]{"After You", "Aqua Tail", "Bullet Seed", "Covet", "Endeavor", "Fire Punch", "Focus Punch", "Gunk Shot", "Helping Hand", "Ice Punch", "Iron Tail", "Knock Off", "Laser Focus", "Last Resort", "Low Kick", "Seed Bomb", "Shock Wave", "Signal Beam", "Snore", "Stomping Tantrum", "Super Fang", "Thunder Punch", "Zen Headbutt", "Headbutt"};
+		naturalMoves = new String[]{"Low Kick", "Rototiller"};
+	}
 		Watchog(){
 
 		super();

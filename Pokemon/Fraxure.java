@@ -1,5 +1,5 @@
 public class Fraxure extends Pokemon{
-{
+	{
 		name = "Fraxure";
 		bHP = 7;
 		bAtk = 12;
@@ -10,28 +10,28 @@ public class Fraxure extends Pokemon{
 		type1 = "Dragon";
 		type2 = "";
 		abilities = new String[]{"Rivalry", "Mold Breaker", "Unnerve", "Hyper Cutter", "Frighten"};
-		abilityTypeCount = new int[] {2,1,1};
+		abilityTypeCount = new int[] {2,2,1};
 		previous = new Axew();
-		prevReq = 35;
+		prevReq = 20;
+		next = new String[]{"Haxorus"};
+		nextReq = new String[]{"40"};
 		height = "3\'/3\"";
 		weight = 79.4;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Monster";
 		egg2 = "Dragon";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 2;
 		power = 4;
 		natureWalk = new String[]{"Cave", "Mountain"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 2;
 		combat = 3;
@@ -45,11 +45,11 @@ public class Fraxure extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 20, 24, 28, 32, 36, 42, 48, 54, 60, 66};
-		moves = new String[]{"Leer", "Assurance", "Dragon Rage", "Double", "Scary Face", "Slash", "False Swipe", "Dragon Claw", "Dragon Dance", "Taunt", "Dragon Pulse", "Swords Dance", "Guillotine", "Outrage", "Giga Impact"};
-		TMs = new String[]{"Hone Claws", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Return", "Dig", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Fling", "Incinerate", "Shadow Claw", "Payback", "Giga Impact", "Swords Dance", "XScissor", "Dragon Tail", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		tutorMoves = new String[]{"Aqua Tail", "Draco Meteor", "Dragon Pulse", "Dual Chop", "Endeavor", "Iron Tail", "Low Kick", "Outrage", "Sleep Talk", "Snore", "Superpower"};
+		moves = new String[]{"Leer", "Assurance", "Dragon Rage", "Dual Chop", "Scary Face", "Slash", "False Swipe", "Dragon Claw", "Dragon Dance", "Taunt", "Dragon Pulse", "Swords Dance", "Guillotine", "Outrage", "Giga Impact"};
+		TMs = new String[]{"Dragon Claw", "Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "False Swipe", "Fling", "Shadow Claw", "Payback", "Giga Impact", "Swords Dance", "Dragon Tail", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		tutorMoves = new String[]{"Aqua Tail", "Draco Meteor", "Dragon Pulse", "Dual Chop", "Endeavor", "Iron Tail", "Low Kick", "Outrage", "Shock Wave", "Snore", "Stomping Tantrum", "Superpower"};
 		naturalMoves = new String[]{};
-}
+	}
 		Fraxure(){
 
 		super();

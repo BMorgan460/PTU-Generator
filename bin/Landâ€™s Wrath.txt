@@ -1,1 +1,0 @@
-Move: Land’s Wrath Type: Ground Frequency: Scene x2 AC: 2 Damage Base 9: 2d10+10 / 21 Class: Physical Range: Burst 5, Friendly, Groundsource Effect: None. Contest Type: Tough Contest Effect: Big Show Special: Grants Groundshaper 

@@ -1,5 +1,5 @@
 public class Palpitoad extends Pokemon{
-{
+	{
 		name = "Palpitoad";
 		bHP = 8;
 		bAtk = 7;
@@ -8,31 +8,31 @@ public class Palpitoad extends Pokemon{
 		bSpDef = 6;
 		bSpd = 7;
 		type1 = "Water";
-		type2 = "";
-		abilities = new String[]{"Water Absorb", "Mud Dweller", "Swift Swim", "Hydration", "Veil"};
+		type2 = "Ground";
+		abilities = new String[]{"Water Absorb", "Mud Dweller", "Swift Swim", "Hydration", "Refreshing Veil"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Tympole();
-		prevReq = 20;
+		prevReq = 15;
 		next = new String[]{"Seismitoad"};
 		nextReq = new String[]{"35"};
-		height = "2\'/07\"";
+		height = "2\'/7\"";
 		size = "Small";
 		weight = 37.5;
 		WC = 2;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Water";
-		egg2 = "1";
-		habitats = new String[]{"Freshwater", "Marsh", "Capability"};
+		egg2 = "Diet";
 		overland = 4;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 3;
-		underdog = false;
+		natureWalk = new String[]{"Wetlands"};
+		underdog = true;
+		other = new String[]{"Fountain"};
 		athl = 3;
 		acro = 4;
 		combat = 2;
@@ -47,10 +47,10 @@ public class Palpitoad extends Pokemon{
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 12, 16, 20, 23, 28, 33, 37, 42, 47, 51};
 		moves = new String[]{"Supersonic", "Round", "Bubble Beam", "Mud Shot", "Aqua Ring", "Uproar", "Muddy Water", "Rain Dance", "Flail", "Echoed Voice", "Hydro Pump", "Hyper Voice"};
-		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Sludge Wave", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Bulldoze", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		tutorMoves = new String[]{"Bounce", "Earth Power", "Endeavor", "Gastro Acid", "Acid", "Hyper Voice", "Icy Wind", "Sleep Talk", "Snore", "Stealth Rock", "Uproar"};
+		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Sludge", "Sludge Wave", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Bulldoze", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Surf", "Confide"};
+		tutorMoves = new String[]{"After You", "Bounce", "Earth Power", "Endeavor", "Focus Punch", "Gastro Acid", "Acid", "Hyper Voice", "Icy Wind", "Snore", "Stealth Rock", "Uproar", "Water Pulse"};
 		naturalMoves = new String[]{};
-}
+	}
 		Palpitoad(){
 
 		super();

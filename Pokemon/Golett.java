@@ -3,7 +3,7 @@ public class Golett extends Pokemon{
 		name = "Golett";
 		bHP = 6;
 		bAtk = 7;
-		bDef = 6;
+		bDef = 5;
 		bSpAtk = 4;
 		bSpDef = 5;
 		bSpd = 4;
@@ -18,8 +18,9 @@ public class Golett extends Pokemon{
 		WC = 4;
 		maleRatio = -1;
 		femaleRatio = -1;
-		egg1 = "None";
-		egg2 = "Terravore";
+		egg1 = "Mineral";
+		egg2 = "";
+		habitats = new String[]{"Desert", "Grassland", "Mountain"};
 		overland = 5;
 		swim = 2;
 		levitate = 0;
@@ -41,10 +42,10 @@ public class Golett extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 1;
 		focusBonus = 2;
-		movesLevels = new int[]{1, 1, 1, 5, 9, 13, 17, 21, 25, 30, 35, 40, 45, 50, 55};
-		moves = new String[]{"Astonish", "Defense Curl", "Pound", "MudSlap", "Rollout", "Shadow Punch", "Iron Defense", "Mega Punch", "Magnitude", "Dynamic Punch", "Night Shade", "Curse", "Earthquake", "Hammer Arm", "Focus Punch"};
-		TMs = new String[]{"Strength", "Toxic", "Hidden Power", "Ice Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Earthquake", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Rock Polish", "Flash", "Gyro Ball", "Bulldoze", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Rock Smash", "Confide"};
-		tutorMoves = new String[]{"Block", "Drain Punch", "Earth Power", "Fire Punch", "Gravity", "Ice Punch", "Icy Wind", "Iron Defense", "Low Kick", "Magic Coat", "Signal Beam", "Sleep Talk", "Snore", "Stealth Rock", "Superpower", "Telekinesis", "Thunder Punch"};
+		movesLevels = new int[]{1, 1, 1, 5, 9, 13, 17, 21, 25, 30, 35, 40, 45, 50, 55, 61};
+		moves = new String[]{"Astonish", "Defense Curl", "Pound", "MudSlap", "Rollout", "Shadow Punch", "Iron Defense", "Stomping Tantrum", "Mega Punch", "Magnitude", "Dynamic Punch", "Night Shade", "Curse", "Earthquake", "Hammer Arm", "Focus Punch"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Ice Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Earthquake", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Rock Polish", "Gyro Ball", "Bulldoze", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Block", "Drain Punch", "Dynamic Punch", "Earth Power", "Fire Punch", "Focus Punch", "Gravity", "Ice Punch", "Icy Wind", "Iron Defense", "Low Kick", "Magic Coat", "Shock Wave", "Signal Beam", "Snore", "Stealth Rock", "Stomping Tantrum", "Superpower", "Telekinesis", "Thunder Punch"};
 		naturalMoves = new String[]{};
 	}
 		Golett(){

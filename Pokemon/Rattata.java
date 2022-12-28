@@ -1,5 +1,5 @@
 public class Rattata extends Pokemon{
-{
+	{
 		name = "Rattata";
 		bHP = 3;
 		bAtk = 6;
@@ -9,7 +9,7 @@ public class Rattata extends Pokemon{
 		bSpd = 7;
 		type1 = "Normal";
 		type2 = "";
-		abilities = new String[]{"Run Away", "Guts", "Hustle", "Instinct", "Intimidate"};
+		abilities = new String[]{"Run Away", "Guts", "Hustle", "Pickup", "Nimble Strikes"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Raticate"};
 		nextReq = new String[]{"20"};
@@ -17,20 +17,21 @@ public class Rattata extends Pokemon{
 		size = "Small";
 		weight = 7.7;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Cave", "Forest", "Grassland"};
 		overland = 6;
 		swim = 4;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 2;
+		lJump = 2 ;
 		hJump = 2;
 		power = 1;
-		underdog = false;
+		natureWalk = new String[]{"Grassland", "Urban"};
+		underdog = true;
+		other = new String[]{"Stealth"};
 		athl = 1;
 		acro = 3;
 		combat = 2;
@@ -44,12 +45,12 @@ public class Rattata extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34};
-		moves = new String[]{"Tackle", "Tail Whip", "Quick Attack", "Focus Energy", "Bite", "Pursuit", "Hyper Fang", "Sucker Punch", "Crunch", "Assurance", "Super Fang", "DoubleEdge", "Endeavor"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Dig", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge Beam", "Retaliate", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Wild Charge", "Rock Smash"};
-		eggMoves = new String[]{"Bite", "Counter", "Final Gambit", "Flame Wheel", "Fury Swipes", "Last Resort", "Me First", "Revenge", "Reversal", "Screech", "Swagger", "Uproar"};
-		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Defense Curl", "Endeavor", "Icy Wind", "Iron Tail", "Last Resort", "Pluck", "Shock Wave", "Sleep Talk", "Snore", "Sucker Punch", "Super Fang", "Superpower", "Swift", "Uproar", "Work Up", "Zen Headbutt", "Headbutt"};
+		moves = new String[]{"Tackle", "Tail Whip", "Quick Attack", "Focus Energy", "Bite", "Pursuit", "Hyper Fang", "Assurance", "Crunch", "Sucker Punch", "Super Fang", "DoubleEdge", "Endeavor"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Thief", "Round", "Charge", "Charge Beam", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"};
+		eggMoves = new String[]{"Counter", "Final Gambit", "Flame Wheel", "Fury Swipes", "Last Resort", "Me First", "Revenge", "Reversal", "Screech", "Uproar"};
+		tutorMoves = new String[]{"Body Slam", "Slam", "Covet", "Defense Curl", "Endeavor", "Icy Wind", "Iron Tail", "Last Resort", "Pluck", "Shock Wave", "Snore", "Sucker Punch", "Super Fang", "Superpower", "Swift", "Uproar", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
-}
+	}
 		Rattata(){
 
 		super();

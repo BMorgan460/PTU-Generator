@@ -13,7 +13,7 @@ public class Scatterbug extends Pokemon{
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Spewpa", "Vivillon"};
 		nextReq = new String[]{"10"};
-		height = "1\'/00\"";
+		height = "1\'/0\"";
 		size = "Small";
 		weight = 5.5;
 		WC = 1;
@@ -43,7 +43,7 @@ public class Scatterbug extends Pokemon{
 		stealthBonus = 1;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 1, 5, 15};
+		movesLevels = new int[]{1, 1, 6, 15};
 		moves = new String[]{"Tackle", "String Shot", "Stun Spore", "Bug Bite"};
 		tutorMoves = new String[]{"Bug Bite", "Bite"};
 		naturalMoves = new String[]{};

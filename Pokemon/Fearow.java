@@ -1,5 +1,5 @@
 public class Fearow extends Pokemon{
-{
+	{
 		name = "Fearow";
 		bHP = 7;
 		bAtk = 9;
@@ -8,7 +8,7 @@ public class Fearow extends Pokemon{
 		bSpDef = 6;
 		bSpd = 10;
 		type1 = "Normal";
-		type2 = "";
+		type2 = "Flying";
 		abilities = new String[]{"Keen Eye", "Sniper", "Scrappy", "Early Bird", "Vanguard"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Spearow();
@@ -16,20 +16,20 @@ public class Fearow extends Pokemon{
 		height = "3\'/11\"";
 		weight = 83.8;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Flying";
-		egg2 = "Diet";
+		egg2 = "Omnivore";
 		habitats = new String[]{"Forest", "Grassland", "Mountain"};
 		overland = 5;
 		swim = 3;
 		levitate = 0;
-		sky = 8;
 		burrow = 0;
-		lJump = 3;
+		lJump = 3 ;
 		hJump = 3;
 		power = 5;
-		underdog = false;
+		underdog = true;
+		other = new String[]{"Mountable 1"};
 		athl = 4;
 		acro = 3;
 		combat = 4;
@@ -42,12 +42,12 @@ public class Fearow extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{5, 9, 13, 17, 23, 29, 35, 41, 47, 53};
-		moves = new String[]{"Leer", "Fury Attack", "Pursuit", "Aerial Ace", "Mirror Move", "Agility", "Assurance", "Roost", "Drill Peck", "Drill Run"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "False Swipe", "Giga Impact", "Swagger", "Sleep Talk", "UTurn", "Substitute"};
-		tutorMoves = new String[]{"Air Cutter", "Defog", "Drill Run", "Heat Wave", "Ominous Wind", "Roost", "Sky Attack", "Sleep Talk", "Snore", "Steel Wing", "Swift", "Tailwind", "Twister", "Uproar", "Work Up"};
-		naturalMoves = new String[]{};
-}
+		movesLevels = new int[]{4, 8, 11, 15, 18, 23, 27, 32, 36, 41, 45};
+		moves = new String[]{"Leer", "Pursuit", "Fury Attack", "Aerial Ace", "Mirror Move", "Assurance", "Agility", "Focus Energy", "Roost", "Drill Peck", "Drill Run"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "False Swipe", "Giga Impact", "Fly", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		tutorMoves = new String[]{"Air Cutter", "Defog", "Drill Run", "Heat Wave", "Laser Focus", "Ominous Wind", "Sky Attack", "Snore", "Swift", "Tailwind", "Throat Chop", "Twister", "Uproar"};
+		naturalMoves = new String[]{"Drill Run", "Pluck"};
+	}
 		Fearow(){
 
 		super();

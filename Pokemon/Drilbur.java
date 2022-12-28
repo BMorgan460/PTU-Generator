@@ -1,5 +1,5 @@
 public class Drilbur extends Pokemon{
-{
+	{
 		name = "Drilbur";
 		bHP = 6;
 		bAtk = 9;
@@ -17,20 +17,20 @@ public class Drilbur extends Pokemon{
 		size = "Small";
 		weight = 18.7;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Field";
-		egg2 = "Average";
-		habitats = new String[]{"Cave", "Mountain", "Capability"};
+		egg2 = "";
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 6;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 2;
-		underdog = false;
+		natureWalk = new String[]{"Cave", "Mountain"};
+		underdog = true;
+		other = new String[]{"Tremorsense"};
 		athl = 3;
 		acro = 2;
 		combat = 2;
@@ -45,11 +45,11 @@ public class Drilbur extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 5, 8, 12, 15, 19, 22, 26, 29, 33, 36, 40, 43, 47};
 		moves = new String[]{"Mud Sport", "Scratch", "Rapid Spin", "MudSlap", "Fury Swipes", "Metal Claw", "Dig", "Hone Claws", "Slash", "Rock Slide", "Earthquake", "Swords Dance", "Sandstorm", "Drill Run", "Fissure"};
-		TMs = new String[]{"Hone Claws", "Toxic", "Hidden Power", "Protect", "Frustration", "Earthquake", "Return", "Dig", "Brick Break", "Double Team", "Sludge Bomb", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Fling", "Shadow Claw", "Swords Dance", "Bulldoze", "Rock Slide", "XScissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Rock Smash"};
-		eggMoves = new String[]{"Crush Claw", "Earth Power", "Iron Defense", "Metal Sound", "Rapid Spin", "Rock Climb", "Skull Bash", "Submission"};
-		tutorMoves = new String[]{"Drill Run", "Earth Power", "Iron Defense", "Sleep Talk", "Snore", "Stealth Rock"};
+		TMs = new String[]{"Toxic", "Hidden Power", "Protect", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Sludge", "Sludge Bomb", "Sandstorm", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Fling", "Shadow Claw", "Swords Dance", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		eggMoves = new String[]{"Crush Claw", "Earth Power", "Iron Defense", "Metal Sound", "Rock Climb", "Skull Bash", "Submission"};
+		tutorMoves = new String[]{"Drill Run", "Earth Power", "Iron Defense", "Rock Climb", "Snore", "Stealth Rock"};
 		naturalMoves = new String[]{};
-}
+	}
 		Drilbur(){
 
 		super();

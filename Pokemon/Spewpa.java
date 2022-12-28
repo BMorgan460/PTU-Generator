@@ -15,7 +15,7 @@ public class Spewpa extends Pokemon{
 		prevReq = 5;
 		next = new String[]{"Vivillon"};
 		nextReq = new String[]{"10"};
-		height = "1\'/00\"";
+		height = "1\'/0\"";
 		size = "Small";
 		weight = 18.5;
 		WC = 1;
@@ -45,8 +45,8 @@ public class Spewpa extends Pokemon{
 		stealthBonus = 2;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 5};
-		moves = new String[]{"Harden", "Protect"};
+		movesLevels = new int[]{1};
+		moves = new String[]{"Harden"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Electroweb", "Iron Defense"};
 		naturalMoves = new String[]{};
 	}

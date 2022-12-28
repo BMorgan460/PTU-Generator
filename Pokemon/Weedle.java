@@ -23,13 +23,13 @@ public class Weedle extends Pokemon{
 		egg2 = "";
 		habitats = new String[]{"Forest"};
 		overland = 5;
-		swim = 0;
+		swim = 2;
 		levitate = 0;
 		burrow = 1;
 		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Forest"};
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
 		other = new String[]{"Threaded","Wallclimber"};
 		athl = 3;
@@ -44,9 +44,9 @@ public class Weedle extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 1, 15};
+		movesLevels = new int[]{1, 1, 9};
 		moves = new String[]{"Poison Sting", "String Shot", "Bug Bite"};
-		tutorMoves = new String[]{"Bug Bite", "Bite", "Electroweb", "String Shot"};
+		tutorMoves = new String[]{"Bug Bite", "Bite", "Electroweb"};
 		naturalMoves = new String[]{};
 	}
 		Weedle(){

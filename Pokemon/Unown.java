@@ -9,7 +9,7 @@ public class Unown extends Pokemon{
 		bSpd = 5;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Forewarn", "Telepathy", "Anticipation", "Keen Eye"};
+		abilities = new String[]{"Levitate", "Forewarn", "Perception", "Anticipation", "Keen Eye"};
 		abilityTypeCount = new int[] {1,3,1};
 		height = "1\'/8\"";
 		size = "Small";
@@ -19,13 +19,13 @@ public class Unown extends Pokemon{
 		femaleRatio = -1;
 		egg1 = "Indeterminate";
 		egg2 = "";
-		overland = 0;
+		overland = 1;
 		swim = 2;
 		levitate = 4;
 		burrow = 0;
 		lJump = 1 ;
 		hJump = 1;
-		power = 1;
+		power = 0;
 		underdog = true;
 		other = new String[]{"Invisibility","Invisibility","Telekinetic"};
 		athl = 1;
@@ -40,6 +40,9 @@ public class Unown extends Pokemon{
 		stealthBonus = 1;
 		percepBonus = 0;
 		focusBonus = 0;
+		movesLevels = new int[]{1};
+		moves = new String[]{"Hidden Power"};
+		TMs = new String[]{"Hidden Power"};
 	}
 		Unown(){
 

@@ -44,6 +44,7 @@ public class Wobbuffet extends Pokemon{
 		focusBonus = 2;
 		movesLevels = new int[]{15, 15, 15, 15};
 		moves = new String[]{"Counter", "Destiny Bond", "Mirror Coat", "Safeguard"};
+		TMs = new String[]{"Safeguard"};
 	}
 		Wobbuffet(){
 

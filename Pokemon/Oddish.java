@@ -1,5 +1,5 @@
 public class Oddish extends Pokemon{
-{
+	{
 		name = "Oddish";
 		bHP = 5;
 		bAtk = 5;
@@ -8,31 +8,30 @@ public class Oddish extends Pokemon{
 		bSpDef = 7;
 		bSpd = 3;
 		type1 = "Grass";
-		type2 = "";
-		abilities = new String[]{"Photosynthesis", "Run Away", "Chlorophyll", "Oblivious", "Force"};
+		type2 = "Poison";
+		abilities = new String[]{"Chlorophyll", "Run Away", "Adaptability", "Oblivious", "Life Force"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Gloom", "Vileplume"};
-		nextReq = new String[]{"Stone"};
+		nextReq = new String[]{"30"};
 		height = "1\'/8\"";
 		size = "Small";
 		weight = 11.9;
 		WC = 1;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Plant";
-		egg2 = "Average";
+		egg2 = "";
 		habitats = new String[]{"Forest", "Grassland", "Marsh"};
 		overland = 4;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 1;
-		lJump = 1;
+		lJump = 1 ;
 		hJump = 1;
 		power = 1;
-		natureWalk = new String[]{"Grassland", "Forest"};
+		natureWalk = new String[]{"Forest", "Grassland"};
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 2;
 		acro = 2;
 		combat = 1;
@@ -45,13 +44,13 @@ public class Oddish extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 5, 9, 13, 14, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51};
-		moves = new String[]{"Absorb", "Sweet Scent", "Acid", "Poison Powder", "Stun Spore", "Sleep Powder", "Mega Drain", "Lucky Chant", "Moonlight", "Giga Drain", "Toxic", "Natural Gift", "Moonblast", "Grassy Terrain", "Petal Dance"};
-		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Flash", "Swords Dance", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
-		eggMoves = new String[]{"After You", "Charm", "Flail", "Ingrain", "Nature Power", "Razor Leaf", "Secret Power", "Swords Dance", "Synthesis", "Teeter Dance", "Tickle"};
-		tutorMoves = new String[]{"After You", "Bullet Seed", "Gastro Acid", "Acid", "Giga Drain", "Nature Power", "Secret Power", "Seed Bomb", "Sleep Talk", "Snore", "Synthesis", "Worry Seed"};
+		movesLevels = new int[]{1, 1, 5, 9, 13, 14, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51};
+		moves = new String[]{"Absorb", "Growth", "Sweet Scent", "Acid", "Poison Powder", "Stun Spore", "Sleep Powder", "Mega Drain", "Lucky Chant", "Moonlight", "Giga Drain", "Toxic", "Natural Gift", "Moonblast", "Grassy Terrain", "Petal Dance"};
+		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Swords Dance", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
+		eggMoves = new String[]{"After You", "Charm", "Flail", "Ingrain", "Nature Power", "Razor Leaf", "Secret Power", "Strength Sap", "Swords Dance", "Synthesis", "Teeter Dance", "Tickle"};
+		tutorMoves = new String[]{"After You", "Bullet Seed", "Gastro Acid", "Acid", "Giga Drain", "Nature Power", "Secret Power", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
-}
+	}
 		Oddish(){
 
 		super();

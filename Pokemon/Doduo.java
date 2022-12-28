@@ -1,5 +1,5 @@
 public class Doduo extends Pokemon{
-{
+	{
 		name = "Doduo";
 		bHP = 4;
 		bAtk = 9;
@@ -8,7 +8,7 @@ public class Doduo extends Pokemon{
 		bSpDef = 4;
 		bSpd = 8;
 		type1 = "Normal";
-		type2 = "";
+		type2 = "Flying";
 		abilities = new String[]{"Early Bird", "Run Away", "Tangled Feet", "Polycephaly", "Vanguard"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Dodrio"};
@@ -16,21 +16,19 @@ public class Doduo extends Pokemon{
 		height = "4\'/7\"";
 		weight = 86.4;
 		WC = 3;
-		maleRatio = 50;
-		femaleRatio = 50;
+		maleRatio = 50.0;
+		femaleRatio = 50.0;
 		egg1 = "Flying";
-		egg2 = "Average";
-		habitats = new String[]{"Desert", "Grassland", "Capability"};
+		egg2 = "";
 		overland = 7;
 		swim = 2;
 		levitate = 0;
-		sky = 0;
 		burrow = 0;
-		lJump = 4;
+		lJump = 4 ;
 		hJump = 5;
 		power = 4;
 		underdog = true;
-		other = new String[] {};
+		other = new String[]{};
 		athl = 3;
 		acro = 3;
 		combat = 2;
@@ -43,13 +41,13 @@ public class Doduo extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49};
-		moves = new String[]{"Growl", "Peck", "Quick Attack", "Rage", "Fury Attack", "Pursuit", "Pluck", "Double Hit", "Acupressure", "Agility", "Drill Peck", "Uproar", "Endeavor", "Thrash"};
-		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "Swagger", "Sleep Talk", "Substitute"};
-		eggMoves = new String[]{"Assurance", "Brave Bird", "Endeavor", "Feint Attack", "Flail", "Haze", "Mirror Move", "Natural Gift", "Quick Attack", "Supersonic"};
-		tutorMoves = new String[]{"Air Cutter", "Body Slam", "Slam", "Endeavor", "Knock Off", "Pluck", "Roost", "Sky Attack", "Steel Wing", "Sleep Talk", "Snore", "Swift", "Uproar", "Tri Attack", "Work Up"};
+		movesLevels = new int[]{1, 1, 5, 8, 12, 15, 19, 22, 26, 29, 33, 36, 40, 43, 47, 50};
+		moves = new String[]{"Growl", "Peck", "Quick Attack", "Rage", "Fury Attack", "Pursuit", "Pluck", "Double Hit", "Agility", "Uproar", "Acupressure", "Swords Dance", "Jump Kick", "Drill Peck", "Endeavor", "Thrash"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "Swords Dance", "Fly", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		eggMoves = new String[]{"Assurance", "Brave Bird", "Endeavor", "Feint Attack", "Flail", "Haze", "Mirror Move", "Natural Gift", "Supersonic"};
+		tutorMoves = new String[]{"Air Cutter", "Body Slam", "Slam", "Endeavor", "Knock Off", "Pluck", "Sky Attack", "Snore", "Swift", "Uproar"};
 		naturalMoves = new String[]{};
-}
+	}
 		Doduo(){
 
 		super();
