@@ -44,7 +44,7 @@ public class Lopunny extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{6, 13, 16, 23, 26, 33, 36, 43, 46, 50, 56, 63, 66};
-		moves = new String[]{"Endure", "BabyDoll", "Quick Attack", "Jump Kick", "Baton Pass", "Agility", "Dizzy Punch", "After You", "Charm", "Entrainment", "Bounce", "Healing Wish", "High"};
+		moves = new String[]{"Endure", "BabyDoll", "Quick Attack", "Jump Kick", "Baton Pass", "Agility", "Dizzy Punch", "After You", "Charm", "Entrainment", "Bounce", "Healing Wish", "High Jump Kick"};
 		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Thunderbolt", "Thunder", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Charge", "Charge Beam", "Brutal Swing", "Giga Impact", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"After You", "Covet", "Drain Punch", "Endeavor", "Fire Punch", "Focus Punch", "Heal Bell", "Healing Wish", "Helping Hand", "Hyper Voice", "Ice Punch", "Iron Tail", "Laser Focus", "Last Resort", "Low Kick", "Magic Coat", "Mirror Coat", "Role Play", "Shock Wave", "Snore", "Swift", "Thunder Punch", "Uproar", "Water Pulse"};
 		naturalMoves = new String[]{"Bounce", "Frustration", "Healing Wish", "Wish", "Magic Coat", "Mirror Coat", "Rototiller"};

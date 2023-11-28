@@ -1,0 +1,1 @@
+"Name":"Chemical Romance","Freq":"Static","Info":"Connection - Sweet Scent. Whenever the user hits a male target with Poison Gas, Smog, Sweet Scent, Toxic, or Venom Drench, that target becomes Infatuated with the user."

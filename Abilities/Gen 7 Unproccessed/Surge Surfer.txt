@@ -1,0 +1,1 @@
+Ability: Surge Surfer Static Effect: On Electric Terrain or while under half maximum Hit Points, the user’s Initiative is doubled. 

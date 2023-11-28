@@ -1,0 +1,1 @@
+Ability: Emergency Exit Scene - Free Action Effect: When the user’s Hit Points drop below half their maximum, their trainer may immediately recall the user and send out another Pokémon as a Free Action. If the user hasn’t taken their turn yet, their replacement may act this round. Defensive. Bonus: The user is immune to being Trapped. 

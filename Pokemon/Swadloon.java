@@ -9,7 +9,7 @@ public class Swadloon extends Pokemon{
 		bSpd = 4;
 		type1 = "Bug";
 		type2 = "";
-		abilities = new String[]{"Designer", "Full Guard", "Leafy Cloak", "Swarm", "Rush"};
+		abilities = new String[]{"Designer", "Full Guard", "Leafy Cloak", "Swarm", "Accelerate"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Sewaddle();
 		prevReq = 15;
@@ -46,7 +46,7 @@ public class Swadloon extends Pokemon{
 		stealthBonus = 2;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{20};
+		movesLevels = new int[]{15};
 		moves = new String[]{"Protect"};
 		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Payback", "Flash", "Struggle Bug", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Electroweb", "Giga Drain", "Iron Defense", "Magic Coat", "Razor Leaf", "Seed Bomb", "Signal Beam", "Sleep Talk", "Snore", "Synthesis", "Worry Seed"};

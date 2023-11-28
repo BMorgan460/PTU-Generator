@@ -3,6 +3,7 @@ public class Low_Kick extends Move{
 		name = "Low Kick";
 		type = "Fighting";
 		frequency = "EOT";
+		category = "Physical";
 		AC = 2;
 		damageBase = 1;
 		mDamageBase = 1;

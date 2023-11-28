@@ -45,7 +45,7 @@ public class Finneon extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 6, 10, 13, 17, 22, 26, 29, 33, 38, 42, 45, 49, 54};
-		moves = new String[]{"Pound", "Water Gun", "Attract", "Rain Dance", "Gust", "Water Pulse", "Captivate", "Safeguard", "Aqua Ring", "Whirlpool", "UTurn", "Bounce", "Silver Wind", "Soak"};
+		moves = new String[]{"Pound", "Water Gun", "Attract", "Rain Dance", "Gust", "Water Pulse", "Captivate", "Safeguard", "Aqua Ring", "Whirlpool", "Uturn", "Bounce", "Silver Wind", "Soak"};
 		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Payback", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Surf", "Nature Power", "Waterfall", "Confide"};
 		eggMoves = new String[]{"Agility", "Aqua Tail", "Aurora Beam", "Brine", "Charm", "Confuse Ray", "Flail", "Psybeam", "Signal Beam", "Splash", "Sweet Kiss", "Tickle"};
 		tutorMoves = new String[]{"Air Cutter", "Aqua Ring", "Aqua Tail", "Bounce", "Brine", "Defog", "Dive", "Icy Wind", "Ominous Wind", "Signal Beam", "Silver Wind", "Snore", "Swift", "Twister", "Tailwind", "Water Pulse", "Whirlpool"};

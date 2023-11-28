@@ -9,7 +9,7 @@ public class Carnivine extends Pokemon{
 		bSpd = 5;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Flying", "Ambush", "Empower", "Weird Power", "Big Swallow"};
+		abilities = new String[]{"Flying Fly Trap", "Ambush", "Empower", "Weird Power", "Big Swallow"};
 		abilityTypeCount = new int[] {1,3,1};
 		height = "4\'/7\"";
 		weight = 59.5;
@@ -43,7 +43,7 @@ public class Carnivine extends Pokemon{
 		movesLevels = new int[]{1, 1, 7, 11, 17, 21, 27, 31, 37, 37, 37, 40, 47, 50};
 		moves = new String[]{"Bind", "Growth", "Bite", "Vine Whip", "Sweet Scent", "Ingrain", "Feint Attack", "Leaf Tornado", "Spit Up", "Stockpile", "Swallow", "Crunch", "Wring Out", "Power Whip"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Round", "Energy Ball", "Fling", "Payback", "Giga Impact", "Swords Dance", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
-		eggMoves = new String[]{"Acid Spray", "Giga Drain", "Leech Seed", "Magical Leaf", "Rage Powder", "Powder", "Razor Leaf", "Slam", "Sleep Powder", "Powder", "Stun Spore", "Spore", "Synthesis", "Worry Seed"};
+		eggMoves = new String[]{"Acid Spray", "Giga Drain",  "Leech Seed", "Magical Leaf", "Rage Powder", "Powder", "Razor Leaf", "Slam", "Sleep Powder", "Powder", "Stun Spore", "Spore", "Synthesis", "Worry Seed"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Bullet Seed", "Defog", "Fury Cutter", "Giga Drain", "Gastro Acid", "Acid", "Knock Off", "Seed Bomb", "Snore", "Synthesis", "Throat Chop", "Worry Seed"};
 		naturalMoves = new String[]{"Bind"};
 	}

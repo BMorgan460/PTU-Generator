@@ -1,1 +1,1 @@
-"Name":"Misty Surge","Freq":"Scene – Swift Action","Info":"The field becomes Misty Terrain for 5 rounds."
+"Name":"Misty Surge","Freq":"Scene x3 - Swift Action","Info":"The Field becomes Misty, as if affected by the Move Misty Terrain, for one full round."

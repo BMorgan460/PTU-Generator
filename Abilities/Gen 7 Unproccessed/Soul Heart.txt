@@ -1,0 +1,1 @@
+Ability: Soul Heart Scene x2 - Free Action Trigger: A combatant in the encounter Faints Effect: The user receives +2 Special Attack Combat Stages and gains a tick of Temporary Hit Points. 

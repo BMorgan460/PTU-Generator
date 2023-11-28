@@ -9,7 +9,7 @@ public class Kyurem extends Pokemon{
 		bSpd = 10;
 		type1 = "Dragon";
 		type2 = "Ice";
-		abilities = new String[]{"Pressure", "Winter's Kiss", "Snow Cloak", "Trace", "Inner Focus"};
+		abilities = new String[]{"Pressure", "Winters Kiss", "Snow Cloak", "Trace", "Inner Focus"};
 		abilityTypeCount = new int[] {1,3,1};
 		height = "9\'/10\"";
 		weight = 716.5;

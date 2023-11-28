@@ -9,7 +9,7 @@ public class Lurantis extends Pokemon{
 		bSpd = 5;
 		type1 = "Grass";
 		type2 = "";
-		abilities = new String[]{"Compound Eyes", "Tinted Lens", "Contrary", "Leaf Guard", "Beam"};
+		abilities = new String[]{"Compound Eyes", "Tinted Lens", "Contrary", "Leaf Guard", "Radiant Beam"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Fomantis();
 		prevReq = 30;

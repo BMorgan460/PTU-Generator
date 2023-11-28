@@ -44,7 +44,7 @@ public class Snover extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 9, 13, 17, 21, 26, 31, 36, 41, 46};
-		moves = new String[]{"Leer", "Powder Snow", "Razor Leaf", "Icy Wind", "Grass", "Swagger", "Mist", "Ice Shard", "Ingrain", "Wood Hammer", "Blizzard", "Sheer Cold"};
+		moves = new String[]{"Leer", "Powder Snow", "Razor Leaf", "Icy Wind", "Grass Whistle", "Swagger", "Mist", "Ice Shard", "Ingrain", "Wood Hammer", "Blizzard", "Sheer Cold"};
 		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Swords Dance", "Frost Breath", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Avalanche", "Bullet Seed", "Growth", "Leech Seed", "Magical Leaf", "Natural Gift", "Seed Bomb", "Skull Bash", "Stomp"};
 		tutorMoves = new String[]{"Bullet Seed", "Giga Drain", "Ice Punch", "Icy Wind", "Iron Tail", "Role Play", "Seed Bomb", "Snore", "Synthesis", "Water Pulse", "Worry Seed"};

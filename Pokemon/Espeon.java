@@ -9,7 +9,7 @@ public class Espeon extends Pokemon{
 		bSpd = 11;
 		type1 = "Psychic";
 		type2 = "";
-		abilities = new String[]{"Syncronize", "Trace", "Type Aura", "Perception", "Magic Bounce"};
+		abilities = new String[]{"Synchronize", "Trace", "Type Aura", "Perception", "Magic Bounce"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
 		prevReq = 20;

@@ -1,1 +1,1 @@
-"Name":"Soul Heart","Freq":"At-Will – Free Action","Info":"A Pokemon faints within 10 meters of the user.The users Special Attack gains 1 Combat Stage."
+"Name":"Soul Heart","Freq":"Scene x2 - Free Action","Info":"A combatant in the encounter FaintsThe user receives +2 Special Attack Combat Stages and gains a tick of Temporary Hit Points."

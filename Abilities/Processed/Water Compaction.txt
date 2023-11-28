@@ -1,1 +1,1 @@
-"Name":"Water Compaction","Freq":"Static","Info":"The user is hit by a Water-type attack.Raises Defense by 2 Combat Stages."
+"Name":"Water Compaction","Freq":"At-Will - Free Action","Info":"The user is hit by a Water Type MoveThe user receives +2 Defense Combat Stages. Defensive."

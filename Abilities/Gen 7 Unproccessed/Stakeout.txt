@@ -1,0 +1,1 @@
+Ability: Stakeout Static Effect: The user gains a +2d6+4 bonus on damage rolls against foes that were released from a Pokéball or entered the encounter since the user's last turn. 

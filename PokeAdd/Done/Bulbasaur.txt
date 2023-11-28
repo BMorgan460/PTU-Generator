@@ -64,5 +64,5 @@ Screen, Magical Leaf, Nature Power, Petal Dance,
 Power Whip, Safeguard, Skull Bash, Sludge
 Tutor Move List
 Bind, Body Slam, Bullet Seed, Defense Curl, Fury
-Cutter, Giga Drain, Grass Pledge, Knock Off, MudSlap, Natural Gift, Secret Power, Seed Bomb, Snore,
+Cutter, Giga Drain, Grass Pledge, Knock Off, MudSlap, Natural Gift, Secret Power, Seed Bomb, Snore,
 String Shot, Synthesis, Worry Seed

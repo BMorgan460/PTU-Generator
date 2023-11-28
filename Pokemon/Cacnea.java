@@ -47,7 +47,7 @@ public class Cacnea extends Pokemon{
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 22, 26, 30, 34, 38, 42, 46, 50, 54};
 		moves = new String[]{"Leer", "Poison Sting", "Absorb", "Growth", "Leech Seed", "Sand Attack", "Needle Arm", "Feint Attack", "Ingrain", "Payback", "Spikes", "Sucker Punch", "Pin Missile", "Energy Ball", "Cotton Spore", "Sandstorm", "Destiny Bond"};
 		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Brick Break", "Double Team", "Sandstorm", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Fling", "Payback", "Swords Dance", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dark Pulse", "Confide"};
-		eggMoves = new String[]{"Acid", "Belch", "Block", "Counter", "Disable", "Dynamic Punch", "Fell Stinger", "Low Kick", "Magical Leaf", "Nasty Plot", "Rototiller", "Seed Bomb", "Smelling Salts", "Switcheroo", "Teeter Dance", "Worry Seed"};
+		eggMoves = new String[]{"Acid", "Belch", "Block", "Counter", "Disable", "Dynamic Punch", "Fell Stinger", "Grass Whistle", "Low Kick", "Magical Leaf", "Nasty Plot", "Rototiller", "Seed Bomb", "Smelling Salts", "Switcheroo", "Teeter Dance", "Worry Seed"};
 		tutorMoves = new String[]{"Block", "Body Slam", "Slam", "Bullet Seed", "Drain Punch", "Focus Punch", "Fury Cutter", "Giga Drain", "Low Kick", "Mega Punch", "Role Play", "Seismic Toss", "Seed Bomb", "Snore", "Spite", "Sucker Punch", "Synthesis", "Thunder Punch", "Worry Seed"};
 		naturalMoves = new String[]{};
 	}

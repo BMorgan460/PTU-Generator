@@ -57,5 +57,5 @@ Swagger, 88 Sleep Talk, 90 Substitute, 96 Nature
 Power, 100 Confide
 Tutor Move List
 Bind, Body Slam, Bullet Seed, Defense Curl, Fury
-Cutter, Giga Drain, Grass Pledge, Knock Off, MudSlap, Natural Gift, Secret Power, Seed Bomb, Snore,
+Cutter, Giga Drain, Grass Pledge, Knock Off, MudSlap, Natural Gift, Secret Power, Seed Bomb, Snore,
 String Shot, Synthesis, Worry Seed

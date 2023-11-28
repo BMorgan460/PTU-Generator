@@ -9,7 +9,7 @@ public class Articuno extends Pokemon{
 		bSpd = 9;
 		type1 = "Ice";
 		type2 = "Flying";
-		abilities = new String[]{"Pressure", "Winter's Kiss", "Snow Warning", "Snow Cloak", "Frostbite"};
+		abilities = new String[]{"Pressure", "Winters Kiss", "Snow Warning", "Snow Cloak", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		height = "5\'/7\"";
 		size = "Large";

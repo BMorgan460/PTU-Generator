@@ -42,7 +42,7 @@ public class Yanma extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 6, 11, 14, 17, 22, 27, 30, 33, 38, 43, 46, 49, 54, 57};
-		moves = new String[]{"Foresight", "Tackle", "Quick Attack", "Double Team", "Sonic Boom", "Detect", "Supersonic", "Uproar", "Pursuit", "Ancient Power", "Hypnosis", "Wing Attack", "Screech", "UTurn", "Air Slash", "Bug Buzz"};
+		moves = new String[]{"Foresight", "Tackle", "Quick Attack", "Double Team", "Sonic Boom", "Detect", "Supersonic", "Uproar", "Pursuit", "Ancient Power", "Hypnosis", "Wing Attack", "Screech", "Uturn", "Air Slash", "Bug Buzz"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Roost", "Frustration", "Solar Beam", "Return", "Psychic", "Shadow Ball", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Feint", "Feint Attack", "Pursuit", "Reversal", "Secret Power", "Signal Beam", "Silver Wind", "Whirlwind"};
 		tutorMoves = new String[]{"Air Cutter", "Ancient Power", "Bug Bite", "Bite", "Defog", "Giga Drain", "Ominous Wind", "Signal Beam", "Silver Wind", "Snore", "String Shot", "Swift", "Tailwind", "Uproar"};

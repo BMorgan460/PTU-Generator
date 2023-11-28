@@ -1,0 +1,1 @@
+Ability: Berserk At-Will - Free Action Trigger: The user’s drops to half HP or below for the first time in an encounter, or becomes Enraged Effect: The user receives +1 Special Attack Combat Stage.  

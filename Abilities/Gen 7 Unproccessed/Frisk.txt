@@ -1,0 +1,1 @@
+Ability: Frisk Static Effect: The user gains a +2 Bonus to all Accuracy Rolls against adjacent targets. 

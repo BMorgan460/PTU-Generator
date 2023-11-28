@@ -1,0 +1,1 @@
+"Name":"Mud Shield","Freq":"Scene - Swift Action","Info":"The user gains two ticks worth of Temporary Hit Points. Bonus: When standing on any muddy or dirty terrain that is either Slow or Rough Terrain, the user gains +5 Damage Reduction. Defensive."

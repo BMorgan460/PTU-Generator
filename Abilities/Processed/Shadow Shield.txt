@@ -1,1 +1,1 @@
-"Name":"Shadow Shield","Freq":"Static","Info":"While at full Hit Points, all damage taken by the user is resisted one step further. Defensive"
+"Name":"Shadow Shield","Freq":"Static","Info":"While at full Hit Points, the user resists all damage one step further. Defensive."

@@ -45,7 +45,7 @@ public class Roserade extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 3;
 		movesLevels = new int[]{4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 50};
-		moves = new String[]{"Growth", "Poison Sting", "Stun Spore", "Mega Drain", "Leech Seed", "Magical Leaf", "Grass", "Giga Drain", "Toxic Spikes", "Sweet Scent", "Ingrain", "Petal Blizzard", "Toxic", "Aromatherapy", "Synthesis", "Petal Dance"};
+		moves = new String[]{"Growth", "Poison Sting", "Stun Spore", "Mega Drain", "Leech Seed", "Magical Leaf", "Grass Whistle", "Giga Drain", "Toxic Spikes", "Sweet Scent", "Ingrain", "Petal Blizzard", "Toxic", "Aromatherapy", "Synthesis", "Petal Dance"};
 		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Giga Impact", "Swords Dance", "Psych Up", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bullet Seed", "Covet", "Fury Cutter", "Giga Drain", "Grassy Terrain", "Laser Focus", "Seed Bomb", "Snore", "Swift", "Synthesis", "Uproar", "Venom Drench", "Weather Ball", "Worry Seed"};
 		naturalMoves = new String[]{"Grassy Terrain", "Venom Drench", "Weather Ball"};

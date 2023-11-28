@@ -27,15 +27,26 @@ public class Gallade extends Pokemon{
 		lJump = 2 ;
 		hJump = 2;
 		power = 7;
-		natureWalk = new String[]{"Forest", "Urban)Telekinetic", "Telepath", "Underdog", "Skill", "List", "Athl", "4d6", "Acro", "2d6+2", "Combat", "5d6", "Stealth", "2d6", "Percep", "3d6+2", "Focus", "4d6+3", "Move", "List", "Level", "Up", "Move", "List", "Evo", "Slash", "Normal", "4", "Confusion", "Psychic", "6", "Double", "Team", "Normal", "9", "Teleport", "Psychic", "11", "Quick", "Guard", "Fighting", "14", "Fury", "Cutter", "Bug", "17", "Aerial", "Ace", "Flying", "19", "Heal", "Pulse", "Psychic", "23", "Wide", "Guard", "Rock", "26", "Swords", "Dance", "Normal", "31", "Psycho", "Cut", "Psychic", "35", "Helping", "Hand", "Normal", "40", "Feint", "Normal", "44", "False", "Swipe", "Normal", "49", "Protect", "Normal", "53", "Close", "Combat", "Fighting", "58", "Stored", "Power", "Psychic", "TM", "Move", "List", "01", "Work", "Up", "03", "Psyshock", "04", "Calm", "Mind", "06", "Toxic", "08", "Bulk", "Up", "10", "Hidden", "Power", "11", "Sunny", "Day", "12", "Taunt", "15", "Hyper", "Beam", "16", "Light", "Screen", "17", "Protect", "18", "Rain", "Dance", "20", "Safeguard", "21", "Frustration", "24", "Thunderbolt", "26", "Earthquake", "27", "Return", "29", "Psychic", "30", "Shadow", "Ball", "31", "Brick", "Break", "32", "Double", "Team", "33", "Reflect", "39", "Rock", "Tomb", "40", "Aerial", "Ace", "41", "Torment", "42", "Facade", "44", "Rest", "45", "Attract", "46", "Thief", "47", "Low", "Sweep", "48", "Round", "49", "Echoed", "Voice", "52", "Focus", "Blast", "54", "False", "Swipe", "56", "Fling", "57", "Charge", "Beam", "61", "WillOWisp", "68", "Giga", "Impact", "71", "Stone", "Edge", "73", "Thunder", "Wave", "75", "Swords", "Dance", "77", "Psych", "Up", "78", "Bulldoze", "80", "Rock", "Slide", "81", "XScissor", "84", "Poison", "Jab", "85", "Dream", "Eater", "86", "Grass", "Knot", "87", "Swagger", "88", "Sleep", "Talk", "90", "Substitute", "92", "Trick", "Room", "99", "Dazzling", "Gleam", "100", "Confide", "Tutor", "Move", "List", "Ally", "Switch", "Body", "Slam", "Close", "Combat", "(N"};
-		underdog = false;
-		other = new String[]{"Telekinetic", "Telepath"};
+		natureWalk = new String[]{"Forest", "Urban"};
+		underdog = true;
+		other = new String[]{"Telekinetic","Telepath"};
+		athl = 4;
+		acro = 2;
+		combat = 5;
+		stealth = 2;
+		percep = 3;
+		focus = 4;
 		athlBonus = 0;
-		acroBonus = 0;
-		combatBonus = 2;
+		acroBonus = 2;
+		combatBonus = 0;
 		stealthBonus = 0;
-		percepBonus = 0;
-		focusBonus = 0;
+		percepBonus = 2;
+		focusBonus = 3;
+		movesLevels = new int[]{4, 6, 9, 11, 14, 17, 19, 23, 26, 31, 35, 40, 44, 49, 53, 58};
+		moves = new String[]{"Confusion", "Double Team", "Teleport", "Quick Guard", "Fury Cutter", "Aerial Ace", "Heal Pulse", "Wide Guard", "Swords Dance", "Psycho Cut", "Helping Hand", "Feint", "False Swipe", "Protect", "Close Combat", "Stored Power"};
+		TMs = new String[]{"Work Up", "Psyshock", "Calm Mind", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Thunderbolt", "Earthquake", "Return", "Psychic", "Shadow Ball", "Brick Break", "Double Team", "Reflect", "Rock Tomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Echoed Voice", "Focus Blast", "False Swipe", "Fling", "Charge", "Charge Beam", "Giga Impact", "Stone Edge", "Thunder", "Thunder Wave", "Swords Dance", "Psych Up", "Bulldoze", "Rock Slide", "Poison Jab", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Dazzling Gleam", "Confide"};
+		tutorMoves = new String[]{"Ally Switch", "Body Slam", "Slam", "Close Combat", "Defense Curl", "Drain Punch", "Dual Chop", "Fire Punch", "Focus Punch", "Fury Cutter", "Helping Hand", "Hyper Voice", "Ice Punch", "Icy Wind", "Knock Off", "Laser Focus", "Leaf Blade", "Low Kick", "Magic Coat", "Magic Room", "Night Slash", "Pain Split", "Recycle", "Role Play", "Shock Wave", "Signal Beam", "Skill Swap", "Snatch", "Snore", "Stored Power", "Swift", "Telekinesis", "Throat Chop", "Thunder Punch", "Trick", "Vacuum Wave", "Wonder Room", "Zen Headbutt", "Headbutt"};
+		naturalMoves = new String[]{"Close Combat", "Leaf Blade", "Leer", "Night Slash", "Slash", "Stored Power"};
 	}
 		Gallade(){
 

@@ -44,7 +44,7 @@ public class Lumineon extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{6, 10, 13, 17, 22, 26, 29, 35, 42, 48, 53, 59, 66};
-		moves = new String[]{"Water Gun", "Attract", "Rain Dance", "Gust", "Water Pulse", "Captivate", "Safeguard", "Aqua Ring", "Whirlpool", "UTurn", "Bounce", "Silver Wind", "Soak"};
+		moves = new String[]{"Water Gun", "Attract", "Rain Dance", "Gust", "Water Pulse", "Captivate", "Safeguard", "Aqua Ring", "Whirlpool", "Uturn", "Bounce", "Silver Wind", "Soak"};
 		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Scald", "Payback", "Giga Impact", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Surf", "Nature Power", "Waterfall", "Confide"};
 		tutorMoves = new String[]{"Air Cutter", "Aqua Ring", "Aqua Tail", "Bounce", "Brine", "Defog", "Dive", "Icy Wind", "Ominous Wind", "Signal Beam", "Silver Wind", "Snore", "Swift", "Twister", "Tailwind", "Water Pulse", "Whirlpool"};
 		naturalMoves = new String[]{"Snore", "Soak"};

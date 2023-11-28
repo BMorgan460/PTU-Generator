@@ -46,7 +46,7 @@ public class Deerling extends Pokemon{
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 20, 24, 28, 32, 36, 41, 46, 51};
 		moves = new String[]{"Camouflage", "Tackle", "Growl", "Sand Attack", "Double Kick", "Leech Seed", "Feint Attack", "Take Down", "Jump Kick", "Aromatherapy", "Energy Ball", "Charm", "Nature Power", "DoubleEdge", "Solar Beam"};
 		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Thunder", "Thunder Wave", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Nature Power", "Confide"};
-		eggMoves = new String[]{"Agility", "Baton Pass", "Fake Tears", "Headbutt", "Natural Gift", "Odor Sleuth", "Synthesis", "Worry Seed"};
+		eggMoves = new String[]{"Agility", "Baton Pass", "Grass Whistle", "Fake Tears", "Headbutt", "Natural Gift", "Odor Sleuth", "Synthesis", "Worry Seed"};
 		tutorMoves = new String[]{"Bounce", "Giga Drain", "Last Resort", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
 	}

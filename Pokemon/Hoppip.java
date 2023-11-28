@@ -44,7 +44,7 @@ public class Hoppip extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 4, 6, 8, 10, 12, 14, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49};
-		moves = new String[]{"Splash", "Absorb", "Synthesis", "Tail Whip", "Tackle", "Fairy Wind", "Poison Powder", "Stun Spore", "Sleep Powder", "Bullet Seed", "Leech Seed", "Mega Drain", "Acrobatics", "Rage Powder", "Cotton Spore", "UTurn", "Worry Seed", "Giga Drain", "Bounce", "Memento"};
+		moves = new String[]{"Splash", "Absorb", "Synthesis", "Tail Whip", "Tackle", "Fairy Wind", "Poison Powder", "Stun Spore", "Sleep Powder", "Bullet Seed", "Leech Seed", "Mega Drain", "Acrobatics", "Rage Powder", "Cotton Spore", "Uturn", "Worry Seed", "Giga Drain", "Bounce", "Memento"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Acrobatics", "Swords Dance", "Psych Up", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
 		eggMoves = new String[]{"Amnesia", "Aromatherapy", "Confusion", "Cotton Guard", "Encore", "Endure", "Grassy Terrain", "Helping Hand", "Seed Bomb", "Strength Sap", "Worry Seed"};
 		tutorMoves = new String[]{"Bounce", "Bullet Seed", "Defense Curl", "Giga Drain", "Helping Hand", "Seed Bomb", "Silver Wind", "Snore", "Synthesis", "Worry Seed"};

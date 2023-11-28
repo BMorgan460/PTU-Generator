@@ -9,7 +9,7 @@ public class Darmanitan extends Pokemon{
 		bSpd = 10;
 		type1 = "Fire";
 		type2 = "";
-		abilities = new String[]{"Sheer Force", "Flame Body", "Inner Focus", "Flash Fire", "Mode"};
+		abilities = new String[]{"Sheer Force", "Flame Body", "Inner Focus", "Flash Fire", "Zen Mode"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Darumaka();
 		prevReq = 35;

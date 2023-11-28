@@ -46,7 +46,7 @@ public class Petilil extends Pokemon{
 		movesLevels = new int[]{1, 4, 8, 10, 13, 17, 19, 22, 26, 28, 31, 35, 37, 40, 44, 46};
 		moves = new String[]{"Absorb", "Growth", "Leech Seed", "Sleep Powder", "Mega Drain", "Synthesis", "Magical Leaf", "Stun Spore", "Giga Drain", "Aromatherapy", "Helping Hand", "Energy Ball", "Entrainment", "Sunny Day", "After You", "Leaf Storm"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
-		eggMoves = new String[]{"Bide", "Charm", "Encore", "Endure", "Healing Wish", "Wish", "Ingrain", "Natural Gift", "Sweet Scent", "Worry Seed"};
+		eggMoves = new String[]{"Bide", "Charm", "Encore", "Endure", "Grass Whistle", "Healing Wish", "Wish", "Ingrain", "Natural Gift", "Sweet Scent", "Worry Seed"};
 		tutorMoves = new String[]{"After You", "Covet", "Giga Drain", "Heal Bell", "Helping Hand", "Laser Focus", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
 	}

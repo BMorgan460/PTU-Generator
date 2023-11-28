@@ -41,7 +41,7 @@ public class Volcanion extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 8, 11, 15, 21, 28, 32, 40, 46, 50, 58, 65, 76, 85};
-		moves = new String[]{"Take Down", "Mist", "Haze", "Flame Charge", "Water Pulse", "Stomp", "Scald", "Weather Ball", "Body Slam", "Hydro Pump", "Flare Blitz", "Overheat", "Explosion", "Steam"};
+		moves = new String[]{"Take Down", "Mist", "Haze", "Flame Charge", "Water Pulse", "Stomp", "Scald", "Weather Ball", "Body Slam", "Hydro Pump", "Flare Blitz", "Overheat", "Explosion", "Steam Eruption"};
 		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Smack Down", "Earthquake", "Return", "Brick Break", "Double Team", "Sludge", "Sludge Wave", "Flamethrower", "Sludge", "Sludge Bomb", "Sandstorm", "Fire Blast", "Facade", "Flame Charge", "Rest", "Round", "Overheat", "Focus Blast", "Scald", "Fling", "Explosion", "Giga Impact", "Stone Edge", "Gyro Ball", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Defog", "Earth Power", "Flare Blitz", "Heat Wave", "Liquidation", "Snore", "Stomping Tantrum", "Superpower", "Water Pulse"};
 		naturalMoves = new String[]{"Flare Blitz", "Eruption"};

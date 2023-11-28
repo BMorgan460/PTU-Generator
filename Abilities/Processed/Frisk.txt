@@ -1,1 +1,1 @@
-"Name":"Frisk","Freq":"At-Will – Swift Action","Info":"An Adjacent PokémonThe target reveals their Type, Ability, Nature, Level, and name of any Held Items they are currently holding, if any."
+"Name":"Frisk","Freq":"Static","Info":"The user gains a +2 Bonus to all Accuracy Rolls against adjacent targets."

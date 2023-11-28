@@ -9,7 +9,7 @@ public class Seel extends Pokemon{
 		bSpd = 5;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Thick Fat", "Winter's Kiss", "Ice Body", "Hydrate", "Frostbite"};
+		abilities = new String[]{"Thick Fat", "Winters Kiss", "Ice Body", "Hydration", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Dewgong"};
 		nextReq = new String[]{"30"};

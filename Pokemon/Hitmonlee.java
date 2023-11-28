@@ -42,7 +42,7 @@ public class Hitmonlee extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 2;
 		movesLevels = new int[]{5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57, 61};
-		moves = new String[]{"Meditate", "Rolling Kick", "Jump Kick", "Brick Break", "Focus Energy", "Feint", "Hi", "Mind Reader", "Foresight", "Wide Guard", "Blaze Kick", "Endure", "Mega Kick", "Close Combat", "Reversal"};
+		moves = new String[]{"Meditate", "Rolling Kick", "Jump Kick", "Brick Break", "Focus Energy", "Feint", "High Jump Kick", "Mind Reader", "Foresight", "Wide Guard", "Blaze Kick", "Endure", "Mega Kick", "Close Combat", "Reversal"};
 		TMs = new String[]{"Work Up", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Stone Edge", "Bulldoze", "Rock Slide", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bounce", "Close Combat", "Counter", "Covet", "Dynamic Punch", "Focus Punch", "Helping Hand", "Knock Off", "Laser Focus", "Low Kick", "Mega Kick", "Metronome", "Role Play", "Seismic Toss", "Snore", "Stomping Tantrum", "Sucker Punch", "Superpower", "Swift", "Uproar", "Vacuum Wave"};
 		naturalMoves = new String[]{"Close Combat", "Mega Kick", "Revenge", "Reversal"};

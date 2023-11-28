@@ -44,7 +44,7 @@ public class Jumpluff extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{4, 6, 8, 10, 12, 14, 16, 20, 24, 29, 34, 39, 44, 49, 54, 59, 64, 69};
-		moves = new String[]{"Synthesis", "Tail Whip", "Tackle", "Fairy Wind", "Poison Powder", "Stun Spore", "Sleep Powder", "Bullet Seed", "Leech Seed", "Mega Drain", "Acrobatics", "Rage Powder", "Cotton Spore", "UTurn", "Worry Seed", "Giga Drain", "Bounce", "Memento"};
+		moves = new String[]{"Synthesis", "Tail Whip", "Tackle", "Fairy Wind", "Poison Powder", "Stun Spore", "Sleep Powder", "Bullet Seed", "Leech Seed", "Mega Drain", "Acrobatics", "Rage Powder", "Cotton Spore", "Uturn", "Worry Seed", "Giga Drain", "Bounce", "Memento"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Acrobatics", "Giga Impact", "Swords Dance", "Psych Up", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"Bounce", "Bullet Seed", "Defense Curl", "Giga Drain", "Helping Hand", "Seed Bomb", "Silver Wind", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};

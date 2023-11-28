@@ -9,7 +9,7 @@ public class Glaceon extends Pokemon{
 		bSpd = 7;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Snow Cloak", "Winter's Kiss", "Type Aura", "Ice Body", "Frostbite"};
+		abilities = new String[]{"Snow Cloak", "Winters Kiss", "Type Aura", "Ice Body", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Eevee();
 		prevReq = 20;

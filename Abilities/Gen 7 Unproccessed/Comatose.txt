@@ -1,0 +1,1 @@
+Ability: Comatose At-Will - Move Action Effect: The user falls Asleep, and regains a Tick of Hit Points. Bonus: The user may act normally while Asleep and ignores all other penalties from being Asleep. While Asleep, the user does not make Save Checks to wake up, and wakes up from being hit only if they want to. 

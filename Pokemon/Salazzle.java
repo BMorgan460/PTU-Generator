@@ -9,7 +9,7 @@ public class Salazzle extends Pokemon{
 		bSpd = 12;
 		type1 = "Poison";
 		type2 = "Fire";
-		abilities = new String[]{"Corrosion", "Brimstone", "Oblivious", "Sun Blanket", "Romance"};
+		abilities = new String[]{"Corrosion", "Brimstone", "Oblivious", "Sun Blanket", "Chemical Romance"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Salandit();
 		prevReq = 30;

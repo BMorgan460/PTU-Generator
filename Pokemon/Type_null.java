@@ -36,8 +36,8 @@ public class Type_null extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 2;
 		movesLevels = new int[]{1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85};
-		moves = new String[]{"Tackle", "Rage", "Pursuit", "Imprison", "Aerial Ace", "Crush Claw", "Scary Face", "X_Scissor", "Take Down", "Metal Sound", "Iron Head", "Double Hit", "Air Slash", "Punishment", "Razor Wind", "Tri Attack", "Double_Edge", "Heal Block"};
-		TMs = new String[]{"Work Up", "Dragon Claw", "Roar", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Sandstorm", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Round", "Shadow Claw", "Payback", "Giga Impact", "Thunder Wave", "Swords Dance", "Rock Slide", "X_Scissor", "Swagger", "Sleep Talk", "U_turn", "Substitute", "Confide"};
+		moves = new String[]{"Tackle", "Rage", "Pursuit", "Imprison", "Aerial Ace", "Crush Claw", "Scary Face", "XScissor", "Take Down", "Metal Sound", "Iron Head", "Double Hit", "Air Slash", "Punishment", "Razor Wind", "Tri Attack", "DoubleEdge", "Heal Block"};
+		TMs = new String[]{"Work Up", "Dragon Claw", "Roar", "Toxic", "Hail", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Return", "Double Team", "Sandstorm", "Aerial Ace", "Facade", "Flame Charge", "Rest", "Round", "Shadow Claw", "Payback", "Giga Impact", "Thunder Wave", "Swords Dance", "Rock Slide", "XScissor", "Swagger", "Sleep Talk", "Uturn", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Signal Beam", "Iron Head", "Magic Coat", "Iron Defense", "Last Resort", "Icy Wind", "Snore"};
 		naturalMoves = new String[]{};
 	}

@@ -1,1 +1,1 @@
-"Name":"Steelworker","Freq":"Static","Info":"Steel-type moves used by the user have their Damage Base increased by 2."
+"Name":"Steelworker","Freq":"Scene - Free Action","Info":"The user takes damage while adjacent to its AnchorThe user calculates damage as if it was only Steel-Typed. Bonus: The user gains STAB on Steel-Type Moves that originate from its Anchor."

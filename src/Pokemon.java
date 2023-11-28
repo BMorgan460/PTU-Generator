@@ -27,7 +27,7 @@ public class Pokemon {
     private int        nSpDef;
     private int        nSpd;
 
-    private int        level;
+    protected int        level;
 
     private String     nature;
 
@@ -107,7 +107,7 @@ public class Pokemon {
     protected String[] naturalMoves;
 
     private String[]   moveList;
-    private String[]   abilityList;
+    protected String[]   abilityList;
 
 
     // constructor
@@ -128,7 +128,7 @@ public class Pokemon {
             path += ability + ".txt";
             File tmpDir = new File(path);
             if(!tmpDir.exists()) {
-                System.out.println(ability);
+                System.out.println("Ability Error" + ability);
             }
         }
         System.out.println("LEVEL MOVES");
@@ -139,7 +139,7 @@ public class Pokemon {
                 moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
             }
             catch (Exception e) {
-                System.out.println(move);
+                System.out.println("Level Move Error" + move);
             }
         }
         System.out.println("EGG MOVES");
@@ -151,7 +151,7 @@ public class Pokemon {
                 moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
             }
             catch (Exception e) {
-                System.out.println(move);
+                System.out.println("Egg Move Error" + move);
             }
         }
         }
@@ -167,7 +167,7 @@ public class Pokemon {
                 moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
             }
             catch (Exception e) {
-                System.out.println(move);
+                System.out.println("Tutor Move Error" + move);
             }
         }
         }catch(Exception e) {
@@ -182,7 +182,7 @@ public class Pokemon {
                 moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
             }
             catch (Exception e) {
-                System.out.println(move);
+                System.out.println("Natural Move Error" + move);
             }
         }
         }catch(Exception e) {
@@ -197,7 +197,7 @@ public class Pokemon {
                 moveA = (Class<Move>)Class.forName(move.replace(" ", "_"));
             }
             catch (Exception e) {
-                System.out.println(move);
+                System.out.println("TM Move Error "+  move);
             }
         }
         }
@@ -504,6 +504,7 @@ public class Pokemon {
             }
             abilities[2] = this.abilities[abi3];
         }
+        
         this.abilityList = abilities;
         return abilities;
     }

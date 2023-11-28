@@ -46,7 +46,7 @@ public class Cottonee extends Pokemon{
 		movesLevels = new int[]{1, 1, 4, 8, 10, 13, 17, 19, 22, 26, 28, 31, 35, 37, 40, 44, 46};
 		moves = new String[]{"Absorb", "Fairy Wind", "Growth", "Leech Seed", "Stun Spore", "Mega Drain", "Cotton Spore", "Razor Leaf", "Poison Powder", "Giga Drain", "Charm", "Helping Hand", "Energy Ball", "Cotton Guard", "Sunny Day", "Endeavor", "Solar Beam"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
-		eggMoves = new String[]{"Beat Up", "Captivate", "Encore", "Fake Tears", "Memento", "Misty Terrain", "Natural Gift", "Switcheroo", "Tickle", "Worry Seed"};
+		eggMoves = new String[]{"Beat Up", "Captivate", "Encore", "Fake Tears", "Grass Whistle", "Memento", "Misty Terrain", "Natural Gift", "Switcheroo", "Tickle", "Worry Seed"};
 		tutorMoves = new String[]{"Covet", "Endeavor", "Defog", "Giga Drain", "Helping Hand", "Knock Off", "Seed Bomb", "Snore", "Tailwind", "Worry Seed"};
 		naturalMoves = new String[]{};
 	}

@@ -9,7 +9,7 @@ public class Mamoswine extends Pokemon{
 		bSpd = 8;
 		type1 = "Ice";
 		type2 = "Ground";
-		abilities = new String[]{"Thick Fat", "Guts", "Oblivious", "Snow Cloak", "Kiss"};
+		abilities = new String[]{"Thick Fat", "Guts", "Oblivious", "Snow Cloak", "Winters Kiss"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Piloswine();
 		prevReq = 50;

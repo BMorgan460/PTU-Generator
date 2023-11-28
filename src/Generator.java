@@ -12,7 +12,7 @@ public class Generator {
     private String[] moves;
     @SuppressWarnings("unused")
     private String[] abilities;
-    private Pokemon  genned;
+    private Pokemon genned;
 
     public Generator(String name, int minLevel, int maxLevel, boolean evo) {
         if (minLevel > maxLevel) {
@@ -49,22 +49,22 @@ public class Generator {
             System.out.println(name);
         }
         catch (IllegalAccessException e1) {
-            
+        	System.out.println(1);
         }
         catch (IllegalArgumentException e1) {
-            
+        	System.out.println(2);
         }
         catch (InvocationTargetException e1) {
-            
+        	System.out.println(3);
         }
         catch (NoSuchMethodException e1) {
-            
+        	System.out.println(4);
         }
         catch (SecurityException e1) {
-            
+        	System.out.println(5);
         }
         catch (InstantiationException e1) {
-            
+        	System.out.println(6);
         }
     }
 

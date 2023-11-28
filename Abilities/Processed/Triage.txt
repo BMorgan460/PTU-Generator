@@ -1,1 +1,1 @@
-"Name":"Triage","Freq":"Static","Info":"The users moves with the Healing keyword gain the Priority keyword."
+"Name":"Triage","Freq":"Static","Info":"The user’s moves with the Healing keyword may be used as Priority moves."

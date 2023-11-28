@@ -1,0 +1,1 @@
+Ability: Prism Armor Static Effect: The user gains +5 Damage Reduction against Super Effective-Damage. Defensive.  

@@ -1,0 +1,1 @@
+"Name":"Handyman","Freq":"Static","Info":"The user may hold two Held Items at once. Whenever an Ability or Move affects the user’s Held Items, you may choose which one is affected."

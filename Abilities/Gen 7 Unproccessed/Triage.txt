@@ -1,0 +1,1 @@
+Ability: Triage Static Effect: The user’s moves with the Healing keyword may be used as Priority moves. 

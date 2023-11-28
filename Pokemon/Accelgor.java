@@ -45,7 +45,7 @@ public class Accelgor extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{4, 8, 13, 16, 20, 25, 28, 32, 37, 40, 44, 49, 50, 56};
-		moves = new String[]{"Acid Spray", "Double Team", "Quick Attack", "Struggle Bug", "Mega Drain", "Swift", "Me First", "Agility", "Giga Drain", "UTurn", "Bug Buzz", "Recover", "Power Swap", "Final Gambit"};
+		moves = new String[]{"Acid Spray", "Double Team", "Quick Attack", "Struggle Bug", "Mega Drain", "Swift", "Me First", "Agility", "Giga Drain", "Uturn", "Bug Buzz", "Recover", "Power Swap", "Final Gambit"};
 		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Leech Life", "Double Team", "Sludge", "Sludge Bomb", "Sandstorm", "Facade", "Rest", "Attract", "Round", "Focus Blast", "Energy Ball", "Giga Impact", "Infestation", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Bug Bite", "Bite", "Final Gambit", "Gastro Acid", "Acid", "Giga Drain", "Laser Focus", "Power Swap", "Signal Beam", "Sleep Talk", "Snore", "Water Shuriken"};
 		naturalMoves = new String[]{"Final Gambit", "Power Swap", "Water Shuriken"};

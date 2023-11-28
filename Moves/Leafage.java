@@ -6,5 +6,6 @@ public class Leafage extends Move{
 		AC = 2;
 		category = "Physical";
 		range = "4, 1 Target";
+		effects = "";
 		}
 }

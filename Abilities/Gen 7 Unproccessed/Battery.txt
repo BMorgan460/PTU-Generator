@@ -1,0 +1,1 @@
+Ability: Battery Scene x2 - Swift Action Target: An Adjacent Ally Effect: The target's next Special Attack deals +2d6+4 damage. If that attack is Electric-Typed, it deals +3d6+6 more damage instead. 

@@ -42,7 +42,7 @@ public class Yanmega extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 0;
 		movesLevels = new int[]{6, 11, 14, 17, 22, 27, 30, 33, 38, 43, 46, 49, 54, 57};
-		moves = new String[]{"Quick Attack", "Double Team", "Sonic Boom", "Detect", "Supersonic", "Uproar", "Pursuit", "Ancient Power", "Feint", "Slash", "Screech", "UTurn", "Air Slash", "Bug Buzz"};
+		moves = new String[]{"Quick Attack", "Double Team", "Sonic Boom", "Detect", "Supersonic", "Uproar", "Pursuit", "Ancient Power", "Feint", "Slash", "Screech", "Uturn", "Air Slash", "Bug Buzz"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Roost", "Frustration", "Solar Beam", "Return", "Leech Life", "Psychic", "Shadow Ball", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Round", "Steel Wing", "Giga Impact", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Air Cutter", "Air Slash", "Ancient Power", "Bug Bite", "Bug Buzz", "Defog", "Giga Drain", "Laser Focus", "Night Slash", "Ominous Wind", "Secret Power", "Signal Beam", "Silver Wind", "Snore", "String Shot", "Swift", "Tailwind", "Uproar"};
 		naturalMoves = new String[]{"Air Slash", "Slash", "Bug Bite", "Bite", "Bug Buzz", "Night Slash", "Slash"};

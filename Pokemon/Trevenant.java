@@ -45,7 +45,7 @@ public class Trevenant extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 2;
 		movesLevels = new int[]{5, 8, 13, 19, 23, 28, 31, 35, 39, 45, 49, 54};
-		moves = new String[]{"Astonish", "Growth", "Ingrain", "Feint Attack", "Leech Seed", "Curse", "WillOWisp", "Forest’s", "Destiny Bond", "Phantom Force", "Wood Hammer", "Horn Leech"};
+		moves = new String[]{"Astonish", "Growth", "Ingrain", "Feint Attack", "Leech Seed", "Curse", "WillOWisp", "Forest_s Curse", "Destiny Bond", "Phantom Force", "Wood Hammer", "Horn Leech"};
 		TMs = new String[]{"Calm Mind", "Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Solar Beam", "Earthquake", "Return", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Thief", "Round", "Focus Blast", "Energy Ball", "Brutal Swing", "Shadow Claw", "Giga Impact", "Bulldoze", "Rock Slide", "Poison Jab", "Dream Eater", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Trick", "Trick Room", "Nature Power", "Dark Pulse", "Confide"};
 		tutorMoves = new String[]{"Ally Switch", "Block", "Drain Punch", "Foul Play", "Giga Drain", "Horn Leech", "Magic Coat", "Pain Split", "Role Play", "Seed Bomb", "Skill Swap", "Snore", "Spite", "Telekinesis", "Trick", "Worry Seed"};
 		naturalMoves = new String[]{"Horn Leech"};

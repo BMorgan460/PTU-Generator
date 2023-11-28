@@ -9,7 +9,7 @@ public class Psyduck extends Pokemon{
 		bSpd = 6;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Cloud Nine", "Damp", "Mind Mold", "Swift Swim", "Migrane"};
+		abilities = new String[]{"Cloud Nine", "Damp", "Mind Mold", "Swift Swim", "Migraine"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Golduck"};
 		nextReq = new String[]{"30"};

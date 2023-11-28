@@ -1,0 +1,1 @@
+Ability: Disguise Daily - Free Action Trigger: The user is hit by a Damaging Move. Effect: The triggering attack instead misses and has no effect. The user then gains +1 CS in a Stat of their choice. Defensive.  

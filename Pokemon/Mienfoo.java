@@ -42,7 +42,7 @@ public class Mienfoo extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 50, 57, 61};
-		moves = new String[]{"Pound", "Meditate", "Detect", "Fake Out", "Double Slap", "Swift", "Calm Mind", "Force Palm", "Drain Punch", "Jump Kick", "Uturn", "Quick Guard", "Bounce", "High", "Reversal", "Aura Sphere"};
+		moves = new String[]{"Pound", "Meditate", "Detect", "Fake Out", "Double Slap", "Swift", "Calm Mind", "Force Palm", "Drain Punch", "Jump Kick", "Uturn", "Quick Guard", "Bounce", "High Jump Kick", "Reversal", "Aura Sphere"};
 		TMs = new String[]{"Work Up", "Calm Mind", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Rain Dance", "Frustration", "Return", "Brick Break", "Double Team", "Reflect", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Acrobatics", "Payback", "Stone Edge", "Swords Dance", "Psych Up", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		eggMoves = new String[]{"Ally Switch", "Baton Pass", "Endure", "Feint", "Knock Off", "Low Kick", "Me First", "Smelling Salts", "Vital Throw"};
 		tutorMoves = new String[]{"Ally Switch", "Bounce", "Drain Punch", "Dual Chop", "Focus Punch", "Helping Hand", "Knock Off", "Low Kick", "Role Play", "Snore", "Swift"};

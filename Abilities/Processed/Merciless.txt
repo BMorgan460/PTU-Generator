@@ -1,1 +1,1 @@
-"Name":"Merciless","Freq":"Static","Info":"When the user attacks a target that is Poisoned, increase the critical range of the attack by 3. If they are Badly Poisoned, the critical range is instead increased by 6."
+"Name":"Merciless","Freq":"Static","Info":"If the user hits a poisoned target with a damaging attack, it automatically becomes a Critical Hit."

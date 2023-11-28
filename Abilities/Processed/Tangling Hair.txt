@@ -1,1 +1,1 @@
-"Name":"Tangling Hair","Freq":"At-Will – Free Action","Info":"The user is hit by a melee ranged attack.The triggering opponent’s Speed is lowered by 1 Combat Stage"
+"Name":"Tangling Hair","Freq":"At-Will - Free Action","Info":"The user is hit by a Melee AttackThe attacker receives -1 Speed Combat Stage and is Slowed until the end of its next turn."

@@ -1,0 +1,1 @@
+"Name":"Wily","Freq":"Static","Info":"The user's X-target Status Class Moves may target an additional target within range."

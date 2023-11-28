@@ -1,1 +1,1 @@
-"Name":"Berserk","Freq":"Static","Info":"While Enraged, the user’s Special Attack is raised 3 Combat Stages. If the user stops suffering from Enraged, the user loses and Combat Stages from this ability."
+"Name":"Berserk","Freq":"At-Will - Free Action","Info":"The userâ€™s drops to half HP or below for the first time in an encounter, or becomes EnragedThe user receives +1 Special Attack Combat Stage."

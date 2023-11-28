@@ -1,0 +1,1 @@
+Ability: Radiant Beam Static Effect: The user may use damaging Grass-Type attacks as if they had a range of "Line 4" instead of their usual range. 

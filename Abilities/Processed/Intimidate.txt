@@ -1,1 +1,1 @@
-"Name":"Intimidate","Freq":"At-Will – Swift Action","Info":"Pokémon or Trainer within 5 metersLower the target’s Attack 1 Combat Stage. You may target a specific foe only once per Scene with Intimidate."
+"Name":"Intimidate","Freq":"At-Will – Swift Action Scene with Intimidate.","Info":"Pokémon or Trainer within 5 metersLower the target’s Attack 1 Combat Stage. You may target a specific foe only once per"

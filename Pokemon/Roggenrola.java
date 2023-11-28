@@ -9,7 +9,7 @@ public class Roggenrola extends Pokemon{
 		bSpd = 2;
 		type1 = "Rock";
 		type2 = "";
-		abilities = new String[]{"Sturdy", "Sand Rush", "Sand Force", "Sand Veil", "Up"};
+		abilities = new String[]{"Sturdy", "Sand Rush", "Sand Force", "Sand Veil", "Klutz"};
 		abilityTypeCount = new int[] {1,3,1};
 		next = new String[]{"Boldore", "Gigalith"};
 		nextReq = new String[]{"40"};

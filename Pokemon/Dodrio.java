@@ -41,8 +41,9 @@ public class Dodrio extends Pokemon{
 		stealthBonus = 0;
 		percepBonus = 0;
 		focusBonus = 0;
-		movesLevels = new int[]{5, 8, 12, 15, 19, 22, 26, 29, 34, 38, 43, 47, 52, 56, 6, 01, 06, 10, 11, 12, 15, 17, 19, 21, 27, 32, 40, 41, 42, 44, 45, 46, 48, 49, 51, 66, 68, 75, 76, 87, 88, 90, 100};
-		moves = new String[]{"Quick Attack", "Rage", "Fury Attack", "Pursuit", "Pluck", "Double Hit", "Agility", "Uproar", "Acupressure", "Swords Dance", "Drill Peck", "Jump Kick", "Endeavor", "Thrash", "TM", "Work Up", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "Payback", "Giga Impact", "Swords Dance", "Fly", "Swagger", "Sleep Talk", "Substitute", "Confide"};
+		movesLevels = new int[]{5, 8, 12, 15, 19, 22, 26, 29, 34, 38, 43, 47, 52, 56};
+		moves = new String[]{"Quick Attack", "Rage", "Fury Attack", "Pursuit", "Pluck", "Double Hit", "Agility", "Uproar", "Acupressure", "Swords Dance", "Drill Peck", "Jump Kick", "Endeavor", "Thrash"};
+		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Roost", "Frustration", "Return", "Double Team", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "Payback", "Giga Impact", "Swords Dance", "Fly", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Air Cutter", "Body Slam", "Slam", "Endeavor", "Knock Off", "Pluck", "Sky Attack", "Snore", "Stomping Tantrum", "Swift", "Uproar"};
 		naturalMoves = new String[]{};
 	}

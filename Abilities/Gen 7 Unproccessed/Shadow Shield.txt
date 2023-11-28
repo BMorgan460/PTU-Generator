@@ -1,0 +1,1 @@
+Ability: Shadow Shield Static Effect: While at full Hit Points, the user resists all damage one step further. Defensive. 

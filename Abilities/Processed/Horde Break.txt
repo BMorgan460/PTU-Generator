@@ -1,0 +1,1 @@
+"Name":"Horde Break","Freq":"At-Will - Free Action","Info":"The user changes from School Form to Solo FormThe user is cured of all Status Conditions."

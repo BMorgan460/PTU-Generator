@@ -45,7 +45,7 @@ public class Abomasnow extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 13, 17, 21, 26, 31, 36, 47, 58};
-		moves = new String[]{"Razor Leaf", "Icy Wind", "Grass", "Swagger", "Mist", "Ice Shard", "Ingrain", "Wood Hammer", "Blizzard", "Sheer Cold"};
+		moves = new String[]{"Razor Leaf", "Icy Wind", "Grass Whistle", "Swagger", "Mist", "Ice Shard", "Ingrain", "Wood Hammer", "Blizzard", "Sheer Cold"};
 		TMs = new String[]{"Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Solar Beam", "Earthquake", "Return", "Shadow Ball", "Brick Break", "Double Team", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Focus Blast", "Energy Ball", "Fling", "Giga Impact", "Swords Dance", "Bulldoze", "Frost Breath", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Avalanche", "Block", "Bullet Seed", "Focus Punch", "Giga Drain", "Ice Punch", "Icy Wind", "Iron Tail", "Outrage", "Rock Climb", "Role Play", "Seed Bomb", "Snore", "Stomping Tantrum", "Synthesis", "Water Pulse", "Worry Seed"};
 		naturalMoves = new String[]{"Ice Punch"};

@@ -9,7 +9,7 @@ public class Solgaleo extends Pokemon{
 		bSpd = 10;
 		type1 = "Psychic";
 		type2 = "Steel";
-		abilities = new String[]{"Full", "Illuminate", "Heatproof", "Sunglow", "Bulletproof"};
+		abilities = new String[]{"Full Metal Body", "Illuminate", "Heatproof", "Sunglow", "Bulletproof"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Cosmoem();
 		prevReq = 50;

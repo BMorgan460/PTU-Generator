@@ -1,0 +1,1 @@
+Ability: Dazzling Scene x2 - Swift Action Target: An Adjacent Foe Effect: For the rest of the Scene, the target's Initiative is lowered by 10 and cannot use Priority Moves. Bonus: Interrupt Moves may not be declared in response to the user's actions. 

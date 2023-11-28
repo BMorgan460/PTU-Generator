@@ -40,7 +40,7 @@ public class Pheromosa extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 7, 13, 19, 23, 29, 31, 37, 43, 47, 53, 69, 67, 73};
-		moves = new String[]{"Rapid Spin", "Leer", "Double Kick", "Swift", "Stomp", "Feint", "Silver Wind", "Bounce", "Jump Kick", "Agility", "Triple Kick", "Lunge", "Bug Buzz", "Me First", "High", "Speed Swap"};
+		moves = new String[]{"Rapid Spin", "Leer", "Double Kick", "Swift", "Stomp", "Feint", "Silver Wind", "Bounce", "Jump Kick", "Agility", "Triple Kick", "Lunge", "Bug Buzz", "Me First", "High Jump Kick", "Speed Swap"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Roost", "Frustration", "Return", "Brick Break", "Double Team", "Torment", "Facade", "Rest", "Low Sweep", "Round", "Echoed Voice", "Focus Blast", "False Swipe", "Fling", "Giga Impact", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Block", "Bounce", "Bug Bite", "Bite", "Drill Run", "Electroweb", "Foul Play", "Icy Wind", "Laser Focus", "Low Kick", "Outrage", "Quick Guard", "Quiver Dance", "Shock Wave", "Signal Beam", "Snatch", "Snore", "Throat Chop"};
 		naturalMoves = new String[]{"Low Kick", "Quick Guard", "Quiver Dance"};

@@ -1,1 +1,1 @@
-"Name":"Stamina","Freq":"At-Will – Free Action","Info":"The user is hit by a damaging attack.After damage has been calculated, the user gains +1 Defense Combat Stage. Defensive."
+"Name":"Stamina","Freq":"At-Will - Free Action","Info":"The user is hit by a Damaging AttackThe user receives +1 Defense Combat Stage. Defensive."

@@ -44,7 +44,7 @@ public class Scrafty extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 1;
 		movesLevels = new int[]{5, 9, 12, 16, 20, 23, 27, 31, 34, 38, 45, 51, 58, 65};
-		moves = new String[]{"Sand Attack", "Feint Attack", "Swagger", "Low Kick", "Payback", "Brick Break", "Chip Away", "High", "Scary Face", "Crunch", "Facade", "Rock Climb", "Focus Punch", "Head Smash"};
+		moves = new String[]{"Sand Attack", "Feint Attack", "Swagger", "Low Kick", "Payback", "Brick Break", "Chip Away", "High Jump Kick", "Scary Face", "Crunch", "Facade", "Rock Climb", "Focus Punch", "Head Smash"};
 		TMs = new String[]{"Work Up", "Dragon Claw", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Smack Down", "Return", "Brick Break", "Double Team", "Sludge", "Sludge Bomb", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Low Sweep", "Round", "Focus Blast", "Fling", "Payback", "Giga Impact", "Stone Edge", "Rock Slide", "Dragon Tail", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Snarl", "Dark Pulse", "Confide"};
 		tutorMoves = new String[]{"Counter", "Dragon Pulse", "Drain Punch", "Dual Chop", "Fire Punch", "Focus Punch", "Foul Play", "Ice Punch", "Iron Defense", "Iron Head", "Iron Tail", "Knock Off", "Low Kick", "Outrage", "Rock Climb", "Snatch", "Snore", "Spite", "Super Fang", "Throat Chop", "Thunder Punch", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};

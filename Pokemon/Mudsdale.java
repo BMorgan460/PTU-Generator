@@ -9,7 +9,7 @@ public class Mudsdale extends Pokemon{
 		bSpd = 4;
 		type1 = "Ground";
 		type2 = "";
-		abilities = new String[]{"Stamina", "Inner Focus", "Moody", "Own Tempo", "Shield"};
+		abilities = new String[]{"Stamina", "Inner Focus", "Moody", "Own Tempo", "Mud Shield"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Mudbray();
 		prevReq = 30;

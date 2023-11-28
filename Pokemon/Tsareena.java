@@ -43,7 +43,7 @@ public class Tsareena extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53};
-		moves = new String[]{"Swagger", "Rapid Spin", "Razor Leaf", "Sweet Scent", "Magical Leaf", "Teeter Dance", "Stomp", "Aromatic Mist", "Captivate", "Aromatherapy", "Leaf Storm", "High", "Power Whip"};
+		moves = new String[]{"Swagger", "Rapid Spin", "Razor Leaf", "Sweet Scent", "Magical Leaf", "Teeter Dance", "Stomp", "Aromatic Mist", "Captivate", "Aromatherapy", "Leaf Storm", "High Jump Kick", "Power Whip"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Safeguard", "Frustration", "Return", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Energy Ball", "Fling", "Acrobatics", "Payback", "Giga Impact", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"Bounce", "Covet", "Double Slap", "Endeavor", "Giga Drain", "Helping Hand", "Knock Off", "Laser Focus", "Low Kick", "Seed Bomb", "Snore", "Synthesis", "Worry Seed", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{"Double Slap", "Punishment"};

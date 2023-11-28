@@ -9,7 +9,7 @@ public class Snorunt extends Pokemon{
 		bSpd = 5;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Inner Focus", "Ice Body", "Winter's Kiss", "Moody", "Frostbite"};
+		abilities = new String[]{"Inner Focus", "Ice Body", "Winters Kiss", "Moody", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Glalie"};
 		nextReq = new String[]{"30"};

@@ -47,7 +47,7 @@ public class Treecko extends Pokemon{
 		movesLevels = new int[]{1, 3, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49};
 		moves = new String[]{"Pound", "Leer", "Absorb", "Quick Attack", "Mega Drain", "Pursuit", "Giga Drain", "Agility", "Slam", "Detect", "Energy Ball", "Quick Guard", "Endeavor", "Screech"};
 		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Brick Break", "Double Team", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Fling", "Acrobatics", "Swords Dance", "Rock Slide", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
-		eggMoves = new String[]{"Bullet Seed", "Crunch", "Crush Claw", "Double Kick", "Dragon Breath", "Endeavor", "Grassy Terrain", "Leaf Storm", "Leech Seed", "Magical Leaf", "Mud Sport", "Natural Gift", "Razor Wind", "Synthesis", "Worry Seed"};
+		eggMoves = new String[]{"Bullet Seed", "Crunch", "Crush Claw", "Double Kick", "Dragon Breath", "Endeavor", "Grass Whistle", "Grassy Terrain", "Leaf Storm", "Leech Seed", "Magical Leaf", "Mud Sport", "Natural Gift", "Razor Wind", "Synthesis", "Worry Seed"};
 		tutorMoves = new String[]{"Body Slam", "Slam", "Bullet Seed", "Counter", "Drain Punch", "Dynamic Punch", "Endeavor", "Focus Punch", "Fury Cutter", "Giga Drain", "Grass Pledge", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Secret Power", "Seed Bomb", "Seismic Toss", "Snore", "Swift", "Synthesis", "Thunder Punch", "Worry Seed"};
 		naturalMoves = new String[]{};
 	}

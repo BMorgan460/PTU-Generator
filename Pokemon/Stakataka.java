@@ -41,7 +41,7 @@ public class Stakataka extends Pokemon{
 		percepBonus = 3;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 5, 11, 17, 19, 23, 31, 37, 43, 47, 53, 61};
-		moves = new String[]{"Tackle", "Protect", "Rock Slide", "Stealth Rock", "Bide", "Take Down", "Rock Throw", "Autotomize", "Iron Defense", "Iron Head", "Rock Blast", "Wide Guard", "Double"};
+		moves = new String[]{"Tackle", "Protect", "Rock Slide", "Stealth Rock", "Bide", "Take Down", "Rock Throw", "Autotomize", "Iron Defense", "Iron Head", "Rock Blast", "Wide Guard", "DoubleEdge"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Light Screen", "Protect", "Safeguard", "Frustration", "Smack Down", "Earthquake", "Return", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Round", "Brutal Swing", "Giga Impact", "Rock Polish", "Stone Edge", "Gyro Ball", "Bulldoze", "Rock Slide", "Infestation", "Sleep Talk", "Substitute", "Flash", "Flash Cannon", "Trick", "Trick Room"};
 		tutorMoves = new String[]{"Ally Switch", "Bind", "Block", "Gravity", "Iron Defense", "Iron Head", "Magic Coat", "Magic Room", "Magnet Rise", "Recycle", "Role Play", "Skill Swap", "Snore", "Stealth Rock", "Stomping Tantrum", "Superpower", "Telekinesis", "Wonder Room", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};

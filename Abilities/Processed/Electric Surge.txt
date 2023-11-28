@@ -1,1 +1,1 @@
-"Name":"Electric Surge","Freq":"Scene – Swift Action","Info":"The field becomes Electric Terrain for 5 rounds."
+"Name":"Electric Surge","Freq":"Scene x3 - Swift Action","Info":"The Field becomes Electrified, as if affected by the Move Electric Terrain, for one full round."

@@ -41,7 +41,7 @@ public class Zygarde extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 0;
 		movesLevels = new int[]{1, 1, 1, 1, 5, 10, 18, 26, 35, 44, 51, 55, 59, 63, 72, 80};
-		moves = new String[]{"Glare", "Bulldoze", "Dragon Breath", "Bite", "Safeguard", "Dig", "Bind", "Land’s", "Sandstorm", "Haze", "Crunch", "Earthquake", "Camouflage", "Dragon Pulse", "Coil", "Outrage"};
+		moves = new String[]{"Glare", "Bulldoze", "Dragon Breath", "Bite", "Safeguard", "Dig", "Bind", "Land’s Wrath", "Sandstorm", "Haze", "Crunch", "Earthquake", "Camouflage", "Dragon Pulse", "Coil", "Outrage"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Hyper Beam", "Protect", "Safeguard", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Sludge", "Sludge Wave", "Sandstorm", "Facade", "Rest", "Round", "Focus Blast", "Giga Impact", "Stone Edge", "Bulldoze", "Rock Slide", "Dragon Tail", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Bind", "Block", "Draco Meteor", "Dragon Pulse", "Earth Power", "Hyper Voice", "Iron Tail", "Outrage", "Pain Split", "Shock Wave", "Snore", "Spite", "Stomping Tantrum", "Superpower", "Zen Headbutt", "Headbutt", "Core Enforcer", "Dragon Dance", "Extreme Speed", "Thousand Arrows", "Thousand Waves"};
 		naturalMoves = new String[]{};

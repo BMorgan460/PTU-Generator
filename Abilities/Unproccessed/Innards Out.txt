@@ -1,1 +1,0 @@
-Ability: Innards Out Frequency: Static Trigger: The user takes massive damage. Effect: The user inflicts damage equal to half the damage taken to the source of the damage.

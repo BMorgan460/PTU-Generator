@@ -65,4 +65,3 @@ Frenzy Plant, Fury Cutter, Giga Drain, Grass Pledge,
 Knock Off, Mud-Slap, Natural Gift, Outrage, Secret
 Power, Seed Bomb, Snore, Stomping Tantrum, String
 Shot, Synthesis, Worry Seed
-17

@@ -1,1 +1,0 @@
-Ability: Long Reach Frequency: Static Effect: All of the user’s Melee range, 1 target moves now have a range of 4, 1 Target. Additionally, all moves that were previously ranged 1 target now have 2 further range.

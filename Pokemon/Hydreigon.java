@@ -9,7 +9,7 @@ public class Hydreigon extends Pokemon{
 		bSpd = 10;
 		type1 = "Dark";
 		type2 = "";
-		abilities = new String[]{"Levitate", "Pride", "Polycephaly", "Instinct", "Power"};
+		abilities = new String[]{"Levitate", "Bully", "Polycephaly", "Pride", "Unaware"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Deino();
 		prevReq = 35;
@@ -47,7 +47,7 @@ public class Hydreigon extends Pokemon{
 		focusBonus = 1;
 		movesLevels = new int[]{4, 9, 12, 17, 20, 25, 28, 32, 38, 42, 48, 55, 68, 79};
 		moves = new String[]{"Focus Energy", "Bite", "Headbutt", "Dragon Breath", "Roar", "Crunch", "Slam", "Dragon Pulse", "Work Up", "Dragon Rush", "Body Slam", "Scary Face", "Hyper Voice", "Outrage"};
-		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Earthquake", "Return", "Double Team", "Reflect", "Flamethrower", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "Focus Blast", "Charge Beam", "Incinerate", "Acrobatics", "Payback", "Giga Impact", "Stone Edge", "Thunder Wave", "Psych Up", "Bulldoze", "Rock Slide", "Dragon Tail", "Swagger", "Sleep Talk", "UTurn", "Substitute", "Flash Cannon", "Rock Smash", "Dark Pulse"};
+		TMs = new String[]{"Roar", "Toxic", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Roost", "Frustration", "Earthquake", "Return", "Double Team", "Reflect", "Flamethrower", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Steel Wing", "Focus Blast", "Charge Beam", "Incinerate", "Acrobatics", "Payback", "Giga Impact", "Stone Edge", "Thunder Wave", "Psych Up", "Bulldoze", "Rock Slide", "Dragon Tail", "Swagger", "Sleep Talk", "Uturn", "Substitute", "Flash Cannon", "Rock Smash", "Dark Pulse"};
 		tutorMoves = new String[]{"Aqua Tail", "Dark Pulse", "Draco Meteor", "Dragon Pulse", "Earth Power", "Heat Wave", "Hyper Voice", "Iron Tail", "Roost", "Signal Beam", "Sleep Talk", "Snore", "Superpower", "Tailwind", "Uproar", "Work Up", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{"Hyper Voice", "Outrage"};
 }

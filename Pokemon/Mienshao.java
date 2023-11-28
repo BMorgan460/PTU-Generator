@@ -41,7 +41,7 @@ public class Mienshao extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 1;
 		movesLevels = new int[]{5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 56, 63, 70};
-		moves = new String[]{"Meditate", "Detect", "Fake Out", "Double Slap", "Swift", "Calm Mind", "Force Palm", "Drain Punch", "Jump Kick", "Uturn", "Wide Guard", "Bounce", "High", "Reversal", "Aura Sphere"};
+		moves = new String[]{"Meditate", "Detect", "Fake Out", "Double Slap", "Swift", "Calm Mind", "Force Palm", "Drain Punch", "Jump Kick", "Uturn", "Wide Guard", "Bounce", "High Jump Kick", "Reversal", "Aura Sphere"};
 		TMs = new String[]{"Work Up", "Calm Mind", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Rain Dance", "Frustration", "Return", "Brick Break", "Double Team", "Reflect", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Fling", "Acrobatics", "Payback", "Giga Impact", "Stone Edge", "Swords Dance", "Psych Up", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Confide"};
 		tutorMoves = new String[]{"Ally Switch", "Aura Sphere", "Bounce", "Drain Punch", "Dual Chop", "Focus Punch", "Helping Hand", "Knock Off", "Laser Focus", "Low Kick", "Role Play", "Snore", "Swift"};
 		naturalMoves = new String[]{"Aura Sphere", "Reversal"};

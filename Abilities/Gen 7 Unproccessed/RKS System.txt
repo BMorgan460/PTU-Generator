@@ -1,0 +1,1 @@
+Ability: RKS System Scene - Free Action Effect: If the user is hit by a damaging attack, they may calculate damage as if they were Normal-Type instead. If they were already Normal-Type, they instead resist the damage one step further. Bonus: The user’s Type changes to match the Type of their held Memory Disc. 

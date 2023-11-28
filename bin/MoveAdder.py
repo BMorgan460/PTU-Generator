@@ -48,32 +48,22 @@ for subdir, dirs, files in os.walk('./'): #Checks for each file in a folder that
 					break
 				if word != '':
 					list.append(word)#adds each word into the array
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			list.append("the program has ended")		
-=======
 			list.append("end")
->>>>>>> 291be190963868b6eac60f2c90ae742bfcd694b6
-=======
 			list.append("end")
->>>>>>> 291be190963868b6eac60f2c90ae742bfcd694b6
 			n.write('public class ' + name  +" extends Move{\n")
 			n.write("\t\t{\n")
 			while id < (len(list) - 1): #Goes through each word in the array
 				# print(list)#Debug
 				#print(list)#Debug
 				id = id + 1 # goes through each id on the array
-<<<<<<< HEAD
-<<<<<<< HEAD
-				if list[id] == "Move": 
-					if name == "trick"
+				if list[id] == "Move":
+					if name == "trick":
 						name = "trick_"
-=======
 				if list[id] == "Move":
->>>>>>> 291be190963868b6eac60f2c90ae742bfcd694b6
-=======
+					n.write()
 				if list[id] == "Move":
->>>>>>> 291be190963868b6eac60f2c90ae742bfcd694b6
 					n.write('\t\tname = "' + name.replace("_", ' ') + '";\n')
 				if list[id] == "Type":
 					n.write('\t\ttype = "' + list[id +1] + '";\n')

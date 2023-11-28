@@ -9,7 +9,7 @@ public class Goomy extends Pokemon{
 		bSpd = 4;
 		type1 = "Dragon";
 		type2 = "";
-		abilities = new String[]{"Sap Sipper", "Dry Skin", "Hydration", "Gooey", "Force"};
+		abilities = new String[]{"Sap Sipper", "Dry Skin", "Hydration", "Gooey", "Absorb Force"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Sligoo", "Goodra"};
 		nextReq = new String[]{"50"};

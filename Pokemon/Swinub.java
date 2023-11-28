@@ -9,7 +9,7 @@ public class Swinub extends Pokemon{
 		bSpd = 5;
 		type1 = "Ice";
 		type2 = "Ground";
-		abilities = new String[]{"Thick Fat", "Pickup", "Oblivious", "Snow Cloak", "Kiss"};
+		abilities = new String[]{"Thick Fat", "Pickup", "Oblivious", "Snow Cloak", "Winters Kiss"};
 		abilityTypeCount = new int[] {2,2,1};
 		next = new String[]{"Piloswine", "Mamoswine"};
 		nextReq = new String[]{"Ancient"};

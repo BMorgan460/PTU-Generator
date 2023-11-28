@@ -9,7 +9,7 @@ public class Lunala extends Pokemon{
 		bSpd = 10;
 		type1 = "Psychic";
 		type2 = "Ghost";
-		abilities = new String[]{"Shadow", "Infiltrator", "Sacred Bell", "Starlight", "Fade Away"};
+		abilities = new String[]{"Shadow Shield", "Infiltrator", "Sacred Bell", "Starlight", "Fade Away"};
 		abilityTypeCount = new int[] {1,3,1};
 		previous = new Cosmoem();
 		prevReq = 50;

@@ -9,7 +9,7 @@ public class Wishiwashi extends Pokemon{
 		bSpd = 4;
 		type1 = "Water";
 		type2 = "";
-		abilities = new String[]{"Schooling", "Defeatist", "Horde", "Water Veil", "Multiscale"};
+		abilities = new String[]{"Schooling", "Defeatist", "Horde Break", "Water Veil", "Multiscale"};
 		abilityTypeCount = new int[] {1,3,1};
 		height = "0\'/8\"";
 		size = "Small";

@@ -9,11 +9,11 @@ public class Goodra extends Pokemon{
 		bSpd = 8;
 		type1 = "Dragon";
 		type2 = "";
-		abilities = new String[]{"Sap Sipper", "Dry Skin", "Hydration", "Gooey", "Force"};
+		abilities = new String[]{"Sap Sipper", "Dry Skin", "Hydration", "Gooey", "Absorb Force"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Goomy();
 		prevReq = 40;
-		previous = new Sligoo();
+		previous = new Sliggoo();
 		prevReq = 40;
 		height = "6\'/07\"";
 		size = "Large";
@@ -22,8 +22,8 @@ public class Goodra extends Pokemon{
 		maleRatio = 50;
 		femaleRatio = 50;
 		egg1 = "Dragon";
-		egg2 = "Diet";
-		habitats = new String[]{"Marsh", "Rainforest", "Capability"};
+		egg2 = "";
+		habitats = new String[]{"Marsh", "Rainforest"};
 		overland = 7;
 		swim = 4;
 		levitate = 0;
@@ -33,7 +33,7 @@ public class Goodra extends Pokemon{
 		hJump = 2;
 		power = 8;
 		underdog = false;
-		other = new String[] {};
+		other = new String[] {"Amorphous"};
 		athl = 5;
 		acro = 3;
 		combat = 4;
@@ -52,8 +52,7 @@ public class Goodra extends Pokemon{
 		tutorMoves = new String[]{"Aqua Tail", "Draco Meteor", "Dragon Pulse", "Fire Punch", "Focus Punch", "Iron Tail", "Shock Wave", "Snore", "Superpower", "Thunder Punch", "Water Pulse"};
 		naturalMoves = new String[]{"Feint", "Outrage"};
 }
-		Goodra(){
-
-		super();
+		public Goodra(){
+			super();
 		}
 }

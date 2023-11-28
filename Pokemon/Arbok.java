@@ -9,6 +9,8 @@ public class Arbok extends Pokemon{
 		bSpd = 8;
 		type1 = "Poison";
 		type2 = "";
+		abilities = new String[]{"Shed Skin", "Intimidate", "Serpents Mark", "Serpents Mark"};
+		abilityTypeCount = new int[] {2,1,1};
 		height = "11\'/6\"";
 		weight = 143.3;
 		WC = 4;
@@ -46,8 +48,95 @@ public class Arbok extends Pokemon{
 		tutorMoves = new String[]{"Aqua Tail", "Bind", "Body Slam", "Slam", "Fire Fang", "Gastro Acid", "Acid", "Giga Drain", "Gunk Shot", "Ice Fang", "Iron Tail", "Seed Bomb", "Snatch", "Snore", "Spite", "Stomping Tantrum", "Throat Chop", "Thunder Fang"};
 		naturalMoves = new String[]{"Fire Fang", "Ice Fang", "Thunder Fang"};
 	}
-		Arbok(){
-
-		super();
+		public Arbok(){
+			super();
+			
+		}
+		
+		@Override
+		public String[] generateAbilities() {
+			super.generateAbilities();
+			
+			int pattern = (int)(Math.random()*6);
+			String[] newAbilityList = {abilityList[0], abilityList[1], abilityList[2], "", ""};
+			if(level >= 20 && level < 40) {
+				if(abilityList[1].equals("Serpents Mark")) {
+					switch (pattern) {
+						case 0:
+							newAbilityList[2] = "Strong Jaw";
+							break;
+						case 1:
+							newAbilityList[2] = "Crush Trap";
+							break;
+						case 2:
+							newAbilityList[2] = "Unnerve";
+							break;
+						case 3:
+							newAbilityList[2] = "Regenerator";
+							break;
+						case 4:
+							newAbilityList[2] = "Run Away";
+							break;
+						case 5:
+							newAbilityList[2] = "Infiltrator";
+							break;
+					}
+				}
+			} else if(level >= 40) {
+				boolean highAbility = false;
+				if(abilityList[1].equals("Serpents Mark")) {
+					switch (pattern) {
+						case 0:
+							newAbilityList[3] = "Strong Jaw";
+							highAbility = true;
+							break;
+						case 1:
+							newAbilityList[3] = "Crush Trap";
+							highAbility = true;
+							break;
+						case 2:
+							newAbilityList[3] = "Unnerve";
+							highAbility = true;
+							break;
+						case 3:
+							newAbilityList[3] = "Regenerator";
+							highAbility = true;
+							break;
+						case 4:
+							newAbilityList[3] = "Run Away";
+							highAbility = true;
+							break;
+						case 5:
+							newAbilityList[3] = "Infiltrator";
+							highAbility = true;
+							break;
+					}
+				} if(abilityList[2].equals("Serpents Mark")) {
+					switch (pattern) {
+						case 0:
+							newAbilityList[4] = ((highAbility) ? "Guts" : "Strong Jaw");
+							break;
+						case 1:
+							newAbilityList[4] = ((highAbility) ? "Frisk" : "Crush Trap");
+							break;
+						case 2:
+							newAbilityList[4] = ((highAbility) ? "Regal Challenge" : "Unnerve");
+							break;
+						case 3:
+							newAbilityList[4] = ((highAbility) ? "Defy Death" : "Regenerator");
+							break;
+						case 4:
+							newAbilityList[4] = ((highAbility) ? "Speed Boost" : "Run Away");
+							break;
+						case 5:
+							newAbilityList[4] = ((highAbility) ? "Ambush" : "Infiltrator");
+							break;
+					}
+				}
+			}
+			
+			this.abilityList = newAbilityList;
+			
+			return abilityList;
 		}
 }

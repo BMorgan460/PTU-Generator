@@ -9,7 +9,7 @@ public class Dewgong extends Pokemon{
 		bSpd = 7;
 		type1 = "Water";
 		type2 = "Ice";
-		abilities = new String[]{"Thick Fat", "Winter's Kiss", "Ice Body", "Hydrate", "Frostbite"};
+		abilities = new String[]{"Thick Fat", "Winters Kiss", "Ice Body", "Hydration", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Seel();
 		prevReq = 30;

@@ -1,1 +1,1 @@
-"Name":"Disguise","Freq":"Scene – Free Action","Info":"The user is hit by a damaging attack.The user takes no damage from the attack. This ability cannot be used again until healed at a Pokemon Center or taking an hour to rest."
+"Name":"Disguise","Freq":"Daily - Free Action","Info":"The user is hit by a Damaging Move.The triggering attack instead misses and has no effect. The user then gains +1 CS in a Stat of their choice. Defensive."

@@ -1,0 +1,1 @@
+Ability: Water Compaction At-Will - Free Action Trigger: The user is hit by a Water Type Move Effect: The user receives +2 Defense Combat Stages. Defensive. 

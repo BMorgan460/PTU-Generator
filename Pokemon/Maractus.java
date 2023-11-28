@@ -43,7 +43,7 @@ public class Maractus extends Pokemon{
 		movesLevels = new int[]{1, 1, 3, 6, 10, 13, 15, 18, 22, 26, 29, 33, 38, 42, 45, 50, 55, 57};
 		moves = new String[]{"Absorb", "Peck", "Sweet Scent", "Growth", "Pin Missile", "Mega Drain", "Synthesis", "Cotton Spore", "Needle Arm", "Giga Drain", "Acupressure", "Ingrain", "Petal Dance", "Sucker Punch", "Sunny Day", "Solar Beam", "Cotton Guard", "After You"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
-		eggMoves = new String[]{"Bounce", "Bullet Seed", "Grassy Terrain", "Leech Seed", "Seed Bomb", "Spikes", "Wood Hammer", "Worry Seed"};
+		eggMoves = new String[]{"Bounce", "Bullet Seed", "Grass Whistle", "Grassy Terrain", "Leech Seed", "Seed Bomb", "Spikes", "Wood Hammer", "Worry Seed"};
 		tutorMoves = new String[]{"After You", "Bounce", "Bullet Seed", "Cotton Guard", "Drain Punch", "Endeavor", "Giga Drain", "Helping Hand", "Hyper Voice", "Knock Off", "Seed Bomb", "Snore", "Spiky Shield", "Sucker Punch", "Synthesis", "Throat Chop", "Uproar", "Worry Seed"};
 		naturalMoves = new String[]{"After You", "Cotton Guard", "Spiky Shield"};
 	}

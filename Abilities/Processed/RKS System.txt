@@ -1,1 +1,1 @@
-"Name":"RKS System","Freq":"Static","Info":"The user changes its Primary type to the type of the Plate, Bracer, or Drive being held."
+"Name":"RKS System","Freq":"Scene - Free Action","Info":"If the user is hit by a damaging attack, they may calculate damage as if they were Normal-Type instead. If they were already Normal-Type, they instead resist the damage one step further. Bonus: The user’s Type changes to match the Type of their held Memory Disc."

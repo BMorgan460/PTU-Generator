@@ -47,7 +47,7 @@ public class Budew extends Pokemon{
 		movesLevels = new int[]{1, 4, 7, 10, 13, 16};
 		moves = new String[]{"Absorb", "Growth", "Water Sport", "Stun Spore", "Mega Drain", "Worry Seed"};
 		TMs = new String[]{"Toxic", "Venoshock", "Hidden Power", "Sunny Day", "Protect", "Rain Dance", "Frustration", "Solar Beam", "Return", "Shadow Ball", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Swords Dance", "Psych Up", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
-		eggMoves = new String[]{"Bullet Seed", "Cotton Spore", "Spore", "Extrasensory", "Giga Drain", "Leaf Storm", "Mind Reader", "Natural Gift", "Pin Missile", "Power Whip", "Razor Leaf", "Seed Bomb", "Sleep Powder", "Powder", "Spikes", "Synthesis"};
+		eggMoves = new String[]{"Bullet Seed", "Cotton Spore", "Spore", "Extrasensory", "Giga Drain", "Grass Whistle", "Leaf Storm", "Mind Reader", "Natural Gift", "Pin Missile", "Power Whip", "Razor Leaf", "Seed Bomb", "Sleep Powder", "Powder", "Spikes", "Synthesis"};
 		tutorMoves = new String[]{"Bullet Seed", "Covet", "Giga Drain", "Seed Bomb", "Snore", "Swift", "Synthesis", "Uproar", "Worry Seed"};
 		naturalMoves = new String[]{};
 	}

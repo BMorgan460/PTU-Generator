@@ -18,7 +18,7 @@ for line in f:
                 name.append(word)
         print(ability)
         print(name)
-        output = open(os.path.join(os.getcwd(), "Unproccessed", " ".join(name) + ".txt"), "wt")
+        output = open(os.path.join(os.getcwd(), "Gen 7 Unproccessed", " ".join(name) + ".txt"), "wt")
         output.write("Ability: " + ability)
         output.close()
 f.close()

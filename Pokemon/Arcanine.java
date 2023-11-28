@@ -9,7 +9,7 @@ public class Arcanine extends Pokemon{
 		bSpd = 10;
 		type1 = "Fire";
 		type2 = "";
-		abilities = new String[]{"Shed Skin", "Intimidate", "Serpent’s", "Mark*", "1", "Intimidate", "Flash Fire", "Justified", "Bodyguard", "Conqueror"};
+		abilities = new String[]{"Intimidate", "Flash Fire", "Justified", "Bodyguard", "Conqueror"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Growlithe();
 		prevReq = 20;

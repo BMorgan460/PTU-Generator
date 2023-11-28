@@ -1,1 +1,0 @@
-Ability: Grassy Surge Frequency: Scene – Swift Action Effect: The field becomes Grassy Terrain for 5 rounds.

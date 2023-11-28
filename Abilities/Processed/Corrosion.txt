@@ -1,1 +1,1 @@
-"Name":"Corrosion","Freq":"Static","Info":"Steel-type Pokemon can be damaged by the userís Poison type moves, and Steel and Poison types can be Poisoned and Badly Poisoned by the user."
+"Name":"Corrosion","Freq":"Static","Info":"The user's Poison-Type attacks are resisted one step less, and deal damage to Immune targets as if they were doubly resisted. The user may Poison and Badly Poison Steel and Poison-Type Pok√©mon."

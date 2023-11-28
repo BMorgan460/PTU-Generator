@@ -1,1 +1,0 @@
-Ability: Emergency Exit Frequency: At-Will – Free Action Trigger: The user is brought to 50% Hit Points or lower. The user must have more than 50% Hit Points for this ability to Trigger. Effect: The user may choose to immediately return to its Pokeball. A new Pokemon can immediately be sent out.

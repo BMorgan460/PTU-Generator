@@ -1,1 +1,1 @@
-"Name":"Surge Surfer","Freq":"Static","Info":"While on Electric Terrain, the users Initiative is doubled."
+"Name":"Surge Surfer","Freq":"Static","Info":"On Electric Terrain or while under half maximum Hit Points, the user’s Initiative is doubled."

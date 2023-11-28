@@ -1,1 +1,1 @@
-"Name":"Water Bubble","Freq":"Static","Info":"The user is immune to the Burn condition, and resists Fire attacks one step further. Bonus: Water moves used by the user have their Damage Base increased by 2."
+"Name":"Water Bubble","Freq":"Static","Info":"The user resists Fire-Type attacks one step further, is immune to being Burned, and may always act as though in Rainy Weather. Defensive. Bonus: The user may attack with Water-Type Moves as if they had a range of "Melee, 1 target". If they do, that Move's Class is changed to Physical and it deals +1d6+2 damage."

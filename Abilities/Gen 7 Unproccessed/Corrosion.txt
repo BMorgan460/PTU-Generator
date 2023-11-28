@@ -1,0 +1,1 @@
+Ability: Corrosion Static Effect: The user's Poison-Type attacks are resisted one step less, and deal damage to Immune targets as if they were doubly resisted. The user may Poison and Badly Poison Steel and Poison-Type Pokémon. 

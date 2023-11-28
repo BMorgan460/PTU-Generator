@@ -9,7 +9,7 @@ public class Glalie extends Pokemon{
 		bSpd = 8;
 		type1 = "Ice";
 		type2 = "";
-		abilities = new String[]{"Inner Focus", "Ice Body", "Winter's Kiss", "Moody", "Frostbite"};
+		abilities = new String[]{"Inner Focus", "Ice Body", "Winters Kiss", "Moody", "Frostbite"};
 		abilityTypeCount = new int[] {2,2,1};
 		previous = new Snorunt();
 		prevReq = 30;

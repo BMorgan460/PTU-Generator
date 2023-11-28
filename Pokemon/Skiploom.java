@@ -46,7 +46,7 @@ public class Skiploom extends Pokemon{
 		percepBonus = 0;
 		focusBonus = 0;
 		movesLevels = new int[]{4, 6, 8, 10, 12, 14, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60};
-		moves = new String[]{"Synthesis", "Tail Whip", "Tackle", "Fairy Wind", "Poison Powder", "Stun Spore", "Sleep Powder", "Bullet Seed", "Leech Seed", "Mega Drain", "Acrobatics", "Rage Powder", "Cotton Spore", "UTurn", "Worry Seed", "Giga Drain", "Bounce", "Memento"};
+		moves = new String[]{"Synthesis", "Tail Whip", "Tackle", "Fairy Wind", "Poison Powder", "Stun Spore", "Sleep Powder", "Bullet Seed", "Leech Seed", "Mega Drain", "Acrobatics", "Rage Powder", "Cotton Spore", "Uturn", "Worry Seed", "Giga Drain", "Bounce", "Memento"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Protect", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Aerial Ace", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Acrobatics", "Swords Dance", "Psych Up", "Infestation", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Dazzling Gleam", "Confide"};
 		tutorMoves = new String[]{"Bounce", "Bullet Seed", "Defense Curl", "Giga Drain", "Helping Hand", "Seed Bomb", "Silver Wind", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};

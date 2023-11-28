@@ -44,9 +44,9 @@ public class Sunkern extends Pokemon{
 		percepBonus = 1;
 		focusBonus = 1;
 		movesLevels = new int[]{1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43};
-		moves = new String[]{"Absorb", "Growth", "Ingrain", "Grass", "Mega Drain", "Leech Seed", "Razor Leaf", "Worry Seed", "Giga Drain", "Endeavor", "Synthesis", "Natural Gift", "Solar Beam", "DoubleEdge", "Sunny Day", "Seed Bomb"};
+		moves = new String[]{"Absorb", "Growth", "Ingrain", "Grass Whistle", "Mega Drain", "Leech Seed", "Razor Leaf", "Worry Seed", "Giga Drain", "Endeavor", "Synthesis", "Natural Gift", "Solar Beam", "DoubleEdge", "Sunny Day", "Seed Bomb"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Sludge", "Sludge Bomb", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
-		eggMoves = new String[]{"Bide", "Curse", "Encore", "Endure", "Grassy Terrain", "Helping Hand", "Morning Sun", "Sweet Scent"};
+		eggMoves = new String[]{"Bide", "Curse", "Encore", "Endure", "Grass Whistle", "Grassy Terrain", "Helping Hand", "Morning Sun", "Sweet Scent"};
 		tutorMoves = new String[]{"After You", "Bullet Seed", "Earth Power", "Endeavor", "Giga Drain", "Helping Hand", "Seed Bomb", "Snore", "Synthesis", "Uproar", "Worry Seed"};
 		naturalMoves = new String[]{};
 	}

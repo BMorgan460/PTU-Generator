@@ -2,7 +2,7 @@ import os
 
 for subdir, dirs, files in os.walk("./"):  # Checks for each file in a folder that this program is in
     for dir in dirs:
-        if dir == "Unproccessed":
+        if dir == "Gen 7 Unproccessed":
             for subdir2, dirs2, files2 in os.walk(dir):
                 for file in files2:  # checks each file
                     print(file)
@@ -15,7 +15,7 @@ for subdir, dirs, files in os.walk("./"):  # Checks for each file in a folder th
                         effect = []
                         curr_val = ""
                         print("Starting " + file)
-                        f = open(os.path.join("Unproccessed", file), "r")
+                        f = open(os.path.join("Gen 7 Unproccessed", file), "r")
                         for line in f:
                             words = line.split()
                             for word in words:

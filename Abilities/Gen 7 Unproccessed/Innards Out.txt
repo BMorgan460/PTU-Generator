@@ -1,0 +1,1 @@
+Ability: Innards Out Scene x2 - Free Action Trigger: The user is hit by a Damaging Attack Effect: The user resists the triggering attack one step further. After the attack is resolved, a foe within 2 meters loses Hit Points equal to twice the amount of Hit Points lost by the user from the triggering attack, even if the triggering attack caused the user to Faint. 

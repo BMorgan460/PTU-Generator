@@ -1,0 +1,1 @@
+Ability: Steelworker Scene - Free Action Trigger: The user takes damage while adjacent to its Anchor Effect: The user calculates damage as if it was only Steel-Typed. Bonus: The user gains STAB on Steel-Type Moves that originate from its Anchor. 

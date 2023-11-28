@@ -1,0 +1,1 @@
+Ability: Slush Rush Static Effect: While in Hailing Weather or under half maximum Hit Points, the user’s Initiative is doubled. 

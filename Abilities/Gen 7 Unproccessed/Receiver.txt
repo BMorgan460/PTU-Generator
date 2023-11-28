@@ -1,0 +1,1 @@
+Ability: Receiver Special - Free Action Effect: Each effect below may be used once per scene when triggered: When an ally faints, the user selects one of their Abilities. The user gains that Ability until the end of the encounter. When the user faints, they may grant use of one of their Basic Abilities to an ally on the field for the rest of the encounter. 

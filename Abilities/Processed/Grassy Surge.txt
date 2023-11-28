@@ -1,1 +1,1 @@
-"Name":"Grassy Surge","Freq":"Scene – Swift Action","Info":"The field becomes Grassy Terrain for 5 rounds."
+"Name":"Grassy Surge","Freq":"Scene x3 - Swift Action","Info":"The Field becomes Grassy, as if affected by the Move Grassy Terrain, for one full round."

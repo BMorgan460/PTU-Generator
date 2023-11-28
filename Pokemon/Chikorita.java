@@ -46,7 +46,7 @@ public class Chikorita extends Pokemon{
 		movesLevels = new int[]{1, 3, 6, 9, 12, 17, 20, 23, 28, 31, 34, 39, 42, 45};
 		moves = new String[]{"Tackle", "Growl", "Razor Leaf", "Poison Powder", "Synthesis", "Reflect", "Magical Leaf", "Natural Gift", "Sweet Scent", "Light Screen", "Body Slam", "Safeguard", "Aromatherapy", "Solar Beam"};
 		TMs = new String[]{"Work Up", "Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Safeguard", "Frustration", "Solar Beam", "Return", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Energy Ball", "Swords Dance", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"};
-		eggMoves = new String[]{"Ancient Power", "Aromatherapy", "Body Slam", "Slam", "Counter", "Flail", "Grassy Terrain", "Heal Pulse", "Ingrain", "Leaf Storm", "Leech Seed", "Nature Power", "Refresh", "Vine Whip", "Wring Out"};
+		eggMoves = new String[]{"Ancient Power", "Aromatherapy", "Body Slam", "Slam", "Counter", "Flail", "Grass Whistle", "Grassy Terrain", "Heal Pulse", "Ingrain", "Leaf Storm", "Leech Seed", "Nature Power", "Refresh", "Vine Whip", "Wring Out"};
 		tutorMoves = new String[]{"Ancient Power", "Bullet Seed", "Fury Cutter", "Giga Drain", "Grass Pledge", "Iron Tail", "Magic Coat", "Role Play", "Secret Power", "Seed Bomb", "Snore", "Synthesis", "Worry Seed"};
 		naturalMoves = new String[]{};
 	}

@@ -1,0 +1,1 @@
+"Name":"","Freq":"Static Scene – Free Action","Info":"The user is hit by a Melee AttackThe attacking foe becomes Paralyzed."

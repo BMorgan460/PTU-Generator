@@ -1,1 +1,1 @@
-"Name":"Long Reach","Freq":"Static","Info":"All of the user’s Melee range, 1 target moves now have a range of 4, 1 Target. Additionally, all moves that were previously ranged 1 target now have 2 further range."
+"Name":"Long Reach","Freq":"Static","Info":"The user may use damaging attacks as if they had a range of "8, 1 Target" instead of their usual range."

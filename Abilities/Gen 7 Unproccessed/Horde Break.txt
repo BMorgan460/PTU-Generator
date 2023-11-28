@@ -1,0 +1,1 @@
+Ability: Horde Break At-Will - Free Action Trigger: The user changes from School Form to Solo Form Effect: The user is cured of all Status Conditions. 

@@ -46,7 +46,7 @@ public class Bounsweet extends Pokemon{
 		movesLevels = new int[]{1, 5, 9, 13, 17, 21, 25, 29, 33};
 		moves = new String[]{"Splash", "Play Nice", "Rapid Spin", "Razor Leaf", "Sweet Scent", "Magical Leaf", "Teeter Dance", "Flail", "Aromatic Mist"};
 		TMs = new String[]{"Toxic", "Hidden Power", "Sunny Day", "Light Screen", "Protect", "Safeguard", "Frustration", "Return", "Double Team", "Reflect", "Facade", "Rest", "Attract", "Round", "Energy Ball", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"};
-		eggMoves = new String[]{"Acupressure", "Charm", "Feint", "Play Rough", "Synthesis"};
+		eggMoves = new String[]{"Acupressure", "Charm", "Feint", "Grass Whistle", "Play Rough", "Synthesis"};
 		tutorMoves = new String[]{"Bounce", "Covet", "Endeavor", "Giga Drain", "Helping Hand", "Seed Bomb", "Snore", "Synthesis", "Worry Seed", "Zen Headbutt", "Headbutt"};
 		naturalMoves = new String[]{};
 	}

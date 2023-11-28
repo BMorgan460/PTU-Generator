@@ -1,0 +1,1 @@
+Ability: Stamina At-Will - Free Action Trigger: The user is hit by a Damaging Attack Effect: The user receives +1 Defense Combat Stage. Defensive. 

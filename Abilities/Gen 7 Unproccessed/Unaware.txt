@@ -1,0 +1,1 @@
+Ability: Unaware Static Effect: Whenever the user attacks, they ignore all positive Combat Stages to the target’s Defense, Special Defense, and Speed. 

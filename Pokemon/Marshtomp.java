@@ -47,7 +47,7 @@ public class Marshtomp extends Pokemon{
 		percepBonus = 2;
 		focusBonus = 0;
 		movesLevels = new int[]{4, 9, 12, 18, 22, 28, 32, 38, 42, 48, 52};
-		moves = new String[]{"Water Gun", "MudSlap", "Foresight", "Bide", "Mud Bomb", "Rock Slide", "Protect", "Muddy", "Take Down", "Earthquake", "Endeavor"};
+		moves = new String[]{"Water Gun", "MudSlap", "Foresight", "Bide", "Mud Bomb", "Rock Slide", "Protect", "Muddy Water", "Take Down", "Earthquake", "Endeavor"};
 		TMs = new String[]{"Work Up", "Toxic", "Hail", "Hidden Power", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Frustration", "Earthquake", "Return", "Brick Break", "Double Team", "Sludge", "Sludge Wave", "Rock Tomb", "Facade", "Rest", "Attract", "Round", "Echoed Voice", "Scald", "Fling", "Bulldoze", "Rock Slide", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"};
 		tutorMoves = new String[]{"Ancient Power", "Aqua Tail", "Body Slam", "Slam", "Counter", "Defense Curl", "Dive", "Earth Power", "Endeavor", "Ice Punch", "Icy Wind", "Iron Tail", "Low Kick", "Mega Kick", "Mega Punch", "Rollout", "Snore", "Stealth Rock", "Superpower", "Uproar", "Water Pledge", "Water Pulse", "Whirlpool"};
 		naturalMoves = new String[]{};

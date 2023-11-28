@@ -1,0 +1,1 @@
+Ability: Merciless Static Effect: If the user hits a poisoned target with a damaging attack, it automatically becomes a Critical Hit.  

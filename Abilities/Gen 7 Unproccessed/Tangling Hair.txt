@@ -1,0 +1,1 @@
+Ability: Tangling Hair At-Will - Free Action Trigger: The user is hit by a Melee Attack Effect: The attacker receives -1 Speed Combat Stage and is Slowed until the end of its next turn. 
